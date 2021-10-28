@@ -41,6 +41,8 @@
 
 > The result of the modulo operation in Step 4 is 3,661. With that value, we select 250 consecutive entries starting with entry #3661 up to, and including, entry #3,910. These entries become our winners, and they are listed below.
 
+# Winners
+
 ```
 0x95d7242abc063214bd0a733a5929239EF788A4fe
 0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2
