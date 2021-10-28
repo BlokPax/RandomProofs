@@ -13,6 +13,35 @@
 | **Random Number** | 109676783992651026261653163626987790458521168982047111154890764413944616457688 |
 | **Starting Position** | 1,624 |
 
+# Reproduction Steps
+
+1. Randomize the entries ([raw-entries.csv](raw-entries.csv)).
+
+> Starting with the sorted entry list, where each line = 1 entry, we shuffled the entries, placing the now-randomized wallet entries in [random-kobe.csv](random-kobe.csv).
+
+2. Hash the random entries ([random-kobe.csv](random-kobe.csv)).
+
+> Using the [sha256](../sha256) tool, we took a [SHA256 Hash](https://en.wikipedia.org/wiki/SHA-2) of the _randomized_ entry file. This becomes the provenance hash, proving that this file was shuffled prior to random number generation being executed. Proving that the entry list was not tampered with once the random number was generated, and the winning entry positions were known.
+
+3. Generate a random number using the Chainlink VRF on Polygon.
+
+> A random number was requested from the Chainlink VRF, via our RandomRequest contract. This contract lives on the Polygon blockchain and expects a SHA256 hash to identify the random request. This is important because it is verifiable proof that the provenance hash (and therefore, the sorted entry list) was generated prior to a random number being obtained.
+>
+> You can view the transaction requesting the random number, with the provenance hash, here: [polygonscan.com/tx/0xd6108b4e1a762fdde532cdd05d9bcfff77dc487ae84bda54c0ae2427f0bf79c3](https://polygonscan.com/tx/0xd6108b4e1a762fdde532cdd05d9bcfff77dc487ae84bda54c0ae2427f0bf79c3).
+
+4. Retrieve the random number from Chainlink.
+
+> Once we request the random number, the Chainlink VRF takes some time to generate the random number and deliver it back to our smart contract. The transaction showing that can be seen here: [polygonscan.com/tx/0x7c1786c9ee43eecf987ff62ec3f93bb78f9d06399e55131ebd29b206d764a5d2](https://polygonscan.com/tx/0x7c1786c9ee43eecf987ff62ec3f93bb78f9d06399e55131ebd29b206d764a5d2).
+
+5. Generate the starting position for winner selection
+
+> With the random number in hand, we execute a [Modulo Operation](https://en.wikipedia.org/wiki/Modulo_operation) with the random number and the number of entries (4,852 in this case) using the [bcmod](../bcmod) utilty. The result of this operation is then used as the starting position in the randomized entry list to choose the winners.
+
+6. Using the starting position, select 250 winning entries
+
+> The result of the modulo operation in Step 4 is 1,624. With that value, we select 250 consecutive entries starting with entry #1624 up to, and including, entry #1873. These entries become our winners, and they are listed below.
+
+
 # Winners
 
 ```
