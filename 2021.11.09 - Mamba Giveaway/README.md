@@ -3,11 +3,11 @@
 | Edition | # Entries | # Winners | Winning Entry / Wallet | Proof Link |
 | ------- | --------- | --------- | ---------------------- | ---------- |
 | Black   | 110       | 1         |  92	0xcbd14770ce571580e9e82b7188bf8b1e78bacd05 | [mamba-black/README.md](./mamba-black) |
-| Amethyst | 109      | 1         |                        |            |
-| Ruby    |        | 1         |                        |            |
-| Gold    |        | 10        |                        |            |
-| Moonlight |     | 20        |                        |            | 
-| Sunlight |       | 40		| 			|		|
+| Amethyst | 109      | 1         |  12 0x205b9c652c418ae2979de938b6689da7c1b97db1 | [mamba-amethyst/README.md](./mamba-amethyst) |
+| Ruby    | 108       | 1         |                        | [mamba-ruby/README.md](./mamba-ruby) |
+| Gold    |        | 10        |                        | [mamba-gold/README.md](./mamba-gold) |
+| Moonlight |     | 20        |                        | [mamba-moonlight/README.md](./mamba-moonlight) | 
+| Sunlight |       | 40		| 			| [mamba-sunlight/README.md](./mamba-sunlight) |
  
 # Reproduction Steps
 
