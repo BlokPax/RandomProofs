@@ -2,8 +2,8 @@
 
 | Edition | # Entries | # Winners | Winning Entry / Wallet | Proof Link |
 | ------- | --------- | --------- | ---------------------- | ---------- |
-| Black   | 110       | 1         |                        |            |
-| Amethyst |       | 1         |                        |            |
+| Black   | 110       | 1         |  92	0xcbd14770ce571580e9e82b7188bf8b1e78bacd05 | [mamba-black/README.md](./mamba-black) |
+| Amethyst | 109      | 1         |                        |            |
 | Ruby    |        | 1         |                        |            |
 | Gold    |        | 10        |                        |            |
 | Moonlight |     | 20        |                        |            | 
