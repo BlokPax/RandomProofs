@@ -39,7 +39,7 @@
 
 
 | Edition | Entry | Wallet |
-| -------- -----  | ------ |
+| ------- | -----  | ------ |
 | [Black](https://opensea.io/assets/0x111174b2414e14b4b5441646ec221ef1726a87b1/6) | 92 | 0xcbd14770ce571580e9e82b7188bf8b1e78bacd05 |
 | [Amethyst](https://opensea.io/assets/0x111174b2414e14b4b5441646ec221ef1726a87b1/7) | 12 | 0x205b9c652c418ae2979de938b6689da7c1b97db1 |
 | [Ruby](https://opensea.io/assets/0x111174b2414e14b4b5441646ec221ef1726a87b1/8) | 31 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
