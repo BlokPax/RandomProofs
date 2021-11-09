@@ -1,3 +1,5 @@
+![Amethyst Edition](https://lh3.googleusercontent.com/KTuWM5n5YarneU7Mk9ccAenac69HskIGdJo3VcSyhHHyy-qLS8fsrpnXPVnHLvIfTmtXAc5texrBdtqkl2Ufqds4obfgqUPYNcjR=w300)
+
 # Giveaway Info
 
 | Attr | Val |

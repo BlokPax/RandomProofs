@@ -1,3 +1,5 @@
+![Ruby Edition](https://lh3.googleusercontent.com/WktDlQdrAtqWGdsaP9bvYHeX3Et1LHE982KzufgsQYwpH4Vnl45aJwjGJp2TchDZ4i8ZmKRd83zPt-raaqwb4qEkDO52i9yAp5uZ=w300)
+
 # Giveaway Info
 
 | Attr | Val |

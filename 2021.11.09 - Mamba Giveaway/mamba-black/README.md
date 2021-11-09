@@ -1,3 +1,5 @@
+![Black Edition](https://lh3.googleusercontent.com/VcvcidwNmlq17VNQAcM-xVmeNbeOq2SY2f3pd-lMyV1Wi8TaCzbq-c1gkUj49avFtdDvw9DDTpgZPTpWdOM4xqgJ6NdoXFzwGYnb=w300)
+
 # Giveaway Info
 
 | Attr | Val |

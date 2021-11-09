@@ -1,3 +1,5 @@
+![Sunlight Edition](https://lh3.googleusercontent.com/nL_K9bzfbjbJWT4zpJf-UyplVziYxNkI3-lPNWYxWJoLqpsRKFqrOgiK3enx2Nb3lrqOYOQ4-CFue6H7XN1o0tN4c3_u60TTDbCT=w300)
+
 # Giveaway Info
 
 | Attr | Val |
@@ -5,14 +7,53 @@
 | **Random Entries** | [entries.shuffled.csv](./entries.shuffled.csv) |
 | **Winners** | 40 |
 | **SHA256** | [ca44e548aa75164e78a85d4a425ad6eae2d157c648c87e484a7038071cab479c](./entries.shuffled.sha256.txt) |
-| **Random Request TX Hash** | [](https://polygonscan.com/tx/) |
-| **Random Request ID** | |
-| **Response TX Hash** | [](https://polygonscan.com/tx/) |
-| **Random Number** | |
-| **Starting Position** |  |
+| **Random Request TX Hash** | [0x2f93207779a3f6edd21bbe6ea0726132b16098c475bef2e435e31d04c677e29b](https://polygonscan.com/tx/0x2f93207779a3f6edd21bbe6ea0726132b16098c475bef2e435e31d04c677e29b) |
+| **Random Request ID** | 0xbc4f77e0b14ccc0cf02931ea012efd5577484848bf3560f95905132c93b5570e |
+| **Response TX Hash** | [0x0fea8c6cc8989cf9a0070efe7d33475d114e301db5e0c27c62c150d8116657ce](https://polygonscan.com/tx/0x0fea8c6cc8989cf9a0070efe7d33475d114e301db5e0c27c62c150d8116657ce) |
+| **Random Number** | 115559311516432964497788770810877873637060516523579203704039767785379809896033 |
+| **Starting Position** | 21 |
 
-# Winner
+# Winners
 
 | Entry | Wallet |
 | ----- | ------ |
-|  | |
+| 101 | 0xe645bb168a0f7588caa331e89d88acd22e1885c0 |
+| 96 | 0xdfcebd4d1078f2d67dc3873749fedbc93faf36de |
+| 35 | 0x2e7bf9b07a16448d956e6457cd17f9384eb10f4b |
+| 21 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 110 | 0xfdce46b4fc4471720d5160a0f7c4d21d1e2d7286 |
+| 51 | 0x5c1d7ba69e4f73250decc014ad838051636c2c23 |
+| 13 | 0x2364a06924d23fa4cdc9e950031d7aba0ad194e2 |
+| 68 | 0x84f9f8de9a299dde16c974df224d52587dc08542 |
+| 24 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 103 | 0xe76f76bee5f159721ac9d41338d3638cde0069d1 |
+| 34 | 0x2e7bf9b07a16448d956e6457cd17f9384eb10f4b |
+| 91 | 0xcbd14770ce571580e9e82b7188bf8b1e78bacd05 |
+| 20 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 57 | 0x6bb1da15b40868475708b70dad9002baaf23878d |
+| 22 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 2 | 0x039f788e37992719773ac21ca18bed79ab65a85a |
+| 104 | 0xe76f76bee5f159721ac9d41338d3638cde0069d1 |
+| 83 | 0xba9f86ef24824a3b436f5c65eb3f2e6ba3be71ca |
+| 76 | 0xaec0eccd8365f4136ef581b8ee70a06f6b952c4a |
+| 25 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 8 | 0x0d8deccc10ece0c006311aaa8b57bec8d6dd1879 |
+| 52 | 0x5c1d7ba69e4f73250decc014ad838051636c2c23 |
+| 61 | 0x777b43699b854e3688e9b3a8cd3cdc1f419977e6 |
+| 72 | 0x95d7242abc063214bd0a733a5929239ef788a4fe |
+| 80 | 0xba96ef1b0ff48d4c81a46b4b113b559a7111d343 |
+| 102 | 0xe7003386e12dd2915639a8a6a017fce86b388d21 |
+| 37 | 0x316a35ebc7bfb945ab84e8bf6167585602306192 |
+| 15 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 109 | 0xf6fdf388843ed9eae555e65fae38fe984efe3312 |
+| 97 | 0xe08232cc25479f5fc3e9ca3f4edbb045490ea360 |
+| 59 | 0x7589c864516db39454bf4518802dd2a75b5a290a |
+| 1 | 0x01f1456f5af0afdf17aa05efe4220d9adaaf00dd |
+| 105 | 0xeac54e053b41ede4a6dc3510254ea127304c8785 |
+| 48 | 0x5abd6a48ad5ad6100ddcd5438b8a2488e5c083f1 |
+| 67 | 0x83ffe44de15601e77acf0a0dfa75d94afe7f41aa |
+| 30 | 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff |
+| 78 | 0xaf4ac2f4c6787e81db915415eba3425b39fdf163 |
+| 86 | 0xc03c278662c0026aae447488048c4796df771927 |
+| 87 | 0xc23998603fa0e2488864f6dc44b5b1fc41465bf8 |
+| 54 | 0x5d009d92587361dc3a9974798448a80006627b60 |

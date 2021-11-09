@@ -1,3 +1,5 @@
+![Gold Edition](https://lh3.googleusercontent.com/FA1SyoJoOA2m_fphRlmCef7Tt1YUL4dbvLjE3oyevOy5QsT-HiUQ-hd-Tt_1S_ludIdCEKBO2NGbNUSBCACE5InA1YLVnx-XF6mqvhA=w300)
+
 # Giveaway Info
 
 | Attr | Val |
