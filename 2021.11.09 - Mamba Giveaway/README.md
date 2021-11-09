@@ -1,3 +1,10 @@
+![Black Edition](https://lh3.googleusercontent.com/VcvcidwNmlq17VNQAcM-xVmeNbeOq2SY2f3pd-lMyV1Wi8TaCzbq-c1gkUj49avFtdDvw9DDTpgZPTpWdOM4xqgJ6NdoXFzwGYnb=w150)
+![Amethyst Edition](https://lh3.googleusercontent.com/KTuWM5n5YarneU7Mk9ccAenac69HskIGdJo3VcSyhHHyy-qLS8fsrpnXPVnHLvIfTmtXAc5texrBdtqkl2Ufqds4obfgqUPYNcjR=w150)
+![Ruby Edition](https://lh3.googleusercontent.com/WktDlQdrAtqWGdsaP9bvYHeX3Et1LHE982KzufgsQYwpH4Vnl45aJwjGJp2TchDZ4i8ZmKRd83zPt-raaqwb4qEkDO52i9yAp5uZ=w150)
+![Gold Edition](https://lh3.googleusercontent.com/FA1SyoJoOA2m_fphRlmCef7Tt1YUL4dbvLjE3oyevOy5QsT-HiUQ-hd-Tt_1S_ludIdCEKBO2NGbNUSBCACE5InA1YLVnx-XF6mqvhA=w150)
+![Moonlight Edition](https://lh3.googleusercontent.com/uNNzSlYzwYy7u5MMRyko5DYP8xzHF3DHh-MnRqtE9mAaHksmZZwkwqsM7ZVaAl__dWnAPBkpz3hnlqLqxj72ZuQCfN9koa4XqKKvwg=w150)
+![Sunlight Edition](https://lh3.googleusercontent.com/nL_K9bzfbjbJWT4zpJf-UyplVziYxNkI3-lPNWYxWJoLqpsRKFqrOgiK3enx2Nb3lrqOYOQ4-CFue6H7XN1o0tN4c3_u60TTDbCT=w150)
+
 # Giveaway Info
 
 | Edition | # Entries | # Winners | Winning Entry / Wallet | Proof Link |
