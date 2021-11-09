@@ -7,7 +7,7 @@
 | Ruby    | 108       | 1         | 31 0x2c815fdc7a76c2e508bd0359b5b7241c2f69cbff | [mamba-ruby/README.md](./mamba-ruby) |
 | Gold    | 107       | 10        | [10 Winners](./mamba-gold#winners)                       | [mamba-gold/README.md](./mamba-gold) |
 | Moonlight | 97      | 20        | [20 Winners](./mamba-moonlight#winners) | [mamba-moonlight/README.md](./mamba-moonlight) | 
-| Sunlight |       | 40		| 			| [mamba-sunlight/README.md](./mamba-sunlight) |
+| Sunlight | 77       | 40		| 			| [mamba-sunlight/README.md](./mamba-sunlight) |
  
 # Reproduction Steps
 
