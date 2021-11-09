@@ -7,7 +7,7 @@
 | Ruby    |        | 1         |                        |            |
 | Gold    |        | 10        |                        |            |
 | Moonlight |     | 20        |                        |            | 
-| Sunlight |       |		| 			|		|
+| Sunlight |       | 40		| 			|		|
  
 # Reproduction Steps
 
