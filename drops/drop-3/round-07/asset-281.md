@@ -1,0 +1,53 @@
+# [Elimination Proof](./readme.md) / L. Dončić &#039;18 BGS 8.5
+
+|||
+|---|---|
+| **Drop** | Drop 3 |
+| **Round** | 7 |
+| **Started** | November 18, 2021 10:00 AM EST |
+| **Completed** | November 18, 2021 10:13 AM EST |
+| **Tokens remaining before round** | 960 |
+| **➡️ Per Asset** | 32 |
+| **Tokens remaining after round** | 480 |
+| **➡️ Per Asset** | 16 |
+| | |
+| **Asset** | L. Dončić &#039;18 BGS 8.5 |
+| **Internal ID** | 281 |
+| **On-chain ID** | 86 |
+| **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc2a-4296-aee4-c874e92cbf74/01074105ac8ca1e1732e037074838332d07e12aa3309e5015da839141b9782fe.jpg" height="200" alt="L. Dončić &#039;18 BGS 8.5" /> |
+
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `1` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `2` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+| 💀 | `3` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `4` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `5` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `6` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+| 💀 | `7` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `8` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+| 💀 | `9` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `10` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `11` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `12` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `13` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `14` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `15` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `16` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `17` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+|  | `18` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `19` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `20` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `21` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `22` | `0xe0541a8394E6716f6a28F18Ac75845092FC38077` |
+| 💀 | `23` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `24` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `25` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `26` | `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` |
+| 💀 | `27` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `28` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `29` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `30` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `31` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
