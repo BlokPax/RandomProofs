@@ -1,0 +1,53 @@
+# [Elimination Proof](./readme.md) / M. Jordan &#039;86 PSA 10 FRAX 1 of 6
+
+|||
+|---|---|
+| **Drop** | Drop 3 |
+| **Round** | 7 |
+| **Started** | November 18, 2021 10:00 AM EST |
+| **Completed** | November 18, 2021 10:13 AM EST |
+| **Tokens remaining before round** | 960 |
+| **➡️ Per Asset** | 32 |
+| **Tokens remaining after round** | 480 |
+| **➡️ Per Asset** | 16 |
+| | |
+| **Asset** | M. Jordan &#039;86 PSA 10 FRAX 1 of 6 |
+| **Internal ID** | 269 |
+| **On-chain ID** | 90 |
+| **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc26-4163-ba8b-543033744cde/b0489267328e9210e7c90cea8f25eebd7bf1435092cb9ed516717769464027a3.jpg" height="200" alt="M. Jordan &#039;86 PSA 10 FRAX 1 of 6" /> |
+
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `2` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+| 💀 | `3` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `4` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+| 💀 | `5` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `6` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `7` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+|  | `8` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `9` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+|  | `10` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+| 💀 | `11` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `12` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `13` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+|  | `14` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `15` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+|  | `16` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `17` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `18` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `19` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `20` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `21` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `22` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+| 💀 | `23` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `24` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `25` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `26` | `0xa0Bb2dC6d6ABeEF21f9311e8a030f9353176AEdb` |
+| 💀 | `27` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `28` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `29` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+|  | `30` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `31` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |

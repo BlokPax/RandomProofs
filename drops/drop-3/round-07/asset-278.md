@@ -1,0 +1,53 @@
+# [Elimination Proof](./readme.md) / W. McKennie &#039;18 PSA 8
+
+|||
+|---|---|
+| **Drop** | Drop 3 |
+| **Round** | 7 |
+| **Started** | November 18, 2021 10:00 AM EST |
+| **Completed** | November 18, 2021 10:13 AM EST |
+| **Tokens remaining before round** | 960 |
+| **➡️ Per Asset** | 32 |
+| **Tokens remaining after round** | 480 |
+| **➡️ Per Asset** | 16 |
+| | |
+| **Asset** | W. McKennie &#039;18 PSA 8 |
+| **Internal ID** | 278 |
+| **On-chain ID** | 100 |
+| **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc38-4092-922d-f418ca88d6a7/1763ec042548bba499f1579342ea431953d4d8846822b2926524d66d3583d90f.jpg" height="200" alt="W. McKennie &#039;18 PSA 8" /> |
+
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `1` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `2` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `3` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `4` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `5` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `6` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `7` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `8` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `9` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `10` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `11` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `12` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `13` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `14` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `15` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `16` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `17` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `18` | `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` |
+| 💀 | `19` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `20` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `21` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `22` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `23` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `24` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `25` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `26` | `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` |
+| 💀 | `27` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `28` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `29` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `30` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `31` | `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` |
