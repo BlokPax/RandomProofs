@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | D. Jeter &#039;94 PSA 9 |
 | **Internal ID** | 385 |
 | **On-chain ID** | 119 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e8e-4cc9-b10b-2c4fc575a3f1/e0c745f98b651e87e49b49adc180f77f480ef06c8cd29573b59091c905d683a4.jpg" height="200" alt="D. Jeter &#039;94 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,235 @@
 | 💀 | `509` | `0xD9BdB3B8bb3C47bdC0017C958c8708F1373e9eEF` |
 |  | `510` | `0x89686dBF5893159a3F4Dc11A50B0aaE6cB060ECF` |
 | 💀 | `511` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0290329256f6D123Dd5eAB874Ea9c554d735eea3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4447599af270919ac6f6140bec4cacb88ed3a72f7eda24d7a344d69069db737) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f24bc0a2ffdb7b48040ee176ad266ec885b828dbcbedf4172f5b45831bce111) |
+| `0x058047A4C899c5E7c2bE3D08AD198C5A4161248a` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6605696cf8a745f18b1a7dfae4d565f34a7dd009ed8a073a998aaf1f9696fc1) |
+| `0x05b1e9E26DEB29082B266a4C25d09342354c7bF5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd337a763af58dd666ea308266113b6b2e2d8666a1fe31ad3a5cb35e0d42edb48) |
+| `0x062c7bc203231C7d515CA59Aef863Cafa6e6FE1c` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13138f21556d8ef6d5e3e2007790fa270d5403d79973f6b1737526643d7681af) |
+| `0x064337fB552906c2F8e943a188CDC5D6506a1AD2` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3241d753c78fb7f67cd5e0477fcb4b510d919fa89ecc29e2d4db8bc8f296a1d) |
+| `0x079f20552965bbf2d49f7f0BC077078c32e96b7b` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fccea6a08d1f3f2288781207b0d3002be2f59e20894f9f423605ee062530e8c) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d3f2d10569d96d2018a7c5a876450ff9aaa151ac90d3b5df18c10b21e3e5461) |
+| `0x082C63820D7C6D7Fd08908E6b174252a63938B2B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd5f59603240ba24fba50c7f92565ab11d7953deb147d2cbb5a3396f76c78a6d) |
+| `0x091f0e91dCd5713082d0f85085E5BBb3A34D42Cc` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x947c31e8e4cdec21f852ce6c5d3d1155a71f9de3516fc41d6cb11678528c06a7) |
+| `0x0A351Bb735de50e729cd5fF5cdf4dC2D4391f072` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6be82e44f86710caa6a3a57cd657486bcad35b9737d49dd387a0da26a7c72b1a) |
+| `0x0A7AEE829f649575E1e5333DeB258c029a5a6b2e` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30ecafe3968953f7f2445cedd86fd6b558430679263df367a096852fbcf3766b) |
+| `0x0c59304E92F005627CAc281549aC91F6aBC046bb` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x401e55124287b6a837e5c9e783ebe5ea35f518c0c7d54f00a5aeac5cd88812ed) |
+| `0x0C8DD401B5Bb3822998ce4bd48B3442ba76901E6` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdca7fc05a91e16c6782d4a9b42629a75d6b52ca5c17633e71f00f5964f975a6b) |
+| `0x0cD07ed81d16ae406e6baA451dC6929b8C851432` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefc447efa86025135a4d896caa664c945e8034edc535ed2600ec8c4c08a0efe4) |
+| `0x0d925339b1fF2DF769A98b313dFE4171f0371e24` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24d2814faadd13b4537a642a58aaa3f7bbabc9f0c7d1c13b52b8bc5530da67f9) |
+| `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98e887f65818023b094e8c81df65851af04f1a709daa2a0075053d92e05a4844) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a2a522d5ab1b7f194ff972ef0263e2ef741f935757cb4daa2f79e9680752116) |
+| `0x11601a3B8270711D05b6Af17d0CEf4ecD6dABc9C` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd00cf5f7c0ca5eee6b12c3ae0e087ea1e3144c77627126b665392dda38533919) |
+| `0x11BEC29b25D5EdaD76bD200262f999949dD38a21` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33dc678b66b8611f09dc9730a721ae3cd39f23188749e4a35c9e910103c1406a) |
+| `0x12202C45aa472483ddaa4f5eb59CbA37d6464c36` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x488b484a2dae65b62a4a0a3ccd9d3f116d9043d386d8714db62716c7a9d385c0) |
+| `0x1232F343EB433a5ae6F23D60fc39b1784Aa4b580` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ad0212e40d5562dd089f87a81594e2201271c6e32233df266bb687fcccbcabe) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe48cc02cfeb340037fa188f21b1f2295e63761f120562d1af26b985a251e1911) |
+| `0x137FD84229C024130cF862E6F32f4114526ce813` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x117a18892943372ef2458b8298a0320cb86ac85a7765d2963a7a2abf96449b37) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7bbe96ff856985a42a625b6213a0873296dd9e4ec078f446cebe15080432db72) |
+| `0x13cb31cD697864A52b2DfB2A58ac3554dA19b93f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3984fca8142cd4e62797544290d8c7090fd675ccf207564b8c50e7d71a913a8b) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef28711b44ab90a9353eea81fd383ab51cf78a0b31899c4c00b251408c947719) |
+| `0x14905045a31D76bc7E1ba26af02E86d0d8bC9ebD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80cfa4643412d3a2f87772e8c3dbb2007dd3ac8bd2619a8a922d58d9fa950c89) |
+| `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf86ef122e8e5092f38e40a89c567a612bc21cdf4c360c22d7230a22d805173a6) |
+| `0x15f4A351B144643aDDFda981b239727C590958E7` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcd2b11498b78201ffba4907f7f704d3e19276a1224d7786c4682e158365e9e0) |
+| `0x160B27AB961a346D96F667b321e638Fafd5d9075` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6a37752bb48876fe83e2a919e3eef165cab89459479c9b369076e1c35c0c6b4) |
+| `0x17741B6D85e2731662f1041773099E4Fa4fEE7F5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bc0e28cb2db7e3704f3ef08173e5b6d06459230fe5766e36fab5348235de0a2) |
+| `0x18066042453980175c5bFe38f7aeEdCEe0A075cF` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6246b03ca7345ee9c610ddf38a8dc45fbbed0944508a5982f2ff4e7181271146) |
+| `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3e95a2204a2f771d3a154746d521cd35913c7c2771777ea05d39a51138aa73b9) |
+| `0x1aCbBf0BBaf122fcC316C075735e34f45CD2Dd71` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9a2c0587aeea9a3eb5b91f0a18aeb53925ee2df19f767e23eabdc3cc5c68576) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74e6b6a11ae2113b10e6fc02a66197ee1ab2ea8e7bab718acfa3fed5b498381d) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07334a200c307a808873fa8e109650e6b293401738dee08cb84e1f2efa05dbe9) |
+| `0x1fcf447fb028c5B47974D723976913a964Fbcb11` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2d55302762bfb343e3fc504797edf70eec98e469afd2552a60782f93aae9e56) |
+| `0x22bcA2Fdad3BeEb25284860DcA8fa8f941DAC379` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e42faf9578c55dd46801cd655b37ca9672efef75eedc5e48d9445ebbc05381f) |
+| `0x2320d66ce3Cb6B8d2d4d1828984F5cD257E926FE` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9b15df28d2c1f826ffb0686756309c6932b432b734b94f78339994dc52bff62) |
+| `0x234aC0BD1205011Fa923B6fD18fB30e90505e8a0` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa06a779c4533d54a650f056fbe18eb230a91e8808e40e4e81c78857713914a24) |
+| `0x2474d0D3426f49D0Dd52Ec8fD83cC929b0B28A5B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe10fa44a5e8c7b4a889ae0b4cea998811631c94518759123e194424e40d3f47e) |
+| `0x261fF856993E48A90Dde53d2bF18348A278Eec7f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x087b765401f2f0485a3c432edf09d6731a0d06bfabd4cfec4e06e23421bb0f59) |
+| `0x266f06cF6B78F27cE1d5691fFacbC704a955D8e9` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf16055153f2d1cbe7a695101479f1d9075c477ad9344245a4cb956e7be51e53) |
+| `0x271779b1E3A19C0fB8832795428574f86fcDD83b` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x400c2c18a454b0effdc70733a1ba03e0ec576beb95fc82ea152fa30d7b70b1fa) |
+| `0x27563A856660C850b1eBeCa22b5C8a153033B4dA` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1969890ce563880bbaed4c1cc6201f6fe76cb9203a0ad7741501730ced328b23) |
+| `0x27bffE7f4149EaD85C123aaFF7fC0B86FdDf68C5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97b1350557faf62fc10a991b611c92e14dd7cdec06ccf8db5538cd7e2006cf98) |
+| `0x284444fFAb9C9A98C2B0a2f8e4061DA3e5b6d983` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa5aadfbbe6d67364624f7079fd71f9bc57c1b6010e0504f35fe07032b836ac82) |
+| `0x2B9865DD27EAB07c066912524C2845F8ECDB40A9` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde58aea05d302b1d33730131003d599a5511fb2820afa47cf083fae2d0481f13) |
+| `0x2bB86f91F0742855DFC37D081C2d6851FFa3d15C` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe340c25117b0a1ad6ae52143cdcd7651c6c2212f55477f63cb108dc9ffba033a) |
+| `0x2d31a6c88966C889f7Ef15De84578EA8c6Dc1289` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91a64c620f06526beb697727151a17200fd89f06a83c42f1a8b16c8d4c38e65b) |
+| `0x2Fc6f8A75c0A66E4F82F9c199008a52Ebcb89525` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2074c9dd36e8167227ef3d43c131e418e7704b313cb18a9e0bd199add9b57e8) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5732f0d9274a27c2dcc172f7c5d5d9dcf8b43dffe55926e9ee78d114d57dd7bc) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ee7a48f1fc9ec4f9a4120c11441fbbfe49e63e46e3f3cc2b63bb9eab0c0f5f1) |
+| `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc45d8cf96fa1abbe655d8a12ac4979de92eac3151098dcdefbb3e850f001a0dd) |
+| `0x32e80D82Bd4fC099F22AA8Cd3383015bF8D578E3` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdc47f7e96a7e56a49d6192c38e0fa85bfee8db31886721633a7554fe36bfff15) |
+| `0x3364704f4094e8EB5349f8B01f4910eEE5F295Ba` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62d9b204d6352be1ea972d387754193ee952bd7da2c0dfe32b1362f6c645c6df) |
+| `0x33B2A8C05404f667c1a764e2a0eee984CD507134` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9fc3c8cdf896ffc2afed09fe51d6de8d71a975ff17fc9ef469270b979c47669) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf1a50b4237700e7a9380676e6f835791a75404b5ce0438c1324a2ea9fa0faae6) |
+| `0x379E1a1e1890DFD5b31c9Ec65EA08255b5A89a69` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6332c69e361c74aeb7ec0e9c4ace2a1be8054bf9a6ee0b7186b3edc8524c10a8) |
+| `0x38D887b572010035356750a84024FaAC2Ad01710` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ff8b8dc7b27f3e7d8f97cc3e866466afcb855e7dd771f5f5cb3f1cbf84a9ab4) |
+| `0x394ff69dAaC8B0b6Af3bbd283208eB9b7C383318` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2df7e06ffefb2f29b0ac5a06e7ea68115564d4f1560bc8c0351aacd1f03e880a) |
+| `0x3DF78b74f77987a9A8BceB546dB067BBeeF6B435` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd3f015a6d72deb1cfabed3d87664775a5120fc900cd01f97ea8a745ab22a40c) |
+| `0x3ea4c7f2a493b268f2829dA51f49866a0eE2f0c0` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e5cf410a228becc3596b2a6ea24b308adaa26af53bfb21a32f382a49e107dd3) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc29c9a531d94d3bdfc990c34294f00bc8decf503c1bb90e6e3b4d07616d70ff) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb14ca4fa23203c3f0dcaf95fb5ab9eba3d4fb31fe40f6f08cfd41ee35c9f4d6) |
+| `0x408b3dF8a39aFb4195844CC48226ee67BB4D0533` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bc377a0e96bc0106497ff27cff64a9e58c77a743080d81e6efe037b793a5738) |
+| `0x414A1FBb2957A42F91dB5C6f2eB28B24686aC199` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0a402d715be536538af0c350a3655d4382169df0d67fa00bb41c410aab519e9) |
+| `0x42192F4490eF31136f0DD4d74C13e0baB78F0a21` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e169186a71d330e004cb9394a1df1e53fd529eb7f5bd6903d580b879a9b2ff1) |
+| `0x43893Ace9Ef60dAcA6f34bd38d7336BE97FE66A3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7f77df33cb708f7d4bbc7126250fb0eee4e0088afc0d63962562cd398abf6f1) |
+| `0x44bf0DDBF6CBBdd4C8D5c3EB1029c402Cbf56a8B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c23ad3a4a81d9d02430b101b1ff74e28022054cf8dcd418b50fe8daa26d710a) |
+| `0x45e023881182cC2937374f61bc601846Be4ED6FD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0a2870822a1045d3712b470f970e057d69b21c3bea7c1f35ec90d706fd6f4ef) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb41ec7b8a8fc3ed12ed74e88c5f0fd0222cd2c7fac00330ac451d75900cd20f0) |
+| `0x4E56cC6F1dF2dbc732e166b99F0b98537773C46B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c13a1caab24117ad42a47826f272f525e0b550ceb57b937291b0cedc24e1ad2) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x55cfe1c9b6269fa3d82ba9e0d4fa481b8b9f2badeee682acb1cd162e98f8652f) |
+| `0x507b8D4a7A23a2A6d239f76Cf44E6912Fc3ac635` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bea90e8a050e534db11f83393c0f166faeabada7082805eba1690a58e5c82bc) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b9f154f1e3b8b71fcfd2b64bbbd1e9a890752c3c1ccf0fa00fb0d19a1ef70e2) |
+| `0x54D4c73Ba20cc8134f15996513b24D0F30929AB1` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bf663ebfda7ab6a6a7a56e5243d165d4ffc96efa01aee0a498145c50e16d7a7) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca4781266ad3bce0270193e73ea6618caa10e83fbc12181e32a542ee2992ca85) |
+| `0x562c49273d454c23572126051b310ad73bAA0ffc` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fcefe430b05562bb4560ae60132feabc84ffaccded40afbbb0f3a49ac8574a9) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d47c74d1cebb036f7c107ffa95c692c4fb04baca5160c76a1aeb2508245c59e) |
+| `0x5adeE73F4f866D02D96c68300c8CFa7cfA4D0408` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a8b0f5f42bba1dd3efcc76819a35e2d51c02cb2ace0abfc5e5f4bccf3720ed8) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x59836e8367b2e4c91f86a405277054f0d9c952ad95a182c44bfbbe84b18d0cac) |
+| `0x5C56651a547829232c810938C4D6d8D859c0557f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25ed5b452117ebc745aa3d507bc3562f6e3097992462b7f822ad92885719250c) |
+| `0x5eCA43a41FDaC1447A1Ae9f68017ADC79a7e6925` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ca0d54bc576946e0b278e19eb507bc8bf468441c5a2f93ef920118f167aedec) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf5ff9245aa4f0304931416f98a727244f6321770bc222a0880bf1a727ed4137e) |
+| `0x614d093f26560c60420735361b57Ed4A816A1DC5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85745eb7f1a7ed8c6e54d703bc190ac151d2691bcb36b414d36c896475a75b41) |
+| `0x6271915E46761B28049d1AC10d674453311dEdA1` | D. Jeter '94 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9f9f081e557ff6364838e114b472dc44227576e6ac9d9e69f4bf6570b206f078) |
+| `0x628790Ae8B993DA7009c4Bce023B3C2Ce631eF88` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb082bd26311e454f3957dc2f690eda1de96f695f42d7306a0900294fa675505e) |
+| `0x6294BBee17349710E310FD17640b623236DdC92f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffdd68236730ddd1ecebce1b53e92c30c34eb961ab09c3f205893981a67e9345) |
+| `0x62acB652CB80403Be7C24D2aa020ae3032603e2B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe82dde841289e6243b5892de79752c4f0ebff307fac823394f643a79102fad4c) |
+| `0x6472Fefd8B2bBF81e33B4cD8B982BAc2559fEBd0` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0e5feab13885715f127c69e3410c3ba29edc3046b1ab341f424f08ce9bf1e0d) |
+| `0x64D57dEF47198D325Da304181772B843BeC61Cb2` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x266be568c77b92bf116f9d56c63befeed42e40247efb827e64c4230aba98aea1) |
+| `0x6520648915B912b7abc5320d5A8997139Dc94F1e` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74728ca0ecf981fa3d247d940e0302bd0fd4ff95a5be4a377fa21b8ce7fa2300) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe029f0c0dc61966b887396170e0b658d6e7cdf3943a15f38aaca998eef893c4a) |
+| `0x68cbf2f4Ae4e22c8E2f959d6B3757Bc1A8a861a8` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x451ecd63ba9e2f5dd7b3e47582cd82febc19024651b70ac2cf6a6dbc6136c42d) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x239b0f7abbf4c8b12bada59dfe4965814954587f76e1970d599e75a35f45398c) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1685104d04bec9edcf8416ca9d0c879df04b2638798ab7a76fd0e66c24396f86) |
+| `0x6B5679f3390e0b3Eeaea4D369eBb97687415BC38` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe24d50b6c8fd358a755304870cd9ecd611f0c1d71f451b12e1206b5d95d03fd9) |
+| `0x6B680fa6100Ea04D83F63485b7df0b650E2ac150` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9879d2c9eff6ef54dcd0b67bba3ddc0d186a0fd4d03591e278e04f8dff02bdb1) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e959747e26a851a51602afb1fd9eb220da333db293b8c5fec405efff1bca587) |
+| `0x6Eb59146e2e0f088d3241995310f5fE29BD5BBa0` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb19bd9ca1aa6468904126920abe202f68e1cb50e64e7479fee25d546ae169ba1) |
+| `0x6F2881603EC39Ed94d995e41a449fA6B58d9A886` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ba59abd267dba1e5327f1fe38ee6940425cdbaccc7b9f8e114cd09d59cde528) |
+| `0x70a062e6d07c5e01400A23C1507BA7b36bAf183e` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x351fa206cc430d00c2b78180580fc61f5eca167efa49ba5daf3fcb296817f4a0) |
+| `0x72D5c805330d6857d6cb18C5EBb3b7833A4d82a1` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c178aaa891ceea60dc966eee26669875d019f267d6b1805e6109cd82142ced8) |
+| `0x773e23F79e562d6219Cb6F2c0b74Ac7ccD71f81A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09f3ed278e40aaf0950022aa540dc8db19be49a3e97262023741912b91f5e4c5) |
+| `0x7831230CcaD40FeD808dA2F340A9059Bce865449` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x691ac2b2a8ef979fbef4d686ac39c2741b89a5e3491149772e5bb5c9e41c925a) |
+| `0x785Fe12C2E754f64347c1d76395968E200059328` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23049ed1266b3a83f176ecc24f8071ea5db4d0c63bdfdf72634dc969fd3f576c) |
+| `0x7a6C457BAE10d9460982C2dA00d3736fD5Ab08Bb` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebc4437d9f6a96fa1c2b9f3b1fa0307ab25050466f81829e5c424419eba93f57) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcc74ed070733f05a34e1b7cc6b247539d6dff54cce2e5158ab164a2ee516be92) |
+| `0x7A999a145F8EB59Cb3EF28295186407C2009261b` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3017c2a5c5341aa2fb5ff8a87f485813e89c6b6ebedba4003f5909a29e485b0b) |
+| `0x7b0Ec1f6288fd89bD4fB9625980BfCE37fb13108` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95a293295517c93eb8c8e111f40ea0b2e263d8c0d2a625db77d3a99eecceedb5) |
+| `0x7Bd373d3d787bdf037f1f54631fa056b31076514` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1b2075302239945c69a332515951783dc27d78d1916e0347338505ae847bb2dd) |
+| `0x7D7725589438d33A92A5bc02e60400C8100458D3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f0a006d43afe4edb7695eaf513eccb6c93a51fd92a9fee450aa4ba1cdd71955) |
+| `0x7E9f0bc2fd8Bb5A23Fa808acD4e7D99ebe4425AE` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x444d3e2c09ada12c85304d711bfaef0e199c831d03a9c979a1a3dbf990c92264) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14bd2038e9774dbb7e7901462fc77af9b6fc17c9822e7d9134fe89d9e874e3d8) |
+| `0x7faee971f04a289f9eAeAE123Ea5Fff3C3ac9FF4` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39c3f6fedc89137a955d7b5b8e5acb5ede5a93f6622c7b911fabf9ccf281db07) |
+| `0x801A4e34595031fd5Cd107B1Bc76B6DbDFaD78e5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf50c7d81a5384eee655df063f26a5591511876e756e194a1529571f163f4679) |
+| `0x80391d400AD8169c4Dc47ed9767CEF238d0B42a6` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d4bd02e32abfa8bb4eb000e587c9f347abb3b351a02c0e699a7b5589b64d2e6) |
+| `0x81314ba4dE3ae0D6d16c10cFa62A85bD0a28Db1C` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43e2b36935786cd6ee8c5f45f82570f0d2a0f3f48989eb835b84d01b63d0ceb6) |
+| `0x82AA1Ce1BF37dB7116FE4cbb1a4a319fd987dfEa` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7323882118a5381ee792a564c964fa0c5537ac08cbbf0c8af0bda1b941bf1f00) |
+| `0x82DB7a5a9dB3B7E5C81E298191aDA15dB1b73750` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0db12d0f782812f271390d682c86a73f92d8a31e0c596304217e90d944a8bb75) |
+| `0x83Ed8dD6eE5E1428C61391139eD59B51c8d81216` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e69990180b45d436b2e3953925b1e83c6a21a94e77cc64177e7e26b7d53b6a8) |
+| `0x84f9F8De9a299DDe16c974DF224D52587dC08542` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe931c927daf40b33eeb3f54c8e8fb6f18bb41fc0e98a5099fd3fb4f72114139d) |
+| `0x88748a7dAfCE7D4783D060D1f497b586cfDDab84` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbf4f91ee5635853d35e3645460e773d42692c8ed069799cfbcf9dcca0580ee6b) |
+| `0x89DA82F81619a7b0a96D0f370D902dB6f319A7fF` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc91fb66f89235b0eb076ba122262cf967479cc2b623c438ceb80b1cf9ebddd9a) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x708897c2b67018e186da8568a9e0e234eed6098f4c5d0f73a82e4844054c8bb5) |
+| `0x8D41a08EaB79B813C4326948e01A8ad0c4d5B8F8` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55d02fdb58df5fe74e7f67b2f84639044229ab2bbc0741a42a4edb2b0f7c8320) |
+| `0x91c75fc8a52F695D234Cc149A4584708270bda5D` | D. Jeter '94 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x84292acabb66cd0ae64fe14116b064452e42dad3b6db163155818e740cc3c0ac) |
+| `0x91f641417AC81E00Be56546CC5A008F7d0aA690d` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95512d9b4997951009e9b637ae67c83bb12203a722ee062a80f9cc385e8dfbd1) |
+| `0x945c89975Bdc980Dab5a2337209Cafb260bC596B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dbe837df9fc6671b2ed2d66903e5daf7a05f026682160131e1aab08af080eae) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9b7c209e75dec3bbe38c40cad3d6260b62c4ceb0b02614d9725821cb2e7e67f) |
+| `0x975B256Da00De0eC8dA7BE73B9309145Dc1DDbfD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x060af40062efdebb9c5cfc954a955d389ede111212b2b477e5b42b31aa08c091) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfcd6c6ed7419f7d527b2a136f50e343dd8d3237df0fe304f36d2ebb5bfdb905) |
+| `0x98520425F95c77497b2CB9Ea3817A297999Dd653` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2944648ef48adf3a0f7b6a92d4606dddd7a43c3186fa4f01e91e25bcf134f46) |
+| `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12068305b68493ad6727a4cdb3b0dc5d9cf5e88775bfd46fc5f53ffcfc8f9208) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x329927f8c4ca096097395aa57391d82b5328f2992992cfe3ca5f9ae865f33a8f) |
+| `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79cb9a0301134e26b63a7020aa45f810342d31541db06a3337b37224dc16dea4) |
+| `0x9f361cF95A95eAcDEBc5618F81dE2cf592773a6c` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f1fe51fbd65a8c83471fe9db5b18f482b4087008a55b359aedc59678acd9175) |
+| `0x9F4080F3D4F56456ffF89e937725772974601Bac` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6786ed1e31f3c8eb65170541e109f64a59ad03b545381876767726f41cc0945d) |
+| `0xa0C0A68CcCdB606fC30E712a5616552C99B58B8d` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb26ca41ab498efcef5b79d6f10f5b410e3d36053fd9dbcb3771054354f3f1bb0) |
+| `0xa12d74486F4205d9Dc289256451cD8C27dc881Bf` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07b993648f64d9bf9a2f572803e18f6d1c2924cc22fce4b48ebe6819f42e746f) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf56b6a42761763ffc4b0349ddea577c8de9fb8fc1d1a818c02d8ce84e6e5015) |
+| `0xA3c4e0a8f58946e87eFa903Bdc593c6402e6c300` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ab1403d91141bf00056883b9a8682189f36a9d247acf81280d698d5f61da39a) |
+| `0xA442dDf27063320789B59A8fdcA5b849Cd2CDeAC` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x71a00d6200383bed746ae3e4ea3b70f97397c6f8d1fd57002e389a78a8f99621) |
+| `0xA44722249fBA0b0F457aD88e3063017Da4a2A575` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac288d3c62563c0d1c724b6db77a9b021b7a41ee98507a9e9ddd50ce710f1075) |
+| `0xa82e1E01dc4E309C99Ba6f17a6BE1140Cd17a473` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa01ba67e9b4457cd6dedf7ba03fb667a3a949168e0d8d18ce9c14af6f8a68a0f) |
+| `0xA9D6Ee80f06d7f36C5454672Bc72bA290F8cb16d` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02ae1d9728c229908c388c46eaf73eaf2954f428dff938adde84ef3b7fee713b) |
+| `0xaa00d8a002Ab1473a08a0f8Fe1F510F37e0A4996` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04cc925dfeb27b584c2f3c41b21dd66473cdeea1b3909ac5ee14d6ccc601245b) |
+| `0xaa349F4ceB5d6aFf67c5c7274889357234Ed1543` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96226ca3bc1fd2a4e4674327aa01d2a55b620005955002df024b0138a000e6f0) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | D. Jeter '94 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0x212486cfb1423a55aaae5fed3e93b9800f409eb0b5d379611ff1598788c15c02) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28f8007be3a3fdf55609af637b9286242abad3e92d8b3fb0a801a63ea17ca1ba) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a2714cbe3e2d77882311be1ef6c6e512fcc8e0c94b218f394f151955c5da3af) |
+| `0xaC849912754ab845A6883448fA8133A808b4F71E` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60f81f2377286984a998de742f5ffc7e8e221fbe280d6bb514621872b0ffd62b) |
+| `0xaeb7eF10863EB7d9f0be4c581922b3dA534B0504` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68cfd35056e08471f22eb45ee5af195fad4735fc2e0c9733ad9d3c56fc08864a) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8ee2a5b0dca3f031f534e7500a4756b0653122981ec4db3663c3b920f6ed99a) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8dec95ffc41c97f6069ac0e61db9361187b6157cc9019e2917be02595c15dc8) |
+| `0xb2A71c24985FD098b45349Cc09829913da041Cfd` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7999004a8023fba071944eaf8e40215dbe8925e91d9ae97924d50136e990ea1) |
+| `0xb2cF67826Dbc3FCb3a674eA252858fb9e9C653Aa` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb95dc36b4222aca175482a8deef4207756dd90e1887441db92aff39bde517e5) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38f046301732dc81e186b9d7716e003fd743386289f59157c11b8fac970dcfe9) |
+| `0xb40250F63D0ad05f7eaEC6704fBcd79C00D551B1` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x462b94e397a6d165fa0702815fee0df96bbee92acf0f9ce9c8d54456da3f97e2) |
+| `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf9cbd6b1d40f99e37b2c5c8be68bcb30fb80b563ae47626d5523355a4af2098) |
+| `0xB49bB336ef746A77812F72E7CB647983b9a49Db9` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f64f12453e741a0e63e233d9e5f2da1aebef7c66c6069bc22b33221638d124d) |
+| `0xB4a0C486eEe956514Cd388364Ea03d444930C7DD` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafeee51186fca247d0282314c19022b2ee6c8158bce52f11c671ff076c65cd7b) |
+| `0xb694B781A41383967F5b85BB4D88D3893c1A861E` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dea37b280a0d88b36faa831d2afa2da5730b1308c2918361465a77b022f6698) |
+| `0xb87f900bbCdbcF56e5BC57B61cD016fC708e970c` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37dc830613f8a2d4ccacdc5ef8c5549368c743568d167dbd376a476013ec2ee2) |
+| `0xb8a313c61e8C739e06A40Dd8DD48188820DD39Fd` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c1ab401bcabf7d6b6915b2672e85c1b96c6688d82f55bf6c7f0b6984d22dcd9) |
+| `0xb8bb8de11dCd32AFaaF1458a6F05E8a26F041284` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9838752c34b5b194e8e4dbbeedad68302d9b2fcaed1b692e6a3e5682b6b8899) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b93df85e02494be1ee60a1a6f17d0d7cbe5268dea402282f1897b8ae7af6def) |
+| `0xBB89916BCA5178193247E4923DB73953C726F94B` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e6cfdb1311b07ee4f40afd3d6f0d517e5bff61687f2e3a5cf762043005c4198) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f86bacd17fe24035a911d33644410cfd03c0b683af06f68f54bd85d8f3c1df0) |
+| `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x344d4c8d4eeceb38d404c96edbc60d6030557b197d06aa57970673430d77ae97) |
+| `0xc31ca01E824fc56e8b1F811066390754d6fd758A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfead38324a11b7ec9823bb90efff1ad94e03c6b287779522401b6c0c55c44499) |
+| `0xc3425080f686781A6457d96797a1EF01E05A0ec0` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58fbc8c31e7180e91b1273912047365846a0406fd6f0b9c4c36d2bd160f66cc5) |
+| `0xc3669Cacba53a96cfEe64Db832f704469f326C13` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77a0b20c68b575948c7bce04c490163d7aca2a7ed0d6b86fe1bb35ca021a8ffd) |
+| `0xc49d87408CF1b435533915f3b269DB41E7984904` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf90c1c5062cfdd7109b509b41cf7cb16e00071af2d10b1552076aa719c05205) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e89943684bf0d3b35ef68a926eabf864560037866e9e6425ece584f6d3717c7) |
+| `0xc5931b9d2747B2059E437e5B7a72f601F4767d4D` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d2f51dc87b6b6334bccfce2ad3f1424497c2e8ef0305ff435e36f1b3c13aa4e) |
+| `0xC67Fb910ee6C2CEE2b020bDe3d8975A8B0313f7E` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6361377d6b63b4c1e76bd3854f33548f790e8e99a3f2e305934d17a925c49268) |
+| `0xc7a7BD54c957776d2535288AfD16f66E1424a08A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3628f2bd043ec6f642598ce325ff6c45b391c87a5c2c34062d764f894288a1aa) |
+| `0xc7e970455D0ca0225baa0FA959C55E6A5062Be74` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c6a0f1ef5d322fb2d153abb899c6e9fc355f4c2c7348fd53c3b6975858458aa) |
+| `0xC8eB7DC9E96359FE9153e4101A0398E2d819D3Ac` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6af4d92930a83d15d2efda87620e563e471e1dedfe6f2027a08b4be9629a9a2a) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf47e0d285584d43a66bbc621eb0be959b97be8554ef02712aff234c7c4a5d65) |
+| `0xcD315dCA6A12D34275F03e639e0c7F0239795F41` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ccd65db0e5a4ad2e794d2cc52f798ed6e6be88da55048f18d560ce8b68ea148) |
+| `0xcf455664c3D50ac7649F1F0581Fc8C1E17449617` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ae0cd2f09b9a440413c3bebd068c21211a0bc5f68a2644e4db148dda85b5461) |
+| `0xd23Cd97CAD522eD496E1D2a143D363E748bc26Fe` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c5b7e076f3c99b839e365a753edfe680a4a7eb36398488d2c64da801d82cb81) |
+| `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cec82b0069a4c04c3e7df9f1dfd35bd64fa1814309f892c0e823c65262c46b7) |
+| `0xd35A06818FBd50672e7AA860581a0095eEB5B55A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x245dfd6988bed9a5ac0bf4ee975008a0538e960cc1fb1fb512d9a9256d4beadd) |
+| `0xD4a1a94FA5cDb7A0e2bA3b445Bb86d1481b3c72f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa409d76303da35e6149e873ff3671864ef96519ac0c7b04de7c77eba806b5967) |
+| `0xD500ae7c21EF26FEe61B7c345aD1A47636843C14` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf52347688349582910e08130ab04a6b2c41ff9918d53e4d73e154768b27927ac) |
+| `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc99323e551fd93304ea97a240a443c0efdb8d4abe3d7c351ef694cbbe5b395a0) |
+| `0xD9BdB3B8bb3C47bdC0017C958c8708F1373e9eEF` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf53a737a8cee4be5161a9e55ba4e1e9762f4959d55da761a11ad37d09497f413) |
+| `0xDB977847f66D5A4abC5AA9B30eC1c508305B4EEa` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a3a536b170149f99e7c1c6bd8c56d9220b14cf1b1a6b3ca05a8152592621c30) |
+| `0xdca3335c0808E2cd7CdBAd2273013b9778139d4A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4ea933b39fca77819a215c65ebd19905bd7b22bff4be85cfe319bce79c6f9d2) |
+| `0xDd4e79a75cb1E80Fe6986f5bFd8639f9590dEFa6` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e1338ea549c0338ae7cdedb935b408fa3f945c9179717ad4ff16648fc07d924) |
+| `0xDe27367f63aDe33e6227e3ABCa64e09E2CF9DF7e` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4eb273989045960b9c93c684995d1b737e7626105a8e025ba92ade17a3aa6f5) |
+| `0xE0746c5C3a3E96AE53496aFdaaAC9d0c87Df9621` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d7a9d98c45d8d90fd0cf5fad289d74c7da9173ac3d0d9838cc18a87a1632693) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xabe941002a99e089e39f86a2e601a42ae2fe3b9e8dfa83ec9ce014f8059b985d) |
+| `0xE20cd589677b0707d2067A8E4890C4Ac95c71DB9` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc783b94d8eb6e718a94fe58a63a7cbff14b17cc6838858126bc758e71b4b9112) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c652a03a315cc11ef29fd55a5e626f5e0cfc201f7204a5a45741cd25901afd0) |
+| `0xE584a70738dFB66D162BF455Ed649e8e97c6E378` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x666603cad38fc042132687813d4670038a8bbaf6ffe3288d1e7c1bb961692622) |
+| `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a44cde9116a378de227278822f0b8eb342b553ca9d67c27cf51f45e0d3260ff) |
+| `0xe82604505Cb2994b10E2612b64B07488c49Da54C` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d784505fd40b20ab3bce8dcc88ec1993bf13340d1a9e9721df0c43537a5509c) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | D. Jeter '94 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63df98f43ad00247c14d8fa2c55300918a7366b63cec5c99e33443a353ae2ae3) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67a8530c141dc554f5a54b650f5dbdfc49a9337f7b16bff2f18c6bab3d4e11cf) |
+| `0xEA87284C5873dDD6B061B7aC0a9A16efE6456260` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61d7ad7ed13856fe42fd9a1ac459dcd48af944ede1675da0127e60032c42fde5) |
+| `0xEA93a0b2a2c26f3737B48944207e4f135CE05704` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55c08e60677482a53e8d415f6aa42272c12ccfd71fdb7c63be96917c96163901) |
+| `0xEB5397a3BC3057186d58cB4360D421f994B0a8A7` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x161ba8a9e1aa0eda0c626422253467b060608240ff3eb212ff7b004221583951) |
+| `0xEe5d5F895494b472402A52Bdc2481A6c5D027B9C` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b9fcbd057d913ffa6be0f5f2d0ae0a1c43d0bc2b4fe88c51e1553264fc8306e) |
+| `0xEEE9f20656C54585A5a10daf693610104D234141` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61b0e341fe69a9ff91968636a319da713cf976d9eb01e0cb5909144d55617058) |
+| `0xf1A5Da6A31641d0069c1B3df76ABf00e0d559eAA` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f1e606c28485accd9a9d4a032fe5cdbe4a5fa853b729eca22497a96989acc68) |
+| `0xF24F94A3C3B5d7Cb54583116531C2465564E98BE` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa9d6435a8d65258333db7340a5f7e60a96129fb34f192ad913675d114f9380c) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee4d0c0c85e5adbed6f2d3074b3248bc3d5a71d10ebdc9279631cd31b80dd1cb) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcbdcc92c7d83fd365c57aa10ae181810fe102de4f915df22201f16df588fccd) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x476e56a3cf7c3c7da7a84f9344a21a0e4c1c263eedbfdd5f032d0b452f699ab6) |
+| `0xF6397ba3e16Ea7FFe05ff5dA3Bc6170C38Ed29Ba` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9751b498ff9d630bee0e8551ce9703095a1bb6eefc3589854a9c3f2e49547129) |
+| `0xF823C856EC17bE8E88915976F3efAC7Ce5A18369` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70e741bbb293fb7dcb09ad93c785636861be9c624429431fdd0a7c0165916efb) |
+| `0xf931A65dFFe9DB5db52Ea6765210F3072909ee08` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ecccdb69f141863fa8836e9be8609a9901536be64a07a194ca1f732c5cd2ac0) |
+| `0xF96188cc11d0a997128675Cf50501472405e5698` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d2266bcac91c0c09f64c887b9c4ad65d2bb987a9ff1ec86046253514b9338bb) |
+| `0xF9Ca496Dab8345a957cF1783B5e1FB058B11a4Dc` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c874ad7a81a4f3382f6c89b43ebbc714db80db382c4cbf3f2a57df82e567438) |
+| `0xFA6f0E9610D744E37cfBa60D6C638C0f545E0abb` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a6b96cec67550b43da25dabd0bc4c449abc4284daaa77158e668f4e4002acc5) |
+| `0xfC9b7301e3C2229F1d0b798Ff5B100c91d009faA` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04d684cab1208c5754009de35d9a577b2d900656d2cd48e537037791c13cdb11) |
+| `0xFd34D2B5A0dB908145c046914d0eBacb13336B52` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x402c7578a0e9bc1b4830b57b6c2ac22636a20885cadb0d88d77059ff80ac01d6) |
+| `0xfD735148a4476Bb42cC19b28087b4BEBDff381cE` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91f97706038b03d376b9d90fbd6ac1c427c2b43198229e5a19b3f2f6eb5517ea) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0e94c5359f864fd79fb21f7e3627c460da7f29ed82295b831d501260264e15c) |
+| `0xffAD0F3F64A6480A626956DaF9E386a188935598` | D. Jeter '94 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x576fb95cbea1892266cc3ea8243b7b3915e122f08b2d5366ff685763479dd21b) |

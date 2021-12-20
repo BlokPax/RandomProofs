@@ -1,0 +1,1417 @@
+# [Elimination Proof](./readme.md) / G. Antetokounmpo &#039;13 BGS 10
+
+|||
+|---|---|
+| **Drop** | Blokpax 2021 Series 2 |
+| **Round** | 2 |
+| **Started** | October 7, 2021 6:00 PM EDT |
+| **Completed** | October 7, 2021 7:40 PM EDT |
+| **Tokens remaining before round** | 61,440 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
+| **Tokens remaining after round** | 30,720 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
+| | |
+| **Asset** | G. Antetokounmpo &#039;13 BGS 10 |
+| **Internal ID** | 223 |
+| **On-chain ID** | N/A |
+| **Image** | <img src="https://tcdn.blokpax.com/9484ebfa-630b-4ca6-a82d-8524828d6a6d/724f8dfbc26ce743bbf9017cb08d035bf8b250ecff3e565c5132825f337bf9b7.jpg" height="200" alt="G. Antetokounmpo &#039;13 BGS 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1` | @Cohigh42 |
+|  | `2` | @Ron52372 |
+| 💀 | `3` | @TheRealAgent007 |
+|  | `4` | @RogueGonzo |
+| 💀 | `5` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `6` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `7` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `8` | @wguidera |
+| 💀 | `9` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `10` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `11` | `0x0ab552bC2F3e5cECAb651bf4d051976a33E6417C` |
+|  | `12` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `13` | @Jessyeli094 |
+|  | `14` | @Jbritt7 |
+| 💀 | `15` | `0x5a6fdD88a151B9ddBe4F4547070c47A9aA0E573B` |
+|  | `16` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `17` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `18` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `19` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+|  | `20` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `21` | @axspointe |
+|  | `22` | `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` |
+| 💀 | `23` | @Paulstrahm71 |
+|  | `24` | @Sportslounge |
+| 💀 | `25` | @Bighud |
+|  | `26` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `27` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `28` | @Spaztik |
+| 💀 | `29` | @Vahe1993 |
+|  | `30` | `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` |
+| 💀 | `31` | @lrsportscards |
+|  | `32` | @Vahe1993 |
+| 💀 | `33` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `34` | @kamui |
+| 💀 | `35` | @Diddlypoo |
+|  | `36` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `37` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `38` | `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` |
+| 💀 | `39` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `40` | @Cripdoh |
+| 💀 | `41` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `42` | @Crucialdnb |
+| 💀 | `43` | @Bourbonjacks |
+|  | `44` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `45` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+|  | `46` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+| 💀 | `47` | @isaacw |
+|  | `48` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+| 💀 | `49` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+|  | `50` | @Nmcclary66 |
+| 💀 | `51` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `52` | @FXGIII |
+| 💀 | `53` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+|  | `54` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `55` | `0x137FD84229C024130cF862E6F32f4114526ce813` |
+|  | `56` | @Gfunk267 |
+| 💀 | `57` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `58` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+| 💀 | `59` | @SBoycards |
+|  | `60` | @IUSKM88 |
+| 💀 | `61` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `62` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `63` | @rsekerak |
+|  | `64` | `0x05f92e814A9943ee310925205742E084Ecfde5bF` |
+| 💀 | `65` | @Backpills |
+|  | `66` | @Xman1278 |
+| 💀 | `67` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `68` | @kiddryan9 |
+| 💀 | `69` | @Njshirt |
+|  | `70` | `0x3d80Fb428D14E5239F00b5dD638BCA46848e4EFa` |
+| 💀 | `71` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `72` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `73` | `0x86B1b02c43E1e35ef325BB0B1A79789eCfF0cE5B` |
+|  | `74` | `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` |
+| 💀 | `75` | @Aaron |
+|  | `76` | @Hammbonez417 |
+| 💀 | `77` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `78` | @Alex2010 |
+| 💀 | `79` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `80` | @Chunk850 |
+| 💀 | `81` | @BigBuLl187 |
+|  | `82` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+| 💀 | `83` | @Wrb5150 |
+|  | `84` | @BAROHEC |
+| 💀 | `85` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `86` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `87` | @Cnguy2006 |
+|  | `88` | `0xD51d6873ca4A2322732Fc0C15F319ADE37313706` |
+| 💀 | `89` | @Calvinsymm |
+|  | `90` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `91` | @Wags5play |
+|  | `92` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `93` | @Jcamiolo89 |
+|  | `94` | @Nyurdrms |
+| 💀 | `95` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `96` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `97` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `98` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `99` | @Alfy1 |
+|  | `100` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `101` | `0x9493977D4b23dC234756a63b6C7A90472cB55319` |
+|  | `102` | @Novaxylion |
+| 💀 | `103` | @kelly |
+|  | `104` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `105` | `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` |
+|  | `106` | @Tzilla0811 |
+| 💀 | `107` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `108` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `109` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `110` | @Aaron |
+| 💀 | `111` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `112` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `113` | `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` |
+|  | `114` | `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` |
+| 💀 | `115` | @Ohjohns |
+|  | `116` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `117` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+|  | `118` | @Shoes |
+| 💀 | `119` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `120` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `121` | @AniseMoon |
+|  | `122` | @GCoolBeans |
+| 💀 | `123` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `124` | `0xAE6b795C8e2398e790EFe2936f6703958E307d1d` |
+| 💀 | `125` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `126` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `127` | `0x1AE2105330a7343c67Cb582686fAfEA40da78CAa` |
+|  | `128` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `129` | `0x72E0436aa17F8b42387754645E340Ed356Db8C33` |
+|  | `130` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `131` | @Sk1tz |
+|  | `132` | @TravisJ |
+| 💀 | `133` | @mmmTaters |
+|  | `134` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `135` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `136` | @aadickso |
+| 💀 | `137` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `138` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `139` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `140` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `141` | @1soloriosolorio |
+|  | `142` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `143` | @Aaron |
+|  | `144` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `145` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `146` | @Mistere6406 |
+| 💀 | `147` | @bneal123741 |
+|  | `148` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `149` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `150` | @Chitownsportscards01 |
+| 💀 | `151` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `152` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+| 💀 | `153` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `154` | @ralph_bc |
+| 💀 | `155` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `156` | @lrsportscards |
+| 💀 | `157` | `0x2ef10F8AbA85BdBd878cb1Da4f6E4666Fdeb9BdD` |
+|  | `158` | @Chulo37 |
+| 💀 | `159` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `160` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `161` | `0x7B8E5007C45Eaf61c9963133a6A05Fbe01196B3B` |
+|  | `162` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `163` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `164` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `165` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `166` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `167` | @Pucho1026 |
+|  | `168` | @L3statL |
+| 💀 | `169` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `170` | @Southpaw34 |
+| 💀 | `171` | `0x3Bf9A28fecf48b5e81bb6eFd84c81b5f3DB81C90` |
+|  | `172` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `173` | `0x7445938D345c59143f608Ce686551eDE52cA5716` |
+|  | `174` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `175` | @Martineza38 |
+|  | `176` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+| 💀 | `177` | **UNOWNED** |
+|  | `178` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `179` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `180` | `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` |
+| 💀 | `181` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+|  | `182` | @Noflo |
+| 💀 | `183` | @dotxeli |
+|  | `184` | `0x32b158Ab41C47Dd0d2d33F35e7523EF7Ab9A2d0C` |
+| 💀 | `185` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `186` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `187` | @Tkmars11 |
+|  | `188` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `189` | @NtnW |
+|  | `190` | @colt34 |
+| 💀 | `191` | @Swiftremourse |
+|  | `192` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `193` | @dWb707 |
+|  | `194` | `0x7445938D345c59143f608Ce686551eDE52cA5716` |
+| 💀 | `195` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
+|  | `196` | @StarFlicker |
+| 💀 | `197` | @VikingGod916 |
+|  | `198` | @Nathan1241 |
+| 💀 | `199` | @Drewcoop16 |
+|  | `200` | @GodofnoFucks |
+| 💀 | `201` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+|  | `202` | `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` |
+| 💀 | `203` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `204` | `0xE97AD67013A8C101B4549179b946DF2E1B6B0467` |
+| 💀 | `205` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `206` | @rwbonefish |
+| 💀 | `207` | @Brandonlink89 |
+|  | `208` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `209` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `210` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `211` | @compcards |
+|  | `212` | @Smellytuna |
+| 💀 | `213` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `214` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `215` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `216` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `217` | @Waffs |
+|  | `218` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `219` | @Drtybird2003 |
+|  | `220` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `221` | @Hotsoup23 |
+|  | `222` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `223` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `224` | @rubble |
+| 💀 | `225` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `226` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `227` | @dagotkin |
+|  | `228` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `229` | @Meezt730 |
+|  | `230` | `0x11e3f9C175432CFb9D7e8313Ee20b62923d9b298` |
+| 💀 | `231` | @Monkeyman |
+|  | `232` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `233` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+|  | `234` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `235` | @Phoenix4282 |
+|  | `236` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `237` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `238` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `239` | `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` |
+|  | `240` | `0x0291485B514A1682f11643C08b5e183be32575F3` |
+| 💀 | `241` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `242` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `243` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `244` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `245` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `246` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `247` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `248` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `249` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `250` | @Nickcat8 |
+| 💀 | `251` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `252` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+| 💀 | `253` | `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` |
+|  | `254` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+| 💀 | `255` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `256` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `257` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+|  | `258` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `259` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `260` | @Deeznizzles |
+| 💀 | `261` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `262` | @MarkCards |
+| 💀 | `263` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `264` | @Snellj33 |
+| 💀 | `265` | @Scover42 |
+|  | `266` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `267` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `268` | `0x0ab552bC2F3e5cECAb651bf4d051976a33E6417C` |
+| 💀 | `269` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `270` | @Mocopo50 |
+| 💀 | `271` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `272` | @Magaroam |
+| 💀 | `273` | @rldlsteele |
+|  | `274` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `275` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+|  | `276` | @Bigsmo69 |
+| 💀 | `277` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `278` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `279` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `280` | `0x617A0c862062Fca4BbfE471F80E94D5ed3Ec6dc2` |
+| 💀 | `281` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `282` | @cryptojunky69 |
+| 💀 | `283` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `284` | @Rippax |
+| 💀 | `285` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+|  | `286` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `287` | `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` |
+|  | `288` | @TheCollector13 |
+| 💀 | `289` | @Baublitz |
+|  | `290` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+| 💀 | `291` | @Richl482 |
+|  | `292` | @Agape316 |
+| 💀 | `293` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+|  | `294` | @BradDeee |
+| 💀 | `295` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `296` | `0x7445938D345c59143f608Ce686551eDE52cA5716` |
+| 💀 | `297` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `298` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `299` | @Mrrobotoe42o |
+|  | `300` | @don211000 |
+| 💀 | `301` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+|  | `302` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `303` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `304` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+| 💀 | `305` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `306` | @Chrisfucious |
+| 💀 | `307` | @Swoopz |
+|  | `308` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `309` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `310` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+| 💀 | `311` | @jpantoya50 |
+|  | `312` | `0xFAE3B5BF1913454Ac084Be4669136dDe235030C1` |
+| 💀 | `313` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+|  | `314` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `315` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `316` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `317` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+|  | `318` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `319` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+|  | `320` | `0x72E0436aa17F8b42387754645E340Ed356Db8C33` |
+| 💀 | `321` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `322` | @Vikes |
+| 💀 | `323` | @KCHIEFAN |
+|  | `324` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `325` | @sdearman00 |
+|  | `326` | @Aa_Ron |
+| 💀 | `327` | `0xe652F0C0Eb5037AC4c2e1b6F968db2226969bC01` |
+|  | `328` | @Justawhiff |
+| 💀 | `329` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+|  | `330` | `0xBf5e76F94e366C6d0C13A1300cF5D83274Cc5e0F` |
+| 💀 | `331` | `0x2b6eC693FdbB638Ad6162b88fE6167E2EC9764dC` |
+|  | `332` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `333` | @Deezo25 |
+|  | `334` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `335` | @JosiahE |
+|  | `336` | @srqwho |
+| 💀 | `337` | **UNOWNED** |
+|  | `338` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+| 💀 | `339` | @PHATTY76 |
+|  | `340` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+| 💀 | `341` | @M85T3R |
+|  | `342` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `343` | @Charger21 |
+|  | `344` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+| 💀 | `345` | @OHTANIHOF17 |
+|  | `346` | @Dmbcrypto |
+| 💀 | `347` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+|  | `348` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `349` | @Vinny33notto |
+|  | `350` | @Mentor28 |
+| 💀 | `351` | @Chunk850 |
+|  | `352` | @ajbither |
+| 💀 | `353` | @Aaron |
+|  | `354` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `355` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `356` | @Ak_Cuzz82 |
+| 💀 | `357` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `358` | `0xa89ac03643eb3d0Df7Ac9F0EA092c37f11505afD` |
+| 💀 | `359` | @bloccchange |
+|  | `360` | `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` |
+| 💀 | `361` | @Moefresh19 |
+|  | `362` | `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` |
+| 💀 | `363` | `0x5E1ba6D3f9CC983533c6F50FB5694aA3e79Eb223` |
+|  | `364` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `365` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `366` | @Cwingss13 |
+| 💀 | `367` | `0x027356F4C1CD93D9E7462cBa13FecC873a8FdfbE` |
+|  | `368` | @Phoenix4282 |
+| 💀 | `369` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `370` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `371` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `372` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `373` | @PMH_Sportscards |
+|  | `374` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `375` | `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` |
+|  | `376` | @Aaron |
+| 💀 | `377` | @dtmkyle |
+|  | `378` | @GaryV |
+| 💀 | `379` | `0xC4072A6aDDa41c1b84784c7A9E591265D73D6efD` |
+|  | `380` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `381` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `382` | @Cards2019 |
+| 💀 | `383` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `384` | @Elijah_Witt_SC |
+| 💀 | `385` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `386` | @DannyH101 |
+| 💀 | `387` | @AMERICA |
+|  | `388` | @jordanxxplicit |
+| 💀 | `389` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `390` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `391` | `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` |
+|  | `392` | @LSDreamm |
+| 💀 | `393` | @Paulstrahm71 |
+|  | `394` | `0x731d9560A37f9ee7F72c7F4a37E997EE01189d09` |
+| 💀 | `395` | @VaderTater |
+|  | `396` | `0xFc4f484a493ab048C5BD7b493E640bA8F678C775` |
+| 💀 | `397` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `398` | `0x2302498B4e395b2D3A328aaA0591A4193Bb1f929` |
+| 💀 | `399` | `0x882db77070905c3E67A7ba3f3335ef850bfE228e` |
+|  | `400` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `401` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `402` | @Mcino |
+| 💀 | `403` | @Newbieggn55 |
+|  | `404` | @lrsportscards |
+| 💀 | `405` | @Robert31542 |
+|  | `406` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `407` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+|  | `408` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `409` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `410` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `411` | @CryptoXS |
+|  | `412` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `413` | `0xb6c9A56B11BFAc6aA596413754D4E1BebD56b945` |
+|  | `414` | `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` |
+| 💀 | `415` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+|  | `416` | @IslandsRipper |
+| 💀 | `417` | @Sjolander2021 |
+|  | `418` | @Nikkismom3394 |
+| 💀 | `419` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `420` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `421` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `422` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `423` | @DuffMcGriff |
+|  | `424` | @KanHawks |
+| 💀 | `425` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `426` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `427` | `0xE25858B3F0c84abA250f98157a6F9ea315b6F0A5` |
+|  | `428` | @Aristotle |
+| 💀 | `429` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `430` | `0x6651621fEB846f5cb5198Fbdfa0357b647d2C027` |
+| 💀 | `431` | `0x75f5239E80526936257dA2eba1dF069bFD32f524` |
+|  | `432` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+| 💀 | `433` | @Tw3ntytw3lv3 |
+|  | `434` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `435` | `0xE6A2D5AC9DfcAaF8AD2c22ca57D3993b9b5C4FC8` |
+|  | `436` | @Aaron |
+| 💀 | `437` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `438` | @mo2680 |
+| 💀 | `439` | `0x9b7226eE6e4E1C37CfC7EA04A6eCa20e614a6f46` |
+|  | `440` | @Nickinthenight |
+| 💀 | `441` | @warrenthx |
+|  | `442` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `443` | @Louisneth |
+|  | `444` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `445` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `446` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+| 💀 | `447` | @mcash7 |
+|  | `448` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `449` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `450` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `451` | @ItsMookie |
+|  | `452` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `453` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `454` | @Timfjr |
+| 💀 | `455` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `456` | @Brevolfox |
+| 💀 | `457` | @SugarNutzz |
+|  | `458` | `0x2B5112B2FAEEBA3b49F72C1a7BE440E812939427` |
+| 💀 | `459` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `460` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `461` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `462` | `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` |
+| 💀 | `463` | @bneal123741 |
+|  | `464` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+| 💀 | `465` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `466` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `467` | @Illspikeurdrink |
+|  | `468` | @Kujo6969 |
+| 💀 | `469` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `470` | `0xf0508dc132fdFd8A10E2944ff2BE49C526E3b727` |
+| 💀 | `471` | `0xd74775aD432B1FBdD3b954cEB42d0edeD9DF7169` |
+|  | `472` | @Jsdagati |
+| 💀 | `473` | @DarkOnee |
+|  | `474` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `475` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `476` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `477` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+|  | `478` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+| 💀 | `479` | @cj5769 |
+|  | `480` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `481` | @Boro56 |
+|  | `482` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `483` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `484` | @StormRex92 |
+| 💀 | `485` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `486` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `487` | @Tmike97 |
+|  | `488` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `489` | @Johnss123 |
+|  | `490` | @Todo1111 |
+| 💀 | `491` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `492` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `493` | @ddpodpes |
+|  | `494` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `495` | `0x79C672D355EEABbF5dA98F7b0ed63c73f6c732E1` |
+|  | `496` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `497` | `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` |
+|  | `498` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `499` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `500` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `501` | @Walrus1971 |
+|  | `502` | @rjhanna11 |
+| 💀 | `503` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `504` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `505` | @Azican |
+|  | `506` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `507` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `508` | @BeezyB |
+| 💀 | `509` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `510` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `511` | @Aaron |
+|  | `512` | @chito1940 |
+| 💀 | `513` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+|  | `514` | @Jwisbell |
+| 💀 | `515` | @TSchiff17 |
+|  | `516` | `0xd215d23D8cEc4B94AFC1bB1B2D201637C183AEC1` |
+| 💀 | `517` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `518` | @Gators420 |
+| 💀 | `519` | @jdeets25 |
+|  | `520` | @Drag76on |
+| 💀 | `521` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `522` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `523` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `524` | `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` |
+| 💀 | `525` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `526` | @StuSD619 |
+| 💀 | `527` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `528` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `529` | @Jimrails |
+|  | `530` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `531` | @Uncoveredbee |
+|  | `532` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+| 💀 | `533` | @Pennyhardaway1 |
+|  | `534` | @Vahe1993 |
+| 💀 | `535` | @Bigdlaffin |
+|  | `536` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `537` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+|  | `538` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `539` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `540` | @aadickso |
+| 💀 | `541` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `542` | @Sportscardplaza |
+| 💀 | `543` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `544` | @N-Gine |
+| 💀 | `545` | @Chitownsportscards01 |
+|  | `546` | `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` |
+| 💀 | `547` | @naveed |
+|  | `548` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `549` | @superman9632 |
+|  | `550` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `551` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `552` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `553` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `554` | `0xC536A0faE10e441da39b85F93E67452881252723` |
+| 💀 | `555` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `556` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `557` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+|  | `558` | `0xac6e0D0319da6D3C2348F4c06e67609F469A0fD5` |
+| 💀 | `559` | @Aaron |
+|  | `560` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `561` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `562` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `563` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+|  | `564` | @Aaron |
+| 💀 | `565` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `566` | @jlemire |
+| 💀 | `567` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `568` | @Gobbles |
+| 💀 | `569` | @Rick211 |
+|  | `570` | @Usnavy3456 |
+| 💀 | `571` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `572` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `573` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `574` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `575` | @Glennwilk |
+|  | `576` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `577` | @pnealis1621 |
+|  | `578` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+| 💀 | `579` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `580` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+| 💀 | `581` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `582` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `583` | `0x0ab552bC2F3e5cECAb651bf4d051976a33E6417C` |
+|  | `584` | @Caroline_HM |
+| 💀 | `585` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `586` | `0x2Bb66bbc442c9d8De04C6bA8De313ef0383a9D9B` |
+| 💀 | `587` | @ChubbyBelafonte |
+|  | `588` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `589` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+|  | `590` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `591` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `592` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `593` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `594` | @Zner1506 |
+| 💀 | `595` | @2hatt |
+|  | `596` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `597` | @BigShaq |
+|  | `598` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `599` | @CardBoyz |
+|  | `600` | @Amongthethugs29 |
+| 💀 | `601` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+|  | `602` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `603` | @bloccchange |
+|  | `604` | @GaryV |
+| 💀 | `605` | @TurfEaters |
+|  | `606` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `607` | @BlockchainHOF |
+|  | `608` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `609` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `610` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `611` | @agreen218 |
+|  | `612` | @Myboys27 |
+| 💀 | `613` | @cadeclark |
+|  | `614` | `0x0425931A6b26F0ff647E66B794cDFA62Cf9873D8` |
+| 💀 | `615` | `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` |
+|  | `616` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `617` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `618` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `619` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `620` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `621` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `622` | `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` |
+| 💀 | `623` | `0xCe3730B98C60A594466A0E6Cb057162C36954024` |
+|  | `624` | @Jessejames420 |
+| 💀 | `625` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `626` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `627` | @Bchorley |
+|  | `628` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `629` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `630` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `631` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `632` | `0x062A866A067a9ec6F4949C22a4857a8C0DF2FDFc` |
+| 💀 | `633` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `634` | `0xF9f57cf0D475e7B76f38c30F5C331F8CD76A14de` |
+| 💀 | `635` | @Jintheroc |
+|  | `636` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `637` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `638` | `0x73eB1aac02d0CA30b24F8b174C84C9632d03813a` |
+| 💀 | `639` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `640` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `641` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `642` | @Amil4real |
+| 💀 | `643` | @Mbshorty1881 |
+|  | `644` | `0xcB419512a56D16620541eEC05A6A525516fBc696` |
+| 💀 | `645` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `646` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `647` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `648` | `0x143Cc1e8928828297ddBC80304a8802CC3561203` |
+| 💀 | `649` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `650` | @Drognan |
+| 💀 | `651` | @Cwood187 |
+|  | `652` | @dhuff1981 |
+| 💀 | `653` | @Zildjiah |
+|  | `654` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+| 💀 | `655` | @Moorej2433 |
+|  | `656` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `657` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `658` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `659` | @Bulls |
+|  | `660` | `0x91836dd71A4DA65eBd8758a0148158dDc4E83C6b` |
+| 💀 | `661` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+|  | `662` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+| 💀 | `663` | @Defidior |
+|  | `664` | @Lilpeep22 |
+| 💀 | `665` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+|  | `666` | @startnow |
+| 💀 | `667` | @Spook02 |
+|  | `668` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `669` | @Riddeller96 |
+|  | `670` | @cardcollector2 |
+| 💀 | `671` | @Dkjaheed |
+|  | `672` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `673` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `674` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `675` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `676` | @Rosh316 |
+| 💀 | `677` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `678` | @RomesONE |
+| 💀 | `679` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+|  | `680` | @Jrite88 |
+| 💀 | `681` | @vnozzz |
+|  | `682` | @Rich_514 |
+| 💀 | `683` | @Boro56 |
+|  | `684` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `685` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `686` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `687` | `0x177B5CBfd32efA317D35B21fC635c52f80b57B41` |
+|  | `688` | @Coogs4ever |
+| 💀 | `689` | @Beard_Boss |
+|  | `690` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+| 💀 | `691` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `692` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `693` | @Craiglegend33 |
+|  | `694` | @shiatsu6 |
+| 💀 | `695` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `696` | @Wildfan182 |
+| 💀 | `697` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `698` | `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` |
+| 💀 | `699` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `700` | @PHXSuns |
+| 💀 | `701` | @Aloggains |
+|  | `702` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `703` | @Indigo392 |
+|  | `704` | `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` |
+| 💀 | `705` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `706` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+| 💀 | `707` | @Djay2424 |
+|  | `708` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `709` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+|  | `710` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `711` | @Jackdellj |
+|  | `712` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+| 💀 | `713` | @Bluntedout247 |
+|  | `714` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `715` | @Zner1506 |
+|  | `716` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `717` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `718` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `719` | @REDBOO55 |
+|  | `720` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `721` | @bmachurley2 |
+|  | `722` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+| 💀 | `723` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `724` | `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` |
+| 💀 | `725` | @Aaron |
+|  | `726` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `727` | @rdel17 |
+|  | `728` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `729` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `730` | `0x0C9d86678448A9d6c789381cF112AF52A3439b20` |
+| 💀 | `731` | `0x914603153c4e089DDCdce72DDb6a07B88D334C9a` |
+|  | `732` | `0xd52c463435f3B876A463789165e288cB47335d09` |
+| 💀 | `733` | @Skbeck1 |
+|  | `734` | @visionsaul |
+| 💀 | `735` | @ApeTeam1906 |
+|  | `736` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `737` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `738` | @Smitty53 |
+| 💀 | `739` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `740` | @Dweissman37 |
+| 💀 | `741` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `742` | @addictivecardboard |
+| 💀 | `743` | @Czarny8035 |
+|  | `744` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `745` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `746` | @legend5902 |
+| 💀 | `747` | `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` |
+|  | `748` | @warrenthx |
+| 💀 | `749` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `750` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `751` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `752` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `753` | `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` |
+|  | `754` | @Todo1111 |
+| 💀 | `755` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `756` | @Bmerkman |
+| 💀 | `757` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `758` | @Frankiepet |
+| 💀 | `759` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `760` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `761` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+|  | `762` | `0x12d4BB6358aa65516a51435e872c49dee06EEd12` |
+| 💀 | `763` | @TimmyTheGreek |
+|  | `764` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `765` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `766` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `767` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `768` | @Daniel521 |
+| 💀 | `769` | `0x808297A821fBe498F94bBc533AcAD7D787E2b370` |
+|  | `770` | @Moku1 |
+| 💀 | `771` | @JoeHof45 |
+|  | `772` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `773` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `774` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `775` | @Aaron |
+|  | `776` | @MoshMann |
+| 💀 | `777` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `778` | @Nickydons |
+| 💀 | `779` | @Quietstorm |
+|  | `780` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `781` | `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` |
+|  | `782` | @Bmerkman |
+| 💀 | `783` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `784` | @Dfiss25 |
+| 💀 | `785` | `0x05E10cCF5B9b649B79B350d7e8e41dA558226364` |
+|  | `786` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `787` | @brtennis01 |
+|  | `788` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `789` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `790` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `791` | @Foobsie |
+|  | `792` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `793` | @ARCIV |
+|  | `794` | @RaySantana56 |
+| 💀 | `795` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `796` | @Aaron |
+| 💀 | `797` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+|  | `798` | @KingKeylo808 |
+| 💀 | `799` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `800` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `801` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `802` | @impezdgr8 |
+| 💀 | `803` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `804` | @NMCollector |
+| 💀 | `805` | @TeeWhyyy |
+|  | `806` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+| 💀 | `807` | @Terpie17 |
+|  | `808` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `809` | `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` |
+|  | `810` | `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` |
+| 💀 | `811` | @Jeshmeal |
+|  | `812` | `0x827eD5F2cc8EeeCB85AEB4EEAD46bE9BB95e8766` |
+| 💀 | `813` | @Shaffer28 |
+|  | `814` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `815` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `816` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `817` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+|  | `818` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `819` | @Bmorebirdsfan |
+|  | `820` | @notoriousPIT |
+| 💀 | `821` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `822` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `823` | @Dinosauringg |
+|  | `824` | @Wedge78 |
+| 💀 | `825` | @Jzs7658 |
+|  | `826` | @Sponcsak |
+| 💀 | `827` | @Jordo444 |
+|  | `828` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `829` | @Dakota9895 |
+|  | `830` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `831` | `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` |
+|  | `832` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `833` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `834` | @krispeekreams |
+| 💀 | `835` | `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` |
+|  | `836` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+| 💀 | `837` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `838` | `0xab4B3A2c4A7959e459Fff7FEFf17C02c60a6bdcF` |
+| 💀 | `839` | @mmiskus09 |
+|  | `840` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `841` | @Vahe1993 |
+|  | `842` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `843` | @warrenthx |
+|  | `844` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `845` | `0xEd10f0d76d62e462C46f520a223206E04b022E14` |
+|  | `846` | @Beerbelly |
+| 💀 | `847` | @emulholland12 |
+|  | `848` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `849` | @Goody232327 |
+|  | `850` | `0xC41E3F53aE3274a8b425E155d7f58e6Cf12Ce964` |
+| 💀 | `851` | @isaacw |
+|  | `852` | `0x998FE5f2737665181B957DB827C05F55392a28D2` |
+| 💀 | `853` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `854` | @ezAuctioning |
+| 💀 | `855` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `856` | `0x2091400569791bA828077C5b0c937086B99cf6f4` |
+| 💀 | `857` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `858` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `859` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `860` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `861` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `862` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `863` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `864` | @todddoubleu |
+| 💀 | `865` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `866` | @SDYote |
+| 💀 | `867` | @lrsportscards |
+|  | `868` | @Tibbs44 |
+| 💀 | `869` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `870` | @ZackaryFordDrops |
+| 💀 | `871` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+|  | `872` | `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` |
+| 💀 | `873` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `874` | @jonbarker14 |
+| 💀 | `875` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `876` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+| 💀 | `877` | `0xa2116eB15F9DA56190d5Ac7f500101558b707968` |
+|  | `878` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `879` | @Pzsuave007 |
+|  | `880` | @Cugier76 |
+| 💀 | `881` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+|  | `882` | `0x2991A4FA41b25a64eD68c68b3d18dED0115168a2` |
+| 💀 | `883` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `884` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+| 💀 | `885` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `886` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `887` | @Topherbishop |
+|  | `888` | @HunterMT18 |
+| 💀 | `889` | @YoungJimHawkins |
+|  | `890` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `891` | @Bobbydecay |
+|  | `892` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `893` | @Elevatedweirdo |
+|  | `894` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `895` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `896` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `897` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `898` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `899` | `0xA5f1804dC8d7787A3c63d63c58B7D7652d13f345` |
+|  | `900` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `901` | `0x59768b06b66f105Bc0424816704E216a15780fcd` |
+|  | `902` | @Bray904 |
+| 💀 | `903` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `904` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `905` | @Bjamps09 |
+|  | `906` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `907` | @Advan24r |
+|  | `908` | @Bus23 |
+| 💀 | `909` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `910` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `911` | `0x312A275b68E21BBcB568aA3b89d11278ddA1ef04` |
+|  | `912` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `913` | @Mikeko1967 |
+|  | `914` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `915` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `916` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `917` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `918` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `919` | @Bluehen75 |
+|  | `920` | @Sleeper |
+| 💀 | `921` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `922` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `923` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `924` | @gemmint717 |
+| 💀 | `925` | `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` |
+|  | `926` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `927` | @Ryancap |
+|  | `928` | `0xcB419512a56D16620541eEC05A6A525516fBc696` |
+| 💀 | `929` | @BLACKIRISH1129 |
+|  | `930` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `931` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `932` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `933` | `0xe4d7Bf139fDE138B247F0ccaB63BF9796Ed86D58` |
+|  | `934` | @Ojeezy |
+| 💀 | `935` | `0x6637395681603FeE320296Aa25B12A682Cc72aCE` |
+|  | `936` | `0x343a90534A893b671b8F69171fA13edA50Ed157F` |
+| 💀 | `937` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `938` | @JonSimo |
+| 💀 | `939` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `940` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `941` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `942` | @Elevatedweirdo |
+| 💀 | `943` | @fairman |
+|  | `944` | `0x6F4EF6a2Fe95C1a9D01742622a84c723a3EF8375` |
+| 💀 | `945` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `946` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `947` | `0xd360cfC49e06b2Ad6E70AEFC2D89ea9737B2B494` |
+|  | `948` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `949` | @DjAron |
+|  | `950` | @Zaltcards |
+| 💀 | `951` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `952` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `953` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `954` | @beeret |
+| 💀 | `955` | `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` |
+|  | `956` | `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` |
+| 💀 | `957` | @Hemibadwagon |
+|  | `958` | @Pton16 |
+| 💀 | `959` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `960` | @Cardking79 |
+| 💀 | `961` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `962` | `0xec529bCBbAf8Eb3291d37f61485585EC2700fcfe` |
+| 💀 | `963` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `964` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `965` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `966` | @JDBASEBALLCARDS |
+| 💀 | `967` | `0xDd4fCC98203f836242BBC19531Af345e17B3Fc98` |
+|  | `968` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
+| 💀 | `969` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `970` | @Aaron |
+| 💀 | `971` | @Dajok3r174 |
+|  | `972` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `973` | `0x036BAA50aa4749f8Bde9B70d29aB8A698041f204` |
+|  | `974` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+| 💀 | `975` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `976` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `977` | @Jneal |
+|  | `978` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `979` | `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` |
+|  | `980` | @Dhcannady |
+| 💀 | `981` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `982` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `983` | @Cryptowalkee |
+|  | `984` | @MBx2713 |
+| 💀 | `985` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `986` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `987` | @Furlmonkey |
+|  | `988` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+| 💀 | `989` | @droversone |
+|  | `990` | @freddyfrog |
+| 💀 | `991` | @dillingham |
+|  | `992` | @Gradedcardstands |
+| 💀 | `993` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `994` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `995` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `996` | `0x9FE8B927386E8BDAaB7F2Cb9895156E99feC3492` |
+| 💀 | `997` | @WaxEcstatic |
+|  | `998` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `999` | @TheMagician |
+|  | `1000` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1001` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1002` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1003` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1004` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `1005` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `1006` | @Hatkins74 |
+| 💀 | `1007` | @Jerms2828 |
+|  | `1008` | @IslandsRipper |
+| 💀 | `1009` | `0x7004373D672BBE6Fa6550f66A431E78584a69D27` |
+|  | `1010` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `1011` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1012` | @CoffeeAndChronic |
+| 💀 | `1013` | @Danielbreeze20 |
+|  | `1014` | `0xB8AD1b5807FCa2be190Bdbd1AcDA33Da55773a70` |
+| 💀 | `1015` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `1016` | `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` |
+| 💀 | `1017` | `0xf3Fd3FBB9b9F591c6ED57b415b67aC16df33BC75` |
+|  | `1018` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1019` | `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` |
+|  | `1020` | @rcbeck2 |
+| 💀 | `1021` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1022` | @Chrisjames82 |
+| 💀 | `1023` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbcd738beeeb23e770acfd6681699e588426391bd556bdb0ec509dd335760271e) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2f46c7c69b3f849766384b03c7acb94ccc222e76c81b8ee0a139dd17145f6f5) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38694e887bdd1bbdd17abc15b773759d3e2380f27cce6fb1bd7eb74b07061344) |
+| `0x027356F4C1CD93D9E7462cBa13FecC873a8FdfbE` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d6aba0a9d96f1c8e5d48bec447d02b5dd65494051a1ecbe7fb8a91bac43b98b) |
+| `0x036BAA50aa4749f8Bde9B70d29aB8A698041f204` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b2e6a8c23996ef475fba1eb8d52ec367206daaab2da2928eb9185dc60f24e93) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x54b1f843b6b76c7399725d1a8f8b33203993b5ba6d7537d5847e23e876870151) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6bdf5db857643543c4bab4b8fcae42f2d593ce0b461d49f21ab320ebc7d3968) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x347b64b2c77abfebff81b7e1d97eb5d6dea2beede8c7768e8f6297a23f1cf1f9) |
+| `0x05E10cCF5B9b649B79B350d7e8e41dA558226364` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ee670befc3481e7c51f8b788b459e06412274ce765a78a00808250d6c70f89d) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfddb752f7f89511f23199e1b941b62ddfa54bb6fa87e9897338d4989a64c9ee5) |
+| `0x0ab552bC2F3e5cECAb651bf4d051976a33E6417C` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6a282cb663efe4a163cfc5a8ee6768838e2819a1bec67acfeed14d82804b5847) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93b90f3644c667148f1dba86df36bf9a6662f8a44584a175f638ad2c21e5c32a) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfb5d4929f3df6c032996549f9dceeda5f7e15d7d1f0f4d390fe403ed603f69bc) |
+| `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8380e822bf76fb2361551c2c2780ccdfece48d0f16aaab0a687d131c88b3be32) |
+| `0x10744887494e29e1f5d25d146B09517329ebC3de` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x757b0af3d7c40abdde55473c4731ed337e4f7f3bc1acd43b4ecea536b412ff26) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdc8290d17c453608899efc3861c5643279e0a428f2a1543bac9f881802ab94e7) |
+| `0x137FD84229C024130cF862E6F32f4114526ce813` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x389be6cbbe6a6aaaa3790deab95fc265c593af304aa63854252e2b680b3b60fa) |
+| `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6bb10c177f424a104f9999b792edd6e6ca5bfbedb711f1db7a5a1ef085783286) |
+| `0x16321283Ab22e4B2c56052319ca17773F24c8504` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde8c9ec94aef151ba441034281c817397bcf28ec67600afc06ee22187912a0b4) |
+| `0x177B5CBfd32efA317D35B21fC635c52f80b57B41` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x015b1a7150ffe821b335ac2aa6e70e37c44ca939a47e0118cfd83fdec6fbeecd) |
+| `0x1AE2105330a7343c67Cb582686fAfEA40da78CAa` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x113244d6af148f4f5a3ae14d1e8aeabdb9ed82282295500f8812fa0c3f2c106e) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | G. Antetokounmpo '13 BGS 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6fd23db0db15e62416a2bc24d0e1b328b30b09ef2c1e00247804e5fd1807642c) |
+| `0x1c180883B04B502d69b35c7784eCC78b93748856` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e2802162b2c984b8b0c09ebf04e2c2892c3b29e0198b67faffffcedbd22299d) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9b0e047e22a8a649f7039258752bc76f256091e29e5005452d496e2df89f4d75) |
+| `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc3d355755d65226e1a1a448f8e67f6a5df6092f47dd1f8306b5b82839c25b37) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x672b0ade1ecdf8e839e477e68dea11a4763ef54e426ce97279df45172bd0f414) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x406c3cfe6ead0e1f07e7db34a5a7b388bc23fe1136c7a775570b3dcc58539e95) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12a2a1d5fe8fde65e528a454520fac1475d35107cee36a0d31ae446f0d377c23) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e8aeb060a5ef22e133a59cd2ba1d868169fbe1e1945d7f81d48cab459f3b187) |
+| `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c2859c16f402e3d5889281332be748e6ccac6357e562f047f070adeff9ee578) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89d668f84932ada5c7afd792678076ea70cffc7fab3c135524079831b91567f8) |
+| `0x2b6eC693FdbB638Ad6162b88fE6167E2EC9764dC` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x128bbb357bf554eef36a07396ef039b390e3b6f826fa6c4e17deb4744841100c) |
+| `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43a7618a1afa1f76a30fa0464e3b237d41501ec5daaab0c4a5f384592683b58d) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x18a97b90dd5a5b7e0c602ffbe774e2f7e095bb7e99d3359d6fbbd28379532eae) |
+| `0x2ef10F8AbA85BdBd878cb1Da4f6E4666Fdeb9BdD` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3256f0d482c8d49357916d6d4c4f947a9ed712943cf5dd2a206ae001aa04be8) |
+| `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26a32c5a2e2985e0e44b292b2197b2a29d2d3711b0c2a60d9267cdb50dfcf30d) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99fc9fa172a095cf25ba3fcf40e73fb10883dcc71a24cb9a18de223ff93f797a) |
+| `0x312A275b68E21BBcB568aA3b89d11278ddA1ef04` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa75d6a23b9ae369f873de459d70a5f2703dd89bebd46466cbcdceaaab0cfcd09) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1370aab3cf6589f7822409d28cd6a8dffde8ab8f48e23c11fc912a3c6413e9ca) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7dafb6c3a4adfe9bed9f5e1177cff56f3ca1f595c78dd6cdeb1ae33bee71a674) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c3dcaf9ecd4d57a486e49d4c3d119ad7277950b3105c617593ea401cf64f82c) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x551bf895d6ac4ef15cc2f490e9b450dec84039885818f51d237d3e9d52e6d8ef) |
+| `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2807565469e5fa5ed76c704aba63011c11dd1315a9fe1e7089eb8878be9b655) |
+| `0x3Bf9A28fecf48b5e81bb6eFd84c81b5f3DB81C90` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f55e83b417837c66cec8c049c3fa07ba90893df233c7167e76f76811d4bdff0) |
+| `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f6ae269213203315ff7f13340f12cbbfacfd04b5b3396b91d8c6f11831de169) |
+| `0x43fF0f5779fea275A57F2866680841Eca38f26C2` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xae0089eb5d4a1180c1a518716be679316e8b0288cc1550987d6cf6a29ab8ded1) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x535369c22c6d2ad385df386e299b762e8733e7070b5cb5ad26da588bedb8f20f) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x17108a35a8c48fdfcd8f455cdc3017776ef39d73afa5a9d11a5f9fc305d713eb) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | G. Antetokounmpo '13 BGS 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x7415403df12feef2fe11321463a2b836bb9e1e85b016540c61daf3376398f607) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94212a0a66d2877ed05b759f0633634c9dfd54d212c96b1fd7b47281aab4f07e) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | G. Antetokounmpo '13 BGS 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x56a73bd21fb7b9df631108b848847540daf3caccbf5446c2483d80336ac6f86a) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ae4270ac45250310e128b456fc9205b24b939a79a4b64cf471b506b54210657) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89cfa2f7cd4101b75d3fc6c1f6ac1b26f9198d44909a31a7abc7ca418c785b3d) |
+| `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1d8577b61c9ff219782ffc881cb38ff4410d7fb0250b891bb52dca9c051b7b5) |
+| `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb85be91788f4cfc63cf10162c19a228a0b183e6e51602e0574dc5f9cb0a12445) |
+| `0x59768b06b66f105Bc0424816704E216a15780fcd` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee1885b3bd2a195550306fbc037f05e323c632012e51a8050c70cbece61aacfb) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55cd736fa1f9642c803d9b329d14b7b05b6c42851119b7b1626e463d71a0f7ce) |
+| `0x5a6fdD88a151B9ddBe4F4547070c47A9aA0E573B` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dccf1f21af3f3c3c612a40f9a9f231dc66b93bdad3a63ae488491b6dc1437d6) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x12962fde6ba20dad32f1c07ed9b67d503e11aa8b6bff2214dee31a53f8c27e0c) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e950343a2a4789864f7f3f50cf600b389479522b7a3e787312baf3eaadbf39a) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | G. Antetokounmpo '13 BGS 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0x04cdc1b5e102c564bb19e8c36d300efcf68b4732ebd9b733d22bd93d1259b216) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b664331b3dd987b793e2dc7d7b293a3751419ed578c0d3b5a2d86e57dd3a4f8) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x303c9a1d689b20f00b86fc41d5dd926a4529454741a23e64db57d3cc67360121) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb30026e3b5381dfa90e7d4f06fcac2ea6c61c8944ffab2609912be262348b44) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x552a7013d0af74c34d06a439be05baa750cba03bc6df4a787e37be683644209a) |
+| `0x5E1ba6D3f9CC983533c6F50FB5694aA3e79Eb223` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34d03f9869d2569626225055b68c88f2db16b6f6f38064f23273166ba983ae8a) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c798d276efa8c8f76ad071a47360c6adf13396d25d2ff387c221a038aae191b) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95d7a559512ddcddc993b59833884bf5d553e1bdd066ff1edb20402a4d5a448a) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7d7a9bf59b0c6aecacd9ee8c9c27795e2d960b9a41a8280eb01a7778dc6c9240) |
+| `0x64820c5381a70335e456069205e947720dE749Da` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe29c2907f28279e497726dd90dbd81676c07d138e78bdf3592eb9c59ea6aea0c) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc39cd962635a2c10168c60c95fcd1be1e7d2ee762bb0dde8ddf8a8786fd4f901) |
+| `0x6637395681603FeE320296Aa25B12A682Cc72aCE` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49aad60a69ea81da6bf6b28630c580e8fb7a7bccd96c8a4cfd44827bfce2080a) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3eecd0188158be5a1ca9053ca92eff2a3738e6b26178076b992022b8b0109aef) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25082c8768125d80ac0da4288ee9318f56581b39619a5a0b80ec66fd97a597c9) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5bafb4f0b000d94e270336e2e77ca9028e60d71a23264d1704d2c486e397cfec) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64ed39a3fb198f1fa1ce59d9cbb34b4372de92cf0340c71936304c6d1f44729c) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa62e4d67aa84e20055f30fc70f14df22798984f857db42e22571ffa970f5a079) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a490628d12eead2cf9315de39b562c8c59430021e82a0a7efa2c199cc8b627e) |
+| `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbd4ce094748ac1683822ee413212a155651b10dbe0faea2fb983c97a00a7e9c) |
+| `0x7004373D672BBE6Fa6550f66A431E78584a69D27` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x864bcfa0d77d5a5e6efabe878ec81a1922928c63d53bae758f65bf1d57a2dd41) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1c3ac3889d9aae5e35af5109e79044ee5db8b5c813d1cf6fcec4db9d34e2f0dd) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | G. Antetokounmpo '13 BGS 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xf47097c794399d387320f4c5ac5af4bc20aa5dc882b716d082b4e084f4a15993) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0853847c03b52ccc497e28bf0e396047a3e8fbcdbaa25de7c42eb41a94640e21) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x95a3fb1d262a12ac063defa495d30ce8e82d13fad7492a0d37425ef3c66ee321) |
+| `0x7445938D345c59143f608Ce686551eDE52cA5716` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa72f426a52a2cb894c9eccbee4a3f4c608ed2d9e50c861b68848a637a16ec08c) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xaa67be38c2c3d0220c6447e0b9ceff333f7a7c16b38793ef163225779297aaa5) |
+| `0x75f5239E80526936257dA2eba1dF069bFD32f524` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d4db786fbac42d7e9437d2c96b5e32f37a5f02f599380ae3f40d628ae054f72) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x222c6a2e9533d1d0f5515d799dcd4d5f80046aa680de947161e3bccb2a2f7a75) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c62ff2e1ea05ce7727fd769e9a99aa2508c4c3d335b2d07d26e0b8b0aac1132) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7721b710141c6ada27257db3a5ce600aca49046b921e15dadb03192297fa883a) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6fb3c9aca78f1062ee9d69d3d2fd68235717ac553e3b47c4fa2d55fe739295bd) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ec76ed43135062b481a9724f33ef901ba19dd2a30a7a363eb173faba9a80170) |
+| `0x79C672D355EEABbF5dA98F7b0ed63c73f6c732E1` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfdb4b1aa07718cd4d92ff0c2a664cec9ffa7db5a3e47b0fc7c97a0f622c6b5c) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | G. Antetokounmpo '13 BGS 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x97ff11f084b8994274c41662439d2272f73844d56cb0a15fb419fac043193ed1) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf03fe61aacb02ca40ff0f0bcf0d0641992e4d4c33e55e70e4d14c091e35e1a8e) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x175c8e008b81ac31b165b1e261b43aeaa4d0c5dcf40ae27746fbd173df9afb3f) |
+| `0x7B8E5007C45Eaf61c9963133a6A05Fbe01196B3B` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8200dbfca152d75f7fc8e56836ae1fc85a52bd4b205d2bd1e02449f9b0ee15e) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | G. Antetokounmpo '13 BGS 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xc2e9d84298cbab36b85562bc8fbd729034e6569456a00f6a42607603f6ef33a3) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc295945b9b7acaf25a941aab75ce02313e3b87e804e41a4c3191f7ab9423e70f) |
+| `0x808297A821fBe498F94bBc533AcAD7D787E2b370` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c83ade88c876e49c7a021d9278de488c2475bcdfca7e4994eb44025d232d2d7) |
+| `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04f67db046391b6b336c2175d7531026747eefffe191d895d62adb7a04003e42) |
+| `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x652673dd9f4f2ae547d160a66eae9d74fe70c9ebec6f17565e488d1333e17b1d) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ee659337d97ea040fb336fd6b19b49699d5140748859c9667e4a201e7df4795) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2a877d2d47bab3970083d9786e60f441b7ace7f88fad515e861c94f9ab7042a9) |
+| `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9efd168170a4c7c7576ebb500f686bd493e611ff26b6e55be0f52ad09b1bca63) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x325ad093d907b1cee13957c9e15224696725146a680505eded9c2b204d796390) |
+| `0x86B1b02c43E1e35ef325BB0B1A79789eCfF0cE5B` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4843da1cb8e743e850ea88aba3246a45101f6bdcd1ca7a83574dcd1d0c1ef47d) |
+| `0x882db77070905c3E67A7ba3f3335ef850bfE228e` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cee8df7243e338cc2db38c034aeb33dcfac110d672771e55e00e3b0d70f0b26) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b9942e47abd577f1279e29c140baec3b2979f539438662bbe78e549930dd9ff) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x361ac500d78bccf52b1a0af34d928ecf3b85ef099d6b26bc683106be02b2cce7) |
+| `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d69e360ffa450666d4a49efd795c62c2d74f153f401fb0c757f20ec62ae61fd) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x19a26461d687873da17e801a02e379eff9e4d0cd60886395d305b9410726fc69) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2538f7d48c2ef1c5b6a118c69d60d040c941543d0c1694a21dfde3b5397f51b2) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7ea9c189b0cb14f74eba407164ccb5aa960c946042ac250fb62de13b7dce7bb8) |
+| `0x914603153c4e089DDCdce72DDb6a07B88D334C9a` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7718490e730b9d3c3fdc21b54e24b42bc9bca7242dc9fe400fa14a907b89f6ca) |
+| `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00b9d1b3d459022dfd98b4ab1047b4ce8666227dbb95cd1fe10661aa1d332f72) |
+| `0x9493977D4b23dC234756a63b6C7A90472cB55319` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e22b95e8c47748b9cea736a07eb5a1e7570c30cd34634f9cc777103e0918c70) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | G. Antetokounmpo '13 BGS 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6de0656bdffe8a595722acafb6d8c154c1f776572b447b2642b4405e5352657c) |
+| `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe96adb4b5b514d1d04c54d2c992da308cf2f41a3b68d4b75f5ac25d34880de62) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd5e3f1981adc4358dbc709b8ac0095ddf222848709d7c6a30b192218f2e2a0f5) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6929406fd93b45712e359bac238354ae5df1c3574fcb2cdb1b4154ed132e54de) |
+| `0x9b7226eE6e4E1C37CfC7EA04A6eCa20e614a6f46` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c50b3620e36975cca20369449bdc8be26763ec7a8551d943ddd877b5b7f1fce) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | G. Antetokounmpo '13 BGS 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x7143916b2c6fc5558fa2af18212c7c4467972b2410c2ceadc107f12ff67fe3c9) |
+| `0xa2116eB15F9DA56190d5Ac7f500101558b707968` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07c3a5366d7d9d943739b73d4c58bc0b03b407c816e55064e2b5ac182d2abca6) |
+| `0xA5f1804dC8d7787A3c63d63c58B7D7652d13f345` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeeb95789aff16106dc5729723d8e483da7716a4d1032189433e9e5c4969f2f94) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | G. Antetokounmpo '13 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc63b27a56ee694ec2105d62bf188fd0fbbd6553d5bad42c9111477122cbe03c4) |
+| `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x36ae7d47ff25ea4c644311184ce274d02ca24b62a14bb5dd18fc4455ca7a14b0) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c4f417747d190a6a1a5c8f4d0572ac4f3da09a5ae61a0f13a9b78c6bb9307a1) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7d9a255173426fdecb2c2b66f9712f816f66528b2fae7aee1e8f7da185e6df6) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e835909cf1cdf940f301516f37434860e28872e5576b38dfa26cc233bd64b9f) |
+| `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x812509697f3d3cf4ee8baffda4de0331924a2b56281ceb0a13ce0da87856dd76) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd52a327ff7b34c917969c0b307455218a36e8965d1fa4e2749f64604c0be8955) |
+| `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5e16ff18290cafea06d5562c0b68ff1bbc625bad3d9cb3bf6dcc086b68ba0cb) |
+| `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f6d8f50bba8514faa588d6456c3bcd5a8022dc3e1fead0f3a201c6048d0150b) |
+| `0xb6c9A56B11BFAc6aA596413754D4E1BebD56b945` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3196128e1c65157413eb6ab30fc9d13910f2e0f46e9845ff5bf4b2423c22d8b) |
+| `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdfb3b758907b7cfda26278f25d0cc30648f13d3bd27273537e598162899a8bf) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa83b94774429058334ba22b1bb58e811071923178ebf6478bccc433d6b59fa6c) |
+| `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x35f3ca32d9ae35835acc148699a9d091874ab8471852fb54f8b4b77fa3ec7730) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d2b13b35b363bdbf3013fad6c7d369a1abb773e21fb6bf5f4ca5f80c77f6355) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce72bbaf936265fc12418bdaa7367e56a3a85b3a0ad3cc16e83517ef8f5500e2) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x020331595986bb008b7c5a9d2016ac9d73a623204944fa0e7cdac60423f816e2) |
+| `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8003477cd200ba2c6e51c5e28d1fd1b371a139e8aa2d0607b71cbd750f433d84) |
+| `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2035dc0ce2443b3b74a1efae5f54dff94736c3c32d50ae41dfb6d5a44a800b58) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7269131ef5cf5c178aedb6da1e06cb4b0a100f81d87bb6af7688497187aa62d) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x68f53301d0aab180f6567b57b395befd94f22657641cbff227648263047d3b43) |
+| `0xC4072A6aDDa41c1b84784c7A9E591265D73D6efD` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ddb4976b29bd4e354fb1b2d9ae746f0a6b4571a9e99ed124fcd8aa06fc4efe1) |
+| `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8558f05b1187f8fb0e8c42a058edc2bd99d8a4d32405c7a5c0ed8909e9f369f) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xee4dda84389ac432f3b477ccdca1755bf18d367900b9ded5f6c162f0f83249f6) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x58d9fc4c07632e186743d7abc4de7b1d186df3ec6949e4d5104897dab67ad376) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x00b4d757b00331fd321ac44a5578855145de41ce1360c954605b08b0c547a09d) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9a592df8a17cf0820f14da6ee68cbe9157356a6ba63c48a56f4a84edcd7de17) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff320e4697e77469879b962fb9a7140efe059262eecc2f9bd897b7b066cd5427) |
+| `0xCe3730B98C60A594466A0E6Cb057162C36954024` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a2321550fad6a95dfc5ccf935c65de4096ef8341d4653d88212748274693031) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4334b0cd19bb4fcf78ae039bb3a4361a8d1c8cfa0b8cd96b1ade9c313332f400) |
+| `0xd360cfC49e06b2Ad6E70AEFC2D89ea9737B2B494` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b82cb3f16ce0ae2cc4cb40281f351394cb94fb1bace32b9667967b3cef52444) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3071cf27e05679cf91167cf6552333a46f94782042ec565db36aa913e4c9bb74) |
+| `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98bc5aa630c2f65a6f941640912e1866e4b669b228ad3fd292c83274c5ffa861) |
+| `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9492fa00ee09a24696137a2176a43a4e9300bbb8cf815335f4850f68ee89391e) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69949f3a372c82aabd01c2b39b340c40f1a0cb57870175c4a735ed0113ca4c3a) |
+| `0xd74775aD432B1FBdD3b954cEB42d0edeD9DF7169` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dcfae1d103e6d474dffd8020ae95bbb899aa44ad59ca517085aac15b8277bbb) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x294c00a7407cc1ba5e9ae4c273f5163603f5e2cfd383f8b29aef996329197f21) |
+| `0xd78338421b0c53De416c3c2C207B5f340979A682` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b2d7cac13c87cd9dbd949c7291cd95fb9959c539f15edf752d1e139a07bfea8) |
+| `0xDb07B2a0eFFa11C8d2f522764442382735717323` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3f9a0a167017345fadad87db9bbb0a570ed463c843e6fc2728e74db5b96cdb8) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0a7831d1c0a2babdaf0d04d3dab2c7578cf2912d4341a77c045b2b02f068450c) |
+| `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf950ef036ece465395a6c88af1cd4230d0dd8a088a1e5f6e4bb6c98b2d0b640b) |
+| `0xDd4fCC98203f836242BBC19531Af345e17B3Fc98` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf287d8a24025c9be7d70176ee5600495ce8f4c9643fcd277a9f7ef451e112a4) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x55a068c7e5d0ae4a2d8b6abc04f402d40d8ef657787bf4cc49a6a1056f31c054) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa2e563046dc0c54e18ad44a9f643d13d719036e1c49970db9a1de410e5110c0) |
+| `0xE25858B3F0c84abA250f98157a6F9ea315b6F0A5` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee9312c2d80a35e79e1c305ae766b79b2c016f5e433afa0c297da07a2ef790f7) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68ca7d6cf1d0e70e3499f971946c45a21da9d654c37bbb8d3e9c29fa54939c95) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb12fd71da82c2eb4064fa82b2c3887118e638ade63e07fbbeff7ea342de181f8) |
+| `0xe4d7Bf139fDE138B247F0ccaB63BF9796Ed86D58` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c2f007ac4723f4cdccf9087111c37d6388ad0085a70b43ea7d9cc873fcf607b) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc6ded98978d102e5a41db6c75e0803e3272ea3657991c48dd43eaf38dc6e4870) |
+| `0xe652F0C0Eb5037AC4c2e1b6F968db2226969bC01` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0dda4069fd5fef4b73d1cacdf2eb08b275db170a5f60965439b4615893d50c85) |
+| `0xE6A2D5AC9DfcAaF8AD2c22ca57D3993b9b5C4FC8` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8708ce80ef5f462af86f162003644ace9b656dace262db7f5ef3b73413a809c8) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8a72bd1178de887e7380cd3c33b0c06c329106a4c1b527475e5068e7e679821) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0b707a77628869a12b4f5533c570b6f073d1ae372dff662c5892c061e11dedf6) |
+| `0xEd10f0d76d62e462C46f520a223206E04b022E14` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1d852dffc75fbf594bb46e0f9d99e7a2e6cd125dfc5ae96e38f383f1a40e440) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5afc2195d050e2824fb5dbed2dbea3e0d6585cbedb406f8426140e22655e9d21) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38e203fb49d340a62a5752ba486d7dbe9e3dd7e23ceac785a016ba0b3a52369c) |
+| `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3cfd256090913c2b7bd3af49d48ea5f0babc26ed52e4cfc51b794686e82464bb) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2b04ce91741a5f2dac3938b221badb117c7646f76f1c36985cafce87234eaaf3) |
+| `0xf3Fd3FBB9b9F591c6ED57b415b67aC16df33BC75` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23435eb510653783372a171fb76472e09c8fab63949c15646b0bfd9068fda802) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | G. Antetokounmpo '13 BGS 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x636fe3a127717895b1a3aa8a87ac22e6cc2dc5de72639b1e5664e9bc8cf21869) |
+| `0xfdc3E22f377496f607fCB9d8186064d0E39900df` | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f09eca965491ef2591b790a6f86b1905daad58aa840b9902ded41a7308c4bec) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | G. Antetokounmpo '13 BGS 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xfcbc80d00ef53b6cee8fc476a56cda58594045c83f5c22880ac5e88d98cc9b67) |
+| @Aaron | G. Antetokounmpo '13 BGS 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x989ca7fff7381524fca249b4f362119d841c8e6f1b7a8e33913abaa83fba3914) |
+| @Elevatedweirdo | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d53f7e434251fa35b5cde008ff9c8d5b617e18d51dd3258f2d5761ac7bb592a) |
+| @TheRealAgent007 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5adc338ab8f622bd2305dfea94db70b6072889bd485e174c8c3e3c368215226d) |
+| @agreen218 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ef5bb2a43391a7d36bf78c9a02f21fb3286b8d019cb6591e79ce3c518dc9d9f) |
+| @WaxEcstatic | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9328154a9c90b34c40e5e75ff159fd96eeccf3d45eb34b3fcec0a0face91be6) |
+| @lrsportscards | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x79f6f22f637cdb86788516a92fed624205ba0d394fa126dcda68bedb47fb7b8e) |
+| @NtnW | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x179404143bc72965b63fd8cf5539620e845b4e6ac514be96e8634efcfe928a33) |
+| @Mikeko1967 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3750653f58da52678397be6c46884a2556432817ebfcfa0fc23eaa466f195789) |
+| @Topherbishop | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9c381c16f3ba86d95462afa763573d130b839589d68e14578ec8ba83339ca2a) |
+| @TurfEaters | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6f5ee8500915515da0dfaa1fb6312e94a43b157c609044509044be3d2f0845e) |
+| @Ryancap | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31c227254a3cf84bae2d9fdc48a722814686b547c88fd5be17eacbf1e82e0dff) |
+| @BigShaq | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57e54b80458794f3a00633e49e242c7192aaba54e6abc283d530772e365c4fd5) |
+| @Dinosauringg | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x534084982a9e6da1ad2b4de8077ebfaadad3237d718fc6733454befc87c94ec0) |
+| @bneal123741 | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd8479323a8789f3d0268e56c028bbc7e11df426d4a8e5c6ed26e0bfaf6605d51) |
+| @Bmorebirdsfan | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4899169b2d163b6d9b026af792af3b6f5e6183e78ea3c3a92efab1a12e929d3) |
+| @Jerms2828 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe43e9f6943858e9ab9b65b0544eef302ec3d5622f63bdd8bc0ce32d58b0851d) |
+| @Skbeck1 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa403f7d7d31c52fab3801ea9e200f348b4b7e1f830a55821ad76ad9b711fd5a1) |
+| @Njshirt | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf46d277e4abddb2037da7e3901a1765f8ee24c5acc8d430c79b3c800c0661f83) |
+| @Alfy1 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13feab0a222b7c2e51e95a26d7aae56b0fa6eaddc4a4d780959e67e5cfc2ce93) |
+| @Monkeyman | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd29569e1e17439d47c2a9357fd45d6717ffafcb44081e4b011ab142a6b255694) |
+| @Diddlypoo | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf8c8a65a1af30a120f6e7741a2ae9ffcc55f6255fef7348f16121ca268dae5e) |
+| @fairman | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed643963926f374a183abde1a9069783f28fd468cf0099157faa740d02560a45) |
+| @Moorej2433 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eb90db795ef3f095d13fee78262bf947e1dfa5e821a3c229370093e9c2d8f05) |
+| @sdearman00 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ba88de6a14ae69ca8697ce01727945f0c11121bbb2cd2191b7c189f9f773b0f) |
+| @Jeshmeal | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d134cf7ebc25de399fab7c8b3e3b42eda8ecd335c39a47bd700de5093288ae6) |
+| @vnozzz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde205ee8e9bf1e536dbddf1f2fbd9982e0a24b7b0b2cc134b686ff8667ddef90) |
+| @Moefresh19 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x485077e766295cb398e95b1ded2af266aaff583028bd940ff27b76212e4fcb87) |
+| @Martineza38 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfb914e3a081ca1c1aefc040706fd76eb68cdb000c1f3db19dac1f5f1de2f043) |
+| @Riddeller96 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8968bd3d33820931b68d2f1af473d27703d6016ca3194769ebae9ea724a86337) |
+| @AMERICA | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccc98babc9911470f130a7dbb020c378a2589bf3b290d238f5154d8205ca6934) |
+| @TimmyTheGreek | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57398f8445749fae77de2c5dafb5e77d6dba947ab4934ac70ca22d6b3a5f5d0a) |
+| @Vinny33notto | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc7cd5bf1a0d19a7035102add29dde5d562622a76ff99e65f550a29416e58c0d) |
+| @cj5769 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x863a7516bcd45d73793a5c14ffeba8b05dd9290df0fe9acd96a9b2643070c614) |
+| @Robert31542 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfacbc4668fc10aa187a686c40ce05f1f05def48cb7c3a1a4481ae9206ec09717) |
+| @Cnguy2006 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x310e715c9b430fb91a51658550da8182348c922ce1272d219ba5144e480e884f) |
+| @VaderTater | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64ad72b5b10dcf2f7906f9d796b560538dc4adcd448532b9330bb26ce27d9f17) |
+| @Bluntedout247 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2bc67f3b5d745bf07a7a326b672ee39a4cd409f3da1129e5e34002e5416b91b) |
+| @Mbshorty1881 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11b05c70bfbae73f3dde1f86aaa68d3755b2d103ed19476d5a297db20838fb3c) |
+| @Advan24r | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5fb3056603780e2b74107aae731e1e66e0b6c9f77b09fab81ca6de82574bfa8) |
+| @Jcamiolo89 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2eb84199b78689e7e66ba8f902f14906fc864b2bc5b6825feb9e0581b4a1441e) |
+| @KCHIEFAN | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6e07063ee2712438dca12e9b6dbbed47898970997a13e727e7651c5cf2d3414) |
+| @Glennwilk | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0196572103528946890b3da905907e5759c272b8d4f0904f8ffdf026ffc0d390) |
+| @Pzsuave007 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c3be294c44fc4c97697452784793d352a9bd11d837d45c8c2d5e20d63f70a15) |
+| @Goody232327 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2adbbdf140ac4fc7e45a64fbcd089cee3cc11b7635e7ec898558ca13f8e985bb) |
+| @ARCIV | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x338df6ff20a7bb62c30af6095ad5327ba6fe98811075cb5615dd570cc0afc138) |
+| @Louisneth | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d7abbb05ab98ff006125a18430466993209f1b65351cc2059634a6edac7c91d) |
+| @Swoopz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x495ab5ffb51cf440c978bfae17edf1edeab5c43abd25b2dbaedded274e8edce7) |
+| @mmiskus09 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8030a654b94323895997688de79efff5973af23974d42f7724f6b38c99b1919) |
+| @Cwood187 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0dc50ad59559443bff2e92ee61773cb85bd2cb4f1d7863d2e722f31b70b5a1b) |
+| @Backpills | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1218e1c411acb9e308e3677c021084b9f518a3a9a398347afcee61f11601a1e) |
+| @Jessyeli094 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ecb1cc0785605455d1673aae65c96cb0da41380a53adf3107deeba6a5877ead) |
+| @Jackdellj | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75912bd6893826449187ee3b8cae5853c1e9a9dff5cbbf4da0c567adb41ce00d) |
+| @cadeclark | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5197f6e3736431f882c7539bd3251632e342588591d856fbcb502346b43c03ee) |
+| @Walrus1971 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bcb65cfb6d52c9465979f6fe94f8fa0a4408b7c7a4282e851dc7510cc6fc96c) |
+| @TeeWhyyy | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6195e2146183025f1b36c182257511b4518ed82728ff5442576abacf4cc0e53) |
+| @Ohjohns | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbde08d65692bfd4cb62cf90ac6a66f498280d2a82437a2d272896cf639a3e0f1) |
+| @dagotkin | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x933d8ea95fed65a99a98d82b9fe06ca62538d56badfd13b55f775a03b3295067) |
+| @Chunk850 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9f3058434eb1628f3914dd4bc37e216574ae02740e2849f91f75e82f269f398) |
+| @Wrb5150 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfec664c7a88c860fe4889bcfe1a09d1552b755ce3adaf67707ecc838d679a8cf) |
+| @AniseMoon | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb89015610c87a37222c02a6d398a9ebff203097721c2ac258fb072f8700b62f) |
+| @DjAron | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf009cd73625277704f1215d2baf3488b76f715f994e3efa14885060ce9846a82) |
+| @Drewcoop16 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0541c3c16f5293510e5943fe345f07d7ca6dd004d7a575925b739b9370495e24) |
+| @Chitownsportscards01 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77a11bdf13c8ed3c031f047cf16038cb866ec63058be57f03483e02fc82efcc6) |
+| @Charger21 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x505b8f559876071d5dc2dc85327847c02e0a5dd3b7df64542d3b952f4e9501d1) |
+| @Johnss123 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccd64a04fccbea593811f5bfe24ae9d97c0d2e4af32864425d64555a9ec328de) |
+| @compcards | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc110ea916998d851e353aa939445485805070642e1f2ab5cc45b6da00f674dc2) |
+| @SBoycards | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa06a543fdf9f21b684e36cabd9e7494ee2f9c86206c2ba2f6b73f3ff9c68ecb2) |
+| @Cohigh42 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6d65e68566acb2830cd2a54916f0da1d632edd7f829adab821f06ca763be560) |
+| @jdeets25 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b85d9db485793e1aa5186434afdfcd273efe3382023fddacbf45eef7ce7d906) |
+| @ChubbyBelafonte | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5779a6c3b96b6137ece0303cb8f852dfe7af41d1564b3e8231425f44eb123bff) |
+| @Tw3ntytw3lv3 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76ee7eeb2377fc25bb45668e6a3d4c0c9936a08697d125f7c5e00d0725ee7dd0) |
+| @1soloriosolorio | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6001c1316cb88edaa1adbd02896e81a4cf60cc602225409fd750ec99a8ae8831) |
+| @Dakota9895 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0c4606bad9b8c2a0f8dd5b587d5176d6ad81b3bb9f49bdbca6921399259eb4d) |
+| @Bourbonjacks | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee7d347b32fce680e860203e1a2a65b077abe1c2eb8f3004724db9682d741db7) |
+| @dillingham | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12cc5c8e1bb7a6d78954c7760f0f0ba797591af55577c984e5efa823a1f1ad8d) |
+| @CardBoyz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c587f64f86a4f392cd87614d902a4290216a4e311688b73ab970d2e51054ac6) |
+| @Pucho1026 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda00c7f7e18bf73787feabab9256995ff8f2c249a2325d2aa45356916f010ff8) |
+| @VikingGod916 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5619e90f544a0601e005bca7c4c2dde5249df9235da884147831c2c3ccdd1973) |
+| @Rick211 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1d0402d2af8ae7013e4471baf28d8fc71c45b081b23f3afab8d05bebad79d10) |
+| @DarkOnee | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a68bff031c61b3a3db796b9cf6cb5480a956dc1057107b15a53892778506fb6) |
+| @Mrrobotoe42o | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60ead6e98dc18a88d596627eb57c416f976ae5e3b83339aa0d51d724ad0260a7) |
+| @rsekerak | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cec396aea725d229e1ba10d33046103cd6a5ff5e138e7f5855dabb1fb94d660) |
+| @isaacw | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x796f6bd807c51acf20e205362b42e9bf4ae51750222a0d816f2867d9b7371779) |
+| @Danielbreeze20 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae252a360a9945489d32b9991d0fa106868d29226917634bca70d6019efd9beb) |
+| @Zner1506 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8acfc212b1fa062873ed9e9a4fe00d614427ef240c9b2c772ed69aa6439a394a) |
+| @Dkjaheed | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61041d544981f548b233f8d729f56a768098b0587f5b3b4aa82231a6f4d28ce6) |
+| @Calvinsymm | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x887249a40873fe4a2fba1931ad56f1d9124250ffda057be6bc864623b32b915b) |
+| @Boro56 | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd98c5c451275742309bdf40aafb9bfcbdeada9b6942fb0b66ed9918583f31665) |
+| @BigBuLl187 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbddfd51fd60e6e833f131e218df3c17d63e05f8cd4e97f220b70339d4389a5c7) |
+| @Sk1tz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf55f7d0bdc247c43aae4215c08ad496962102b3e25d479def1d225ab2985daf2) |
+| @Shaffer28 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c7876eabf432f913d1d5040a107a6569e580c59231ec17b1a1955f56fa9cc67) |
+| @Uncoveredbee | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31a7bc1a1c702effc9636ec28623c537effad0115b805e168facc453962d0bcf) |
+| @Furlmonkey | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62b7d6e7a469ef3aca4d0dca1feddaade743a0358f86fbc4e21137e0b79b225f) |
+| @brtennis01 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x108f1e9a4d2546325350ef68a7b086db4e120e7f58912e30ca87558d62f2ef4f) |
+| @Jzs7658 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa27f34347bc77332469c2b6a57f26b5a9ee6eb08f30a27e4e818f3b6668a59c) |
+| @Bulls | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x812b849ef587454eaef4982f62b1dcbcdba2f610dcfb263683c2151a45bf5148) |
+| @Bluehen75 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed464e7a886a66fb0eeb8f620a29cb00d943c73a40f68c19a3c216d3673d51ed) |
+| @Zildjiah | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11e54c50a3283e59ab1471f2d9a41eaf338be145fa84183778e4ecffaabc5b7a) |
+| @YoungJimHawkins | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cd2ddf7065b478337af637c1bae40222e9a7f4251f6e2fefd8944ef1c23aa75) |
+| @Jneal | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94bfa5a1a48fa563db4ff53817a575c4722dfe3535fd06dc6d3d98c02fac7497) |
+| @jpantoya50 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbda730122bdf3608a9a6b45c895525ee26e6e2fa09d05d873d42af6cceef1c55) |
+| @Swiftremourse | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x294682f885307188386a5658e3e756d7456ee14e5e0bdbf922aabdadeafe7552) |
+| @Tkmars11 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3529b406fa0155a5e4f6b66fec0e379993e3613295eaf5ce5cc99a83360f57b) |
+| @Hemibadwagon | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a97912ed470279d6ea7908e046e330e641ee3a0369481c4fb0a59cd59ba8a0a) |
+| @Czarny8035 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf61f5a7a2095e8499ca6f405a6c603247c4f8c305273679a651c175301c11c42) |
+| @TSchiff17 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80c57271b70bf53e02aac2b55237ba1959b72f07a3e4444dc24b4f83cd3846d2) |
+| @Indigo392 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x422c7bdb9605246d67dd88e942780defe3dbb7379e98c072c1b817a5e456319c) |
+| @SugarNutzz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35e600937c3f7c286c5a213bba5c031485689c4b25dd8b2204813e81b2ab1d7c) |
+| @Wags5play | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00ce89afa5f0e931a554b1d33cc27d1ddc9d05dc4bb79ca7cc4acad9f2e30480) |
+| @Waffs | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7d564b02a5ed75ec631433ab2edba9638a89af0de1c2d81bfe0635fc8aedd6c) |
+| @PMH_Sportscards | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4f77300bf7da336975794995caf1c58b20340d407a86b3b7e880a76333afdbf) |
+| @dWb707 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x092fa42e94fafe81b998db75903bfd2967c5cc6f878fe5551d741854c144ec04) |
+| @Richl482 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c8edfe7f45eb3bcf006c3a388cd89608632577b1bfcfa96612146c2af5cccd4) |
+| @PHATTY76 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc579b126badf87b082fb286fee79c290c2eb52fa3592fc0f1fee785174da01b) |
+| @Phoenix4282 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcbebcbe1f5b9a4940a3c796fbb5aa1c3360ad8800909a8b8a627da9fb83d6906) |
+| @Azican | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24d8c59378aff12c099c4d00787b40f9cc4fb1531574ccd9b1614afbed6923db) |
+| @Cryptowalkee | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc46bf9702a806cbf79bfe690bb581911634953ef60605dd05b8ab7b29da68e96) |
+| @JoeHof45 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeabbd378096672348130d6d0ed0d00c9908a9e493752a8673df02b3d462a01b0) |
+| @M85T3R | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd67d72bdf83ccd2785193c1ebb706f13f726d41d2621c4d7ff4db5a07e93d01) |
+| @Hotsoup23 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbaa393df83c38b018b2f08ad9d331ae880bd3da825e8368dbd1aee15416c0ff8) |
+| @Bobbydecay | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92a80a3ce562785276f13e4e52b79e3b7e133819405ec0654661090bee29a40b) |
+| @Brandonlink89 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x721aa59550665e2e1479e2f98fb74f3f973726573d9712272ddfa94921c80b8e) |
+| @Baublitz | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x886a5d8fb1d0113828129b2c08057564e3820d7c38b28e3ad5d62f40ce9b57bd) |
+| @BLACKIRISH1129 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd73fbe039949287bcf427d4670eefefce1a443a60c388cddb9bd17832c3f8d5d) |
+| @Bigdlaffin | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa49ebc6a207fce4e323dc19eb2f8998ae4a7db0494098faf44e6864981a74ef4) |
+| @Spook02 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa878e5a114b7e7abc79014940e265985ff7a33345905703f4f59bba64b27c3b6) |
+| @JosiahE | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18e2c90178211a25c7dc8128525e738e3ba8e5d50c6c58ea9000f5428c1c8f6f) |
+| @Jimrails | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5c73ddd81207586e1f9fcd03f1164d120af4a57b2922e50f7615305a90ae8ea) |
+| @REDBOO55 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38b4ea056ebc43c02b4254222bf237e89f1ca75fe379d9710668c67881aa6738) |
+| @droversone | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43f06df9cb7659596e60b3e789f318267f9503e98945d9156f4226eddfa22a57) |
+| @Jintheroc | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94860bf24968c9a9eda2accf5b2668c5909d65f8bac984c0955241b215f2c0a6) |
+| @BlockchainHOF | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e5e99c6ec9eaeb0c55ac38fd24ceb8e77918694f1ccd3fc9f2e4b05f0192912) |
+| @TheMagician | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef74e5d76f056909a6b2fe0ce617060d154cc1d3ca6d686f398ed92bd8e1d085) |
+| @2hatt | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x588c52a4813b0521238160ea377705d489f56ba517b8a44d883dbf621e579c99) |
+| @Paulstrahm71 | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd4ace8dee639bfecf61d3b99564621e47c0eff56c2f967ce948746562588448) |
+| @Newbieggn55 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ae8881eead3ff8f84729e42ff5e330ee0c39e87fbaa05cb52ab38a5ec01c5f2) |
+| @kelly | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b0f8ab14668410d03382f15cc31567647a5904e2576252222723b43c5618d81) |
+| @rldlsteele | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x432b1d70d63fd83a1144fbd2fa775e89d8a6cfdf113425aaba77ed0b6b792c95) |
+| @Jordo444 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ca3a7bec1cc2715bf7c6c981681cc5058abd39723bb9041ad23136ef5147f8a) |
+| @mmmTaters | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18f786c8a461eef789295be7014255538f40a909ff11c204c2f5bb46f488b0e4) |
+| @mcash7 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31bb24bb3d941316621af2c11e1b57167ab6058015a4999deff07056e361bb30) |
+| @rdel17 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86fa6e17a0b0efd9b00ad5114ba59bac7c1e5a99ee5362baa884658b0aaa4c7c) |
+| @Vahe1993 | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xca1e7177cf93c82567507c3d02574b4ac90ede33bd7baedc651212d01a764eb6) |
+| @pnealis1621 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a1a234febfc2cd11b05c641a038b6d0678bb751184a2e4f19027dd96db7191f) |
+| @axspointe | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1dc8e8446f3d216068f5a8ed7647f0310e93d5e97a5ebf153dbd99cd426f8c25) |
+| @DuffMcGriff | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x670853b3ec0b6195af50cecd3709e66e40a84e19bb1cb676a98799428d7d96cf) |
+| @superman9632 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06398a30d58e15f0657eed47622ce8fa355308ce57d7cf50923efd51b1599032) |
+| @Tmike97 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26a6593a8c064500d67e3ba9eea9704862bcdb31ec709ad7a9715f1c67f2b3e7) |
+| @Dajok3r174 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6057f5103bd1104df978d08f9ec4cb919c3b28022a1baa3683f8fa10258e5765) |
+| @Deezo25 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2679bd0860683b54699ac18aef794e7bbdfda1552123491f37eeb91b7285de36) |
+| @ApeTeam1906 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x824026aee49bdb2bbebd6bb9651a139a066edfd298363fcf741bfce5eb7d956d) |
+| @dotxeli | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bf47d7dfedf47eeafa142ad9a4a2a012ccbfed41538e0dd7f7ac8ccb0c971e0) |
+| @Craiglegend33 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f27d0b6203d97e9eb07a2788a0a1a457ea1a0fbc748d6de2d7a2a20464b634f) |
+| @Bighud | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13db30b4e204656057936056b94af6ad06d94d9adc6cf261709dae0d3d43ce25) |
+| @Pennyhardaway1 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b987386515a8fed19fac94847a6d897d8a5c7555c4956f6aa88c7d058ca8605) |
+| @OHTANIHOF17 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5fc627015a124851c36fc56becf77d691b2ce2b32ae4e45fe0dbef3f6d37181) |
+| @warrenthx | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc46d18a58e8670562a5d16400b6419ddf850a0bdf2dc73ba1be083b7913a54d7) |
+| @Beard_Boss | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9645eda008dbdf120cf1c90d371f53a1793bbb0bf19db1e4bc12327351b9d1fa) |
+| @dtmkyle | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e660ee0068aff7637051692681cbc2017028f7fd5a13c9326347eb5bc819011) |
+| @Illspikeurdrink | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a7ecb1d5a81ddcb64e88c76c012bda2b5c74f8400c20280e3729fb990190656) |
+| @Bjamps09 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa95aa4d595809aff5fadf1b6ce05697c4f9b3f7f7382322ab09225ed56205523) |
+| @Terpie17 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb887435497f8764e819031489b9f340dd68ca20c0b59be2379c9430c847a7479) |
+| @ItsMookie | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x708a53fd3ecfb5294aa1fafb1fa39a6dcf746c92b2248bd7ac8b8a9c61f0b700) |
+| @Sjolander2021 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fb824edbecaa0c794f5e8247b223f2e1e07e7f4ec4ce3a77e67f9a8a87ddb12) |
+| @Meezt730 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ba40c258aa827012d401e76c38563db36809f47b91e79bc8d0f5af0374f39b1) |
+| @CryptoXS | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e221d76bbef2bad55f838228ba8c7f3bee59f8ec0dde1001e7785faf58a843b) |
+| @Drtybird2003 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90d746c91153b17d2015335c511d5ce2ff470cb08b9372b8031381dfe0d26d52) |
+| @Defidior | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d6ee83ddc807708fd84bbeb22e267d0f919ef7cc39a2f10e972c7b5d3957756) |
+| @naveed | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ab0818c233e32826508f46c4cb52427fd92ef863991de5387ba479a45bd1d46) |
+| @emulholland12 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3578de7051b7e104d056f45d6836e9ee91f804bad1b2b828f9177600cefb8b6e) |
+| @Scover42 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa551c8d8498238a3efd8773261be67c0185a328ba3fdb3d13234f9757dde172) |
+| @Quietstorm | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd18c1a968d39005a5d9705af2b2fefe9a6aa37511f90812b2e4850b4c97162ae) |
+| @bloccchange | G. Antetokounmpo '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfa446c97167081a9244d4d6072ca919505051b0ee3cf136be21d4f43907ec59c) |
+| @bmachurley2 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b804ab9ec239ba2c4cd348078e67f58bbf13042723be8b8bef26634cb007834) |
+| @Djay2424 | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2791b6c56289ee103216c514eb2f170c63616f20c65fa7652bde21f0c559438d) |
+| @Aloggains | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a99ea08236f69fe73bc891e332b8b97cddcfcae329f911f0facd7a2f2f7af9f) |
+| @Bchorley | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9299c15b4a1fefd25c5c0d25b03b6268455fb59dad36e50097b742eb085565e) |
+| @ddpodpes | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e34f1a3cee07ad7fb5d66581d7082ec0238bf661f8f12f1851c6f6bb4dc6652) |
+| @Foobsie | G. Antetokounmpo '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17b64f8a454010d9dcfcf6e9cdcef68a5e7b96efe58835d4c536a86edffe6f11) |

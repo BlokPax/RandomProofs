@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | B. Harper &#039;19 PSA 10 |
 | **Internal ID** | 391 |
 | **On-chain ID** | 125 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e77-43a3-87e6-d58a29d3ca39/2e04526e791f6827b70d9971a738ad695a169367be08c319754e3c9113a85196.jpg" height="200" alt="B. Harper &#039;19 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,231 @@
 | 💀 | `509` | `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` |
 |  | `510` | `0xF650A09556EEB5244246B020847168aEBbe5C3d8` |
 | 💀 | `511` | `0xFD125ab8900573f27f309129e9aFeBe64acCbDAA` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x862fc63597b2af9a5e201afb088ac6984e41bf48b81efad03462eb401a34c80b) |
+| `0x023bd7BaBe5204500Fa055d1E422F3338F6FB8b5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30564a06bb759b1e3798407dff5bfdbd51da406117413ab93fb2e53c54e3539e) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x559a424ade29782686886b55050f87cd566fe25ed8c021d11bc5c2ff1a2494cf) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff555051a9a4ca07584b0a20d794d467ecc2baf81e89832afaed5489d8dbefbd) |
+| `0x058047A4C899c5E7c2bE3D08AD198C5A4161248a` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2e61be6a89484405e3e70d72c7de9ac7fb3315e13806eea00fee8d9aa3b7d283) |
+| `0x064337fB552906c2F8e943a188CDC5D6506a1AD2` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7b995b3befaad632e0d3c6f9f33dba4fc0a79e233c1d48c0598afffbaae4698) |
+| `0x066571e52Ac487330e17Bec9ae977be4736ADc14` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0abfedfbfc9eb1dde1b08bf587fdb28234b56c76e946739a6b3b6b9fa3940f5) |
+| `0x066ef0E56191d3469999fff343C672eFD75f94D6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc816bb5a4ff4fad431374c08522a38b6bf7ab469208a9d9789f762d721bf0eb3) |
+| `0x074bDb736ac6893a1Df19c239Fcde5b7E74c7De2` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x108382471b232eec96bbdc1cc61ebfdd60c32b9e62a3554abaa3e4ee2d69bdee) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13581ed982ec8e7472a559181af3604d8bbb5d606300fc3e5a21d3df582e0571) |
+| `0x0A351Bb735de50e729cd5fF5cdf4dC2D4391f072` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd36f55dc9037c686e15aa15f77bd6a28af5c8743c2938460861496b476253094) |
+| `0x0B36e9d56a2E43Dd820f53FD4Eec4ab00f52BEbd` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x21af15cb135185f04b58df04efb21e66198ea1ead6485c1caab47325d14e11db) |
+| `0x0Bc472d17964dF13946Eb1FaCC45f56a0c66e23e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6df560a22f3454b0825779b186585cd8223036353a7e27356c3bf589d64bbf3) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x926baf5226c1b71a6e289a94ed86871649c2dc7b32bc78f886327f20fd66fb8c) |
+| `0x0c2bA22DA15109F0C59e87e4041aF8D4071467A4` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6a4973453b1318c2d4b0c09481241dc36cd136747053d88a842b6c9080d70eb) |
+| `0x0C8DD401B5Bb3822998ce4bd48B3442ba76901E6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x883390ff02b1ce294e15c5cf156fc951f64c6504145fe1b26cb8f1a23125ebd6) |
+| `0x0cD07ed81d16ae406e6baA451dC6929b8C851432` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffbf148abd7cc6d34c5003ccfcb75391da9b49ab5251bf00b3936d21a3894ffc) |
+| `0x0E6FEDA92E99464CDFdE9C9EF87116Cb9C602ede` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12253d923922a26d6b666c1dea04e193c4799547525838c61654c9373167be47) |
+| `0x10347356B569ccB73f77a1274d8b68662875ae16` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa838446456956cb522d9214e720adfeccdb9a8bb218419c6f669b1d474cb1351) |
+| `0x106532B2e8919343D239577c9D03Ec46Cd812891` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb900fa84252656b6f7524b77342b7152523795f4273f2b42d7547f55a5b6dde9) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6aa397c389c7e42111dc0c53ccce9fcd5a28016d8f67e7837b89081b135a2590) |
+| `0x11D877482E95B914641148547245AaBB030Ef179` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48c873f73c0937b56f656d670a473511e9e77848de0ae54a458a42ee2ffa39ea) |
+| `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xee4a6ac4257c54d773d1c7774199e468432bbf2a3aa1193c677dc8fb6a6a709e) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72e2d2e7fb4ce83886825f8a1906945dbdd888ed293c3720ee946092a86d6e0c) |
+| `0x1500F40D62B52b11B2263B4109754df2BD8022E4` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x87d0a545739bda7ba9a5d14d548655cac47a3c491d6614967cb949bc42287ce2) |
+| `0x160B27AB961a346D96F667b321e638Fafd5d9075` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1b5e274a2d6554e0683350efbbe5aaccdc98d4b8424089143eca8f88ea8c7d5) |
+| `0x161B37C4d1fB55b91E4fB749023811b15E5472C6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x802df1a89ec10b7c1baf24eca6c02d9e8561efe8d8921c99d5d753eb3bc191b2) |
+| `0x172a2ACCFB046c8EF4A838E94a726A676C76AEf1` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc037efc4bac4dc889c38ad65430c1452ea76585afbf1fd266dbee2b140963aef) |
+| `0x17741B6D85e2731662f1041773099E4Fa4fEE7F5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2b991170d64bd8a76eb06a26967854b9fdd0b56bfbce437bf32adf8f54c6867) |
+| `0x184a4fD96273a649da89E169E37f0Fce67bD2c74` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b94ff86184562e2c8b63ad782e48188e51b5733fcc9a1759b49f53a62c385f5) |
+| `0x1914FE180be3B7bf9C467cFd893b40Ff65446229` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf65f2500959a49218eff7aea5879d085e7adb6606feedf963437289c2eee9c19) |
+| `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f872157cb0931bccf4d414822c01dfcd2e041366dcdaaefadecd22bafad1272) |
+| `0x1E1BfF67638d4f5DA71a74fE1c278151FF3ca904` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27bcea31e02e6ce04b8f4729f6d3ae5802194e615a82145b3e7162e5e5b52465) |
+| `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd1f65718edefefccda86f471e45ba096fd7d7e32f37645b6660a4f7ca73d713) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd4c6e762dba78c6ded1aefa75889bab77b67e6567e10f8239f12b79b22b1a2b8) |
+| `0x222a0d64E056f0DA65e1f795518F414714fD11bC` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32db89357967cae2ed38b460c2c58ec31762957ca023e98883b0bbd9827c28f1) |
+| `0x2474d0D3426f49D0Dd52Ec8fD83cC929b0B28A5B` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4301e711aeb3f309968473226b987d7ffbe60d3e88541ee4cee7e12553dd756e) |
+| `0x2539375a3c2aE0AbC9889a37527574820234ca25` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x839b344424b10e35246ccb1b52d23dc41cd6c9e498acee21666a7fba457e1919) |
+| `0x25af88396913419beD8e2F1d20263e58e0a5b0d2` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2696c69ed2b088deb0966ef7e953a3d5a7b69490ec09927a15295a0254b2836c) |
+| `0x25b30d8956C06AAE3A6795B9B590C9FE74059686` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2410687d20776e5515b0271b93857b0a846a9a6443fd8c3d838d725487894cad) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8ec89eb03232fbe74c29895da5fc611605195c9f2dd76c6ca307f75fa904542) |
+| `0x293758681b9CdC8314e313c0b6dFB0605BdD1bb3` | B. Harper '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa204c5a32a744810213f0670c2051a33a429db1260d62af3dcc45dea49189ee3) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d9fdceb8de95f06016aa31c18dfdc76c53d2e46e600f3239a22668609d98b23) |
+| `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a319e4880ecd1f435971ca0e33f7064dfa8a0f198d5e530cdb113b59a2bf610) |
+| `0x2B3f82CCF4a956835f92C59bDFd782504E45EE72` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6766b15c89d60c8a49f18d2e643dc10e39c4299513db006cb45a8044dbb4a752) |
+| `0x2b7Aac550cF77a675020E84DA96E663b723aA04b` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d948ea6b39612f48eff7b1c1b5bebc7df54d85675b504977eb2ad4c1bfc5f9e) |
+| `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74c3ae7f55f97466a540738c0625b587e22341c380998f8ec82e7da769798aff) |
+| `0x2d68F788A66eAbbA347D269B40284515df5313C7` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc52a48afad9148efcda2d53e5f7c61fcbabffabeaee3383fd0592b5d24fb3dc0) |
+| `0x2EdfeD157d43eeDBd923b19e79193f10b421E798` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b95810e04eb98aaa1b6c5577f79de6e9a7b0e3db4f39afefa9ee2e85cc616d1) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4d29e6df2fff02c57dfb87a2a3ba73d387d56c23370d73e653e151c77523c9b) |
+| `0x313F039c818565899E161e00c8eBee81031B6790` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8708dc1eaa9537cc57f88323e5cef0ea05c9ee917397cff5c1c96c7dcfa3c1ad) |
+| `0x3364704f4094e8EB5349f8B01f4910eEE5F295Ba` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2965db0826297b995d649a5b082def374dfdf3e52627829e0d7e8b6a250df94a) |
+| `0x34934daf75B681796354086d3055B821FB3fa51d` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb42b08686c2c5d1c14286bdf81016460ad7c8f2ffce62abb2aafcc21d9602a61) |
+| `0x34eE2c8097B04bF54bDc69D571b82a9fe5c164b0` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccb57a3cac286cc10b8d92282df082dabc2a1cb2f352395a0d45d14c68c78679) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61e455f259f73ccebe2b18b55a200c403ad096b3405f075e3e90bd66d9e5e49b) |
+| `0x3834dfd477BFF04A18bA563AD9A7465caFFBb659` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0240fe1b5425986df4cf61e7eecb1b7ec3f8f2b4592880ab3c9a42946037d2b) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40592465723022bfb1a70c6fb0ce32e724d80e9665d0e0afa76a32acef909520) |
+| `0x394c2FE8e151707c7B662e574d895d4eF11c0b5e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba2c79db0b656c5a698350d8eec792f70b4ad5a4abece0fae788b80e2e1ea3cd) |
+| `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1d37adc693913f12b5643b38e0d30a43894d502dca6e91cec5d859f9bc1a31fc) |
+| `0x3A26F75FA5421b237A88e7fc1Be6e7efd25c8792` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x047e67c6aad1633950ba99470108ece62e25828912e957e6344639e360cfb010) |
+| `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97fb8c8e1d1164cabe77ff05afed27bd35ca052916c47a61266c3464b625d1d6) |
+| `0x3B59F550AE0fc851bB875927887957132e0eE8Da` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x224943aa626c185de18531be26a516528c6c075465eee1f02b506a6021c7b19b) |
+| `0x3c895De1C74B87A38AB76576d297427B29eA4F58` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c9c83ea91d83542a38cac55ffb9f3abefc3ed92a96df7ae791bef19f5ebd2b7) |
+| `0x3DF78b74f77987a9A8BceB546dB067BBeeF6B435` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5feafae81c0b5f3cde660fcb56f5661cb26a84446e0a3f74b1ca146188bf3cc) |
+| `0x3ea4c7f2a493b268f2829dA51f49866a0eE2f0c0` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2dbd89e623214b154196d87c16dc28bcab52df7291aefd2af6ba2e7acc475c0) |
+| `0x3f04ca2e75487B644877d4c2Dd2e09B553eABA9D` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe285f5d68d0f82e50d62cc069db511c7dc00870c3ecb4dc63de993a27e843d53) |
+| `0x41b09B1A32b6B219f13538180FDb65775ec7f538` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x176303ee2bc02920e307194c2d230bbc5603a664c2f91c54eb1ff1153fdde7eb) |
+| `0x43f8ab6a94187826F1614295C13AC6EE7C83Ef42` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb1f75a0706d3e38e8d229681fd75878cd8e021b8c0bf3fea5feafda3878338b) |
+| `0x44A0343e642e6192DBeb9b2F55Fb7a32dEA16973` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a3c3ed7fd4e21a0a3b1873aaf0f321824366c118da3d3dcc76ef2b1dda9a3d7) |
+| `0x4D8bca21c783441262749C9Cc4A8D6CFb97D396f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0b9fbd9200d64c935f6e8e8a7ac9eeba09bc986aee355ee3e27c3fde2b258c3) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x175edfe6c7bac071c822facf5056db0f25c3f4163bfcc96bd4fcbd04366f11fc) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f83f05ffc6e5daacb09a9319ded1124428bb4c4df62bf90e5260842c2f6bc77) |
+| `0x558382E7DA76e77102b493BcB9cc9e7D7502aCcC` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x438d9d57a252742db0e714d63e95b4812e5128acfe917db5750c8cf2ad63ae10) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc3d7b1ff080fccc6605c49d88eeabde83e859ad577d4e4ab94e27449c819ce1) |
+| `0x583d9Bb1Aa6CD0F98d239b1Bd1e5Caeaa7Ec34f5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38036fb294658b4810f0c205488f169ec98396981cfc6276f864cff53a400820) |
+| `0x5a674293A9816CaC0d76DD42cD5096f1bBAcD5fd` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd703ffac2fa53001c34fad4eace96d45f9c7f25fc2e82f1ac2250a4c2090a470) |
+| `0x5b47b697317EB7af3561872c58D875dacE8Af6C5` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd6042cb84487b48b3cbde04dcb84150773c36b87e553d99d53af10f23d6c0c64) |
+| `0x5C56651a547829232c810938C4D6d8D859c0557f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe296ea27184ddfc82430cdf54be649aee467471552f03a5968098ac596c315b8) |
+| `0x5E3D88A7A85419e462262a2FE1dF4B21f0c3356f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e595dd46f47fc4dcd7e34bf37729f25ba14cddd8de23773cafd1498c75b83a0) |
+| `0x5f6C60217Cd5Fc78b23794610CD16FfA93A05415` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0425234f13308a559f2e94cb1adb1f40154d2052ca5b307e1ce1e7de34f2e791) |
+| `0x602EF975AF646B3Eb8Dc52AEd73B8733853379f4` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39d0aee195888dd70bbb450ddcdeb6e129edfd09cac0bb9891a622e702d17937) |
+| `0x614d093f26560c60420735361b57Ed4A816A1DC5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2b3f41fe9b5b7f55934b4e794401a1cf713b0f56147b7016cebc60912e29f5c) |
+| `0x6271915E46761B28049d1AC10d674453311dEdA1` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b39c2f12420a2fd326f23ec70cba4ebb0625a73657880e785e0263f488daeab) |
+| `0x63eE9e25f1c57e1816dc53b041337e8F9D89e5B5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17254bec47ff88d19db72c9660bc335ee85dc1cb4ce38590f76916723a231eec) |
+| `0x6472Fefd8B2bBF81e33B4cD8B982BAc2559fEBd0` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xff755ee3fca75702157adc15cc00abda514460cb6c03c80eba37713f7eb84f84) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccfc157980511a6cb35e87804be1875285d8c47a727f90c33354884d712a1c04) |
+| `0x664f9A937C828e9332Cd044ad0e753b2Be37871B` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4f41eb618bfdbb825493713127c819f5fcc852784c7be3ab69fb7f7ad441cfe) |
+| `0x68407710A2172dD5a5677f3674E081fa5425Ac20` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb498edb888999e5872f2dbb944664fdb48b47f93e0900ca18cd3abb38290a820) |
+| `0x68cbf2f4Ae4e22c8E2f959d6B3757Bc1A8a861a8` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x264091f8eea4bbe00ffa591ed6781c584a1c2b6d33b594c3c998771acc7da559) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeeb89dc0d4c0a848b38d45d7d7c968bafe521730e904ab8cf707597453946fd0) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | B. Harper '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe98848e944fb636943038febeb029c9ab6e1385ae6c6d003de4c9027fae0e1b6) |
+| `0x6b7f53457E228f386b1E32287DA7f52F5670cf9e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa0a99d4850d1c1f44f8161d3100c57578d4cbca783b5c0f473133e97fb40218) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde31e3589f5319f6cf804aa18932b5d05162db6f20010a1dcd7d628bb4e90165) |
+| `0x6Cc37A21189Da43ae93547882B55FA719281Ab4E` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x666865a60ca9815cf48468de28d4c272144c194e16f850aef25361f412fafb39) |
+| `0x6D8BD17f0b11B82f130A5e6168FEbB7fA47cA17c` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb028e09711ff187ee9083f4e19fc325809cc6776c2eb98cdb08596ebe9c52ddd) |
+| `0x6E071fE733ea84710FCa3E78194a1E8Ecbf3b1e6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a7043321e5d4a504e05bded050cd32bffae2eb43eb0bd764f69268521ec7b0f) |
+| `0x70702572468cD5506bA29574235E23ebE42db8af` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ba82f22db45e7f5e15392dc01ea7dca20e676da315b5e4c1ae09e62f879a52c) |
+| `0x7540C8715E7c6d10F2e8D168a23dc8EE28197acf` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb79e14de599f144f590809391429e5eb9e532ff2a6fa9ae1a74841bac24f642) |
+| `0x765c0C4Be76281821716f61f228d6788Df1ACF79` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x164d24ace531564529e00a42d36ee3536f6304058a4a4bea02e377b5125ce03d) |
+| `0x773e23F79e562d6219Cb6F2c0b74Ac7ccD71f81A` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb00d89940067451eee6a2cf0189a94ccb5da747c8574e967b21d09256b6a935e) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddea6d182422891b1ee4ed7666a82802e1e8a4da78cce13c1495a0b2ea38a8ba) |
+| `0x7A0d3ba6dD4aEBbF5F824EF16c6e19553f33c4b8` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xec86f48a370f9f8f0a64bbbbbb07fe3dc2268a4b641ff2a894eea6417fc9069d) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf28b3a8ca8e63869f5276c56b66834ae1af8296484c538cb37fef056d3fe73c0) |
+| `0x7ae0DFB44b7c05507799c2beD06126fC3885aE78` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fb56088009ede1da12b18e5d0a36919828e370af7f6f2b64df8d6dc8497da6a) |
+| `0x7B981fbB1DeE50335d0b4f7E036712E8E5D67FC4` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe031e0041d7f6715daf1f9d29331b58491c5eb2c1dfb2bd0a07d6f0de3c1901c) |
+| `0x7Bd373d3d787bdf037f1f54631fa056b31076514` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x452de3aa1e0e95dadcf1babc700a3417da16d69d4504e85e7bca9fe7ac40c3a2) |
+| `0x7c86188b99dee924C58292936034D62269838B1b` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf87cc8d3fb9f53cac90f6d4fb5df65e16867b87606507d86e27f43614565e75) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86d5f23cf433e3eb9c2ba6a109649b054408e76a9711e1165f7b0b98f211e371) |
+| `0x7E9f0bc2fd8Bb5A23Fa808acD4e7D99ebe4425AE` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x71480e933656a8863fe293f1943ce044795dd341ccaf34c305f659ff79d43a48) |
+| `0x7ea3DD9f9144f031d8B0C5652c4c2C1eea3Fa1bb` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42992b5db27a2049b8e31c46d3f1a138068e615fbba352ee734582458d5982b4) |
+| `0x7f702A3F21173C065D534bD75bbbEf257BE4f83A` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbab3a4e50990a69704b70f256bdec432d8e86906561a48115e256aa66039982b) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb38c9d16795d5ca388a9d1ddd474451ade3c9507913964c537c54a5615c67e8f) |
+| `0x84e1D14755F909976C90A8b0c0aADa1FAeE1d9D4` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1276c0e599810859c2c676d4ce7755c8094dbf0ee8b5d08ead42061f3abeda8c) |
+| `0x854f81ed9164b87044b96eBff1995b86f674891e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b4544ffb6cc10e3e2aef1602389a7c64698536ab33fe059811ce68aea107a66) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a6d29603e533b7c7865c40c40a998fd2faf089d248cfc4d286f69d0a4035d9f) |
+| `0x88748a7dAfCE7D4783D060D1f497b586cfDDab84` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc16fdaceaef26f63aa46838913cfba2cb5462ab15164389cd7824523ace9d12e) |
+| `0x89440a917C89F97F7F326F09d2cF4a68ed3171fc` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa54c30dbdba637f21f080e43c41def7803ea305f0bf47c519efde14ed9e6b351) |
+| `0x89DA82F81619a7b0a96D0f370D902dB6f319A7fF` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea02bd942c9a57f4450b5803088fe108cbda9d493d33ef971d54feb20c5dc098) |
+| `0x8c4552f9618C0Fb408cfF3Db093082508A34166D` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45031689dba9acf6ee30743d2e87019f49b59bf990a797b97bcafcde87ff428f) |
+| `0x8c63BD40D3ED706ca952643Dbf963a84f789b7aC` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd70fb3cf4af7a2a16cd2b8e4469caffafe3733b5b2c2e1531aa86b2022059bde) |
+| `0x8d73F876a094FBE187323fC35dFeB275Da556C2B` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a86e00654cdb15b25e1448bca5c250eda8570468cc8c9897b57ddf3d410cf43) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x560e3dabcc813654b351bfb6708d050e8d93f26eb073967f7b35299b7886441d) |
+| `0x910939318EE472D89e2b507543838c6bB3a9A09e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28bf9eb46c9caa8f13258cfb5fcc68e91238ce9dfdd7bc39a0d3e489b8dc2009) |
+| `0x91c75fc8a52F695D234Cc149A4584708270bda5D` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf98884607625eea3823cd2fa3f7e3f4c564f44b85cf1d111a8f8a011dc5a7f3d) |
+| `0x9509ad3e011530ADD0d58b62647ee2D414A17D6d` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3be1e18c358ee487f1b8ccfe95fb2498f95427e610b0440f26e4f2319a9127d2) |
+| `0x9519ADcEadeD5329EDB18D7f4056D522e6D5947E` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca05fc5555d0306e36d5d54b19bb70aab12978323d3a60f6bc0b2e92e1411eba) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdda353ced8025eb4ff019bc4ef0d502f927cdc993caba212bbc7838fe2f22e6f) |
+| `0x975B256Da00De0eC8dA7BE73B9309145Dc1DDbfD` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x849239fca07f0645dd1cd89c5b8a78f0092a12d98c6425b3bca2b7ecbdca325f) |
+| `0x97eaD07C19b9e7A23fabB608c1548649F8F67bf0` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0ebd1a337dae48396d10caa0a4fce50c1cd493be231ef2da68ee368b71d5f00) |
+| `0x981B092E4770187Ca976d5B80dD42f04291106d6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e500836e5f3471b34e98d3f3a3bf6f21c6008bea128d21d42c9648c48af1878) |
+| `0x988532FEc638666C18FfDF54b515F1142Dff96e3` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecbbf81ecf56484539161c04e0f6e9c2d8d13ccf5d7bd171dc46b6c7720e4966) |
+| `0x9a297967A5B1BFEB3819f61B2d76A2428b80BD62` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaebd5b91f9321376620c97907d1c207cdd1dd61721e5e559fc5a7f1af51ea499) |
+| `0x9a3a03939a1846D84491A76f57832d93199759a5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2349e2737c22a873cc4547276e17823fab07eb742ffb604cce99c8de5ad92f38) |
+| `0x9aA81D80d42AA59E0F67C75513C9dE1F7F487aF9` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc22d9b5bfb8c82a307926738d05de51320e6f0e7fb0f558dcaf6f6359ffffc4) |
+| `0x9b39a6d8375873B71F333A50700FcC099ce5e058` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1b5f292b68be40b55d8ebc5428569c3ee51d422c57b1e20ac3537576d023e9d) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28940c3417f5a54b91711e86da1d278c99748862257d36f85a4ab55e747a61ce) |
+| `0x9CEc58080bd570d0455Fc1987e1033B7f191da88` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98ffcb535857e3fa9a34324b2953001691ad7de111dfb92f39adbf33e623fe2c) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7f4775fcec1f8997ce86927b36ac0856ae0b2f7e27b76452ed9ee81cd2abbb7) |
+| `0x9d3b24F40aB6bd89c3e545E896bc1B9174dB38e8` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x874041c4aa819b6e293c10dac76c17f55f9a0041bc956fad9369faff58a6f5f1) |
+| `0x9F29B98818f9658f82003BbfAcF44ca81AF046bF` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e2a25de2e481835177ccfe24e72b3291a2bcd0fb3dc841a92e7b3cf8fca502f) |
+| `0x9F4080F3D4F56456ffF89e937725772974601Bac` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2d3b5da60960ac653c1a066dd4399389605e24dbdd95bb8acbfdb4370c49ced) |
+| `0xA29a358596a30d60B9EEcBafc75DE89D0bbbBAfa` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ef80e63c15cd3c8653135e4217d8e942e49c0eed237faab4ebdc774232dfcc9) |
+| `0xA3c4e0a8f58946e87eFa903Bdc593c6402e6c300` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb7ec5cfbb8c12fe31bb976a19ad5a6c9a278d30937d2be7fcfc5e3e340af4eb) |
+| `0xa52715845E2c8262E487d7D1B31D690e1D3934CA` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3c6dadd6ab9fdd220908721bcb1d96f8ad703de23270b6073988779c7124382) |
+| `0xa7D6DA21ccDc071b7A4971f2F3AAD8973b6cb784` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7a5a4b00695125bb2862d75802f3d1ce40807eccdfccd13ecf33433d5611416) |
+| `0xa82e1E01dc4E309C99Ba6f17a6BE1140Cd17a473` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x651697a52a1e35ffe2010c1fe21228c55e33d259e954bde0d614f761c841f3da) |
+| `0xA9D6Ee80f06d7f36C5454672Bc72bA290F8cb16d` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53bd5cd19b7bd98061a6e9504dfb713a83e76a3a65340388d733e652443655f5) |
+| `0xaa00d8a002Ab1473a08a0f8Fe1F510F37e0A4996` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3774c98d193469e3b3e09ebbe700284e7aa602e7224eab3ed7cb75784de0d198) |
+| `0xAab5B93Ea5DEd79B9cb0f2ef5FE41d7db633F3e0` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd93b67deb846f72c8a8486548d189e657d42863b6c12a70676cd473201f539ce) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x530969e3aa10a8b73774614672de30ad3ff4395b59fe799247fcdb40602c5dac) |
+| `0xaD17EA8f83429Fa0A4c0D405713E0C2fAE3c58f1` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f16ea104efacf25ae26e4edc8cbc8d962cdcc1b5ff5ad07790f666030133c68) |
+| `0xaE1326c2B3370fF47f617EE3FcAcA45B21724230` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d45e5ee7f2d389920b1320c7f78e738147cda0defdf38122fdd3b4db6386696) |
+| `0xaeb7eF10863EB7d9f0be4c581922b3dA534B0504` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8131ce67e4ed935e04e59832ad02f1ee379f5c96007817fa8a60a4fc1e93dc62) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2ffb935e819f33503c125cb04b4defa5980b2221488a48641c8800142be9f319) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd485b352be5b8d15590a047e86abb036a60cb46b6129932e357f3f7988b2324a) |
+| `0xB198091968c8C4D6178FbA005A85eB55b8035e4F` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x004b3b2103b0cc569721e940b48189cd59f517ad3cead07da0251f575df8df02) |
+| `0xb60C042aD42485b4E828E67dF011BD84DE566FC5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fafef783d6c093b3e3c6cb0f1eefd56d2dda998a8511448162b4f9e955d9878) |
+| `0xb694B781A41383967F5b85BB4D88D3893c1A861E` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x12017e7f4366cabc35387aba39e0918d8154befbfaea56bb279706ab4f61200f) |
+| `0xb8799f0F9cA852cF591b59e5D5Cdb4035c6536B1` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf27693576f759cb3e3d02d47e7a1f3bb0345f061e7c95939612de95fc77e17fe) |
+| `0xB92c1Fc4a0e469e42B51319dA772ab1E468069B5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6df264af49b84fceb483e74985671c9887d881171e0fe10adf5e772a11f4879) |
+| `0xBA293f6f7C1dABf78c755B7ba37b2295Af9F2dE5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81904bd4bdb9e4053a75bd96b0a4261b533af897ac2f45136cb1aec246dd0c41) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2316ef7ba133b6dd7f319ff0e1f935e430ac90b4f1a774f8d2abe13cf808fb11) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd35ec9e212683a42ad4210d444a253022415761fad854e5f564d04c480c5df90) |
+| `0xBdBE619cD5d7E9Ba826b4003eA13aD350c4E4Fa5` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7f5d33eb676f2f7688daafe52dc2aaab487614827caf6650b2883079fc38c4f) |
+| `0xbfBeEba474E0f0cA90cA325661edf117D8f28dD6` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b530e3fb59c45bfa7adfc3018d5e7a00fe6a88402112b21c34efbf69df07d79) |
+| `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f48869c1b19f56f73793e611fd2447c66641ea3c4f3a888c4c8c6b982c36bbb) |
+| `0xc060B886c831b3CAB56CA7085207FADC6209e851` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6344ff6b43061411f75e12c5e96e64b92c25aecbc1369259b38944798cd218ef) |
+| `0xc16a0db58e458D94091B0b6316Ca6C43C9518059` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91f8cb604c53fd52ddbd371349dafb71ee6e91ac380a7086bcaf12d1aae286b9) |
+| `0xC171b377800b977b6B705ab005a8D1695274b300` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae5deb09d2a6c8aa93a07c91f436a2e39f9a962a854b6090ac828678a5098b2e) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5240c380145624272ef5ac115f94b8ca0baa18d0a9e44342d4757635885d6d5c) |
+| `0xc3669Cacba53a96cfEe64Db832f704469f326C13` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5db452d1ac2dbbaabb33b88ba56b90e8ddf0ec9c36f2f86586836015f4d7fd3c) |
+| `0xc4b0A781829a8b861D3C1347767A367cFf0b2692` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bb0fd6f5ef4d7cdff93a838404af8ccdbf43ece070acf75ce1f56007eb5a6dd) |
+| `0xc5931b9d2747B2059E437e5B7a72f601F4767d4D` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e50fe57b255eda5a7af011a1ea2a8d8736937d88dfc2bf28420b274f289638f) |
+| `0xC7242DAa221441dbe830aC32DACdB5812B77Fa8E` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcbb6ab8b37f0eb72d865b68d2891868f755584bafe0643cc1f41bad0c704135e) |
+| `0xC88682834Ef9C8f3F9d48f0C375F28a010f1Ea16` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x430696df5776d014af5d6e02f9009dd70a460c9d015d8c004d11d6c51ae6636d) |
+| `0xCac55076cf59Eaa9ce8e14c1a8404f53518cf936` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x627b6323995b08c3f73c626938a9bf2949532741aba18c6a722873b98529d088) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7631755bcf69d9fab0a9bf7852fe6b9f293a4cb4ee78b24e7043662faafe189e) |
+| `0xCbc427B68Af2991b0690b6C8374600BD5376876c` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2957d051f1a4a4a244ace053744bb394b28743c8cb1f5cabed24dc422fc6759d) |
+| `0xCEA1D365346527Bc1EC73017c1847162F26a472C` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57f2bd1c50ff3daa3a7ad6aed130f5dd1ca186a89866592c4527d634f02b850a) |
+| `0xd1d8c0B4960Bf33805eb792523F6fB54bEF83d3f` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x279a689a0870b0353dbb178b653cab234cb97ad9c9fd5e2abd699b6151948bf8) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x569cee0540010fca02ffb7b2f70b865d2d682a4dbaf97494fdf901a3de28f274) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x827f0fb156ab59d3695292278492c7b1ac7eafa6475105f849736417b5da69c5) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa703ebcf4b850de09011195b3d4ac496785c4027cbf2c47cc2f86f0665bdb8a) |
+| `0xd780bbec1A9446cF44c94D9B29dAc88855869483` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc70aa69408fb3f6007383481e9e7d14c625b56bdc2876860c0afcc98074825d0) |
+| `0xD84A9B8627C0d8Cb86D8CD9f4791eC8609FDDDaF` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea6184021e434a8374dc4c07a5ada6482b4e0863815e8af85f793d5f4ca8a13e) |
+| `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x87010430572375f84f3dcaab2d8cdcd21d991e5f969bd9af0ff2440c479e5022) |
+| `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53917a0fe855b7d3a9b99d195740aa7aec97a495cab0f43536d4ee256d26a73d) |
+| `0xD9BdB3B8bb3C47bdC0017C958c8708F1373e9eEF` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9a1d51f51dc7e4dca62fd3ce4918a251eef85d0bc2c86ab00cd89c621f2c503) |
+| `0xda1D008ECC2883fEfCD3a5c52dD03fcE2744e9EE` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca423592ea64636463ce7015fe0e9d608f28df47f3a8cfc3b7fc9c31f21c3d19) |
+| `0xDa9630cAd7124B9c2e9ED1458dFc9e0b1BA9AE20` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ef2bbecb42ca8f16d16531189d11be9d7860eff8ed1e71979c6012ee8791a25) |
+| `0xdb770D07362c0D827e3e7ef79B9D1db8fEE619E3` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2088e17beefd6a17fc586eb1e8dbc86dccd595d6222ea7c348d59e4e95f0dea0) |
+| `0xDC83544c2dC55a6B27795Bb48Aefa4934965bbFF` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc07527eded80b76e1822c66b30f707a3bbbf3cf7409c2235bb09c52b479dd61b) |
+| `0xdCCa9e15a2dD0918bB5940C74951e3c30d27440e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff6867d9b087283975c919c945caf8858772e155bc546ed65b13a5f1e0ad7c1a) |
+| `0xDd5227094CfE724082df24Eb8e05e208C461889E` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1dec2bca6c99e7fd21b82c8491203e446401576cd92a702298d5f6dd1efe458) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11776684fbeed02908dab51f14c4cf29f0bc08663a9988e09ecd8f50efa0597b) |
+| `0xe0B0A6C004F7833918a898D303Ee686B886D8144` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfc02c65fe00e886227c47fcea6253cd9fc5d88df51ce9f0ef8b4a1f011d78fa) |
+| `0xe141e027545dBC73fb42a98a1B91830b081f3307` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x705dbc90d5079c9c185bfe32596b02526f0bc8115726742cb5d4272b244081dc) |
+| `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1c5116e2b77a0440ad1a7944c4207277490d29566bbc1ae27e305a4149f5cffc) |
+| `0xE20cd589677b0707d2067A8E4890C4Ac95c71DB9` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6df05f86c6cb83b420cd5b3f12698f5434a01990642f0396bb8a96f75d652390) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d18d3e8297db7b39ca57f80aa43a5931217eae949100882f4111299e293cb0d) |
+| `0xE3ADc503e457837f0e6231A03F5546bE05712794` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e20eb30cea7a8282371b250d745ffe23e79ff73380f301d7b72e2b692670de5) |
+| `0xE40904A4FfB62e887aCA710fE77040379F802c6d` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97fb00060fee96c27af562b53075f5a81abd01f4902a032e54715660dafe0bba) |
+| `0xE483C552AC2cd6033c1C1657067beBB93503c0c6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd87b7e441e3fb0b1b2b9b21f525eae18114483dde2c60893202b1cfcb749cc54) |
+| `0xE79c0eeCF2f1d306Dd454673869c28B306B37d83` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a29bc1777dee3bd535f232a6dd9baae3f59c22e43351344ec10ccce1d7b82f0) |
+| `0xe87Ed8b05D54A4B1821bCA55c13b045579780E34` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3c5e2cf7f9f7a155186b01738621559143534edcdf96cf67ea13167faf87302) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf7adede32f0329838026162f71adc5357f3b6fb8b3364401a2b60f1b29c5c1da) |
+| `0xe9d60681b3F1aF79e13E86B7635302D8b5D77Ef6` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd096d3cc7471ed1abdd5df9f7e922358d5197768bff46e8ff78bd2b4b0381871) |
+| `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0e69edcbabe7b25ba14dc633b69d3ab04f2e99568ece38f21196ee66005089b) |
+| `0xf0c75a4309EBFA162B248BF2589740756D7Caa98` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3dd7120ced347f5b16e260b44e56c237653cfa9a3dc411d1b1c299b49bd929e1) |
+| `0xf126d9CAD32c8dFEECC571c9683c0D30b305a66F` | B. Harper '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x32bd751f12c5d737603b6b374f34cf656ba2bbe4f9c83422c31cc128636b2c2d) |
+| `0xf19fbA9A9C7469BDba7A00929382b8f328DdD1e7` | B. Harper '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x193f4a7d1fbf1f853ae85b0412caed74abd9bcccced0dd7fdd406e41e91bc51b) |
+| `0xf1A5Da6A31641d0069c1B3df76ABf00e0d559eAA` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf6c254acaeb5942b0883ceb2e0b86434e4926f6c350a27ce133edb720400e32) |
+| `0xF1C7315a523E703d86a5EBCE571A7C2BFfa52475` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfc36a6d15da4dc2556786c121f5735d8fed3479d900cd7d6ef7e9d8d783508c) |
+| `0xf324a659eaE5516cE2c0E01b8067fE9F7889FD81` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe4c58f0aea1c8c2d54b14043e12b47016708d44d065270f6147936a8520186e) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53c1ccf94a7a0ce2d6451630852218c4b26eb449ef0c27f41b65b15d07ced11d) |
+| `0xf545db6Eae9b808BEb5Df1291C11fDcbbb2AdaeB` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77bd43d5d7e285222ef4c76e78d1c1a241a1e6e8db63a4e4e6d01249277e8596) |
+| `0xF96188cc11d0a997128675Cf50501472405e5698` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38ddb0a5ad10be490a840495db06420969b3a8aa23c82606c54e64f60f897e7b) |
+| `0xFA6f0E9610D744E37cfBa60D6C638C0f545E0abb` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7693571b18f5bb36580848fffaa26f71e450bf399c86818390a9b3807231e1f5) |
+| `0xfC755ee65D0213AcEBB545E18ebD27A9879ddF7e` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x452c76c8b1b0c41749e01cc59c91d018bfb3c8f51c2f8068eb255e409094e4ff) |
+| `0xFD125ab8900573f27f309129e9aFeBe64acCbDAA` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fff0e67359fd3951b1be71ee5b2e486d96fec6fb1f8ecdb8fdc837002ac37dd) |
+| `0xfD735148a4476Bb42cC19b28087b4BEBDff381cE` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04add67f80f79a548183dcad91e2d5b6521b897d9f4020ebb8b57217beeab927) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | B. Harper '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad964813a027e6c813b91498442b711292bb98924f0804fa55f2ebb2bae9765c) |

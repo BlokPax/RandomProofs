@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | J. Burrow &#039;20 PSA 10 |
 | **Internal ID** | 376 |
 | **On-chain ID** | 110 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e72-43c0-bf26-402e259c3f2b/4c437b5ea70023c689d181640bd291754adee5fbb3411ed241e2afe2ccc5829a.jpg" height="200" alt="J. Burrow &#039;20 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,124 @@
 |  | `253` | `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` |
 | 💀 | `254` | `0x5F34fc5d980F85db7dCBb78E5c068C43FD3554Ae` |
 |  | `255` | `0x5541F03371077197ad0657607dE5aD9EC60424a7` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93a5739e9f990644da94a2129ab84494c44f4a1029fcbee54a20324ce965e03a) |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a3973fc7cb644f440e42e58973aa95d9d699fbb93b1aac4005d78df24d12917) |
+| `0x02fE13434dA155971139B1b0795297107963DDAF` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63598c0c5ba0727fbfef040a4461413aacac3609ffb0d31602e1a1cb22fe1f20) |
+| `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2b99f2083673d2738b30af4a4c012eb70f7fd60695d55e1ff5cb023605195e8) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x628fea315b1e9f3eda4fb83bae78bbcc68554375e583927b9d66051d19aa06ad) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83356f4590cf4fa2838a960396089913d9b418ad5965a96033ff5ea3a340e74b) |
+| `0x0A7AEE829f649575E1e5333DeB258c029a5a6b2e` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dc3565bc132111bab915a6aa8bc0e6aed3d37c31acbea7b93e3c1560d3364aa) |
+| `0x106532B2e8919343D239577c9D03Ec46Cd812891` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a38ef814501d1b1904f3be991148386c0a66ba0bd9bc715cc29de9333a4047c) |
+| `0x11436EE79814f04b71594D651E8A23D16f0eA519` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf8a9d011bb62fe42ee0d8a74a979b9d83251c2eed79d2510273d99f5ad43094) |
+| `0x12202C45aa472483ddaa4f5eb59CbA37d6464c36` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09fbc7f735b1b187e1a065c8df58ffdb9831419e1a907a2815cf99676e203796) |
+| `0x137FD84229C024130cF862E6F32f4114526ce813` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x535c60922c2530ab2a2f706efb95d7f5c7692601ff29951e878944c73ad53a6f) |
+| `0x14c4a01aeF2F3dcC7994C2e3e3cC62787Ae67325` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1b8da4ad61e8b5d2ca614ec79a8a947af0824fe29fbc236b9b8ecedebcb5945) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x489d3f1db0d11327920191b9d0d9d5378932d1705ad206b3c3ff109749dff747) |
+| `0x1777e93c51ACB6fe25D11c095684125133175f3C` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bfa32cdc41f68dd08796967e57d6666bfdfae93353b8f608d03d682f4a5bb6d) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d4b4ed269bba27e688ec11f79d9153ce39cac1bc74df76c75c65eefd0e4f14b) |
+| `0x18A1E3d08A5f61c6B708f18f238e696870663bbA` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1730a515f95f78b90a8681e3c8cb531bb739aa793dd02d7272ce01fd4cf15f5b) |
+| `0x1b64184231A17aeFdF2f76Ef89E9943447556D92` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbdfdd5552588107886b9c28f409ab0c14a178be7e0b8f52e0b88afda6427b293) |
+| `0x1De489664453556166157824D6B853DF73Cb4e8e` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6586c590d1461e273eca5f122781cf6e6ff0cc98448682900e5b53696c0cdb7) |
+| `0x255ba6E32fcE3e6cbC293b75768460255A8C4dd3` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x83d3d97c014aa45c1711a00469749f4fb09bffab09119df4b6a553cfa1987c98) |
+| `0x271779b1E3A19C0fB8832795428574f86fcDD83b` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64f8bdb2c44cfd6a0ce668c9051f4256cc6d3dc2f6cc5715ac04f79daa5fe3d8) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9452ee9b3adbe98c9a56c0715bb60139c6ffa40b5b78551b73ca00b9ffa6e90c) |
+| `0x2F46B892c32b25eb36c06A85475B69C2dffC37Bd` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd191e67432c8d8af0d13f2219626ff06d0171b5866815e2de493e08fd675bbb7) |
+| `0x2Fc6f8A75c0A66E4F82F9c199008a52Ebcb89525` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x624789924b4eca91b3b37c9eded475d5a39a70481bc1dec2cc0e51be5039d5ec) |
+| `0x313F039c818565899E161e00c8eBee81031B6790` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83275c5d93a4830c990ce738823cb023da0b2ae09e224d24aa65c9de54308942) |
+| `0x3364704f4094e8EB5349f8B01f4910eEE5F295Ba` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0889f80b06c3c800926eb85818ea773cfc16eb3c538dfa0e0aeb28633b47d16) |
+| `0x350ee0A8eCA9Ea0EF339cC8658624552DE675BC1` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45c8a7f0242462a7090286341562c4026666904fd848188cca72c375774235a0) |
+| `0x356103515aa1BEd05B8d1350743e53EeEa6eDea1` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc590e27d2ef80e8ad6348086b53074b111238d95782726278f747431f4f7c534) |
+| `0x36eb38aDE9aD82eEE68E63b2B200B552f8E97813` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a2d004ad594d68ff88d96e704bcc780532286fc5cc1053895fcbd5bf55e91c8) |
+| `0x394c2FE8e151707c7B662e574d895d4eF11c0b5e` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6ad444811418110e73e7716eb0f28da249b5eae37d7cd5f2b06bc3b65f997c5) |
+| `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82e3ab504708ab7d3047a1d6c41d4bc4241eb2ef455597d4c18872f373bca034) |
+| `0x3c895De1C74B87A38AB76576d297427B29eA4F58` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7f379c5b0af8bc9c7d51159edbb4a489cc6331db8d881cedf82db2bf32ce31d) |
+| `0x3f202458d3D1697e30673F64b095b5EaA97D0a68` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97034ec6de1f4912aae61028949ac7057823ad348798f9f81e444b062edbdb10) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0eee8a8db13dd62c2e63b7801e514fd35af0aad317ed2cb5c9535646592d03d3) |
+| `0x42BBf55B5d4FCd42397424bEf2174D4c59a06DCb` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ee074476c279a2e7bb2bc112cf2253902bad4050afdff34b7927b4b693047a3) |
+| `0x4357F04140584Ab475c93175BBBE596378D88ED0` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab075d3178c80bb469406e775bb0c8cab7f1ba61e0a3c018e8f17c17b83f5eba) |
+| `0x443248767bE388cDd2e5Dd70C23f47004E7b37a9` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44ec6ace1a35248b76d8e1614eef3eb8ae347ca805f19974055874e3f4e2e905) |
+| `0x477c4437802A36D357d849cee0120AD804d3b36E` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x262f3e0d10e385ec199bcbfa73d14693f80707ff0cd89539a819e90054e2dfbb) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5085a5e150f26cd7ea3308d1739bb158e2d8b09aaf4e80d3663263da7e6d8eb4) |
+| `0x578e365807933FEca7FEF25981c4DdDe6fC2526A` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cc54daba6daf166aed8e02cea9ac079caa373d07b1a7ac032b2bd9932e1b5f1) |
+| `0x583d9Bb1Aa6CD0F98d239b1Bd1e5Caeaa7Ec34f5` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf78b30f20b94ae02edecf2d66bb20fecd568f41ff59d7d63962abdf46306e95c) |
+| `0x5F34fc5d980F85db7dCBb78E5c068C43FD3554Ae` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa40f0fb3a737a9a4737ed8e905c9cbf7eb5b80d7d7b52d7a7f07e0585ebdbef0) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bab58f47cfc5c605003ce7cd9ee6f917d2759aa5e72e1218c4a5919607c578a) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81ca7805b34a497f47d200ba0240ef4231053f42c786af6fa43d2f1972b5e9f2) |
+| `0x6C5e27a9C0fBEA1e1Cc60BE404F9d510883b4870` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc402748b4fd87e36c777acc65b55b6b910f45065c2f2eb735d90b71cdd977475) |
+| `0x71E37987db37Cd9c182902490F0525E063949ede` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c49085097df0b5ceba3d8b50a1a680d3ef0a1fe66f5e424dc8d1e212a30aeff) |
+| `0x744cfDd907D6a75f5f4636edAfADc132720fe340` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59ef0d86ec556dca74fbe325018c285cee5f6a5a959b6d1fa7dd4e6effca6f50) |
+| `0x7A0d3ba6dD4aEBbF5F824EF16c6e19553f33c4b8` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf962f63436f56073735edd5133bbae9329eb996c2237c47c7c84c63c516fbe96) |
+| `0x7d2E7Bbe32AD263eb7252d578A6a70c15392fb7F` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54cb5b41185f26eec5f4667ca491f45b4ccbc412bcbd8bd2c90e7c685e9fdd80) |
+| `0x7EE8fA0F4a383ec0c56267A97F64db7455ee6463` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7291045789ff0b73052b0a70ab5e5a811655a4b56b14c65bdb9ec9072842bfbc) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb43f39ca1f392c04c41198ee0e3b9e812cf44c70d9e80e5d989b1719a6d74f68) |
+| `0x801A4e34595031fd5Cd107B1Bc76B6DbDFaD78e5` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a31b9ca1e1bd5ce0990ed7ee9c7064534cd0e1a46610b0ffb5a624761d19393) |
+| `0x80FA3ab14aA9b3A93B148854CB3F45de0e5db364` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc52bcbbb165cd1d6e3447a4ab33a5cbdf3691a3c00da63ffd6ececdc8adfadab) |
+| `0x81314ba4dE3ae0D6d16c10cFa62A85bD0a28Db1C` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c6f7e33d69962aae0d64e08d3f6e1ef39a19b0ae3fb6bd9cca0f5c9c25863de) |
+| `0x84e1D14755F909976C90A8b0c0aADa1FAeE1d9D4` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ed17a12186c24247fae0eff6dd60650a9be3d4127482dd1a0259008826ed798) |
+| `0x88979C241c92f1222b4a3B419C12842be4c0efAE` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c93e6be05315937099037dfbc037e63d732a4b8f6a80a9b912add601bea2308) |
+| `0x88C13EEa3D75f57CbB18f9B51c2f3fdC5b464901` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa12e9bec0380b3f5c9ff11ac43ac7a4dd5fd6cc2e539aaf0e4a33421448cb96b) |
+| `0x89440a917C89F97F7F326F09d2cF4a68ed3171fc` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92f9fc9d0149068500fd958c674f32d5d6d7052b35a0f8c3b291fe8403801287) |
+| `0x8b26b7EBDf410D13dD971dB58c40C9053250B889` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41803e8ed4ff64c8e1e7e22dba879930d07cf8334a921720288aec0e177f1437) |
+| `0x8d8CD23e621Ec7aDfDD9b8bcd55f8A49fAEabAeD` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x50099690dba340cdf47d343793a1444244f6c58117e43b3f3e0c899560e25311) |
+| `0x91f53877EFCf8dCa4bfBB34a533A25Bd0958D1ea` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f0c89ae0af1199d9c57c500631f194639c0428747835ad601cc68491451a631) |
+| `0x92B2B5Aa35690831443fb8411f1CEe8b60294B51` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x548c5c8a8f5683cb1c5d7e5dde3dd09ce230cf7dd1cdadae72980f34064258c4) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7db9fbb1524790dd479defa7dd11a6f50b9d367664092490203e410c4166a84d) |
+| `0x9519ADcEadeD5329EDB18D7f4056D522e6D5947E` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd77945bf36904a0540f5621524e8d35123aaadccfd53cc5dea7392c4a5a4dfec) |
+| `0x97eaD07C19b9e7A23fabB608c1548649F8F67bf0` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5e8d4fe4a5af385322f8579a7c0fe7bd797f445b270078a1488a71eb34124521) |
+| `0x98520425F95c77497b2CB9Ea3817A297999Dd653` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xff8606dc01b44bbaa2e4f22b46f5dc52246c772cb35b44c8e8ed602de93a2ef0) |
+| `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb30793074953a918e7203f5f63f8bfe8f8fd703c2abdfea30216d480cca9a544) |
+| `0x9D6587ec084EA82aDE9e734FD8A85f7EdF578D0b` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cf41d2c2576b995000314d2fe756e5682d4c6f558d16f6364c42dfefe4f448b) |
+| `0x9f361cF95A95eAcDEBc5618F81dE2cf592773a6c` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc52ed1fee513e9411bea3a42643bbe56845d5ac93f84bd3f356a96e01ba18a72) |
+| `0xa001B23333C76A2e762509098FE3056A1Df2EAA2` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe42078a288f7c7154263cf9c7c591721c372542bd304830a155fce80e009894c) |
+| `0xA04fd94Bc3C5D261BCd8297564b3c6dEDFF0300c` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc50bca4aff4221408c8f783d249059f25c447ec6215c627c601a4cea90bc231f) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0e49c93c9b6f9a556fe98ed9edb736f8114edd2c340ff4c9f32423e0e39c5c6) |
+| `0xa6730a6fCD285acCFe3f56222a3932C194A01bBE` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa403cd0e10a4283e34506f5a0d1a85ce594d5b02f7607bb28c77c25c1307e322) |
+| `0xa7D6DA21ccDc071b7A4971f2F3AAD8973b6cb784` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84609bb7bf98ff3f8c70122b715f3212904a219ca3dd8f453114bd4b03a6cedb) |
+| `0xA8b876FC9EB38dDDd4FC0966557a870c8D94aD7B` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41ff71cd53bbb62588f8a44ce26b182b99807b66fdd91a364b507765d7e32510) |
+| `0xaF7bC9C393c27F83c4E52C801709623e4371ef71` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb811a082b6443a2640ba4529929a5ea5ca77137d0cdecdcb80d5858da7c9dcab) |
+| `0xb247c877E084436e5cb21e96e58999b76Bf32116` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5da74b48c0409c7449af097e97f7f92918943af428ffa90344ba7fadac92f41c) |
+| `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a958de30bc7cfc4733c54e567889004eac9ca7ecfc4c480df4296ed81bd0f1c) |
+| `0xB4a0C486eEe956514Cd388364Ea03d444930C7DD` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2326eb9735f94e6c3ddf5c640ce6fdababf75ac571c7116247c4bef95f7570ae) |
+| `0xB559E105769F684b8806129911721aB44043E9Ef` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3392e8ad8da6f941c98669b754644b4d5c6691a84fe7d7fdda122b910b65fb8) |
+| `0xb87f900bbCdbcF56e5BC57B61cD016fC708e970c` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc836a9899ef4c2c73c51ebaa5e28a6d07973f93d2b9f915847103d4d115ccb1e) |
+| `0xB94D42D67f36F01D8E2F3185aE78921C769CD501` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bf869d25c3e7ad0811951e9238bceb0a4cf7f4db0ba9d77a137699f38b1172f) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03f6fc117776c3a7d68423451bbe33cfc8fef730781932e6ec745d19b15f5907) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | J. Burrow '20 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa8f62ad3f1d48738d1ed8dd8f4201073ed74f9a406ab50d037def6c1f9980838) |
+| `0xC59523e69Dc4EF360702fE9cAB9ac7376B5a4cB2` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x062e10f5ac0898c36e559baf7c6d85ff484d9bb13e3974c58d2cd389df5b5df4) |
+| `0xC67Fb910ee6C2CEE2b020bDe3d8975A8B0313f7E` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53beaad7f12e54902f9c17a928d86127be4a22845c4eaa63189dd88a6650b492) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6088ac312162233b9fd814f57c1dfd4d25aa0b320b91cfb422f0612960e9a0ae) |
+| `0xc7e970455D0ca0225baa0FA959C55E6A5062Be74` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c8a6d7a35608125635a57d9242f142c1a0abee0551061c1cd9f058f7cadf78c) |
+| `0xc9FBd76359476BaEF34e521F03062aDEC5204a7F` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59ff320297ce714afb730df22c29819b5d220160d3e5820e78a7649f99d91e05) |
+| `0xd2a84032CfEA51eEee7af438554Fb89ebE444FC8` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ab5ef459b8a3225634f905594a543e0ecc303da1928fdeee9e5f83a60c9df7f) |
+| `0xD34BE6cFF55008945694750f284D55b4B66Fdf4D` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4bf163def2c90b790f3d7910a518c1fe2ee9adb386af8ac1127147dcae0141b) |
+| `0xd35A06818FBd50672e7AA860581a0095eEB5B55A` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12b689869aebdcf4ab4efdb77a81947b22074d013f8ee4d4f73cf1cfb881c71d) |
+| `0xd387d4ad2FbF257860a320837F98472c7B4e2792` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4b8d035176e005c2aca18c3beb3eaca3aad539b7054964ef6cc115967a7355b) |
+| `0xD4a1a94FA5cDb7A0e2bA3b445Bb86d1481b3c72f` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfb962417184b10f56d50139f8f733fad1a06aceb1796470e5f92b6834b163f0) |
+| `0xD7a3fb9dbA4CeA64d25a690E79580367bC5a43b5` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51d342a4d15e2983d2d10edce73a65ea561430901c792530938e20890184cb9f) |
+| `0xD7B75354495F33319Ed14357ca13F91852c2Ff10` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3bd6084a64aec3e0bb2403d415ce55d4d9d23ecf5d214c28cda75fef68340aa) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93bb16475ad1709fc8a3e6cb14776d9a9152c26667fd3bfbc86075557f566eb2) |
+| `0xDEf97AB83Bdd4Ad988E354d47dA072b704d9818d` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbdae13732cca13316e63e6adfcb22f297c060a65e2e9336ae1dc8965915c1d96) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f337a5bd0c47648d08e4ccad91ebb7db05b926e82a23f4d1355e84110405e1a) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x564e59958792ff8999001700d9d25a405b3587a7b1fc6eb7a00dc2d2ee4d5f10) |
+| `0xE79c0eeCF2f1d306Dd454673869c28B306B37d83` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf48f7e4ed09d14596444388605f42b9147d56554fe0b19e3aa0d376a5d6cacf6) |
+| `0xe9d60681b3F1aF79e13E86B7635302D8b5D77Ef6` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x583096c7a51263b7aeb0283a19c70acf091994b86055dfcec0ae94d9289bda5c) |
+| `0xED18a3fc6aCf6C39d326acC474ac444ce533EBa3` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67d9161a950f890d6d60b0f36865fba75ac3662134fc6782837daf0533ec8781) |
+| `0xee7Ef02b7C5Fa93e12E156e599965E0CA2453ceb` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61062957e4d872085e0fefd1f3e5477883ca45a98553db2d623a1bebba8cacce) |
+| `0xF011f87861B6f9999FB83517a8719c550B028621` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5896f03454b6652dd4a8ed81965898417668bec2041d78a528fe726538e820ba) |
+| `0xf0955C41CCA0b2440E32F952a05Dd6d7D697c3F0` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1041c7af2877b47da38a51e76b598ffdfd1a034255c07011ff19306fd94d72ff) |
+| `0xf0f2309D3F2DF59dD7125BB2B32A0Dd3deA7F42B` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87e1fcc7156af1887875d79d24727fbc9987f28f2260ca59d3a94e01e72c508f) |
+| `0xF1270b7d00901c3e421e5eA7bFeAc704C0821FE9` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3eba6d52c129ee81de25cd700cdd467615d36e1d99a180761d6fc46a67454c3c) |
+| `0xF12b698f3b4DF0e2A34C2f6785d42BaB7De6E419` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x970a86d3eff7843d81bea7ef902a9c0e36356a6987a35eb16330ba2d0f3cfd80) |
+| `0xF1BF4cb330ba475BDAcb406059c71be00B093aD6` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6bc27983d4e6979ec0f8026040120d9a0991c3b987dc084685dfe575e663b9b) |
+| `0xF1C7315a523E703d86a5EBCE571A7C2BFfa52475` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x47bc5a34f72f7e6d20ffab30b9e34d3bb369d64221942ab52a31062fa86c7636) |
+| `0xf324a659eaE5516cE2c0E01b8067fE9F7889FD81` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8f0498b5b11f5d812cc5154d8e533c3afa9c4cb4fc9b111df689a10f97c136c) |
+| `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3920cf2c21fba82a2ea40c2ee06fcc555845c91d04baa11b246b825acf78194c) |
+| `0xf69Ffb3c1DA54938dCDec0D3e81371609bC00036` | J. Burrow '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x57d5d833e07ad1f4610011d468436f5ea46d1f0cb365a37889d96d878407f76c) |
+| `0xfD735148a4476Bb42cC19b28087b4BEBDff381cE` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb858e9d56f7df605b9e73cc522ae52c4fbfa7e587d01b950a5fb8b5931eb528f) |
+| `0xfD9F121a0bbCe6f46a12e1b51Cd169678B5F2830` | J. Burrow '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec3a5875c63b62c71a8722108fa53cf21de4805c101c2c379c0bd2b4bc6abe61) |

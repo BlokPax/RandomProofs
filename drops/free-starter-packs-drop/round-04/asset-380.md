@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | T. Tagovailoa &#039;20 PSA 10 |
 | **Internal ID** | 380 |
 | **On-chain ID** | 114 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e83-4657-8418-48738bc25f7c/802f4aa4cdfc568a956332221035a5c732eea578f18b3816457e4509b0f486cc.jpg" height="200" alt="T. Tagovailoa &#039;20 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,126 @@
 |  | `253` | `0x2663531483B7D10EEeC0e1F4aD042c0F63A1F26F` |
 | 💀 | `254` | `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` |
 |  | `255` | `0xcbBC30650745aF2b8951Fc34495F0F4585e2Cb17` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaed2974e0c4b4771c974a477063068c520e9ea6258b8f29a5ff12339752653e) |
+| `0x062c7bc203231C7d515CA59Aef863Cafa6e6FE1c` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8afb6ede1240c28a50ad36a2fcb6f872879c2fe08fa8702224f4917407f7eab8) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a089eb811ab9f91a44faf456c98439859a051c82baa124e68b8207da44a6976) |
+| `0x0c2b4bfbBcA71c45b7A059cac413cD1A93E561f0` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1a9519582fa369aa1562faa51d3f06d88f638f35a7c8a7919e2e85b05b9bfe1) |
+| `0x0d925339b1fF2DF769A98b313dFE4171f0371e24` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c2cd73b18a2219412a5f2f1a7631da05b14ea766d8187f7bb63df376776273e) |
+| `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x505c27c9a7a6ccf3d30c86474061be6c76c67f00feb20012ac4454b60a002953) |
+| `0x10676b197c7Aa75c59Db8DA58dd1AA24Ad00C815` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c1b1825643d88116a25c50c61c90002ecd567f7e6c728230febbba5d2e2e659) |
+| `0x11D877482E95B914641148547245AaBB030Ef179` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01a51c00c90b72dfb05f1209aa96419f7c0447938742dcaa176014ec6007d74b) |
+| `0x1232F343EB433a5ae6F23D60fc39b1784Aa4b580` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ef453b65667d88b97e0289ca2462bb882e4f97c76b287f1390dbbe134c204ea) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7ff37b4f68830c0d349ea8bf1564a0c140287ca492124ffab507bb4b58b40cc) |
+| `0x12FE7d2eaf9FA334e07C0AF7e47C68eaea07e6B9` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8df123adfaf50679372ecf2a0f0556fbac79a4ed216dd988afcbf7b0c1c64e7) |
+| `0x14905045a31D76bc7E1ba26af02E86d0d8bC9ebD` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37016b96029df59579afcddfcca09f7d0df94012979e60a9f451b30d2772d50b) |
+| `0x18975F3C85EE57995180934b7515eD3792bA3c67` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea5038e0c9603ace8e34089d88dc7c223d62eb23d4b9612187beff3328bd54a8) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | T. Tagovailoa '20 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3d9c9e7f5ddcaf16cdd39cc6e9e89b69c0c76f9f8057ae64e78112a9d64c6bd1) |
+| `0x1dAcB4F65332Be42543f705e609D5BE42b2b8833` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5151cc18deadf81977673e6b1340580b128d88ca1902ed7933ad190fbf50a045) |
+| `0x22bcA2Fdad3BeEb25284860DcA8fa8f941DAC379` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd15f99f817f1d288fabe649651ca651819d69026d3931baf970454a25eb8ccd) |
+| `0x2320d66ce3Cb6B8d2d4d1828984F5cD257E926FE` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c81c0bcb64bf67c38f4de5fd6758bbb5a2d9c45bb5a5caa598ca22cd02daf3e) |
+| `0x2508C9b3833223a2C8071C9d893cBfD49A91C9f2` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x572b514872601d168b486a4bc59cdef9137a5f3f21f6ad2e26c57b17bc7db500) |
+| `0x25b30d8956C06AAE3A6795B9B590C9FE74059686` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a48face5a0730182b4918eb944bd28d293bec88f1147d136bd1287ac6e41ea0) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1b1523754b96358d3f2d88477d6091999e93d250b88964751aea92e8b0b6a39) |
+| `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x25b5af29a3997d6e06be55ea646a48758a8b2c4eb966693e20a9f441f6547764) |
+| `0x2d31a6c88966C889f7Ef15De84578EA8c6Dc1289` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd052e3fa4742254a5d287681486b03953506a546ff3c965f474db48a25c8585) |
+| `0x34eE2c8097B04bF54bDc69D571b82a9fe5c164b0` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21b9b3683516d63a23b00b82afbd0ab7633d10f5eed47c379ac9d26df5d64977) |
+| `0x36eb38aDE9aD82eEE68E63b2B200B552f8E97813` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x540d94872b76fa0d1d706aa2f41813b0a47f495abb857589c2e9e052ac7fa047) |
+| `0x3834dfd477BFF04A18bA563AD9A7465caFFBb659` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x437af4fa3f3a5e981a59a6850b8b3d6cbd974108f11f6af3e0d0ca5649b1a7a9) |
+| `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05281d7b09b5d613023bcb52cc6938f94b71a2770d2ff62480c4929722512a7f) |
+| `0x3aC20c3e693d25Bb2dC2dFB1c3b9c4acf190fa04` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b65a564f4ae1f5d31abd9eef3e7228ff1acf871c2e4e61bb431d4b629baac2b) |
+| `0x3C29Db55027BecD0b626AB3592A36E9C64fCEb4D` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63dab6fda120a9ec640933a02e3aea67c1ef4fdaa23c3951cbad3b496e98cdc9) |
+| `0x43893Ace9Ef60dAcA6f34bd38d7336BE97FE66A3` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x976155d591d58531b84d71f56bea2201b081d3bea8a1fce656d16ad8fcbc1e92) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf354e5b555d8998412984ac1ecbb1a818c84308641bef72f2172a99d7ad42046) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61d4ed40d126f70ea6c39c65f5de0aad912d42dc89d860ea142033686990598f) |
+| `0x4A950AB3A4C5F5644Cf14800A147c09F049f3ed3` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8992da82abd416a6ca69a508c8e482eeaacfe606fa7feb80f5d86f8b19023c31) |
+| `0x4adECBE702fbEF3F16dcC04cCedf0193fCDdd138` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff08c3ad9836404e81563adbffbbf749a587f724d21936c1634c962f1ac70500) |
+| `0x4b8891dE1cdF660B7d984EDe13ddB8d0E2f28525` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93850d9c9c377667d4b32e120e2a0082b178160ce7ee4b245afc98f0abbbdd4a) |
+| `0x4bFa1F720bF0CB5a88567826768FF70f051Ecb5d` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfee1b5e40f158218b1a56b8567341c140c3e2b84f0bc37cb9cd9a8bd05d6599f) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x28b2499ac928adae3f294ed0b55c1dd305ab06d37f45cb14eba7e12c06f27b59) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1101d3317b5f0a7a875593e515c09ebccce9a120840f3af091a2c99a44edde5) |
+| `0x55804354a73699251C15D3a2d1d6a76DD85730C4` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15a1de73f18066ec193d5616b575c3b9b80b047b9f63361d4e1005789e6383ca) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76d4bb3f204e5f9b13936a953eda1119cfcf0bab25918019a03b3d709b3d684d) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe872d47ac5cf31c734a5bfb2cd24773777faa21f2aaae5f9ba86676e41019e7e) |
+| `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc46fc0b8cb052603758c2db442ffc00d3a38d1fd65a453b26ed6d7c3e06c6037) |
+| `0x5E276D33FbB4453282534063EA9884B5D209cA9C` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6711a121f274b883af776e56915f6c1406a1153e7eda70136b04eb5ce893b80) |
+| `0x5E3D88A7A85419e462262a2FE1dF4B21f0c3356f` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaed422e947b474379303a68c284d47a46b9c348e2d21f7ed66c52eb511a8042) |
+| `0x628790Ae8B993DA7009c4Bce023B3C2Ce631eF88` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf1a5daf9896f0f158b9c7dff1934d10752d1ca3f740f9098c9ef38edd43ed6e7) |
+| `0x677b8c687bc573189095a8bce45cA6615002AF8f` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x205f0fdeb611d025454a4dce34e8a0d75adedd0d27e6cedf4ef461dd99e8921e) |
+| `0x682055140841579d410DCCF30E328fd080d72DbD` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11c2e6f2751ff2ca7288684ea09b75446c448117ad1dbb1cafa16fab4aad68d3) |
+| `0x6b2a4Cf2B10E65e87B7C8A41d0D5E31727adB2Ce` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x127967ade698bff8d49aefc4d4120f8a6185bc0d6a2d90ccd63de2f1e24247a7) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba612badf67b70b06e89c3bffad213c37495b3803e8bdc0843b7c17ea047f8e0) |
+| `0x6B680fa6100Ea04D83F63485b7df0b650E2ac150` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14cbd6f65b19dcf8258904c32251e61049ce6291207504c233de97245665abe8) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6428b538ab66bef1262736b326cadf9497415788764b4ccccf4e136466fb659d) |
+| `0x6F7564DcFA230F207363a94836589d1Da59999e5` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff47e4242e65e1969c1b6fa7eb0c2c4ac11292aebc0344418189d1c8557295cb) |
+| `0x701FC6C7C0494bb4831A4257Fb61E3fE93d1c8C8` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa97a042bed216b9a984fb67628024c76ef43147b9bf51cb7f2817e1dde111d27) |
+| `0x70702572468cD5506bA29574235E23ebE42db8af` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x289cb87c35e92aceb8f33b11678f54eb1c33d5be28d814ee6a935f1390553b8c) |
+| `0x766dA6AEecA1fB71A28ddA53CD3A873822F74277` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b66c192467eda2347d55cd106a5ac7f6e3942a53b7a29413ba3e2232c4703b3) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fc984319cdef096cbbeb51005850e8b6e620a7dbbf4bb9cb35a5faff230ac0d) |
+| `0x7B2115de9fC95c66Dc23A128eadDB67192B39d75` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec9051a67bca28c3633d5b00c19163b9edc7088327275395af15b508fefb88b7) |
+| `0x7CC12C833b5844846e5C9d95d8F61AF8E96Eb184` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa8a7d64628a0f2483ee36445674223b96e804f02e365271e6a49078622c09d3) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7eb00e458c9f8a2f25a338cc5422ddffd98a34781cecaf5e9e8ebe78ad8fbce6) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc31e7ebfc31fc9a3695c98fde5ec5b22a2be9db70e7c27dd95a0910bd71232f2) |
+| `0x881Ba6Fe75134644d755395b7D693D069D4e7fE2` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f69859d72278e5ca5e13c9a0e5e5843d401287b66c81fd2f4eb9b0b2126a50f) |
+| `0x8AF07F2a2e473E23D9D302D68C02d4f1B8D8e758` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31bda5f17acbd87b2dfe07f827404467bc00a687200593c569de1a8684d4d70d) |
+| `0x8D3F97DFA19B0b864F5e1e334B0e6A1106f55F5e` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x468e65126a1f15176049b41cbda422d646038a5bea6e4d5d74639b71366f4e08) |
+| `0x91c75fc8a52F695D234Cc149A4584708270bda5D` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a418090e99a918c8586a5f8fbe6c1da44534885d091843bb4b0200f7469cb19) |
+| `0x91F56163a55532504Fa44e40c1298998375478F0` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf943c78c4d17656c48bcbdedc8015bc2052473e020ff583c074e17850934626c) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11f66505c2506945d0bd69478079c06bd66cd9cc1b842a20e4b8d5cffa9898df) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ba3153e301666ccf810e9335705e5507f6d77b36b777bef65ee0d80757050e6) |
+| `0x98a1af1A95540a4d8829B2507ddB0D9c6c5289DB` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d57b58165e27c4c0a8be93f4ef72fec2fc4e2fa51b9e51c960c6658187843c1) |
+| `0x98AF66e7E7349519f232eCa3812bEAbF02889Fb5` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8bb7d390e9d7b0f55288eb876ffe996f7472be4ecf0fd8962887382357dc05f) |
+| `0x99f0A634013Dba6B547b65aeC8Cb568726B669f6` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1166949c3bae2aed09e0ffcc9fafd9b34d1a151e4a1fffdefd1009d59117cda8) |
+| `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x473f05ed299f13872f451237b2ab3968c23c52234c9034a232fb445fc556f64b) |
+| `0x9D48bad3A2B5Ad122c9e190af5fBe9c448588207` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x747c8581162c70567ee53b211391ae9345987e82ddd9889481b3a683633fcbe1) |
+| `0x9f361cF95A95eAcDEBc5618F81dE2cf592773a6c` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ce84859015c046746aa6820c3f3d778478a278ad84ec9a0af33bcadabf1d0d3) |
+| `0xA04fd94Bc3C5D261BCd8297564b3c6dEDFF0300c` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd687f46af89f34f055297d38a8b2c7999b8af79ee49c709aaf10ae515ab4d31c) |
+| `0xA4da869B7eDDE202E9BF1E956A66073562192B82` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3180a1a04a3868f43978e18fc4d2a60e48bf5d6964ba476b5c78f083a1ca7abf) |
+| `0xa52715845E2c8262E487d7D1B31D690e1D3934CA` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ac691dd7829937dd7569755c2291710b43a5be089123d257f4a0726346ea728) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1d8f28d6bcc70f71aef40c8db4f549813fdecd1f73651cd294b1e0b0b9bb168) |
+| `0xAcF1C5d4C28EAcc652BA1B35D28505bcd05194e2` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b47b1eac235164509a9e7d18f7537ecdfb9efad281f9f41e7df793010fe9b15) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x164c80e3cc56a0de8f0ace9bc52966f35df1f58195a7a2b3586e128bd143f10c) |
+| `0xAf3BF11e5fd949bbf73Da9E02E50E6ae9C73cdf4` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb25a4832eac27c12023d7ad5ce635674b9c2a94f42a18f6a3a4bfa863ea02727) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x029b3f485ccc4f987a9c5858fdad94c10e56d6c8ee5cf893fc53066eb7ff2cdb) |
+| `0xB4a0C486eEe956514Cd388364Ea03d444930C7DD` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x883ea8e062fa7da7127ffcddbff830963d026d979129cbfc913f35e511f577b3) |
+| `0xb8a313c61e8C739e06A40Dd8DD48188820DD39Fd` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2428a27506460a0f6eefac9287a1366df149faf94dfbe3a6ef182a5b21e3382) |
+| `0xb8bb8de11dCd32AFaaF1458a6F05E8a26F041284` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56ffb98e2cbb974b35a5702b0e3f37fb575ef346193fc37bc5a4379e6b9b15f2) |
+| `0xB8C88f24bFb132dD692799B6C1615e51ca57eba0` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4830525feb93b8e0026366bbf323de7cee3d648b5b613dd700a46b9b1fad30a9) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46356ed60b69a4da7f648fbba0ea8f38eca86eaa47a22416a5957f531cee77e3) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd312d41fbe53e4dba23b5290e89c92a7dee3ddb2fe02c97b466f10b581db94d) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56596091fccbf732e5c9e72ea50b3f6591dca8fcba69ebd2fe2f5346910f5559) |
+| `0xc0a40362088E42b7BEbaDc9DC93A38113f612a37` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fc34d752e9d4b67035ca50f977fa58db1cb050f08c784bfd5b254dbdd0788c8) |
+| `0xc1Ea94338c0f66C4320b3d830836F10ecD88D0a8` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60eabb0835f2c891689bb5a0b3313d0f71f30c8ad367391308d8f8f229efb89e) |
+| `0xc9FC356bf3EEa1b05B93c706975e800ea4D56110` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fdd3ee0797bf817f185b303cf9cae5317f0b796dd49d9054eba014f3570fa09) |
+| `0xCa48f3a4299f75C97472f99F60E163DcDe70c011` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d40f6c6f5910a1af05ee5173dced7282b2fcdb9cc9615317e20f1d4ddcd01d1) |
+| `0xd23Cd97CAD522eD496E1D2a143D363E748bc26Fe` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef025a41750c4e5b11cd61c66fbf90ff2eb07ca46354c972056c02c3480d9b75) |
+| `0xd34EBdd800bD82F62240b65663C497803D6bB8c1` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39f34094b2828cfa99fbe01e10f0f4ae8ce3093318c5bf3bd71b545c386bdeb7) |
+| `0xD47BB29862BD0488BDE927e76b38FEb0Aed373d7` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d024e854042b9a2336b0d427b986bff5587657838d48a5abe1df702ea6dd21f) |
+| `0xd4acbAedcbcb02aae2dc292cBd36672CF45b6E06` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb653834924adb2d189be4395ceacf001c07c99897e1820f262958522968e4b80) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebca2515441d0e320a37ea8ea277dd5eeb93c0c332641db1ed218b4558f030df) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x544e3f4d9da395680f18b3cb84665c5a3d2d4961663f9b8d9742e87c04cc9a55) |
+| `0xd780bbec1A9446cF44c94D9B29dAc88855869483` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd83c8f531b07b3cfdfa7199e14b5e57aa9e7c1bb8add9acdf7e5ac78d0d67f75) |
+| `0xD90CB909cfE6ee241d086ac309443072437f0eC5` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31fbc8a4df36ee6f12807d0197794b4371906bbd846e6a2f9f31ceb485b17eda) |
+| `0xdad1d0700271716774D5C08357321221B0b03682` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafb811920d1d0c207c4cf720f0c6699cc11156695ad1f221836c4636c42510e1) |
+| `0xdb365ebB7F17Fea9819b85b440F4f41F68ea0f4c` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8514ae99b71101ac63a44a6dda75ba27761fc9ef4da2262fdee1252c37431f30) |
+| `0xDd92E6016ecd5155B22ad20FD4a547D9CAE1aB21` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x149f611577d8176799236a91b29991ee53057958356dbe0e5fa809f57429ebf8) |
+| `0xDe27367f63aDe33e6227e3ABCa64e09E2CF9DF7e` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2c6ccf32c2481e8292e5f3a6e2513235818fc1737b5f6a32eec6db74de833ce) |
+| `0xe0B0A6C004F7833918a898D303Ee686B886D8144` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8f01c5823b03c373a496d7b1510b89570f2ed014c81e97b3f2c8138bedad5fb) |
+| `0xe142f89F8b99673D2f3A15c48A2926e0008c87f0` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1d69335d1cea33cb945f89edebae2b2da3f4565ca4ba7a3f0eb5cb317ee5a820) |
+| `0xe295D4Cbd3bD8dDdEC81b324b69512918172609b` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd56c700447a588e0ab232b56513432c9a0b4f0eb8b202a661c78c08988298d0) |
+| `0xE40904A4FfB62e887aCA710fE77040379F802c6d` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1bb9e824b3f2c886f9afc6dd7399e83b50139290b479a4be2dac92ac67ba817) |
+| `0xE64A47C312D382FB51e4DF90FE6C5025B350e4cd` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc9ff69648f94a3fb4e08318faa972a7a05955b15dfd9e4e47eec17ccf89d371) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa01443a4cf02bc6f98a9ef97967d8db6b3132bbe2027c18ec07081594ff9ea65) |
+| `0xEd2430E1fFef85eD95F35D00cb172a675f3627bb` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14933af7673769c94ce2533ddf2f26446e1e840162e58938e439406c69414d44) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x715932529bb2b4466bbed56cf3f783d82413fd161658981ec768eaf5f16d9f1e) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5e98e909fb45e391705a1b3689454f8c13f6d42897f7f2cba2e711ca862c593) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64448f13bd5ad9517a53b8e649dc8f16ceb960e6319638f74a9c7d83ecf122e4) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78e08d393b36a0cff1ce27b4eea0e08ebfc0b9b0421ee62a298dbb8b1e96a164) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ea900bc6e008ed8060bd3496c314994bf46bed688594449dcce708801a26737) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | T. Tagovailoa '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaac16079665caa07ee0ed46aea3e7ddd3dccafe66bd0ff674ae80f9acb2f38a) |
+| `0xFfb2A2De5Fcf92f4EcA1941522D0396071c21537` | T. Tagovailoa '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4ce5778fdcce86aaa9836d4ef1c2a2ebe035e1b8fc84fc9c862c87937816bfd6) |

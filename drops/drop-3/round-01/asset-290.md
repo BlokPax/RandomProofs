@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | V. Guerrero Jr. &#039;19 BGS 9.5 |
 | **Internal ID** | 290 |
-| **On-chain ID** | 98 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc4a-4a96-8a49-a6f8eef9ddc1/22fdb57d910e6ecc3cb77b45c16f3a062230c7b794f5ba0de5333ecb1662f00e.jpg" height="200" alt="V. Guerrero Jr. &#039;19 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,172 @@
 |  | `2045` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
 |  | `2046` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
 |  | `2047` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x86fb303b7de7a7ff502181cc5bb6185463913a0e8b831f069f33d04777daaed7) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x843d5964c90c08efda27647d70519ced1c7318a3aca080a2b7c95d915d89818d) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6bfefe41c6496249478ab9a7ea34edcd3a5854392bdc2e7769ece90a9b41d4c) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bae1f7ea5a9eee8d6d06eb5032c1c7367b2073a6e660b2e37804a55d0997142) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf68973a80e4342d86edc41f7932a1baa5b0adedeb9c7ce9798a4cbbff9a1793e) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x19974b2423b2708c8c2c34543f7002293df8d15db7a0a9ca917c62cbda93ccf8) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9b55b97422cedb2db3d545a86c282a4887eaa387a2ac016d6a59ffa3df2d47d1) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xa9e851b7dc5c3bbe85622c1ece7904cfcc1bce7f24d3e14d9d908347b5f155e9) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2d99c232b10919b9fa9e3a795d7863b9eb051ccba465ea03df950ffad5ce969) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e47bf47cb40cffa12a979a053828ece678feb13ee84f899e6d35d89134cac5b) |
+| `0x081A02bCE1aA7aF2bbD09128eC5e7e6877d53A3e` | V. Guerrero Jr. '19 BGS 9.5 | 26 | [Polygonscan](https://polygonscan.com/tx/0xb78991bb5e8fa51b1b03450f5878b0ced8ce5595a7e02a4b0b1239c5476280a7) |
+| `0x09EB2e0B3B1bb6434F9c953E46Cfab398cfeDFbb` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x637fa24c1bd7680afbe9fc188eebcec3fb03cbabc356fda979c98cfb786dab71) |
+| `0x0a39fe1b45c700c3BD6eaE18A48Fd7d4F45743DE` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe44acf5d5a3a891b12c4276fccc1f424a5ba3162429559abd425b42b4944997e) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | V. Guerrero Jr. '19 BGS 9.5 | 15 | [Polygonscan](https://polygonscan.com/tx/0x6bf48409caea25b18be948b2bcd4dbcf9a3150ba955a809a46fb52f5561e896f) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b1a2345b4b93d3ba21e375a2cf4e11fb4d00ea20b7dea1fad64cd8dee80a2e8) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xef9d552eb83074b58747692f19f974a68caa16c164bcd940adedb0d2fa8c86c2) |
+| `0x11979858D6559bEb4E607D7A2BEe95943cb0cdBb` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x937a606587df70f2c46b1a695138ccd0330aa065f2f95cc3302d89272b5dbee0) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a1a1c8ab40587180bf60d175fb28dc90d7635b37c473e6feead5ada91e461ef) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb2515481af1328f7c1578186b2aa5f5e13f3be689b9e974cf318c9d66bbb1233) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | V. Guerrero Jr. '19 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0x3548a95b6c850a1f7fa8cade5d93e79179f9700291f2af5a128c24f1bf522a02) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e9149ae858b62e2fe0a146546c736a82d9baeb05ec02fa32b74e47cf1a52be8) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x20d77efd5d83908cd86d03938f6b817cee677c4e9a12e19b56fc21edca60aa0b) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | V. Guerrero Jr. '19 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x7a369389f11c8fb2d4d14957ac0454c16c802e69bfb6c530431e6b2003d58a00) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25a47f06451e1fce36e14b691198a81be3a426c0f9cef59a8a098a57d845c237) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x55d2d849764632cbb4295ce3c3a4158188ba047b3df99759dd318bbd2ed31558) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa942d519b1107a7697e268244d04d0f63e7cd122e57f5954a21e19054b595d28) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x337c4fffb9fec5de28fdd3d1278937afb504641146713bbf2eda3207afa7f0ad) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64f351545f3441dcdb0c6fa7332c85615fca983fbaa603cab9dbd28b00f7edb7) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x236ef8193ef8e896be9fe60b14281a5731bbe73f3078c4f1a0c2a341d60671fc) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21a465669fdceac1890bd59eecf6dac8a63db17105775d1a08395e68af3359a6) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa432437e6c2871d2c121b0b2ff70b48205a6d16c7c49e8e6b4cc33f67aae9ca9) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac6fe77ca7514b82871a0d53f6738021a6efa669be3266ba946e5dd35e95b21d) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x5f91561459332a452b9f4383a20adac117bb81d792e9472b449196650c2cc501) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe10e8939d5398d4b8983fc2f470ffdd7663890f2ed96d88fccb1bb24fb804903) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60ac878563f6a83070ae89c32087d898d7441045c65455e2f35f01334ed053ef) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xa9ebab36d180fb4ab07632ac046865404672715571472745fbce78a38fed7a4f) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f438c1ee7a8c3d09ee75cdc28493a198f7e5135dd498aa664cb1b95506d94f6) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd55676f52145877f85be0d10997b171882bff2d313038dcbc64ecf91c1326b23) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | V. Guerrero Jr. '19 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x0a473c1cf595279af3c7f4c44d92fde06f47b81ac81c5d7a91f5a0dc41fa5dd2) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8810b611673709a7e19beefaa0ef8bdb5145668cfdb1098dfe134a298cb727d6) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62ce83def7755d31dd31a1ef07cd9edf2b655522091326915602eda22ef9a95f) |
+| `0x3b966979f6730Bec1A7411883D112fDa2bE996c3` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbee23c255aefcac6572ff4cf7d49f8f97112eb5560136b219fca8b78dc1f2935) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6643f1cff5682dfa8a5c617762413fa61e62984289d4060324329e327a992d29) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x64d2714b93c2eb97c2c894799a8e1d03f86b0403bcb6e943e5e742bea3a1d3c4) |
+| `0x42BBf55B5d4FCd42397424bEf2174D4c59a06DCb` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41b8fcd4d3f04bfd9a550a311f10833e397d9e817b2462f1180ac058c2bce802) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x793275087579943a31a94b97ef66a24c7d66aad4bdba800c9867d973b305ff62) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x97479277e702ba87b2cdabf9b16f7c9324f9f47f60c094b8f95fc3a12dc7deec) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae3b6fe54609469f8e9c02d30e94c4fc7bde45a7034982d033da73ece55ffe96) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | V. Guerrero Jr. '19 BGS 9.5 | 17 | [Polygonscan](https://polygonscan.com/tx/0xfb8fab7e25d6fa20591c7714a6db8ee0a22706e8a74fd2d61a92ceb982c13afe) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb9c2138054f89e320bd39b67cb861c6fc04cb825f489fb8c25c2851814adb312) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa08f865429384be544d19d468ae0124484839e8f44fa782863bc5633a0121f79) |
+| `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1dc3af888ea73fd3ee96858b83e74c3e022c8078623d50f1406c7a4a46a46d46) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x882c3e2081745b1925186d09bc2f11d904d577050a0d98cfa90b9efcdea93cf4) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6cb2a0097b7d7833e12dfeae8320f52f626286e262a26efa378a67dd9841f3c) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb95768a3a2bb2e3605d59611af83b0674c1a1d6145146ad6256453eac34f292d) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf08757e30de3c1aeca199818033f5f4c1a931be8c00263023166b3aacaa70681) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa78df7178c671066a95600d385f7db9958373f336387150849ef7f6444da360a) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | V. Guerrero Jr. '19 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x5dbb4b32408ace6f84657e1e69fb74e812bffd399d048e25aa0a56f6ab2ed52a) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc5b7f49d2341639c8e41ffec8b280302a717ccb3d9574bba02cc92342eca772a) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1515e9ec1924fc3d57c8ba23c8c24918ef3e665d9fbbb2eb8c918025d44f36cd) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10bf8dffb20eae049ec9276e413a22fce12b193141d28965f5314cd0feaec06f) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaa187f0de34f4050a529b7658d1e76820bb3eb40f035c592ff004753a4d99382) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | V. Guerrero Jr. '19 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x41b4845e94be26598b101b8a42b9f8ece6019ddddcea3cabd00c8019e4061cf0) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa123ba64fcbb7235c4cb261330a66273fb8536ac8e93f01c06f5f5d0892fcfc2) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x45d9e8d211684e7befc653229e8a47e9e38497c93f269056361f131c98239acd) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c06fae80df50722800452fce5c0fd08e6784890dacb2f18c9a624485ea791d8) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | V. Guerrero Jr. '19 BGS 9.5 | 21 | [Polygonscan](https://polygonscan.com/tx/0x4f728c2e95731e26a9b80c7742ef4db39dc27b76a7d9c554fc8de255a7569180) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3778f73c46096c4e526549b420af3c3925c5420710b4ae7251ebeb0547b2af6f) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf39ad1668452c70aa0b1b281aa405c02e807c1835abcd824c6d51c14dd97bff) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb3023f32e6cc4a67277931404f998ec47d1432828937b5668cf60003b8c91efe) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34a2086fbf91d070db0205146cdc213501f8d224b6e77ff0445179f4a6cc3b21) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | V. Guerrero Jr. '19 BGS 9.5 | 117 | [Polygonscan](https://polygonscan.com/tx/0x7a9bdbedaf96bbbef961cd8dea74101c3b8c614df6ea3f9796be18c95e864ac1) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7881c9d7d3a862f07f98baf8a562e08ed351a74792b254b6ad80a7730592ae00) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25cd8ec3b7e0e2062f071b0d6fe3a2e8e5b7978a1fb6c2b0072b53395b813a64) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | V. Guerrero Jr. '19 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x9a9683a7c2e04eaa391959d0aa321c14740f35aa1cd157deb203c60c218f18c4) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2fc47cb9be124141ee02179a8c2d28aebfbd31973037922501474481f9cee2f0) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | V. Guerrero Jr. '19 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0xeae08b7f351505d67cd597fcf9f26d4b87362fc547294e5f5d57613d6ed70455) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87ed2801a997972093f53cf3d694680d2af2c0e7b0e04326839dd5f062227dce) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | V. Guerrero Jr. '19 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x3e593579a50e5cfc425bf19801daef53308c2e74b1884f3b297c9e6c178f60c1) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x636f7dba7e6b32b7d84d8d4694d6ad69e2ebef1b4ee8ec1e8096c1b2c721d2d1) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53afc0be37be75a12e371501fec602026869db54b4a80529995ffb82b6896fff) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | V. Guerrero Jr. '19 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0x5a5134b578dc823b566b3c101860c64217596a3cdfebbbb72d1148030fb19b85) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9d30e8c6c9af9f506acf6daa721101d890e39752ebe4319ee2c49c8b9b0c819) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | V. Guerrero Jr. '19 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0xc9a6579929ed25c2e527d9c1c965cdd9d9376e8ec2999905c742c8e4ef320b75) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e9d229a0c80e24c58470bbebca994ee2d9321d8c6361b5d6b43c8c1f20cd43e) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3783b3a51ab1805eb08cb5aa6ea99cb30b7b1064df415a389f8cfc78ed289c63) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb62596e188e1aa0846c8ed131f448117fa0a391a9848fb994e7fb6bad15e67a2) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46eab65f0d3306c5ba6c4df825ee071ef36de6d33cd2c3be2c03e61f90ac0e14) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x213228fc52c95dbeb43ae442af09d1006a0aca41fe774d434f0f416874ab1bab) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f3be6d9fbf92c50bacbec7999d3d7ab64b82de1d1f37813cb0b6239d729d891) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x260ac83e773addf15379c0d31f629659a93fc088ca137676051c5eb6c9e2419c) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | V. Guerrero Jr. '19 BGS 9.5 | 391 | [Polygonscan](https://polygonscan.com/tx/0x61df5288fdb0d238e02007ffcc686b10f139db1184e76cb824ad78d55b31dac4) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf79726b3736e75bf3c50e2a474ec64d8c8fd952741a26063ce27a815ac8a50a5) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52175db904c8e61d1c823eb931d1e572dcbaa8e3a372c5fec2b971891e6a6c99) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2310c3dd0fdac2c618c42759e08f9acd1c2e65c78fa0b9a366367037d35e4c78) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x09eeb9d516ff55eace15d080e706650b36c9bfac06ec1eb8824afbc8e382b53c) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | V. Guerrero Jr. '19 BGS 9.5 | 17 | [Polygonscan](https://polygonscan.com/tx/0x1dcf42228056e39288ebcaa3531083d9c0f706db854538f4ca130f970b19626b) |
+| `0x9616661Cb428970920EcA949685b60c387f9911D` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf74635131c5b7bdf0dc742a13792e6f7559aeb5f2937aefbe69b2659be9d4bd3) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd4a35322e54e6aab3c6db86bb59d93098e36f6b7d6498089e6ff77fee3b9717e) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf26a8fd16f562c8a8a01b08b6414e64338bcdf060796cde7a3733a38942db539) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe835bdfee368f52fc1a8ff328466160edddaa3a0825c110dabd7fa9c5b440463) |
+| `0x9c89Ad13319E5D71e628Fdac8C13A5d905F19F74` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc74d707f99cec9ce3e707408adb2f3a7ba33f092ab372093b4fb8c3934f9bc6c) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd2e7a63adbcc4e52a917074a95bdbaf999fe216822c96d2a2f06bc21ccc83631) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6539e59dc468480539ff4345dbffeba075f655c31ee216f25cfd89d5baf5468c) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09df99a4ca8053d965117a55e90c9283e985ee11db446fe6401154a2769a0ec8) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4b1199fa6a82c6ebe94412233a5e102ab90afd66228819d8d4f7a3706d11f1f6) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9d1b97802b6b842707e01061f67dede941f4c85940cd3da552d2054f6a8099a4) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xda06a22df920c946169d98103071de4c1041a5b702d4d64f2a9d9f78063d9cfa) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cd049c6df7122b4c954d95e35135e762de5011e4325cbd246a19021b7bc11ce) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc99602440810c1bd85db425800c1276eabb5350d19e64af75187952481a219fb) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa38968d2c693a35270cdce52f9aa4dc6f39380b30050c7aecfd3e06c62c0e839) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeab655153bafbfc92ef3be6b94d20187ea248a9ee2137bbcec017611edc121d0) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x567bf565e4d6d7386503c1921fcd629079ab4edc2107025b471b7387dddbdbf1) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xea5ef01a5adabea9fb328c5ae93f56b2f32f610ac4ead32e42aebc69446cc2df) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | V. Guerrero Jr. '19 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xdc26670a61da74069a6eb0bde9502c2ff09ef851ec92bd6da4a87d9315381adb) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | V. Guerrero Jr. '19 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xd1d4391534949910f2b17eca18f6d832ceb0230f42a49785c3a57f70385b7609) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc286563d26cbd730e0ae1c3fde43cbc9c3f9151a966a3d3d19638f82217db2d3) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbf62160d96f99bb810e7e9e07e6280c24f9ab6b826461daabca91e78b84cab78) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9687d9056730acdee78cf644e789a950e18f45fa5ce14e6f68f78740f8ed22b0) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x93d93b2e9d5c924e66b140a550459df630a10c582c3967af9a08d4ddfaec26cc) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xace324663896964b4cdcb999d94717206ad8390c49e09a2a8a5b83c4f13b2a02) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf966cd16c50386e30a674ae8f95d5a945d1ae3fb0160d2f35e27befeab1af72b) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd07caea00eb05949408f18088c62d84f63fc67ea1d958653b6f43eea5fc91b11) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | V. Guerrero Jr. '19 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x62c2722c4bcf17131c71757de7a7d97f965ed5f2428774a578e003e2e83581b3) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x0becde2883aa90038705a55813426f2e5fb73831a09074ae7428874a53e06195) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1c753f07ae7c64ddeaea19ef7863bda51f0ece5461022b94cadc5bba1af2c1e) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03b811606fbea30c849e4e787401b6ec2311dd414bf6fb1c2603818f8ab7614c) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ce0e2539a90e8bd5c465e8b8473816f04236862d693a1a0ab05ee8abe09b112) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | V. Guerrero Jr. '19 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0xeef28052bbb92a2644d9af0c8e0f9ec99c06fdd1e5e189f0afd7d38f3dbbd427) |
+| `0xCd90119B7Ce86b6774976BFF6B66092e8d41a315` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2361e9ff799dd81c39fa11a7f775e918ddf7829859547dd3544b8bc5bbfa73d3) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55796afd9a98d324b11077120307021b61aeff4abbd1dcd9e46e6c39ef1b63cb) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d237728bc76286c4c6f5af38c7ee1b410b334f451059689c00662f996ee55f2) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6016eacfcb1a6cf4a7ae21718812655e6a049200d65751c100021d632f518636) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9858226100f212b7d0caa9202297eb01d32a72c09d4463aff0f2ef59e399cf9d) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3eecc7b4dc4694d76290de7954941fba9b9d633e6595f818a9b9a2d08a6c7478) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x856175366f46059f27419571b9e1761f39b469444c45d8b154a4dc3bf392e689) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0cf6f293e71af9f70f1f6372abe7c89efce2558a2baec0a22c521440857cbaef) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x3b125348e83fdba625e852d174c974b365f4efdac606fc61db54116691ab729d) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58f6daa9725985d8241c63ba889377d10c19837f5fac1bf86e67d532be072fca) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf50d77064125cddcdb0c41d00d89b8d0cdf9f8201e28ef2653fbbb688fd7e605) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04616310cae77c928a827230f919369b6bb5211581290bb77a018e820820d86a) |
+| `0xdb8c77efd58e367d12a1aF466ca0d8d115473e5f` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2532dae950b2e692e18fcbefede87e7915c1da638d77674834b66c25e415cfd7) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x088162932e8733b98d4216e1495fa619e6f940930f5651732394895f9e483ccc) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xda9b5ffd15c5b7802a6eded262001c0fc870efcd6f3021de94e48a67810a843c) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xab11dbf7fe87c09ca01f0a5db1d65e81865a8a9dd2906c1bd8e5d5672a74dbd1) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf35c6ed9b5bef20d34dc8482c5442cb7362aa52384877c43e622de15f97ca839) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd2909d9fc546ed3bda19ac70784c34221074a4bd89c4f7dc231ecc7b09a7b03) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69539e707e3549c938cf6d5fc2eb338896da4b96c9c2ed3142cf4c9cf0cb5ca8) |
+| `0xE395ca7CF49aAd9D0C7f51Cd3243547f814217De` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6854cf81b3a0ed231a200d60fd879b4409f196de7323427f6f84f288ac58bed0) |
+| `0xE3B2109B9cfe5Ab54b48940dFE05BEe147780c49` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47eb45677c3c64cb04bf422395ef32a643d75021626ae31b373f37bcf5874862) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdabf97a1d1861852abadb9a5effa461249d1508249ee2e1764a98d1c04649bdb) |
+| `0xE57F7c6Bd56d835D10250B689B7e7307E08f4aF4` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc6038a5aac75b59087cef8faeb5bf2c9d3f913264bf0aa42bae9505ac8ffce8) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | V. Guerrero Jr. '19 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa420e71bdf156f246b0ace7b8e9287f12954bdbdd85c8fd4ef4fac37546b93a8) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9275d8b370f773c1ba4c20434b22a4be2c0fbc69c73b213912f1afe5ba2c8d29) |
+| `0xEe5d5F895494b472402A52Bdc2481A6c5D027B9C` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03c4a5b7823cf96b17921d7a55bd360f805301a98753f26002aef1eb8b2ceea1) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd6da10a420400d168136dadd0e7fc775b7b233b3ad08a7861efdf5d0b9837d2b) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | V. Guerrero Jr. '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd0f051126440e8309a1eb922e10c7c511809ff9648598dc160e38b5f24378c60) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb8bb88b8f172793c3b01dff04f5b628c1f3051e3283dcc73725699dc5948e366) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86617726c3602bbf819a4ec06322528fee75a8df71d602432ef0246d558261e8) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0dab59730172d351f3094947de6e460270ad67abbca16d93b21d7dd8e4baad4b) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | V. Guerrero Jr. '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4b9fed2b908ae0f3b5a1c8bf61ff9280350cf3855452b0d5b86065cab14aab36) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c48c0b40b8fa590291007992a89fa77ea224805aadc7014499fe76a94c81b6e) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | V. Guerrero Jr. '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa552eaa417eddc95910147c3291f82459536fbb48c8a83216c2dc3ab6d98302d) |

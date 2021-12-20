@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | T. Brady &#039;00 PSA 10 |
 | **Internal ID** | 280 |
-| **On-chain ID** | 96 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc4c-4d85-8867-a5be74aa0913/d8c12aeebc7e3d7487d52e870b5492b7b97b8893497aca2535ec9595e1d157dc.jpg" height="200" alt="T. Brady &#039;00 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,156 @@
 | 💀 | `1021` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
 |  | `1022` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
 | 💀 | `1023` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2e2e2ddfac63aa5efc247aa9ff9fcbb29a40f58edb2642a56b3f7145a752c1f8) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc45d16ae913be295f4088331ef9e3fc5a0dd2ae7f7f69cb3e5c436cebdc2939) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a630d5b0174d1ece289bf7e490d8aecd1957dc77285cabe05d75bf64385654b) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43cab8faac738c5837d8f1fc9a5aa697c0dec7c3b65f043a67c5700739612da0) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa9b61d6d4b0799a403b9896e7ea76676ccda927bc98ee65ae379aa2be33567c1) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdca9802d4a1000296a9a69ee51726e45bada899db7855b477d01c1637d10ceff) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | T. Brady '00 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0x38f935c9b3fba5562f2af84a0f4aeac07e09885c5a523d3b771b7b80dfd24b0e) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8a8402098978be40200003f5d66b15ffe185ecbf17465b4dc6f174ab3b7a1398) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd5e1c280925dd15dfb1cb9c3174355b4734d9805d9f6cf042d10c30e677d3138) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x408a2adeb6de692a19d3f3bf1366842e158d2f8e3fe82f52cec488c9ddd499fc) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13fe51bbd8d39de15d97ad59fd0ab78fc3d5f3e46507de838afa6e5bbffd4d40) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | T. Brady '00 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xa9914d25ccb7c99c82848654bfb85b94873f13c6746d7f5bd4ba7735a05ea970) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x737c492b3c45e1c448851058eb172068bd8212f29c7c6c5bb002f349a9c86502) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7476b5486ad6a0b8688f252319824c71f5d29870d5dd25b7cb0f6352b25a8f47) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | T. Brady '00 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x362dcc32a1e677747d57b4ca45b6dee257ff12f2c9e8da6f39a934cd0b226dc2) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9086b6a54efb36d47fbeb3e364dc499c50e55dff34a18b5504c844f729332ee5) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x673ba562d8fec32a15b5ede57cb1dd6e1ca494249eec9978c00cbe20a4a0ff6b) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac4d5a53cf47f473520b69e452d651255c4202111a7df8f2672143d43263fb81) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd1c75e67ae95298e40f7d97983a20fffc755dfcbad8a3f3df95b2be1b637651) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc43dc6b136551ade5ef6b7eb0ae305d256d9ce9ef71e882571808f9b38bbc8fc) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x894f1fd537d0de8a7c3c04275ad2e2b731e2e43fa999123f388f06d787ecc2f7) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | T. Brady '00 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x9db1a5116d713b2a85f925a34b27af5c816b804719a5d67e40ec0c2c63fb6529) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x114e0be08c95e9c6e2ae6fec7e88026b2e036cb5b7647f8fa1171d38e43521ca) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16a40c6927c40fd7e9f0513f76e971eedbe7ac0bced0585b8f9c8a30867462b0) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3f2a84c974968a539b5c2382c6643a7a5339cbbb77dda70469372d1554df7c4) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | T. Brady '00 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xa0a18b9bf349947d435c0d24e936b7cc67d4ebd8a13db3207a3ccb6ac5a2e041) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfec7529117f8fe443e5934ea5991623742ba94d339080bb6d95acb6805efc3a6) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe8e918b5aac0a0f9609944ee552840f800433df76c9756bbfbd0edce0806f407) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x207f61ee8f1c9ac9af9fc9a5192969693c8f2d2fc30f3cd33beb602cd1466b6f) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x0d1d9347f0349fdfd57d57bcb7115ef0a345b9d8d3c93df3b0b98a155d96bf43) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf935d9871b241d143d678e96e946282e81c0b5c59edd45b9f1a4bf99f88154ac) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa375d4085fd96c5a80bb545e19ef8361048c3e0ffacbf55baeeb54426da9163f) |
+| `0x4551e5077534F459A9131b9Cb6b37be8DAa0a125` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79a664156cb58742a3815a713c9c373d0428959e674c3903423a6efd89091355) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd3d23556bbc7f0e9914faefb39bf85371b81cfd1e05fc5a1f9f2d6a9f4eb7bfe) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | T. Brady '00 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x6451590a0d80f270c675d450cba3e181745c831402cb99a77333de9d517a532f) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x168a3f488630f72256031d2815ca1d511fea6832c3e0fdc6686e62866bb64854) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfc028d2eb839b1a143c5575d47cf6572f0c58595adc919800f2f6f75ae6e43b3) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | T. Brady '00 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xa78d768506c3e41e05d0367e61f7cee0520e3da8a7b1bfd5f26b9da53ad43331) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1134b0d89f928cb6a9fdd08937470aecaaf23886735813f5d905f8d90b4c8ae5) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x213033a7e20d11109e60d1ad6d89dc0707ce1142b5726e76dcc53bdfc3a6e34a) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f682b07a1202f0f2ea5721c54804df792dc215fa2abf1ffdfe1ad1293707459) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfc5dc897a39a02a0952df5560c76d2048097ab145293529eb923e48621e45b0) |
+| `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0a112cec600895522a260010c8a2c1ab019d7d44cdad1bca1e36ff87ff4e10c) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x784365466ed648479cce1d221902fcf4a245a8ba6bdac1543603c318bcbf2915) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | T. Brady '00 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xa34026ce2ab12ca61636dba4dc72f6748bd61dafdea8ea68b47f257822875a44) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0151d1525652fa93b97ae12d14a9712c85fe9355c497bf49b96dd42f05993ff3) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4e50c04c159942f7a5334839dda5613df9d6b868cf05face2ff82c0a6dc3cbad) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | T. Brady '00 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xdb00d9aa2bf78a467ecb00255e1ff53f80959492256b4833fda2ed5f2c5b3dc9) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x420ada392a23744b2fa89cd3405c278c100de7c87518b0840617eca46d7e76fe) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd52672a79613c2c86e3119dbe6afc23a912f0a4377248e842b2d865e2bd10d5) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xec878d303972aa12a6362f45338b81d6ebdaba11b5644af97d370e787c4efd36) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x73cf7a2c95ca844eceb29455f04ee9ca9badce58e64c065256a770e475ba6993) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x099f10704fa4da3ade6ee3d35915d14b3264c96c90285c67b88e211287246279) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb9484ac7c5dc6b580593b607f2057bb073ff65f0480b34bf43836dcd5df3db1) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf53f6739eb30b7a74fd8728d9fb958ce0a941f412b5009254e8bfcc5ea15f7fe) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x29e52564988e3b1fdc7c1245b545268df91f5e46519d2fe3a2e68de0bfc76aa6) |
+| `0x643E9cc376Db93360dF43022897C0F98Cdf0dFa2` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe1e520f68eaa63b292cd2ef6fcd15c9c58231846e34d27429344ab38952de69) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0946de85790ad9800c4a3fa95270ac7ca5055ae5098ef11e7bbd7fa586952f65) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x20003c304b5e6f2d1acf3a1a729b625426c8ffde6edadba4b7f6d6547ecd2379) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | T. Brady '00 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0x601fa70628ef15849448740144e72bcc134f7516a7d6bff87a8b2674b4a1c504) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c4c60b453b5ac20b6aec1bd41fa2fc6f672a0cd2f780b65bc8bba145335e0ae) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd6a3eb06e778c5198745aa7aa6604de3984e377b560485306f16fd570c5dece1) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ee3a760db1920f9239068c3585c6da7504a1dd98d49711278e66cec336985a4) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x457876ed2ec18b3d7c1fd389357548ff1488d0e991b975c8be644755632a798b) |
+| `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x837e0b910cb0ee5859cde596bb712ef9cfb36b032761eda0fda4628c13cd27ad) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | T. Brady '00 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xd0429c8bf5f038c197327e10a03dc51a34f4c6d3eec365410808542495f0ab92) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | T. Brady '00 PSA 10 | 92 | [Polygonscan](https://polygonscan.com/tx/0x0f7fbb030c938a011da000ed10991dceea4424a1b39616be903e380d30e084e5) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa1960f8deaa5a344031825725923bc80e89690d75420cb25d3e9eec70bedde33) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | T. Brady '00 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xb6271f9c1af5d85a50ceafb4c074a2f719d6255693825a2848942e216c763c9f) |
+| `0x7445938D345c59143f608Ce686551eDE52cA5716` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3175aafa2cccf7ff7738ac15ce6fe391c5c3beccf47bc4c094e2b21f0aa909d3) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | T. Brady '00 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x1451116ecfe7132135c926e7fc0a79be1b42c50a8f37fdb99d2988a5649d9cf0) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1753f9050bf306d8b42d3e0c158379741156d23caedf17f7f05a468309c3c824) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x716b5d3aa890f2efffbb223af6914c755ad5f73223d321e7310d531f431e8bf1) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcd8c7f23c82e27f746345eafab770d55c1bd39fde0ef90762b26f264bf8a700f) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | T. Brady '00 PSA 10 | 19 | [Polygonscan](https://polygonscan.com/tx/0xd5257f21058cffc0f610e16e1765b01dc08d05c2619be73288ca0407a9b69207) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x520502e1519a0e30bdc183c7bd67a4d42131f661f2971798bf5af990ebe720e6) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x243e2e5e1e0b1e07ba1aa0418a2acdac38d421e81e28d9df2e6072c7da2f9b26) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | T. Brady '00 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0xc1312eeddc2cb2257cefe12b3517dbbe933e605aa51040c429e47f1885b1a819) |
+| `0x7ce242f413CFCFAAce28956D71e7129E52C886a2` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3bb37e80c9321287b7c44546ad5f8f410dbe451638ce84e8748a304ce0952ef) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | T. Brady '00 PSA 10 | 18 | [Polygonscan](https://polygonscan.com/tx/0x15d790ecd4282f34096be318d042f7292bb39ea9259dc2f222c4508a530c3ebe) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b23523aa90a72875addadbd2d48a006c8796bdfcd83243f6232032e05f62fb3) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | T. Brady '00 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x4f4fe25bbc224b51e7ba55bfa98bdb8507621302977a5c5f676249181ac2e298) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xf5c375d8bc4fc59e583ddf5417563b656853938a328ff9e1efd665dcf2ffe749) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe9862b38c8960da7e19e87feba1280647e2b745370e49a5c3111e836825ea0d2) |
+| `0x8Ee7E64F8Fbf4F8D3E58b64aE167a1177cdd9F3f` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb542ac2ef991e487f1468f00bac28da61a3a9d2f5ae1e6d09ab9e18b8de97e48) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfa1762c83b6562ec69604fef81e9cb4c3df4ca72ea8ab5e82b6b102afd970dab) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8cd7798fd2c5ede96d7cb4708406d0d7c7702d136ed6dcffa2629099fdea24bb) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7233605e9cd87b0d0f08756c096c9c546d239dc1a4ee3fd165622e6f0771daeb) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3afd8a113788126aaab2e72eff92f05f739fb6e4137ef8ee5889c53af6d5d26c) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | T. Brady '00 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xadc2c65d89111ca5379e0992505181584b05bb445ad5fd064a6e31b055371d4f) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6099a87248316e60c6b5698848e339c47627ae6310883f3e2c6d644e4a386c3f) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8829a4d2287c45454a25cb51e054e61d604ca82956901775b3759544299d49e5) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x965da912d52da16601c9535f1ccb8bd27232f02313832b306a0de129c5735bff) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x266af89ae2c10d71fad7415c08359f5c9aeff7f8ac079f67c33cf26bd8290862) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f1fad6f807fda2d4b3c090ca71a9d89fb852ba8d5ca76f18185c4bc757db1d9) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe071e2000018aac3a0362a1d1362d6a74e545c91fa74407a4b8ce134c40f809c) |
+| `0xa1CC1e396ae17F8685BE4a387f5914527877F720` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba64d5aa73628df83a3f6980d25c53b0523042f4f50084ca55bbabca38e57716) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7285d4ce385e4b4196b8f4783fc5b0ba068cafac3e17319dde571f6d59a7e6b4) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb221328031fd84ab458d3b9cba52b3979597dcf961d98aaa68f212f55e99433a) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcf956b80293645b5029ee7014f941862869c9e37a2714548a7fed72efb3aa774) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6d430e7a1bbb6c5b2aef15a2b01ebcc5914c84e66c9749b820ea767b3c75d8f3) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x21d731daf591a8a005ca1aeda009b18ec73d882bd48ea716cf31d3e8b94b6f8f) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7bae264bd0dc500a5e11db50abad77fc0dd092839b423c371a5c3c12dfb3f45) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe393bcac1db510b3d68ac105a9f7468e353656d0e606ea614fe24b417ded20ef) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d891ad5948cf98da32dd8e4a396e6c260c2043d38bea2547b7876fd8be6ed8f) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3c2f7133fc63e207797cdff4dd1e95f1171acb0bd3ffdaffa7f73d2f73525da) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x57dc473a5359c44219020ecc1c21ffea3394c6fe73cb6ede349aa91ee8da2218) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3a4b97a37543ae49c3d509aee773ef3f8540314bdeaa0c3312d3e5e463d0dff9) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb7724c82ee4d631506bb4a0debc4b344bc575734891ae945415c71ac025e0bf0) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x51b9b5d5e6a4279ea398f8ab8648b5791f324ae7491f0c41665df6ba792da318) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbaeb00c813565150cb314605f97c91508d2738899dfa0f5d94a6fdd22ffd0306) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf40ff2438f5b8c38a7eb8acd971f1d5ad350328e6668ef534a001c591bfe9275) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xbacc38cc129881fa6501d0a54bbefcfc38a37edd3a9df51a2574a70d011a7e7b) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x110166f9e4dfcc1fd76ff3b33dbc8890970bb835c0e467365b863718fbee368b) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x652da27ebc944a0cd1d9d0e3cc42d86d60b51be538e56efa450ca31e934d6c46) |
+| `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd83973d4fe54b290785633a2a52a1b193471a289d17a577f074d33fe8ee80974) |
+| `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70eed561009cd32486c66b14457d9f99420c32d3827d51953b4f0d03b375ace0) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9958a6d07e022a89c361baa0cafd2da1807506f0282bee58c4cac648f08b6f4) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb86e3e7b0585afa45670651e1c9f4908df597825638e484254d8cb16c677f4a) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0875a0c8566798fca0eb35aca1a9716ee2f322375611d4821f512549d1147ac) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb16e7522de7df4f4bae3ad1065be675b2912a49c1cf6e5cf71f7fe2b1a39d832) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x558fa8af7fa8d0c5e45c78f83272e52999372b936e307d4ef6286bdec5c21363) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b7cbb4c792e0dbe4883d02242b70ff13c69b215454bc0e40fd2ed98349975da) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb44b3020b04098519e9cfec2c9a713261e3eb8587e62f41997d5ad9b71fdddfb) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f530213e5d1c61b096d6b2b237ab5e7794717dcc752452a369bdb9d1627d85a) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7150d5045a7ce031f6693fdd3653d8113fce34c1a1c24b09b333fbf40b6fef33) |
+| `0xdb8c77efd58e367d12a1aF466ca0d8d115473e5f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ee5f350dade4dc4c43b68c60da367c137b9408358212e51e950e8fed26e71c9) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xfdd7d02fcd6f22d4ae3fcf2f3322da8c4e8fbf335f2de5c0fa14be703583ff18) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84308bfa108f9a83bd3f9788e4a207d47f6861591a4a81487ad6a192233babe0) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f23af46bc82282b6afe1ee8925e1814211b8b5afed5462a6d6dca2ff3f3a28d) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68d7c537ed760f1da3420f0f37f6da350d4aa10075443a21e199899fd6ebd26a) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x546e78e04b59f1097ae19556be3edb5d25452949e854a1e848d6eefc176d9e8f) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | T. Brady '00 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x12fb161901a9c93943391736a703dd922d5648a4536af044f53ec5f2ff9bdd26) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe16d84e0d87378a511327e60da3f4d2c50538eb602b970aecc425112dc463e11) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x51e893f54c22c5ecabee6bf11bd1b2a6574154365df4e712e21c28349e963bc7) |
+| `0xE57F7c6Bd56d835D10250B689B7e7307E08f4aF4` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75b5d1fb015d0fb9a9dd2d823bb2dcb7aa8583d8188e497623b8eb963d75abc7) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | T. Brady '00 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x10b3a08b453a3539c2a1db298efccc5311f3a235230743f0377165fb125fdb61) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | T. Brady '00 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x594e76fb0f948a04683867aaacef9618c5a6dc746066f0d8f864ba61f9eff9b1) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2fe8f131f905eb74fc21ecb33b577c52188114b5c6cfde5ee368081efb8ecd70) |
+| `0xe8FC2013e0b39A95f2fc5d696Ab91535D72A8e80` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56257fb7b3bcd6343bbb57e460f5250abd57ef1418d571f73872e793aafceedf) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | T. Brady '00 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xbefe7bbf0f9999b8cdd4092e5948a394a50d9309ae1aa273c62e576999df3d0b) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93b6311027351e10b5526533911d719a44a8589ecd1138697a0eeddaeeebb4e2) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x273320ddb76214002071ddd42e554340f0e493fad5e6e5467482c003ecfef40b) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6a9de5ca952cafbf0555fccd4e2e49158356f4e640e4e637919d591bd609d29) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x717496b25d186de4aa27547e2fb184343275613ee2dca978e4e85d0d5abb20df) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | T. Brady '00 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xddc6102cf0065dd931529144c7083544fa914f53885d475beb1d4aa14afd2b46) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | T. Brady '00 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ec2f11ea83b4ec4875e2eafa152b320960372d73a446fe8babd90692083063e) |

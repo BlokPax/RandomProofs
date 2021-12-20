@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | Z. Williamson &#039;19 BGS 10 |
 | **Internal ID** | 379 |
 | **On-chain ID** | 113 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7d58-42f7-8bea-30b8880c0b8b/9c2831f369c236738389ef4a58a1ff73c759cfc233a33b05736517c93a115c5e.jpg" height="200" alt="Z. Williamson &#039;19 BGS 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,232 @@
 | 💀 | `509` | `0xE40904A4FfB62e887aCA710fE77040379F802c6d` |
 |  | `510` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
 | 💀 | `511` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ed5addf18c3225866bdd2a051132cafd049e06ea9300672185e8a807922f1e4) |
+| `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` | Z. Williamson '19 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd04be3796e0662aac48296ef0428ef3c990c7bbc332190f59b5908d482d48df8) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31aac5381e7d1761dab6aca1d3ded9018e9f28c8fbfa27a01a7309971a7e9883) |
+| `0x0360d4135faf2dD66528B1689f8BCb7974B8a9e8` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e44191e2e069a5b1076bf1730e320a58b48a8742ee273310a10947f66ec7a72) |
+| `0x06C2d6b0aEa816bb85Cd41502a6E9c2438B45504` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e3bd80752c1236ef35a27ddfd31d5b3398cc3952f2289ae0d2f9e43f84f6234) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8565c86653e8c44e2cd50b88aa687513f4f86be89fbce078176af41ac8de460f) |
+| `0x07CcE26251b25BD5c8C0Fc3eAc2C5F1728bdE336` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc10f1f8abba92c2d790f43f81357248ec46e08ac770b4ea644f0cfc5ec79498) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2b90be1dcccf9c33413158c62fa6b4280ccabb8b6c70e463b724251afa6e604) |
+| `0x0a9a893ed9e173b3298C8022E959eC6691673145` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78c1714e9960f8761d0ee62b72098829ab241a92ffc063ec833381a6dc83423b) |
+| `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8c8f4283d4fee626bd8a146dc5e34c46dad8c0daab3bf1267e8c30837fd5ab9) |
+| `0x0F8f7AbD11425D954A659E0b94bcA8eCe7F31898` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x891a26356e26ed4c40d419e387c72e8060529263ba44d4c2bd0add288b9a5deb) |
+| `0x106532B2e8919343D239577c9D03Ec46Cd812891` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0229f726dbf811c82bb2821b2e60f4a1698a00df05f5d2123c0af5916c6745b6) |
+| `0x11436EE79814f04b71594D651E8A23D16f0eA519` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e9ff151bceccba32a77d7c55bbdb7f539b2eff619c9dfb0cbd42d193eed7483) |
+| `0x11a1b9E47639aCA4d00246D5FE550c9c74346dbB` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa060e10487bc1af448893cfd9879c849dcd8188aa9e46178a07ec99a1b5c11c0) |
+| `0x11D877482E95B914641148547245AaBB030Ef179` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6967e1cab8820aa1152904fbff70f7aa590f3726de1a8c307186838861d482ee) |
+| `0x12202C45aa472483ddaa4f5eb59CbA37d6464c36` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e4689c4aafc25b6657ff01b3ec9b933fb1b7b43f987b805f2fc806e07e1e5ee) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbaa6b750b06639dab1db24c2db57abb2fbd8dc1bd71f06f61c479a0bef8e3d30) |
+| `0x12FE7d2eaf9FA334e07C0AF7e47C68eaea07e6B9` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90048738ee1bf61676c8989af3ee011b2d5001531a39b09441785843df7b27ce) |
+| `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9496f15f58b13cbea701970eb882c062071056f7571a03498149d4d340e90848) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dd106c3268d8075daf45008c2646ce5a7e27d34f4320a89478db37c4daf3300) |
+| `0x13cb31cD697864A52b2DfB2A58ac3554dA19b93f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x725175c1c87daf0fff741da8f3c13270f73071639b19ac380fb3026aa018bfe3) |
+| `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x348adf4563d2f17f92121c245d79b9e44edabf71d4202c730a344d96adf9944a) |
+| `0x172a2ACCFB046c8EF4A838E94a726A676C76AEf1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7775655752f3011c1d126b7a38013879e535f081dbe47cddef57729996e92fc4) |
+| `0x1774737C2687B79ff820A22312E5D179b1a2dC39` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f28a7aa83fb4165997a70504700dc40b68fd9ab4ebce49e800492626c0ff629) |
+| `0x1777e93c51ACB6fe25D11c095684125133175f3C` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x586f5100325209779f5964b537739bab160c9da8009c05ea5bfe2a7722df69ea) |
+| `0x17E411390B57D6f6bA8952A77E40eefC2969C851` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfaa088ba448bf80d4ca6f66c7199e470bad33dd4fd30de8a6c169996d387ad6b) |
+| `0x18066042453980175c5bFe38f7aeEdCEe0A075cF` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xded765db3ae3cdd07483181d011e00f06ec751209e244bb6ef8dd05a4027a7b8) |
+| `0x18975F3C85EE57995180934b7515eD3792bA3c67` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb23d5777a776b1337cb7c368bca53b1a70b5f79400a52ab63eae46440400d8b4) |
+| `0x19E6b8cE9f758DC17d7778808CFbEA93276b4e40` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28474de85d17269d729f84eb7b41d7faf662431bbb635290626a12b1b62df7d4) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27737cd15c5e85b10c277f6b5e604706675446235f3e6b90c11faee4868b07a1) |
+| `0x1fcf447fb028c5B47974D723976913a964Fbcb11` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x242cf603e0c280bd4453cba1ebfee3b6fd0aaeb2e3898d931ea6c2daf8fa5319) |
+| `0x205EFB76a9E41D81c3ae634F32BB5580Fe6Bde37` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ed41d2d2eb6c9f2013a2c222672d5a54ddcd43d88197ba3c8b1951e9d0602f4) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fb1e152bcab666354d31cd729fb3b6746b44b12d96ca855fe34fa3d9d8a24ab) |
+| `0x2559ebE5d9d2e46a2bcf2665c4Fa97FBcDa7cF8a` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x386a12e5285f9ef642d06838a1ff0baceb2299721a4d549545146e449c28e4de) |
+| `0x261fF856993E48A90Dde53d2bF18348A278Eec7f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9981dd79399f488a40f4a5a97e46b66887e4974810aaff1e25e2b55bb11f5d78) |
+| `0x266DF11a20ff13572e915d9237aBB05089752604` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb7d3ebd857936c5bffabf293fa3577abe89159c543b425eccc16ec6ca94917b) |
+| `0x271779b1E3A19C0fB8832795428574f86fcDD83b` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb96cc4892dd5c10124870ba2db6df50cf6d8deb0663572d6f7bdfd181da500ff) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53c870223e5eeac41d451ce5649f466f5dff2f4d0c5b9de059e6bb9ffa1462cc) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ea54b3e39e4dc6f7482f41aa51e1f1c8c9f40b8807fc2748af962f09d6a14ca) |
+| `0x2b96c78B3D7Bade63789052D37A28B851E5C2540` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88104e5ba84bddfad2bc1d1fb66f630105af4a2169c255c7e98526d0fec1b792) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16c55210df46c4a1386d8b9539d377210154e0f22bc5a2a03c8ea6ea8c705786) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3fdf841dd7946f94db1124bdbd015260023beea325157e9362da22b6fb9d1841) |
+| `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x977e06a3d3333c3cd87e77be8a7d8cf6b42639deaf0268666d7d44ee42cf2532) |
+| `0x32f231118Ff51476E9c1182FeedfdbD49298E75B` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x929868bbdeba5e167a2de6c3d081a53f8278666c01887caaa1f3b3bd3a7f14b9) |
+| `0x3364704f4094e8EB5349f8B01f4910eEE5F295Ba` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd561919e2fc959ad557c3d047ccc2de1e44710532d11d0b6ca2aa955affce908) |
+| `0x34934daf75B681796354086d3055B821FB3fa51d` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf54b7290b511748a19491240ec71e4e731a0a4f461b1bebd59baad9974d945c2) |
+| `0x350ee0A8eCA9Ea0EF339cC8658624552DE675BC1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc16470669c07c0540a6527d9accf44761bd10c051b9bfb27842bcd601e1ebf63) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04e62ed2eeb1026f0881094a20048f0b991aa4d1a4695c4d1c301907aa038771) |
+| `0x394c2FE8e151707c7B662e574d895d4eF11c0b5e` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa4c69ce1aa6254821452e35b2980aa5a911f86b930de03e4356967e462bb634) |
+| `0x394ff69dAaC8B0b6Af3bbd283208eB9b7C383318` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x875bf9c33ba823f6fe97286096509d9d9807e0a1a8a73a5d901dcf28794ddaa7) |
+| `0x3A26F75FA5421b237A88e7fc1Be6e7efd25c8792` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94d0e7d6c6528bf115106de00849c4efb959959fc0f8bec2c771b0e0088ff6b0) |
+| `0x3C29Db55027BecD0b626AB3592A36E9C64fCEb4D` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e8324e8e159a507e617ce48dcc515f9a62ad4689e9e001f22ea5dc66740de9d) |
+| `0x408b3dF8a39aFb4195844CC48226ee67BB4D0533` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07d6f0d788a3ca44b81fecdf4675198f94128e1cd3e34a95b696b011a09a9956) |
+| `0x414A1FBb2957A42F91dB5C6f2eB28B24686aC199` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31c88431b368709f0e3a141de2dc5c754143b5208a9e1e9ed76dce01673daee1) |
+| `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x483e5802406e91ce454ebee4900c3532643de660787f6064a759877308115841) |
+| `0x436466DC31C74E450Bd33c9aE0562e1F4889b7d4` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98ee45e61583f3d1fa343f105e93902cacf1674c6ac155a5d3855cc3293e4c35) |
+| `0x43f8ab6a94187826F1614295C13AC6EE7C83Ef42` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38686c923f5621683c179193bdf4e1ae4e0dfc06c1725befc0723c01d7728e85) |
+| `0x44016B8fb76Be8f627b0fCB82440c007B3E9e04E` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf3ac69ec396aae0d427811a5bec4e12f9feabe5a7465072f31654ccddaaf617) |
+| `0x443248767bE388cDd2e5Dd70C23f47004E7b37a9` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9ec8e2ff6ca8e209f8862859e390a6aa104cbf2c9d388ee8d37dfcb01f31a6fa) |
+| `0x466C97292bAC70Bb0221179a4421d99CE012b3AE` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3f0141b1ab537e14cbea7dc38a1b2dd0da3d7792e6fe9ae588829ac264f6d10) |
+| `0x497231eDeAE8C257C91bAb284388F46f58AA66f5` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3e33f66dc60a3548435b680ad3c84b33e8a739887162b24747d6af3e18ba311) |
+| `0x4a3F91B58E402A4738a2C509cE2709B74e4bEc12` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc665ede52228448ff3dbae9dedb2a7669e6d69f9fea85459575ba1d1e8a6d03) |
+| `0x4A950AB3A4C5F5644Cf14800A147c09F049f3ed3` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcea44db40472a9cec90f94a1b51bc8eb07215b9ae252a41f97770f2051c1b12f) |
+| `0x4c4510046fE45dF69C545b8835f061b1eA22057f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x559a7aee76069d20294c8e608ab9f5751be5d5df3b506f83cca48dc74af6e2f8) |
+| `0x51Df989b32f4CE0B688c70Fa24e01D629eb9B6a7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f36827153e13cee77893bbc2f75280a40997f6237224097dfff2c87f2cdf721) |
+| `0x52C51e3f1fA02001E8B985b1A173B001114c71Fa` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29d3a34836698e833bb2611bf76ccc6cbbd538e564537759b1dc8f7f0181cf0f) |
+| `0x52F490dB7E7E74B08C1c61Cd9d53af5C39336679` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x974a9bcb759633a94581c724f6ef828cba1a8059d57010fb3ebe054df6e38e5e) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc161538fdf097d626b5bd1f5cbdbc184439e4c9ad7ca0dd1cc1e778aa443a0a9) |
+| `0x5468B9bED3e4c8CE2c4c4f0e9FD54b63517b42A7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda34a765d9b7ddf8cea2a7998d64c81d625f6742bd6310e2a0a3fa7954897e4f) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x077e1c9b565a60c6d4e88e15b7b1629473c433a90c52368a76860aef09c0eee4) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76f6efadcb0730338a6b014ad033cf1397121bb9d379f601bae92efdfd1a8750) |
+| `0x59209c5F5d233BbA71A5B7Cb9f39e4685Cd9D68e` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb61083719a267b4fb925fe1de4deefee9a968f3277fb6f4c9f4166996a55bf86) |
+| `0x59dd3BD6AdECdF8a988b602818A54C1Dc1cC4A97` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc49fd5190b74fd5098bb596e3c225de305ab854ad112158e8e78f2fe8f7cf485) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb551659f8fdbb4f8c9223f561d10b515a16373f2e928218108b88b5fd3a05e63) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1afa2c5f6b723fbfd39593313c71066ce8ba1d48ec5113460a956ac0e4175a8f) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8582eabc10f9adac6117a50afb8305a6e10ed06fbf6ceec207df7f0d6292a1cb) |
+| `0x5c783c53C8e3E8af11563f15AD26F5FC5c9B737E` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x566437a7d0b92bc9594b3d9f6b5914e0258ddd8136328ab01b678426844a1483) |
+| `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f33ee2484735546ad98538c9fbe68574927bf7834767a3f4bf85006bb8a6f26) |
+| `0x5d1D444D0F660e147cB0a06098E14Cb00051811a` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d4b928869ee023183a792a4a3023a6eec6562aeb8c6044eda77c3f8f2af54a1) |
+| `0x5f6C60217Cd5Fc78b23794610CD16FfA93A05415` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc73345fc8010c4db22993ad0f4d82a30633ba93f1a12460f4035370774780551) |
+| `0x6271915E46761B28049d1AC10d674453311dEdA1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fefb62daf704409f43144f11b878c6e0b50520e14ba6627614a967f63653bf8) |
+| `0x628790Ae8B993DA7009c4Bce023B3C2Ce631eF88` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c4e8e0aa4987b8f4707d5c8bd0ec0ea0a39596f01cbe7e6e4886b46ad728f31) |
+| `0x64D57dEF47198D325Da304181772B843BeC61Cb2` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f3340034a9f90b7980af6bb7ee6454d7c81aa168dd3bc876b1c48e90b68c9c) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | Z. Williamson '19 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x34e6672249253ce1455e8c6e09bf65fa4c6478879383f0d30204da11ef0bd2b2) |
+| `0x6563c4f847Af214E602155799F949DA5C89232b3` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd467557d11d53d72c5003f3bdc308512d34ddff178d73086abf463fddfdc16e1) |
+| `0x664f9A937C828e9332Cd044ad0e753b2Be37871B` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x083f82b0863f2812355a795b886346c353d312beabcce2d4bcb6e69214fb564d) |
+| `0x682Cad157D79d73Eb1D93d036B438d6F05084736` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa32084e81cfb10aa9029335e6a02542bc6e87f3e5ac3eec3f7b87dcbe5517016) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xab7e87cc083967a91636c6deaf799d8fd33d73f12216283e9782979c3f9d8805) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcacd1936073338faa2bca32c8e36451e7ee83cc33774ef2b80d6d49c3135e799) |
+| `0x6B5c3546F16Ff95196035B54489c33B6523cd9F3` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x020fd8376ad6b9cc719b0bdb73b43746392cf1869dba8332b23ff05f5b56e84c) |
+| `0x6B680fa6100Ea04D83F63485b7df0b650E2ac150` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x606ab2b53f565caed3acefa7fc08271fa0b597c85c7f25574f0917f1ecf3e994) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f33a67bea9f2f097506ed57f557b510dfd40899ecefdd559f9757dfbc834ee2) |
+| `0x6c0001A7aD8149FF6d84d9a52E7478cd7335B6d5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03eb434d5ef4555b722ef7dd6112c945a5588b77b17b132fa20f11dc5adb5349) |
+| `0x6C5e27a9C0fBEA1e1Cc60BE404F9d510883b4870` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e053c7cd61cea5135cb38ccdc858171722ab5fe9b5897f0089f8eb7bad8936e) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19bd5ed52ba83ce82e421cdf8f9fc20a07f2032c39217b6eb15246aaf3e52a0b) |
+| `0x70a062e6d07c5e01400A23C1507BA7b36bAf183e` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6aa84bc302f2a6f015b5d688339534c1859c225a56859ee1c1e0ba278ac6d48) |
+| `0x730a331b39038EC062762B74c7f7D7C696Bb9d0e` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6896423a2dee884a6847b7558768bdb29c2f93c13511da31530e9ebfbea22f53) |
+| `0x73c20e35d48d62d755Db4F97d9b4008111647bF1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6ba4b1453c64058c5dc5e48bf6d44173ab0fe21ea5ebd9e2e08f8f66e43cf87) |
+| `0x744cfDd907D6a75f5f4636edAfADc132720fe340` | Z. Williamson '19 BGS 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x83d8f4695d032d56c52d578c2209faa16123faf42540e834d44b4a8d51ca52d5) |
+| `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5847cf1ecaf425319c97b8f12af3f8850a48a589b8049d0ecd9ad9c44e93eb8) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d163e7cb2cc4a50ea400e001938ad52465b241368702a1138ac1ed7e73c8fdf) |
+| `0x773e23F79e562d6219Cb6F2c0b74Ac7ccD71f81A` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc26e310ca8f6d4c035d97e5f17ee3840880559c6b3bc0e57dc520e61cd8e9769) |
+| `0x7831230CcaD40FeD808dA2F340A9059Bce865449` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde1aafca011ddfe7c5bcc2f08a9464696cab3dfd20cc8cc2ccd049d6c8679b01) |
+| `0x785Fe12C2E754f64347c1d76395968E200059328` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06a72122f6a9b24c0887d36427d4f55001d70d29a7659d1297a6be7a5018b3b3) |
+| `0x7891c89a0468DE0533C1CB5a37af7ad9171D02A5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x664f01cc33e6cd2c29a80a23463d3981cc42d4a291f4871ab73cf66999382930) |
+| `0x7ae0DFB44b7c05507799c2beD06126fC3885aE78` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66d90961b0c18aaff77483f8ed4c7416188a132e4b1bb8475f141cc6cfdee5ca) |
+| `0x7B7631d250da508FA1c4bDA09Cfe68E6aB01c719` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bd5a93b0de2f21f14ed1525ccfa119662ae3a99f634bd44958410240a719c6b) |
+| `0x7Bd373d3d787bdf037f1f54631fa056b31076514` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13c912f926ba7743a11660b9ebe2afffaae594bd019d3f8643ec5fb3ab26352f) |
+| `0x7C7183eC0d52fa10e1E1FbA982a1666dcBa241D6` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaae35f5dc7de041fa518763fb02b9286e3b2f18ac6a77dc293fba7d9206290b) |
+| `0x7d1910aDA0227B3a72E23A3A1AA9AF6e2629E734` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a7607fb37e735ba2b84c50ed2384f4650addf669a37155a42a2c1ae4e24b09c) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bbf0028369f934fdb221a2463a5c5f962b736cea50838a623548ea09ea63992) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c2138a53d896e3d15e65e1cc2216ea729c2f6d265c7d947f2c9a75e615ef988) |
+| `0x7ea3DD9f9144f031d8B0C5652c4c2C1eea3Fa1bb` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e6e11e039f0ef6a85caf0c3af03d3e05fc6f90160cedcf966b280bf0bc49825) |
+| `0x7EB8d87542E3948A1fCaD1Ed151c690B0b6D65d0` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd38e70c2cfcb4fd65769f816f654660bb46d06d37d6d9860d4e9f018b23629b7) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x555ef2905abe57ead533ea7378ddbb358ac9cec248d8cd3d1cba1ad7817b4527) |
+| `0x81314ba4dE3ae0D6d16c10cFa62A85bD0a28Db1C` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6fc2b93cab0a6d0698ed1f022e5ae912a556b0c38b9421b8cdedad046f9500c4) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03e93480cc1308e9f27afb7f6772f39fd46f27b173f634531dc720db7f9828f7) |
+| `0x86241F8832E6B2d8DDeB92708AE91022D9bB0380` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93eaa6639f6bd29120bfd85ba1396012126bfc65504c0698ab2dec108d43b9f1) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37221cce941a9898b0eddacbe13f49a1f313f9cd8c094e6de58a7372f3557be1) |
+| `0x881Ba6Fe75134644d755395b7D693D069D4e7fE2` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3d88d2f630b18470353dc4d8c0476cb5c650a0b56ce89354894fdba7afdb3d9) |
+| `0x88C1421178ff6BA6686D4CD8D976A4166b43F34f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7035eb12a9d9666c1bcee08092c3e3d6aaadc703185d6ac57a9eb38ac070392a) |
+| `0x89686dBF5893159a3F4Dc11A50B0aaE6cB060ECF` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x949d37f758b8a6d989d550f9c03278dedf2127d335f5996cb05b432f1660d60f) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4932cc462a63d070d595ef9fa0b802a948c85b2a12a7d6dca230be33066c42a9) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05f1026357615e5535527536855337ec9ec7238f506053690f508455a30c9bbb) |
+| `0x8D242E5B1c876687Cd12f596c24821957e4009c2` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed292ae05a03b73d85fd3b47d17c336ab5544695ceaffccb134df8fbdb041b11) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52e1109147423c244085511fad2f686b89c73ad9ca7d729cc5cda40be9d863d7) |
+| `0x90BeFb0DB243129e8DcC889e87132023713E03a5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd28e354ccffc172de98ad1459aa032a6d2f82005b56a4d6a3d502a1467031dea) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe99a9c7b9a1510d238df8e72b71a8a2824528cf2dad67054074ed9293b19f386) |
+| `0x94b201CCA8b7ab3828A8642660e3a8E29F105934` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x387c224d26107eec3952a2d929bc8cd48bb3d507e43d7c52c227fffb1f05e8bf) |
+| `0x9509ad3e011530ADD0d58b62647ee2D414A17D6d` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4be187f3b5642f9e429454fe4bac90651b34d3af2baa0d677c5b95063e4d1eb) |
+| `0x958139CA2d1ccBD41E8F698e0a88F9D6B16969c4` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6cfed13e7cbc0452a295c934a6bc96078399d3aa60adb8dff063dfc962adc95) |
+| `0x981B092E4770187Ca976d5B80dD42f04291106d6` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58899dfc82675982e1f1683c5e0cc5a1b5bae9c517b67983565096c6b0b5044d) |
+| `0x98462e8D87748d82688d509BE4e04aa0a0c509bE` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bc8ffc5c3c79ffbed7ed072b54b96d43805df0792536204e2d15026ae3b6efc) |
+| `0x98520425F95c77497b2CB9Ea3817A297999Dd653` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x619f5e1b56196955a5276dc75f762fc680ab311eb58c3cdf7e9799935b96d42a) |
+| `0x98a1af1A95540a4d8829B2507ddB0D9c6c5289DB` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf3dd7c1dfe12924e45ca81741299c0615898175d34a8690d7e0827fd4488af3) |
+| `0x98AF66e7E7349519f232eCa3812bEAbF02889Fb5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34b13fc210b541f294d85ce8e3affe3516b7cc96a256c0e02f16c61b894ee629) |
+| `0x99f0A634013Dba6B547b65aeC8Cb568726B669f6` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x416b13816600b97354751c2cc1f3e4116466a4cc89b16c103758ba915b9da953) |
+| `0x9a297967A5B1BFEB3819f61B2d76A2428b80BD62` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2eccf2dc0370aaab3041719f38c4dcf0ae2979c694cce9946fc6bb807af4a0f) |
+| `0x9a631601AdaB55f708cAc19D40E864dF0C1d2c8A` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65686baf855088fca5aa5cafc0b2315c6904cd408fc15f590f877edde8b00978) |
+| `0x9a6472d16ede13EEF333EE527d1B149cd5A324Dd` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x66a3c7b5ee726bf29b0884f70bd207a5abf72a8e7c88b14abb30726421fb1146) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xace03e5931369f9f310360baf3aafb48d29db19e1016ca8a55f8c2a265fd3653) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4de0e7c0c6b0359acc7defcfc079d73a5f53357ac5b87c295a9625d7c3ac56c) |
+| `0x9d3b24F40aB6bd89c3e545E896bc1B9174dB38e8` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5183b30772e068bbaa400fddef1f3c8a4ae2a12e938de514c8ff43b77fd654a9) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19d0f2a5d74c5a9b2a905bd9e328b307e438d1910d481e629ce352406976bbaf) |
+| `0xa001B23333C76A2e762509098FE3056A1Df2EAA2` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x158840dae67d9d49cfe698d6e22d5a7013863852be15587742efa041be4b76fe) |
+| `0xa067C49005954B08D40C4c5c3638d5dd21D4e5e4` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xef9b33830949fca7ebbd6139e11ad1e6ccacd2fc9e1c3d0cd04d3ba85c7a2537) |
+| `0xa3B4aee56fE96b2E42E56039aa4cd2b0Ff343F00` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x571f49dadec527b3f411e25acf07871bf32973bad0ec0faae036d2a00bc6b854) |
+| `0xa5eE61Ccf4FC2F7190CE2dfAb0546946FaC671B5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83d5c37733625a3d2b8b2095c44e3267a9e9afa4334eb64669a5738fd9cee7d8) |
+| `0xa6730a6fCD285acCFe3f56222a3932C194A01bBE` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3428814852c3db7517dc81963e5f73715025bcff2c51174caf64fec2b1d6bef8) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x089115ddb149aac9d12edd11438f2abd31fcec69ef338456537286df4da2d4b6) |
+| `0xa70191Dc169E75890B70fAfB3725F7840f12A699` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1536ab58b8eceddcc0dd4caee9a00af43631cd78b12f17d817511d38c67612ef) |
+| `0xAA62Cd812Cd134EFB1d3A3389972739902D81Ff3` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5955614770d31332ac74d504bd755b668c35d8c58313be460535d5878f9636b0) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16f72aff780841cbe0947401bd3caead39755bb0400c871ad8a843817f29af94) |
+| `0xAcF1C5d4C28EAcc652BA1B35D28505bcd05194e2` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d6fc1b152ab733795af2b56d5e18e1f318ff25a4a4c75f0d8090ab2d006e9ca) |
+| `0xaD17EA8f83429Fa0A4c0D405713E0C2fAE3c58f1` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d505b8fa1954bdf43bcb87f4296a0666acd479f27ea09c988e7441e114fc28c) |
+| `0xaeb7eF10863EB7d9f0be4c581922b3dA534B0504` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77234633ba8002f2c8fce33e70c0642dd6567cc1e0017cfd7032727cc30ce4c8) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2011712c39a6ae6337a29f605a52e4a6ff22161ae6b79c6ddc9b5ef1ce4ee8fc) |
+| `0xb215b2dE14e555082986Ae9cbA641FF9297465B4` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47c85519b5179540f1004ff05826e978f85e3244bb90429a02504c206c749c00) |
+| `0xb2cF67826Dbc3FCb3a674eA252858fb9e9C653Aa` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79d3caa52fca742b111d514b8937d993c477819d8af87f4237a6a0f92dc582ad) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | Z. Williamson '19 BGS 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xe23b1c5cbd98ce0863eb1ac974574cd29bd55203614cecb0fcdd34b5f6fe65f0) |
+| `0xb451069475880fcb5D8F471503e643799fDbA6fF` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb8caa7490f594c91620311dbf7aa5f3f7710588ad75d6d1568382447cdbdd51c) |
+| `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa63a5094a74a42917c875e3f3346f341ffcd8dfaec58e47973aa535b30e3b49d) |
+| `0xb577Eb54D1a756dCA3c6eFDf2d17036Ecc309705` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x536821f4a0e96777b42e0d5422a4f76479d738e51827e1515a59f76ad5369aab) |
+| `0xB94D42D67f36F01D8E2F3185aE78921C769CD501` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58f5f4dec46dd64377494d68d15c98e80d46868a331c653f7a262a546ce18771) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x818519f89a7bce5c4e08d3fe2475d6ab5eb408a6c87738eedd3bd7301f6132af) |
+| `0xBA2d1F026498facA2FB04d65C77896AD1A8CaFD7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcba6ea0c8952ae400bde3cd2ad001f7e5adc1a3f89030ef2a1c76025fefe2d94) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf86c2059ef68021bc45476914a46b15663a327832f86ab94733251130dfba4f6) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb7b08cd124b9305be99896355bc0b7864cb444895c1dbd5fc50ab36b1c96b00) |
+| `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d3f923e5168cba92ef366a6a0186b2d2c741a10cca56ed7b90c2dae0b75fc99) |
+| `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x351896aef62fddc589ee55d580bed216fb5ff0ff2711133f43597f63dc98eaeb) |
+| `0xBE8f6B2EC0AF9F36Acacd64A91C0Bc53282c5808` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x499b8008ff49d9a66c193882a76d92364d7e947f4f16cdba4b7b9aee41cc5bf9) |
+| `0xBFF057E58B97C1A238794CdC58C3f8F3ED35F822` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaf1ca15760fa9b87585f0cd70e32266f46d5f2bf94554bdad6e851482155054) |
+| `0xc0Ff2e06861E529A38E924de1e2591Ba58873dDf` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x515a9053817ae7606f441109d49a53eda9974bbe4e87296c18db809e558cb531) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b36fcbafa76da4553ab3bbcf68ca007adb92da022c5083c6a1ac7f92b20e9a5) |
+| `0xc6455619BA2Ac6b284Eb0a49E6AFC287AfaD2EBa` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5e426f10a8cf35818d5e0bbc4306b2a1549fc313e7ec1a0ae655a8530f1d759) |
+| `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d393b9d0186eabdbf1cc8aba262fd2be144cda86b7725e38c6e18687858e7fe) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x03a0807db4b6f032a0f00e1727594a04e5fb95820a4fef63a506dd49966802f1) |
+| `0xC94636046e13877aF5361834a939A8389dc7F699` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a4c2a632a13c80abe2b7bd4eb8681217bdba4a1287c47c851ffdf9d6103c38d) |
+| `0xc9FBd76359476BaEF34e521F03062aDEC5204a7F` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9404ea29e03cacbf7b1483d089ba5d49d5aef260e587a64705bb208a41345a75) |
+| `0xc9FC356bf3EEa1b05B93c706975e800ea4D56110` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccaa73a26a4e759a380652c4e460485913cafa66ed76479046b422601d0bd109) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9c1c3baf274a4dc53c54ee9022180f66f6b918b2be6cf8094e5adaa07008119) |
+| `0xCBc5BF1ee13d31Dfa105E96f2EDAc3c0D066F86f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb785a22df0507c879fd36b5f347a0d70bbe628016c3dd186d494274d78a789a) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d34317d42b2176328cc2153e96c98c4eb865136a577c554228f81d2d6d531bb) |
+| `0xCc51A98c7393e36944fCBe49e69779B69698E5eA` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeea5030b33e672bc27c9c03aed93f9f31c08785d0ab103728465c0e7891b089c) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x505e03fd0ad9e0b2ae410005455110e63ca3f4e77fc026544f27dcea4c3995a4) |
+| `0xCE92c8125bd08D04Bf9cDFA5df6DfdCC5fE57aef` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b492960d8b42a59eac71b68939be6079597758e3bb2a1a35fec70a43da05289) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a04842dd30fcfb72b0070f65b1262f4818bc91dc7623983b315826f6e5797f8) |
+| `0xd34EBdd800bD82F62240b65663C497803D6bB8c1` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6fdb22bcab00c701ad277b110404d3c450ff66393e098fc953cf8f5336996aa) |
+| `0xd35A06818FBd50672e7AA860581a0095eEB5B55A` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a6524a234a0dd883acb530ac79e4de8ed73090a30a58db51fd179940b08b01b) |
+| `0xD47BB29862BD0488BDE927e76b38FEb0Aed373d7` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x946aa17f73530143e745ec45826c338e58a6c3c9adff02b91c6706aa9354fba7) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49c0ce73650a218fadeb27210496027381627f48de70812149ff53bd23517dfe) |
+| `0xdd1161dBBD4315672D66Ba74F3866f750C2b409D` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c807a3bd66324bd2495cd820d273479b17594082dea0c47ab9d2677b6a2dfe4) |
+| `0xDd92E6016ecd5155B22ad20FD4a547D9CAE1aB21` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1244ff037494a043de42f25c3110bc0e861bc09a32fb6611edf977939b1555c5) |
+| `0xDe27367f63aDe33e6227e3ABCa64e09E2CF9DF7e` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98238dbb80b28f04a22a777aa98c90cb5cbd7102c066d43a77c94b26f2b889e9) |
+| `0xe141e027545dBC73fb42a98a1B91830b081f3307` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c3eafca12acb09f26f2e280e5aa61e1f35c4e885d77a311c3d01eb5e3a3f733) |
+| `0xe15Ab276ffe79809d4179dbDad50B6b66c502659` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf854f6b992842d0d107f00656d6c3252684d67a710bbae6a0fc440970245e3d9) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfee853725e751a6685987c26369ab0e7b0ab6211028b185c2dc20424d367cebc) |
+| `0xE22eA84B0114FF6927952934c2143076cFB9457b` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdc53aedf596ac88f3fe33b11a54310f3c0c445e3f7a4b765e4d616db3c850a5) |
+| `0xE2416008F80c575DcA8281E3e600016023C5c105` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f82724894d4c30449c828991fc6f8b910d9ba76d2b730ebc18f317919118537) |
+| `0xE31bC4A71dfCCc46398BC334Ae485daeed861fCB` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c2b6f95079a30382836764d5b6dc5bed84edf1de959998df0340ae43836f737) |
+| `0xE40904A4FfB62e887aCA710fE77040379F802c6d` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6f64664cbaedc415bda7664697764c4f0d50f2d0678d3034d728ea0531190d1) |
+| `0xe5423A1b53E921F1A4E017B55131E9C9DDeE534D` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41eba90a8c25d0c95f15a8005985ebd4935ee46885494eaa0c2ea244692be5b8) |
+| `0xE7438cf325B58f3F4B2f5AcE864F33a966a6ADa4` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b19f47aa149be1ca0ff0a6474d0fc617335dca10e952282790289fb9964657c) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb25d05a4a74155ec9046b75cff5dff0cd8db01b653a8c40703022cf5f339eab1) |
+| `0xEA93a0b2a2c26f3737B48944207e4f135CE05704` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66e68b0323439b9790f5949e155d765a552904149960e6c6bb4c4b3067d7fa7b) |
+| `0xEcae71aa60eE8e8f3637DC91A821B119F43BCDB2` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e8872a1cbf706c5318f64a7a98e16bdaf01a524d59c172f0233ca936c729119) |
+| `0xED18a3fc6aCf6C39d326acC474ac444ce533EBa3` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9347321dba61988ee316c27be08a795bdfe9c4f2d49745b96795b01e88cf16be) |
+| `0xeDaCacBDd6efE92dea1f5AF354eE73b44d58a85C` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a720d3df8dd71f1209f04939304fbfde3964f52df2b19d2e3d19711f242d9e0) |
+| `0xee7Ef02b7C5Fa93e12E156e599965E0CA2453ceb` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x67ed4a0430f22bb3f302364966538a8a671e64eb393421bc202927462dcc23ae) |
+| `0xEEE9f20656C54585A5a10daf693610104D234141` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30b1f96393c1889bf8cf3268ad1b5dec49246f1d7c12cf5d144b76ac778ec877) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a701183d7d1309b3fbc76a66190eb71b7b4e32f3d6343896e15d9725efe5768) |
+| `0xefCc701B53A27B369D68397E075A129cEb8F74A9` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60aaf15592860f66acf49cd28f25bf58acae7734297f4d5a849f902b84e1eaf2) |
+| `0xf126d9CAD32c8dFEECC571c9683c0D30b305a66F` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf48616c62188ff8a7365cf9ab73f08330e31278d93e38ebbb34f023e71da1322) |
+| `0xF565F11de687C9DBA9FD81c1f3f3100F9C2d6000` | Z. Williamson '19 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe3592e7e6ae29da75b02a35457e532a047a0fbf6c0d8a6959a4dc40b8c5edef1) |
+| `0xF6397ba3e16Ea7FFe05ff5dA3Bc6170C38Ed29Ba` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb20748a48ce94aef6646f10846b28995895d72cdd8ef0c7f3e27cc5099765309) |
+| `0xF64E8B8F97a5Cd6114893F4efBee2f35d90DB47b` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e71ff3657bd0fc49dfb2d6935362d90efe6efa43260bd4d626d10fd3f9019d1) |
+| `0xF650A09556EEB5244246B020847168aEBbe5C3d8` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e5baea6dcecd51cdd37eb516279b3cdbe5276794a25406744e4608d3010c793) |
+| `0xf9bdA682d3B5990937cb836Ab866172d9faCD92E` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa91d661e1509f3ae94afb7b4b222128aafe80939d6ba2b92171fece3b5856dd5) |
+| `0xFA6f0E9610D744E37cfBa60D6C638C0f545E0abb` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dde3c3db177126aa760e8c340755079370d9e2fe10316f08fc2a073a1b356b3) |
+| `0xFb6A06d14bFBab59aD839e657850A0CBbf95a57D` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51535a92a7bd0d59de191addb6c59192baf2f0505ac625eb1a62fb69e43d7489) |
+| `0xFcCeD29A3EE3663354E67b71F45Fc17f1088af72` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88417c07f89e5a990f69d1a40aa779970d2fd6821b7970822561718cda33a0a1) |
+| `0xfD735148a4476Bb42cC19b28087b4BEBDff381cE` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0875084bd815ec0d02cfc5eb288645a4bbcdc3069875e184a7ed7e6f213e3ae3) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | Z. Williamson '19 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fb456092725a93a2ae80a6530f56c292238b0167f817d77c803c33e4f165fb3) |

@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | K. Durant &#039;09 BGS 9 |
 | **Internal ID** | 373 |
 | **On-chain ID** | 107 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e90-4924-8953-e461c52f07b9/a89a65960c653a300907b10517c6d79e45a027c8fc3b46dc325006faa9c60ab5.jpg" height="200" alt="K. Durant &#039;09 BGS 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,225 @@
 | 💀 | `509` | `0x8d73F876a094FBE187323fC35dFeB275Da556C2B` |
 |  | `510` | `0xc0a40362088E42b7BEbaDc9DC93A38113f612a37` |
 | 💀 | `511` | `0xAb36d7Ca6F2cfe3C5AC1Ad5E5cABeEF192725CB4` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6962385f0d6367f30ebe233604e39be6882e67bf4b635d3505ae3620f7d53c8f) |
+| `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfab83d1f0114954fe5644dcc1dd0f66e9c350d6ab3e338e40705adfeb5ccd036) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b0441e60948101fd56cdc86cab15b519863f4b7eff4cfdd2ae2702462d79276) |
+| `0x022CD018224f93Fa9FD54c5e1E193855A756fEa4` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9fc61fe2ceca226d780f20f43979b75c0da4f14a4b45b3979f4af542a5e1457) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dc5324562437ed6875725244dc906d0fafecfe29af147447695a76ac852b480) |
+| `0x064337fB552906c2F8e943a188CDC5D6506a1AD2` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9af738c9fcc17c74718ac4d4bd0f0fb67228f7c94a40d4e27caced642d0d5cfc) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb367f100497b84e539a920bb8ff85caaf3212c8a6551ebf809d31163992bf737) |
+| `0x07CcE26251b25BD5c8C0Fc3eAc2C5F1728bdE336` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2f401586600e9f2de2657ac7ca72d77a2dbf2ccd03e4faeb9498a4ada90bc54) |
+| `0x082B182b51D825d57b8f45b86F2155df4074f537` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4f39e9cc0be39b2139656773c891fad90a4a49305af5d6bbd415deb59ea783f) |
+| `0x0B36e9d56a2E43Dd820f53FD4Eec4ab00f52BEbd` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3fb0842284e13a939bbc96460e3d42d16b24ddee5a787829e7098ee45451b0e) |
+| `0x1051Dcd695229dD7752068c64fD963f4Af076C50` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88f68b17f4896e954a1182d3295eaf900adb235b4f235ecf0443eec95ceb3b64) |
+| `0x11a1b9E47639aCA4d00246D5FE550c9c74346dbB` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d7479a4853266d2250ace76d3003c9f222a09fb6e36c0f01eb4e07e0da2b16c) |
+| `0x11D877482E95B914641148547245AaBB030Ef179` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf632e9f2b9be8692a58ac04e1132b21c8ae4372c5f678f9a3bd5f97071d98887) |
+| `0x127dbD0A995bB53c43d1FBb83F1B306edF6c1887` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88a6b9d26ee149163ecaa5b2d8e2e9ed3eec2a2b9aa084be546d571f4f45a45a) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x951040b40b42bca9d790726b5e68e35e8629a0089f4c6e9460fe254691e702e9) |
+| `0x137FD84229C024130cF862E6F32f4114526ce813` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8caca6b3941e3e531870439d10c755e238c3f12cfe8a1a415b7211e2774b03b) |
+| `0x13cb31cD697864A52b2DfB2A58ac3554dA19b93f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5991045f6ba4f2271fb45ceefd2ece4876d54b94718152bcee6459fd8065de0b) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x392e67ef07314ff0e9d667cfc9005694442eca863658e61500e19cce1e5177cf) |
+| `0x1500F40D62B52b11B2263B4109754df2BD8022E4` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x436c7e50242721963771b9181ccff5d178817920413f1ac09710c953cf311f74) |
+| `0x15f4A351B144643aDDFda981b239727C590958E7` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffcbd732b9bc747efb6e0fbe934f170a3d688840d40b61a1b95308d108e2e401) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa535ea28ab2223487e0355770a3e75cc093729ff1316f6c36556779ffccdf4f2) |
+| `0x161B37C4d1fB55b91E4fB749023811b15E5472C6` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb2080828f5558541dd866b0b6791c9357ae53af5efee6098b9a75ae352fc2ef) |
+| `0x165c6CA2dF106018dfA7Ae9b217B678AB5301f58` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c447f5b658fc84465a342c656973c8fef33bb3f2dd42f8f07ac41c6dbf2cd6f) |
+| `0x18975F3C85EE57995180934b7515eD3792bA3c67` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x244d2a9a8010ecaff21fa5dc88d51117e98efe287112538630912be67fa6d6e6) |
+| `0x190788771665A532dBCd8e4E3e93f7ba41a16a59` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2303cda716f37e6776e5abbf777efc44efa3fcf5e515b03922a2f5a6fa5e8af) |
+| `0x19E6b8cE9f758DC17d7778808CFbEA93276b4e40` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a5255da888d7c1fd5293f42868716375ff42e8ab2111f8d54be60e18d738b02) |
+| `0x1b304d3746861d5553b29D30B614F1Cc3621700d` | K. Durant '09 BGS 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3e69280c117a67416dfb943e7d1ce50f03e50fcdc0a0f3d982788d9b3e4e1663) |
+| `0x1b64184231A17aeFdF2f76Ef89E9943447556D92` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f101162497b51d6bd62537a2eb4dd54bf57d43d5496e1778f99670c3a5c34f9) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd907ef4341d80eab9c87f2a3abc661f80d15e1061ce3714297896465497886fe) |
+| `0x1C6C1DAfbE1F50C1932e4cb96fa166731bd69459` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x905d5e738639fa6abfd0d44889505b573c302609f6095722387324287126c555) |
+| `0x1Dfd521c830Ad788e9317755A801bD561aB468Aa` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe420b288140e14a80b8a949ff75152972503c1bde4f546f8bc802e89072a758d) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff800aafbc543f29544aed903464c53b9623df02a22bac9b12f1ccea21c387cf) |
+| `0x20f4aa483D6e7596DCe6553431c138DF20731C70` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa463c4cd7f0800c168d4b892867d0bd9655e655a7eb644c146730cf80d319f6) |
+| `0x22bcA2Fdad3BeEb25284860DcA8fa8f941DAC379` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60f2569df3ee4c9ccc97f1c49350277fc3512db7f189cebfd6e8130e9db1aaea) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbed962573f0866998ba73c41234b4b9e0570afceb0934a6cc015accdccda4ba6) |
+| `0x23C263b100fD19E9d718e447821BdEEdC210AA15` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a7900c476feef6b43d9333716b13b52b6ecd6209e4c635793cdafd1d8734da0) |
+| `0x2508C9b3833223a2C8071C9d893cBfD49A91C9f2` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7267a19d86997223ed48ea1ae056a9b336dbe19a75054408abd3576ee50bc13) |
+| `0x257f0C9C72e6C20617746ED0D3fa1E61B9BcB5A9` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6b5864450bd8ba95378fde0947585bc4ddb2c3968e1a3ff781e079ffcedd9e92) |
+| `0x25b30d8956C06AAE3A6795B9B590C9FE74059686` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13dc99e5879a610a84c8dca0ae6dfbaa7b44d6f97b280718ae6de38ba7ed399b) |
+| `0x269b868b363dBE3ce925B498De8A20C49B50fC98` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39f31b2a8f3124b9e6e2ff0990bcd6aa90dc5900fc6b5c31a00c69c676e71e00) |
+| `0x27563A856660C850b1eBeCa22b5C8a153033B4dA` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd74b77129cf1f17b8d299f3a273f211579f8ed73697684cad7221ffe60b5c10e) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7201a4392d46c673eaa971c4ba5497be8111331c8ebd12029080acfd5b6f3e85) |
+| `0x284444fFAb9C9A98C2B0a2f8e4061DA3e5b6d983` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56e4100510f254296bd3b0cff9e98aa680e7f4f072112856716669ee5aea1234) |
+| `0x29265B3d5fe11a74fbCAF396c44eE28309d9a802` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96852c424158be8e0ad5d47e0dbfadec00f4c6d20417b90a9651cff7272d0b5a) |
+| `0x2b70e740F960883E56fdfB1b7015C2E820bB375d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x119d362b98147e0b5f00d48d83c3da60c9bdd0afb7c3be625eb90d1cdb741305) |
+| `0x2b7Aac550cF77a675020E84DA96E663b723aA04b` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x517d9740e66364226423c9c1eefcd528923bec5f377a297ef8851fe2cc5d409c) |
+| `0x2bB86f91F0742855DFC37D081C2d6851FFa3d15C` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c02981d3f8593cadcde2905fc8e6363f3e20654e491e0aa8dbf2909dad0d65a) |
+| `0x2D3E8c9Cc3B63C94926378e47E226f12b1C14d8a` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3db47cd83475d7afcfbb38ebf02ded1b478a922131d852463d439c246e6476c) |
+| `0x2Fc6f8A75c0A66E4F82F9c199008a52Ebcb89525` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd85b4ee6e28b367195d89b927a9abc8a0dc398bed99d22cc700d429f96021bdb) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ed19baaf1305b08752eb53e6f591cbc9dde14450f3b91cdc91cb18d54e8ed59) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb81d6a7476f948f15646d4969d9d01de366accf3786cf20c82ea0ab2529de350) |
+| `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb63733ef252e0d888b1fe436895c34ae0fe53e83694702dc87923b42cadb0edb) |
+| `0x32e80D82Bd4fC099F22AA8Cd3383015bF8D578E3` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9046b42a08c4f4e5d6539ee14e4db28fa38c10b16ed11369995a685f98a45af) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d1873a36e5c8d315a1361d3fe2d112351d7cb6c5dd52355424c795d067ecf0f) |
+| `0x3681eaCfBF429c10d84B92654dA58EF26b1af8D3` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77d88bd5457b3e3094d9095b7f34656dbd8d06dcabca9cd805ecb656597dcbb7) |
+| `0x38273Da6BE01caf108F2b5E462fa45262bAA7057` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe93447e80eba81ebee0299f0a4b56e81e9f58a0856c57b5e811add1c61d65275) |
+| `0x394c2FE8e151707c7B662e574d895d4eF11c0b5e` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff2a1699f88668573b0413425fbecbb913c9b74c90202fb2378e7928925e8dbb) |
+| `0x3A26F75FA5421b237A88e7fc1Be6e7efd25c8792` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x291d81230fee554ad515043d60d67083638a6e15ab3609b7739ca96834b5bdcf) |
+| `0x3aC20c3e693d25Bb2dC2dFB1c3b9c4acf190fa04` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd1f6d8884bb42bebf1ce2271fd74f0f224d9ce84a24e40794a28b53b5948523) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdd09935130cd7467eaa8a211cf51bca581f52a992bca0545b225371938d22d79) |
+| `0x41dc126A033084c8503B9BBD15A0aDD4946B08f5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4546069e9f867a07c2afd82230cb87e7d431383739b3bd48977ca6dc6d8b72e9) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2741be6b8f2f9f59a02c4ad70ccbdda788e04e6406ef902c19b625dca0ecfb34) |
+| `0x4a3F91B58E402A4738a2C509cE2709B74e4bEc12` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38deec257e2886111b121c8bc58e4975040c72d92dde1dcc47944a62c0ddc1bc) |
+| `0x51052145D0c46fca3122C2f790a472a005afcc9B` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x695a8e7a9be2e18129c84133ff84b70b48241ebcc7ebf7882787e7aa7a4f9dd3) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x99af9395597ed89dd96fcc5c4fab394efc389a7d094ad2e35397ba233046978e) |
+| `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3ac8ac3892943a9b85d21ff51287c533bca57b3d36f9dcf7e2d03074405d7b1) |
+| `0x5adeE73F4f866D02D96c68300c8CFa7cfA4D0408` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x602718390a91e1addbef0c55d3ba1fa262e077325581a0a0464c5116b44b8301) |
+| `0x5c1C91508436d30Ba77f4a078f0186E1e4e90f80` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x592db9083d6c2cbf5eb06f4c926e7efa1be1f2f2ef9b3264a483ec1298a89df7) |
+| `0x5D7dEef835455dFEB220727b50dee0f9Ac83E844` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbb40855c2d096418d3eb08a49424449bf4f6ce44700d34a4c640f8d532b286f) |
+| `0x5F34fc5d980F85db7dCBb78E5c068C43FD3554Ae` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a7ed1350a6d481b71766609d5a97fcaea7a3463708ed7752dfe7417294b612e) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4201364e6aa0554537e77e2c870632e7501321de21d32836bff5dd0f771a74e) |
+| `0x6294BBee17349710E310FD17640b623236DdC92f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2567bc6dc99114f216c7d77b55a8d312143086109911283b9fe54099aca1a023) |
+| `0x6414290425e037Dc5Ed6654A84B39bC90A12Fa33` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c696e87b3460a8200595e46ca4e463ff8b9a9f24a1e04e720f71c9882c0616b) |
+| `0x64D57dEF47198D325Da304181772B843BeC61Cb2` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1642c390ef85d0dc0306c2c3c1343d1a4affc87d97832d686e928627159c18c5) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x586e25ff5f1131e539ad17cf13e65b5a747c7574bacd7d53a39ee96662cbdb8e) |
+| `0x664f9A937C828e9332Cd044ad0e753b2Be37871B` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ba89e2d0084c76ee9600a13c259fe4079efc11f40568d8418743f747222d6d1) |
+| `0x682055140841579d410DCCF30E328fd080d72DbD` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x829905effcc5cb69931ae114344daf9e35d86f723b586368d0315e9421cc06a8) |
+| `0x682Cad157D79d73Eb1D93d036B438d6F05084736` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b89c03a3fa8016211744d7668e14d9e8c6b6a41d64e37fb8b20d69e3a0dbe8d) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cf3b858b2d132f0eefc1fad6851b24d16f32378dac398dc5e99b9a75cdfeb32) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34d1dbbb130f0e784bba9df4b6511170c2265ff4909c679c7246834b2083026a) |
+| `0x6A2c8bA6b864169bbdd30386d46913EFce996D10` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x020807c798dfc51bd38bdfe7b7deb19d1c7d067cf26a66204273b5c43e3da368) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb234a92a21637638b0892627859e1c90302112352546a1e05052c375f30aa5cd) |
+| `0x6B5c3546F16Ff95196035B54489c33B6523cd9F3` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9e8bcba14f08edc643e867bbf1b3eab83f14a15e4f88a72a78a8f4213f187a8) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2138f259d4b505af6bc4b65d308d75c58f14c3f4f5ae9c8c7f277667222a42a1) |
+| `0x7040163f5D5B9b33Ef9f64809c41A8E972E9C27d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x145193d46aa540e983b684b8bc32f4101d21a676860109d2a46282b7ca566e89) |
+| `0x70702572468cD5506bA29574235E23ebE42db8af` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5b2120db1d44b3e54fc6fcf719a56e589319a0f2f2ced2c8dd8fbd009f3b0cb) |
+| `0x7442A924e007839b518fa2A7542C39fD72705fB5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f53641a170d9cc6c0eb2f55cb999d7088116abb898eabb34e5821165719b62f) |
+| `0x7540C8715E7c6d10F2e8D168a23dc8EE28197acf` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37525717940056a5e07f507daf7dd84748bc8d155d457ca56bad844ac7163d0a) |
+| `0x766dA6AEecA1fB71A28ddA53CD3A873822F74277` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb51c0e1734fc9504fb06d28726b2b7395667f613ac0a08e4f5e4938c496ac1d5) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeff7891deefe47396a8c379d618b6cc6595f5e9943c26202601bc900ac980695) |
+| `0x7838d94F3Fd146611238d31bD9fB4254De423500` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9080c1942acc2187d5ab8756ef76e57b41551d7e4954dc92ce3b9ffdfee5e69) |
+| `0x79b7B1167CA09B440Dbc95F85bcF007a06B87B97` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf405f70a1b5d761db14a83e6d93c711452127187cd09aa0de02abea239616c1) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x202b5428cfee084100d8304b7740c2cd2fc711fa654407a122c4e19c9df967f3) |
+| `0x7b0Ec1f6288fd89bD4fB9625980BfCE37fb13108` | K. Durant '09 BGS 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x44ea5a36ff86f765c1f9c2f21dd0c8fb4648b768ae699e0096ccd9bca147e617) |
+| `0x7bA835E57F098b14103199CCD518272318FB941C` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67642d935aef6555c131c7f80cd9be51c210f38a63451bbd42ec067a493d0196) |
+| `0x7d2E7Bbe32AD263eb7252d578A6a70c15392fb7F` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x258d9bff8c1638a09a3c80ab8d7d4951cbf227e671b5931439e5aeb328c52ab6) |
+| `0x7EB8d87542E3948A1fCaD1Ed151c690B0b6D65d0` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x777b811f6522faaccbc120663f05284f81d7e0ea9e9824a04f4b09306d788620) |
+| `0x7F3ecC3b73F9Ef6A972364eC5760cA668ee51e58` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc82d33b0b75ef6138114f188355e0a02d806aa2c2b42d5a3d5b8300a3b32b39a) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ac977788fb361a7863b8d527de7f334e3df93afb905aad22269f985e0bbf2e2) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65e00950a927909c5319ec7d215ec983e1ea34cb46a19f687280aef9fb8c5049) |
+| `0x80FA3ab14aA9b3A93B148854CB3F45de0e5db364` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfdca1cf3235fe6c995b8ca8928b8c3ccd84b915b81832ea88cae1c23a1fdab4e) |
+| `0x82AA1Ce1BF37dB7116FE4cbb1a4a319fd987dfEa` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43a9d61796e93cb569d4a1086cbe21036837ab0292d11fe0bce4e39a9b2e9d33) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94dc6c97d5bb1b448d62fd0a7bf9b73d84c252ce9556b8537d22771c954c2bf0) |
+| `0x86241F8832E6B2d8DDeB92708AE91022D9bB0380` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe31ea3c2b9226ed25b5dfcf238bb29f75b75aed66beeda62940729bf3f4ea928) |
+| `0x87d0ad6Af6630c3e34bd5FcC1Bc6990ADC1488C2` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1986caa01ec4f0247ccd188d7a0ad57d465d1a9e837c258f7e12413efb263bd) |
+| `0x88C13EEa3D75f57CbB18f9B51c2f3fdC5b464901` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84cc39ac2fcf46694a8145d54ee175b3471dd30aaaf9ff62e2c1c23ee5be423a) |
+| `0x88C1421178ff6BA6686D4CD8D976A4166b43F34f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe162f93a08ca5f92deb1b59cae251282c77cfca865767c87e43f37ef5fc2b5d2) |
+| `0x89440a917C89F97F7F326F09d2cF4a68ed3171fc` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9c20e17e45e29f2d4e705bf6f5db371a26fcb73707082852b480898692e447a) |
+| `0x89717179E010cb2855899ab2B47c27dB63906De6` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fd6677fd006cc2c4d7ff8c52d4a573412f6ef68a3b0ed563462b00b11031e17) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99cd7c341b77ab8fbe5ad0cb4d85825c99565561e41b386d60829c60e343417c) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2559d1cc2533c850b2cfae777e7a72bef3cdcc795e9c72a386c0bccfef65f445) |
+| `0x8d73F876a094FBE187323fC35dFeB275Da556C2B` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a9b4bc971ea81768ced16af9a81630d3bb49cd329cdfcb3e5e46ca989513eae) |
+| `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x378b5a7662f431ef57b2c8d2029094ce44e48f89538536a13a446082fbad7ab0) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f0f8be65b2759415633473625481349f75c2be54ac661c5048c400cfff3d70c) |
+| `0x90Fb1737f034A78908D71cAd503F32f888b20345` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6d0df29fd240efc590808d14a8cb0888b2ab68711f2d7200df1b9ecb094f53c) |
+| `0x91c75fc8a52F695D234Cc149A4584708270bda5D` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2570665cc36be543730e6268a53e745ee6c22329419dd60681c0580c3d85afb6) |
+| `0x92B2B5Aa35690831443fb8411f1CEe8b60294B51` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4c159f688bb6ce98a135e3ab8c1ec4ef04697e6cba5bbbb8ba0dc2d4dac842a9) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9ae3a82fbbab808f9826911d9ab9cf36bf16080169a8e934cc8f17596c415d95) |
+| `0x94b201CCA8b7ab3828A8642660e3a8E29F105934` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdb3b2ef93222f4d68f510af2b30e8c246e3774b3c8d9681205f72da817b4bd0) |
+| `0x9509ad3e011530ADD0d58b62647ee2D414A17D6d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ebfca63fb74010e7739320d36d192259f7edd2d1206705b3ab3e507df01d2cc) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x081a57641cad015d3ca30868be4241e08ac167ba1ead23df4899c23f23c24bf5) |
+| `0x99f0A634013Dba6B547b65aeC8Cb568726B669f6` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe06cfa4c25309e9cb6d667de6459f2bd43c60f9de10388a596caabf4df62879d) |
+| `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa15d26e0baf4ca3f0082caad1e22d9d9be00ef305adf96f8a6b8bab07d41315a) |
+| `0x9a631601AdaB55f708cAc19D40E864dF0C1d2c8A` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf506468d476c8dbb7cb424039b0cf4b977a6593590b8c90c80c6964220a980d) |
+| `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x082c0dc2100222c0d71f1c8053e4087d2a9fa36f1712b88cb3c62aba21cad63f) |
+| `0x9b39a6d8375873B71F333A50700FcC099ce5e058` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65388d6b8e8cf2a8340cad7831a891cf45248c3bca20bce66079181b48f7fee3) |
+| `0x9B4087386823d3C94b6Aad66145b9c5Cafa6d558` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24345e28ed0a4fdefe2ff5cd82a67de8aecaced11ed500efdc16197409e8467f) |
+| `0x9b9A385cAbA4430d4295754eA2E1AbbCCd422877` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad29de14139c184b63d252843f13876fde9625afe5d375f859be73fe87956a49) |
+| `0x9C76E9Fd2A86BA7e90073Ef5d7f1aA3657069a9b` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x542210e49064cdbcaa326270e619c6649ebe408a3dc7dc7e397a2089e0e189f4) |
+| `0x9c786953321FeA7D7477F5EC99a46cbA2e5F228d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7783ccc045c6a6c65cb5d4542a3cb80052502f66fe129d3f3cd511de7dedb42b) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e6729681686b5514c6a47e270dadffde0d36381483b0e4e45aae157922187d8) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9fdf7d6a2a5334af4491f98f7a419e76696184901bbe10376059c8540f6cfae) |
+| `0xa0C0A68CcCdB606fC30E712a5616552C99B58B8d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81628e18e8d515962ec099b1b199dd05ab51432a87201c6b5f60f9dc1b8e61a4) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4d866b8e09821b119c074eeb97dede374779a7302a9a0235785fb9251ba331e) |
+| `0xA35c759DE4030a13eE3Bd414909d8E5ca5C65606` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x564a47706f990a8cdf8ce85381d08387f17e424d8e7de71dadb8205c41af701e) |
+| `0xA4da869B7eDDE202E9BF1E956A66073562192B82` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16d76e40b17ffa113cb1eac5ee013d2c5b67c08a8555bb4ba596a9b94bacb9a7) |
+| `0xa6537e9e0c7CC40c84eFeA4e4cd9593054fA288a` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x86b63c3737ec27e7c6d04e89ff0be3b0d24ba2119b748de4613c6cf3f7c2c381) |
+| `0xA73999ab05bBd1064664bF3221cBE02C5ac622B5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2411ee513ede54f29bbb48ff6e6c379ddce55d41b63cedf650ecd7c249893134) |
+| `0xa82e1E01dc4E309C99Ba6f17a6BE1140Cd17a473` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65088c047c6f4e8ced7e5070ece934fd4d8a79f0dbe0c1fe0ea94200124c6b83) |
+| `0xA8b876FC9EB38dDDd4FC0966557a870c8D94aD7B` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xacccc05b580d0a0ece74db17e79a09127bac08539f636c3b5d1ecf5fb567fae9) |
+| `0xA9D6Ee80f06d7f36C5454672Bc72bA290F8cb16d` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x624ee460edaae677ce2343df4f847d97f8acc7a13fb65a46e9e66a5a4d476d6f) |
+| `0xAb36d7Ca6F2cfe3C5AC1Ad5E5cABeEF192725CB4` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x843edf47806053ff95774fb778ed4da13c52f0163fdc3bd38267c2a2bbf793f3) |
+| `0xaD17EA8f83429Fa0A4c0D405713E0C2fAE3c58f1` | K. Durant '09 BGS 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe54e77be8677b2832b23614a59435703d03b71b8bffda7df0bf79bc0962939a9) |
+| `0xb00F3Ff15977535cCC5749FDeB733213C54f595e` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d3cf6d486d236be5172ea7ab6177bc758aeec56f99b0a59322293fd531090ab) |
+| `0xB0C7B0f530841c6DBb1737e251c849B2d61de902` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f5d55cd63f84904a2fa0cb3bbb87e4c56e8cb574deaea761529416cd7d751e) |
+| `0xb29beE528682C2f66316eA09e2065B716757a88B` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb02749de2c3fa6b0c1229724d5e6150810f3d773fd2aff656d42bb7bdddceaab) |
+| `0xb2cF67826Dbc3FCb3a674eA252858fb9e9C653Aa` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2988ce0aba292035ef4b7065f96ae92658f8c6b1951ac69234dcb7d07a2d230a) |
+| `0xb37538DE920602b564705c6Af4Cd1a6caE2D96E9` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1f2be8100e79ba134ab1e57b7f9e3a072ea149af3b8107286bbdee02f2d3013) |
+| `0xB49bB336ef746A77812F72E7CB647983b9a49Db9` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65763fa0eff9cd50851fdeca515941834616b2bf1d466eeab69d9fb61c10269a) |
+| `0xB559E105769F684b8806129911721aB44043E9Ef` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eaa855ae434436a468ae05e9c5db0eb77fc51816e5e47625afb7512582114bc) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58488f0c8f2def4ea61ef47f2c6f5201635aa8a69e4e497d58177f6873d29eff) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d1ace705391bbc36e13e569be559447fef3bf74b2dcf1a821c6640c58d25f4c) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e7ce7fdec6a3e85836268fc0b9c867bf4dfdda68bd637f36628ba986d1c6f8c) |
+| `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x675d062a8cc96acebf0195fee1ffc58cfb26ed492c2d637dcfe3ff8dbaca0d24) |
+| `0xc060B886c831b3CAB56CA7085207FADC6209e851` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f172f79e95ad0fa51c7c3a44c4f3bbccd359002b0105d64f9ca7a03fbea1fa6) |
+| `0xc16a0db58e458D94091B0b6316Ca6C43C9518059` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5219efc70090973b2f348ce038a47bda03e00b0666a003ad4d3fa54c09d7ac8d) |
+| `0xC171b377800b977b6B705ab005a8D1695274b300` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43aea548ff7a90385fa73864415bfb897966f3f21bccaca43c75d0390d923a81) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0222ac79caf582084094308fa84e37a7b1684164820b401485ce15f07d6a5e43) |
+| `0xC1c451fD02100e0908ED1d9dDC5194514Fb883Cd` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd496154fadf3d81629cee2bb20037e30df9c9ff3794fbffaccdf31a81965ec4a) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x638c6cd135e8eb8a9758139a8a0a9802d238a052812085a70e42bc79e13c9eaf) |
+| `0xc5931b9d2747B2059E437e5B7a72f601F4767d4D` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x539bfb7e1fbe3c29112a528f1df9174be0219aa7a50f835a647620a51281ff0e) |
+| `0xc6455619BA2Ac6b284Eb0a49E6AFC287AfaD2EBa` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f596f6bacb9cece220efa13a03d042ec0d0da8c4ed3edd917057a9cef0d08a7) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7579457c896af5ba42c3628b7804b95796b01cc42e0873cad2ef07cab7c6a110) |
+| `0xC7DD52A913BC6D900a7146d39E8be5Aa588f8abB` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08e55d76af5b60bd0aa7102c59e177f3432cb889a72812ac8ee5358cf02cc9cc) |
+| `0xC88682834Ef9C8f3F9d48f0C375F28a010f1Ea16` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e22e8bfa82148958f446b030d5f640eec42c05409eafde854040ad710817db6) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x318b0e3291fe4774294928b08be6fc3bde1ad3d751c2bb2c459128b1915df6fe) |
+| `0xc9FBd76359476BaEF34e521F03062aDEC5204a7F` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1682b83a4b8f68c49b5158106f5cd354734bbb59518f6c057f1ecf2b64064f0f) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb65fcdab0193570208d006b9487ae4a86b65afcbe57797fb17c9e030b3fde88) |
+| `0xcda75813A79edC351F848e21EbC6C772c71bc0f9` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb618757f7ed7039ba7336e08fea76258614059b5beb7fc80d278fed98883eeb) |
+| `0xCf553a6C5C2cfb4728270050Ae05200747069f5f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7706772822839f365936b490de0b7602d69ece694e57df4d709a988aeeac6b9b) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7547ddca62925910b03fd909f0e882f062b6d1e2a70756876efa156167fa4b4) |
+| `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52f4fd676ea33801a17276b141bf94fc172358ec8b02bbf486b7e57720b49bbe) |
+| `0xd1d8c0B4960Bf33805eb792523F6fB54bEF83d3f` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x50beba1e1e4d64d66d664a08687ea825bec01ac223333e8b4c0b885f947ab357) |
+| `0xd23Cd97CAD522eD496E1D2a143D363E748bc26Fe` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf395f5a711399e2c1274d3b45d6759f6569b50749dc00c86b23bd593110135bd) |
+| `0xD47BB29862BD0488BDE927e76b38FEb0Aed373d7` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1a6ddf3f3de159d16c39df61ed78d1e0c0dd9afe9d834da7258a52dee71510d) |
+| `0xD4a1a94FA5cDb7A0e2bA3b445Bb86d1481b3c72f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92e62c10e84d389cff8c030fc80ce4050888244a27b4195438f558e8ee59dac4) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8d595b26017813100fa1a1ae7ad898a96dc2fa45e2f1e31116bdb27df932606) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | K. Durant '09 BGS 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x68effbe58ea16c0742a19d52c2129fcd92d74d9d98153ea2d9b87a006849b025) |
+| `0xD7B75354495F33319Ed14357ca13F91852c2Ff10` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x242d23a838ef484e8d9a045cec36a038df745760b301d40701d7ab1660adc39e) |
+| `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7650640fd473c5ce57259c32a7e498e8e8bac8d3458349798b8c1bf92176cbf) |
+| `0xD98772186824Fc7221999E40A4741423df6bc45a` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfeffc9dc1d9d32f8432ef2ec4b5c6649eaf0fa86eb6b137db05c5a0dbaa7eb6c) |
+| `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcce4ab6a9cc53c25ec9ad21f334283e4fbbbc904d48b609cd1d8569ea82405d2) |
+| `0xDa5eA12B4786c9C3DC6670B1Dd4a296a8bB681e7` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a8fb89f6dfce84a364ac0fe3e0fba50a153a387fcf8f49503e15d79f5a88929) |
+| `0xdad1d0700271716774D5C08357321221B0b03682` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7c55b6b93b4e831d6b53289efb163e7a4a43f20a470a4df96b669432155bad5) |
+| `0xdb770D07362c0D827e3e7ef79B9D1db8fEE619E3` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7db5985f9a505a5ddb90cdfae80a4dd38a4d8fa186feace23af7b4eaefb6649e) |
+| `0xDB977847f66D5A4abC5AA9B30eC1c508305B4EEa` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2234aaa51440e301fb8390338d2137d6bf4840a9fbd8c1f75cd3bb9396b2c7b8) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70fd64f051e2536080dc96bfc8cc4f04eeee556444087c3ca1575e6e9a05da46) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccee5fe5e224de63eae74378c20dc2e5a3253e81dfba190e72eac110e26cf545) |
+| `0xDDb05F500E0b2FDA878Dc4c81C866AedE5DA4f3f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53205a5ce0d7307ca4981408fc487d968b70111750f851b104c7890f1ffe0716) |
+| `0xDe27367f63aDe33e6227e3ABCa64e09E2CF9DF7e` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee6cfbaa743233f8a95bc1588392d1eed60128fbfab92245623d97f515b0a981) |
+| `0xE04eE36a2B1E017edf8D607dCA2a63c40E8921d5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x040a8962bda9f2a5d4233d59b0bd6590140aab57d00e58e3afb7ba9ea72fb4e6) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | K. Durant '09 BGS 9 | 9 | [Polygonscan](https://polygonscan.com/tx/0x79c6432b2a3eac08c7c95e4bafd4c3cc84fc798a6b07f3bcf7c21247e33df1cd) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d7cf7e5fca9327b246b2a56d2bac17523ffb554193e1ca8a71f53b4cd4085a1) |
+| `0xE584a70738dFB66D162BF455Ed649e8e97c6E378` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x06ff1c3fe7d63f4721fa4c8b094a0f95991dc705f217e445a0173e4062a39cb4) |
+| `0xE66151DA2E91158247fB84d7009100bACC8EcFbF` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x286cf2b19cc3c7218bcedb4c89cbdc72b7c98eaf1029b474aa8fbba8091f8a66) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12935aca9420240ec34e9c6217fd28a38ee09fcc98e50a42c00a5c4ca1f12403) |
+| `0xe9d60681b3F1aF79e13E86B7635302D8b5D77Ef6` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ab150ff3b1c07dd8a27dce43a8f1f9f6a02d988576b25754c061e531ee016d5) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c53a95b5c4562d315ecc74f24e11a457e49a077a78a922cc714a69e8fe37b22) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2bbe0a533572970342743e2f70ab5e6ec8026176fff0c96c973e05ca691150b5) |
+| `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` | K. Durant '09 BGS 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6fb31c06edb53bb0db37ca47624f9060175a0e04c5b2d8d9a54b5cc4a8d5e29b) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f947cd3e5b131a4c2b788497ad1baabba924ddbca530edac2bd7c4ef8021279) |
+| `0xf054a780cAffB6e2e3d82461916371DDdB52B6DB` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeba28df7d56b2b7b6ad93733efa524228a3de7a8b2a219aa6bf8cebedb53860d) |
+| `0xf324a659eaE5516cE2c0E01b8067fE9F7889FD81` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa17d4c105a6190b925427486d1a76027495ed0c8c9b0b1c492f08730319a4b34) |
+| `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2becc22103bb22965a8bcec961387e2db6c930491b4f37cd43d3b2d9d5e22e78) |
+| `0xF565F11de687C9DBA9FD81c1f3f3100F9C2d6000` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x631c3f25246850626b60487e6ff1610011380bd07590e45a4e2b5a3627ba0dc9) |
+| `0xF650A09556EEB5244246B020847168aEBbe5C3d8` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fc071d6deeb83265dbc72a2da34bbaead80e6ef0a7d31383a8e59e4408d059a) |
+| `0xf931A65dFFe9DB5db52Ea6765210F3072909ee08` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2699918f394bedc412130fc75d3ab0ddceeaef1e65315cccd72d0e88e1db7f90) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bc32af12e50d226198abb25d71354be191408f6001433081f7f66fab291cd3f) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f31d35b2cb2adbf35f5fa43955776233051d78691daa5bdda3e18243e4b9ebe) |
+| `0xFb3F638652C8dD42d64803ADE99E5823FC26C641` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x729583edada55b7bd146b48e25f1335251fd78036002e097d85ca62d9a15b50d) |
+| `0xFb6A06d14bFBab59aD839e657850A0CBbf95a57D` | K. Durant '09 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8f25b61488efc603ef007bd45837c9d84930268f203e7cdfc32c901fbb912c49) |
+| `0xFc6c11afCf895867c8621D15FF5E6bf20F459ee5` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0fa95006fd9411a9a3235750e4090fa8888257b9a95333566437dd1e0ce6e9a) |
+| `0xfC9b7301e3C2229F1d0b798Ff5B100c91d009faA` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44301c3b6e754a6f4445e193b8595f1fff8b6f6f807873f9fc4dc5532ec96952) |
+| `0xFcbA365C31F0A4301B408461Fc44566d34e01d0F` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x389221634b1b6e8602eb490a916a532d7165d2ff106ed6104304821e11a5a9b3) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3172c0725ed708c3d9eb5b25909460f7056c0a1587a34cc33e790ba65f11e21) |
+| `0xfE952a86b834708A6117475C7bc3c84DE027b6b8` | K. Durant '09 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd48c57bebb49cb6b7d865c863ec074aa82421d7af793e9d140946a5f7d698503) |

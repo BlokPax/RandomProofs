@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | M. Jordan &#039;86 PSA 10 FRAX 1 of 6 |
 | **Internal ID** | 269 |
-| **On-chain ID** | 90 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc26-4163-ba8b-543033744cde/b0489267328e9210e7c90cea8f25eebd7bf1435092cb9ed516717769464027a3.jpg" height="200" alt="M. Jordan &#039;86 PSA 10 FRAX 1 of 6" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,185 @@
 |  | `2045` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
 |  | `2046` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
 |  | `2047` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0cb7266f3ec3e84fc594be410d5828b5a26e5af5d5d793536e40a33975734597) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf1e641c591718364d7b98427cf6bc7c82954778aadbe13c6c296e3a0cbdb61f) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe831bbfdd0d026bc588799f468ab1f2b92ce31cb3662533b2a5e1cd3e0df203a) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92c8cc14f0a6f0c5b07f5942ec7d96d951143dcdc7d7719c2ea74a88feb852d6) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f1609bdb9a4b42ddfd14d0067fa3575465c878c8ea4d43c76d9c0cc1b366f4d) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5e8b8fecc76be62381a68ed3000205df1462b43197f05a988a853f6e6e7003c9) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 12 | [Polygonscan](https://polygonscan.com/tx/0x0de70f8312c9ffbe3751df13842912698cbf81b36402304f15652cc1f3f7c11a) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2df8e5b2537cc4cd758235adfb0d3c48adc2a66c7083b46fd2c8ecf7eabc61bc) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb71b196ef6e8b57a6a3e24d9aba7414dccada3400df6c4eb999f31ea625ee3c3) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xabbd0a7ca08088b8ce4a44f048e76f34ddf35d5a2a2adc7fc85e8d327992f14b) |
+| `0x08128b988769e61994198Be20b68B4Cf4D6A084b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdd1c6739cdd655372fbe1580060e63bd7a20f5ea3fb74939168a8a9fda3c329) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 16 | [Polygonscan](https://polygonscan.com/tx/0xbbf16029f51134bcaa3b2b5550d86a7aa491953446f5a678102236a5e2720e5f) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1b1618ec2c0f65f220e690840dbeed8aeac363fb1a8f441339277d080c1a6c0b) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7c2bdf6bb9955a51ac0290e692bbde886d64b3c7d4dfe4a18df684ced50c32e) |
+| `0x1359868D0Aca0C06c092e24741204B2Ee73d3f45` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x256c5f86bc74effaa4a041d701ba832adf9ff06dadbfccfe1e331a044589733b) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf85f8413676b319e637d8e9ad097e5775347bab1a0dc429e1f3826159e4349b8) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 14 | [Polygonscan](https://polygonscan.com/tx/0x7f1652168b0557f5ba2be378e9e9e3e9d05b6dbc2aaa86fb71652d9879ddc514) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 6 | [Polygonscan](https://polygonscan.com/tx/0x66e21df1054d880908521617a6b6296f4b2279fb0e31afc85b8a22213d42dfeb) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 11 | [Polygonscan](https://polygonscan.com/tx/0x7ac85b0d581f423f60eed50901a640935f908fce8b71d3936f02370ff0422d60) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf805ee2bc998ad5e19bb171c2f08148482d945375a76485d53109a1e303cb958) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2c1177e410ad4f14b7a8075a68ef59d76d8d5f815ac98fd7265caf018f360c55) |
+| `0x20BB9231090c013e2bE9373371d2c889c90172cc` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44821a2fd5966c10d0556d5a1f21deab1bf41fc59776cd09f1dd4746870aee62) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6ce4c4e284ca2000f4c996f430f7741dfb2e4a1406ed98b7f8c9652b924a27de) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb81bb2ea99bba6e7b2f4734726b9f24e868f8710e89905f989c1aba734821c6a) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd4c0dbe597f90aa74f0d26ff0fb97b173df308ccb5894027a28efc90dcf18c4e) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7702b22f2b6a9b55a4876410f2b61933fef3fdbeecd5e1afa8ce315bc9eeab6c) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbf3be95d151b4f30f3bd8ee4c8687a7193694d9c2b64adbcbccaa1e5b9320e9d) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4466483122d5cb589ef63ce53e4f0f1432202cbd739408c762923d95b86a5a8) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1150879550b8101720063882639d6bc7bd21c86d15a3e7eb23f511668593a2ac) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x14799ccbf15944cda1efc573df7eec031322e578d80798f1c34c63697bc3cc03) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf882a03a456080ffb2e8d6d9fd76fdf1415dd71c3af19fe70f8947f832892438) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x270e4cb31c644f37b080f1e84c5030e195191869e9f8e875ccdfded8c7f179b6) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x62847990732589c4676945dc1e0e1271d5b2a52df3bab574d7a151ca094f7137) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc6ef711c41310410b6dabd555d35d537dee2dad9ab698df202c12e8aedabb140) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8d1e84ec90fbc1f0450697678ef684f03139656edc1f839872edd18bc34b39b5) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 15 | [Polygonscan](https://polygonscan.com/tx/0x8f65237d2b1b376c5c163f3a4dca9350a5c68df263c08fe7ea59b1ec01d922b3) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6c20ae433e5bd570d7a02d538862dd02ca368bc3c2f0493c1cbc7797e289ead4) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6462cef8b24c64e256b8e93efc3dccef2d14149cc4d393ddfa730a3c03c5aeda) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x598771e10ff0e11a2a137e2ca95f2213d5076e51bce0e0ad32ba0a94c83d5b2f) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb535fd7d37e50751c04144f3265a56a75e3979490390db779173f1d03f41fe47) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x572e143599bf880e050e61c4ba0ae761ddde5cb3909773b27dfc95c3285ce63b) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc7c00a2567a837ffa0b6fb8e0a44ddfc5a5ba8e6df27dba7e2529bff0b853429) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa2fe80ab6fc60aabfb3a09916bad6a5428ed834d21bc46d9aee264baab0f145d) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb35b4403fe06e8b67f615956d30ee71de9c2ea69e4043a84e16dace5bd72bbf2) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 10 | [Polygonscan](https://polygonscan.com/tx/0x548784f66cd8a98267fae6a3b66c510132de6bbcdcf8d4718dbd909716557ea2) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x020dbe24ce3620c25d03c41385a2adeded61cac4c8668e963bf1ad48eb9d4422) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x07ea5654f02db3c104050738623fa2f63d0add3263bfd983cea5877a081fc8f0) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x891a28270f1aea99a281d3c31f228dd1debb3cb9fafd89da6d49b6ae9a944853) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc9ceb4d73e8d12149f78af5b8382b254a445fae3a58b19c19b4009ad77c2ee2) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x4707af8fcb00e2815973b3d7fdb49bacd3bf82aacd185a4c88e09d72009e4d97) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x042d918b6b1e85549a46569b8224b991e3cd6497fcdb9e84bd621e1d59b58ca1) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80a84fa4294ade326481c0839b867d2d5215a4664b2d42224c35283bdf90fb4c) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x24a0047a9a2316681abcf9000b5e52526ad1fa80c9ac5ded6508d1fb5fae9c63) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xad868b61bf3cab4ffafb14609f70ff8e9c048559ecab2a2d1922c98b7fe9347e) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf550aa7135e3762e8e4dc039febb1624c1c8fd0df06dfd84eb089c020f0b8ac1) |
+| `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4001a9cc9e15b151f452dc7f52c2806e70f0b573475a5fda447c7d400ebd6ae) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x98dee74dc5d6af721544368e285b122aeffc7cd8760e73ec0104a9ea7d8e6ffa) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x213c33bcc107eb5362a4c2795d05938f72bd09a80dc0539b85d5464f97e53cd5) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb0d235399b355950d3916ca23708ffc68f0bb8cdba9152616ea5709fc5a0fa9) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab8532b20659cc0bf7424eb593062719aabd6e84567ced5f103a382a8efba18a) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35a8edb045eb2a16f54adc2aea295d54c582482ded26a8e1c605d123bcc6e38a) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 33 | [Polygonscan](https://polygonscan.com/tx/0x9a1518cae705f74d65cfce270418d5b82c3d0a5ef6f110bca579026b6aa611c8) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x71538287add354b3f18d5c147ef2e43b2229144e5babb6c54d5a7e80f72817f8) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3ea3eb8a8acc1c2f85e7ac3af47177bfb2bc88477022ce6d03ebae275c58fba9) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa17617a34c6b25dfea95c38598f052ff0049ef3cb3a72aaaa427c514b691ad84) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb9a4a3fd1bb61b58f7829d33ee694423a448c9514ae00649a399e381aefad282) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ee3149cb0ebd4050b66494efc468fbe0eefcdbf97a05da41e948c3cda953835) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77fbf4e9bfb0d2c55e4089b72ffb4af8b654ede5a556f0293dd3f02025611d57) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b799f845383e96f90e32b65e37680628b330e6d0f1bf1a6e48eaa5d1060a033) |
+| `0x6299D64973E3Ac4debf197C7B935EA4e07b2428c` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96cf9676943428dc8bcbc9d2fc6630d465b7aa9a2d42d5dbd67f08f62f38f5a5) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x54432b84a8b15399b20a94b678561e0ab7b9ce96da2b9b54a65fbeda61c7d73d) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x320768dcd65bba3754a35a9029a97105ea5869d94e7c72bf55be2fe0c67c2dc2) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 10 | [Polygonscan](https://polygonscan.com/tx/0xc783ff2dfe7ac360e479abeaf8d9ccf9b07f14e1833dc21e9b8c4aa30033071f) |
+| `0x6637395681603FeE320296Aa25B12A682Cc72aCE` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x791aa04df65031441ed57f234c488a3fd37050e59b2ee716614685fb0be7d43b) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 26 | [Polygonscan](https://polygonscan.com/tx/0x46e817ee072a34cae68e743d20358b9719d3bec8a917fc516425a894131424e2) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdcb46f43506d4c12fa25ed387fc921ee684113fc13669802f8c196d0c2612299) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b1e5fab25b97164d31afb4c491dd674a409eac08e11523813a5b6f4885386fc) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdcd49ed6bf96a65c9b8fdf840a44548ecf3557f1a6f52288e31eb11e44d7e8df) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3bb3e2cd24bbbff9a08447c2bc448fb630cf3d52f6e832f24f3b1a4f6344af1) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae9a75b11748513cee1e7f40a4af15d897dd3a7af70ce3f3055fd5a103adb708) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe68f002165c9be40fe57097c99b9026cfcd9515282e5c4cc35283cddf947cdbb) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6df951a4431eb6a1a92960cb0244db6a55cae330d6387aa547c5217acf8034e) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfccc65ce9fbbba277a2d3973de7e156f3a810ab7051265ddb2193d2f8003d8ca) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 116 | [Polygonscan](https://polygonscan.com/tx/0x97d51ed37f90b5a5cdaa8e4aa1d1e9ed771c1fb11fb68ce418de2bf7be269a38) |
+| `0x6C17772d595F4Fb6373B7FB2a3FB1796c01d87eF` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad91791293219a8a25689015355a0a04c6ce9cc5b7c891fcba89163e399a3620) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0032e985f63a9371ccdb8f7ae82c86ac86501724e959b15779fdc0961ab0da27) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa641944404a04d4f11d7c05928dd10e1cec65272b57daf36079aea495cfc2e78) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 15 | [Polygonscan](https://polygonscan.com/tx/0x903c1c7daba7a742e183ecdfe18c22f9334cd321c279b2144cbabde7b28dd0f2) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ee946a674e37e7017538238d4639b88e5c551efa126bf6d0e353f05751d3e0d) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5d9233846d8b9656102ebba7cff8d389991a7c67b8dd198c4bd6eb835591490) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x030d895449d073857b3b1aeef3f1a9246dc01801fdadd38f333070f9647e8f01) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8c63399660e6c0c1e7801811ab62a9eca5c688d61a4e53afeaab5d44fdbb6255) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0bda20fd652b2a709dedc056cf9ebc093662e028891fc497ac929419e64be20e) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 13 | [Polygonscan](https://polygonscan.com/tx/0x2c36f7d15d5ac53f6872f90d35b564544cdc86dbbec7c84dcf288258cda73f6a) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x03f625a89822f276c89aed606a8482b32e0b6668cda1e629176554925f5e5e64) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcb3c8e9f6611dea7ecbf796243489b4976229fb2b8708b5c50ebb74482c974f) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 13 | [Polygonscan](https://polygonscan.com/tx/0x56dc458842488d98ef84a7b96523474a34e7895c60b910e5ecdac5d84861a5cc) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0aa5e0010f203b8bcba2f389f4d6f8b71b9c4cac910023b99e8e02303c6a40a) |
+| `0x7ce242f413CFCFAAce28956D71e7129E52C886a2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae4f0019d35eb1e75af086efda76cac39f54c955b5081ee7ee6039b786879fe5) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 11 | [Polygonscan](https://polygonscan.com/tx/0xd15694b1458d9a56f74b5bf19c45d4ca30e3310ff7dc730c51583cd55bb0a0af) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 15 | [Polygonscan](https://polygonscan.com/tx/0xce6332a9bf8f8f8e7ed0cd25c2656cb4e5f4640807e3c67cf21477efd9046e56) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccd9331d028860e4fb5114cba39491d26449ff7c73fb24f06d5c6816dd5b82e6) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50865c5adcdb877633b58167e07b39e99c34bf1fe4c9fe9dcae25ceece1264aa) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdec64418f7883a0e33952dc17c668dee0513de2c518c6e02b61fdcfd84d266c5) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd55dc27d7ff79b1ad96df43fe2f35fd1fd4b97ea01cccb193020d23c7e198237) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | M. Jordan '86 PSA 10 FRAX 1 of 6 | 361 | [Polygonscan](https://polygonscan.com/tx/0xf26ec52a4030a5cc78147ecc20c6048407a4263cc40e315148841a2cd37255d9) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bc73a5ae4ffa69a8403e93c419173f114238e5122c5f6d013a0f2dc1d1a2dba) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfa4ee9d8667d8914c0948c1c8c9d1408fc0f09dcad916e4df3d5133567cb883a) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf22f1fda1cb8672829a49549c83226f76e8d9dd1c02c9ef80f1853f3d8f6e01d) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf62e3960cbbf0770ee18a91872a2529c72a2e705ef0bcde26393d859110aac69) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x655bd323465449f5fd0390c52efaadd04d3766d217b24560e3c65729ccc4a25d) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 12 | [Polygonscan](https://polygonscan.com/tx/0x8b1b70dae9e54f0e0ca484862e3e7df33ea7568d33d0b78f5a8cc185b385be01) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb60c5ecdb3a69785b9181fb21b8187f43100be651e1914d19128031eca00dd94) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcaaad58c42ab4d9e7eebc831f848def7a0e0ebddee328ca4e2d4916426df8dbc) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0xe41839727d0de708ccb44b7b18ef288dc67fda6f26565e8105fb6eb94a4324cd) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x42988c47090395db3db6020e0a5e6ee8d764c6a0e806f8d78ce30cbdfa6dee72) |
+| `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x595807ed66b296d5468b101d21b242a6ca94a21b7c43282762a836249212e762) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd967bd45bd99cda48ed6bf61529e2b4dfbe609526f2f27b56c078bfaf9c655e4) |
+| `0xa0Bb2dC6d6ABeEF21f9311e8a030f9353176AEdb` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4553dddae84fd476aa8007fb21af3399c251794e60e8ab861940f30a7307ef1f) |
+| `0xA2E117E91696A9E08bb73BDAa52A8baB46a6394D` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc052f40753b465f022a8f7ca73fc5e5426b3c39562723f1ae38df9072200f221) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4e07c588b3133c7e28131f41fea627ddba8ea50963255a59c1ee45b4cc097c77) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x340e1779736bec04668cb819c22b83218127f9b6306a92397056ec2b9441552a) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xebbc448676d3f577115cfb7dd510565bfeb7b326e61316ad6fdc68e6f6b86d51) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7abc20cb78835a19bd89d6e22c1768007cda55810f571e518e6eb4a7246526d6) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd743513cd5e067e6ca4919e01ed3cf627d8be4e98d3328d6fe993b7d525274ef) |
+| `0xb5BFe0b4F3Aa14bAFE7DBea59690D3beBfF833B2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fbd44a02d7706b5a93006889270a1027be45d92c41239523ec19eebb20d6d7d) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x164ff46dff939eda0f17f83518c3d9de60643b142bf8c80cc1fb2f29b9b14626) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd786c7fd65c25a213e73aee395a3cb0bd1cb5824fe27c2397b7d8c2fcc38ad63) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd3322b4430cce84af3591b57abb7fbe6e6baaaaa1d73da5e375324af7ef60941) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c0cad48b367139b1c9d5e46707dfe0d22c3ef9bf66fd7a0f87d25468e0e2167) |
+| `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14cad1e272677a83ef37a7a43c71adbfdecde9b2cb604ab617f8e17248971ead) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc12a1d4bed6cf2f382047554fa030e42129cdca7cc4d8c82bb93f8dad9b69154) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb91b629165ba63836765ddac45f7016c8fd3fd346fca10dfa48e7dd805a6a967) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6334b87d9aa5f2be2a3623014fdab4514975191d94b50996f7aa79728a2bfb04) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6019fe16ccc86cebfba0c106b96ebf7400562f4460ba973b0b68f0307f9447ac) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x304b8597581f01fb2b23c973372b05d95275d556438fc593a91f99e9e6c65d4a) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51bfb0eeec7ce96d6f86a10ea00b2bc8123f69d7da4807f61768000af8c5c670) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x99c097fda1e0c384e7b6f06a8614d98386a317016c012aa83474f49828c487b1) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb64e22b2754c920ec85560ba41a41dac46a7ffc72f4c9f19b2062f38537106c) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xd5dd59ef0605d91b0f36869d1a6acc726f8dc3e83f542ce3509272a367ce579d) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8b2581ba757f3d88c585dda633bfbbf47f946f00901a8312322171a6944c4faf) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x79b6d3ce1ec5cc8f0f8224597aafd6639e99ee5b622c92f218997e9ebcf5d53e) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x39d27e21258d15478a6a633992381c35021dfd820a264c9c0be38de9682fe814) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x71bea748a626e07ebf4e7c0fcb7a51a9caf05fae0cafc215d6368e4186942db1) |
+| `0xCd90119B7Ce86b6774976BFF6B66092e8d41a315` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01c403168c96ccc362fc2dff86cac8f9a48491620c120d65bc36bd7b27005a9f) |
+| `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24a7f196d316d4a251de1fd8eb8f328d230cf08f899e60bb10aec40acb4dcc67) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd06f673352a2de3dcd966cddb9c82969c230feac0ccef3117aab9ef9041307ae) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdef164ca6ed654d8e290b42927f390495552ad0b5033d2095b5b2514f94a88ff) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ca6c15ee9fd478b64cfb782cb2fd35565539425ccb8d67ca7a9648682b02705) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c64b69b3b975589268aa755a307cf11c9b306f78f3bacd75b430e72377117f8) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 7 | [Polygonscan](https://polygonscan.com/tx/0xcadb91ded16003ee9d52f897023ef2e532169aa8809227f3e18736bb5a196521) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 6 | [Polygonscan](https://polygonscan.com/tx/0x913209a3a1eed6dddb1443ed5b254508954f8435b59ef7cc06020a1f3bd4ef2d) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x24c3c6bea7c34a097c761c53aebe748f79cd955a68d7907fc40f98514454ed2d) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79e6410929a178740aec31324988a41d42833f995fbccf262f0105f3dff51eb8) |
+| `0xDb07B2a0eFFa11C8d2f522764442382735717323` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0b20e204b1e1660d7f785e9835b5f2c9856a1fd5d1930d5757f0be1739a991ed) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 6 | [Polygonscan](https://polygonscan.com/tx/0x690f7fcbce39e8121a7bd1183b4c59dbcdef5dfdb1dedeb0a103314129a54e2b) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0117708ced2ffb57733a008f3913703f0d619bc29c0cdbeb865489be9d6a1f94) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5259427e72047d40440b58a023977ce826ccbe1679bce39e54fca50f932fe720) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffdf106fcb2c56f89c45089043b89418a06f3f535ecc2a95f1c5e783babd02bc) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37d04792b448a681ad9febe503820dcce991703ab9aa3b530c67f8ecd341991c) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b7fc30f2505c31432038e3d47c799cc784e3888d11751a4404b762dd700bf3f) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3265a6c8001ec790a2be1e61134224ebc1270fab91ad9550779865b9a376a80d) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x675d5705d5236669ff2db074f00529182faad5490c2ebcc356ab05f3e5b815d1) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1aff32acd5324891972cd9486e66b9b1df36615bc4eba1310315dd2ef699903b) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xd6230a5b0c5443e8ee0a7d2364ea420abd2c18ff6669a27bacdd5489d64c1370) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2f965efff21ccafc855e52471e4d4a4a310665b2b4652b364d14c387afa4cf64) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5bcc68314ad2902e9522dd151fa09c8370ae2360ed2dd064cd037efb7ca0e2ea) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e3c2e5c230c8d77f9f104d6786488991eda884f2bdcdad3846b585b0e885aaa) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x769341e0bd8e5ffadf858a238038b1b9420260d55737beeb1ad1b7130dc25bb0) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1a3717b7a8f88b21c633f07df72effe1ca80fd36914f0c2816924540139958a6) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x125824f3c2d8b1a071af26ebd6938123ee0611be572ae77baec9caaeb33ef9ef) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x385a356f56d2d2c93be6cc2f6d4654450e74a1ed6688d401c7edc38f081c62d2) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9a843d9a0d51db7398424030b192e1b67721e6832ade45892a69e3997caa2695) |
+| `0xF9126A46c36A0588f08B13383Ec1993168c56f51` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x448160660e158b63d9b04c0136d0d7c82e78d0a17e17cef8055cf8fef872f685) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb50487361d4547a963d70a89b59447148e25eb3bb303248baf2c88c071914772) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | M. Jordan '86 PSA 10 FRAX 1 of 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x370e8eaa81d9d2c3ee5d1922ebf7f0267351009a98069d0020c4e9f423288351) |

@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | A. Iverson &#039;98 PSA 9 |
 | **Internal ID** | 264 |
-| **On-chain ID** | 72 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc56-4dc7-9892-171fdfcfc940/00d79499f48fc1b86628f17c7f078b06bdb4da6fc5fbcc8fb57b72e30691ed40.jpg" height="200" alt="A. Iverson &#039;98 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,48 @@
 | 💀 | `125` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
 |  | `126` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
 | 💀 | `127` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29c00bfd6bc00820a6878ba756fd46c216a8bb32ba9104a84deeb4a16ef9f677) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9c5c4eed57d59ba5a11fa7c7298fed92b3c073138e490c1b4ffe3f3ca4491c43) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbc03587a1bb4ca2d17691d794ee0a20364d45942f2fb5582033b4cd14a3362a3) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf407704c8e6480b15db3118fb4d9e0da8bd4c15ea9077da95216d790f70ef054) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb15cfd54e25af10e839c23d02a0dceed1d6b3b3b4b45455ffed8bfdd6ad70747) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1141f3c8dac766638207db309a849cad5617f12863ec7fecfb6fdb2ffe7d1c9) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26cfad8424876f0276f89dd9d16a751445edc64446bd3ac7da3caad08772804e) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcc998096d5e119e63dcb8a6b55fa651f1b71ea76a1efe85adc06408709932ead) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c6e76a28f3c7367da19823d6a5af8b36cfbb55d7ced14feeeb8ffc381ed26cd) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93bab91441e0c1f9dba964a031e4dc125bcc1413b26891cb86f59a05222aa847) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad9d6abb9dd0e4ae50cba04968296d99b5f5ae2d69a1167decc95ed411097137) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58e6bcdcee8ac3d4451dea9b29a5b589a0caad350698f60ad6add1308899e093) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6fd3c0525e49487ccb3dcc8917c6852c3176b39336efd869d0512dc667fa9d10) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | A. Iverson '98 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7bdf2cb894db83f17c82d40c811f8bb14aa54e24bd8af00c1141207b384fbb5f) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x984cd939331f49ba70138b7a2ef6b63cd28709dcdf1e28214e7762dea0b29ec6) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf4f8a4b99ac38d84c24dfc952b780bdf280fd5f5be6618e40c39ee061fbcbeb) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | A. Iverson '98 PSA 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe0bbc7d8e4d4150e200b0d6a627de24fb3659250495b7ded5afc237c21c1e4e8) |
+| `0x64FB19a918F4388747A23458B5677EC047Af3e5c` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd51e1cb83026d0931792b2677311756c6989478b605fd026207282e37b3acabe) |
+| `0x6637395681603FeE320296Aa25B12A682Cc72aCE` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a798cc9c3be28f540e3d950dfd273a0e96d6d2e38520d0f3036f088f6227acf) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | A. Iverson '98 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x53b3251a26cdadeee93618b5309f0a39a1f4c86ff8673fc225d9b58bab234c30) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | A. Iverson '98 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xea56f12f3c4a1e773add5b4d5c5054b66884806911de331d2a7af3b936368062) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48b99ff2ab7e7969ed154d64baf2b3b8d2545b17bc58fb1381f1223ef2823a91) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | A. Iverson '98 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8951a034d7c8d15bbd30783bc2ccc9f5e32a9b6325f714f2cc8eaa7c23a89a59) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc092c0d68e6a244c527699a7899fb5020b5ff5b14626752c01ff3aecdef9f17e) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x01ffbb75a3ce2dabbed7414dfd8b5bd3f13f86fc3f9f878c8a2f132faba6a1c7) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf43a71a1f3da11b7fb51b15e8aee684064d8539c7d1e1b7b6717b92eeaa765be) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d09721d3af446d088e064e76046f77861a57502142a23c8b4a1404ccd4a744c) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf965833a9c58877ed0537c5503c5d50772da218c42bae1f1cec556e78e93888c) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xda841d15f057d5b5621a40d721ccbc181100cedd59bef1ceadeb7e932c13cfaf) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedc7bb5c6b7c02b808e8c73f5df00c5d04c92556293d0fe4940b425625f26265) |
+| `0xc167Bb3EA74fc6ECb870E82c0F38f8F15b6e890d` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b3d66481437399ebcbdbc46b04ead1a0dd605253f293864c9263f267225f7e3) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeceab6fd0b80c900837e6bb6bd80d7411a56f41732757d1fd321554162a87669) |
+| `0xCd90119B7Ce86b6774976BFF6B66092e8d41a315` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5558e78d9a60882c3448028313e11793e47aadb1317336ec8dbb5ebba1abeff0) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4468950f910c83a7104e0d39bff756a2150669da0cd0dd9fa59337d2703078c) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29e2e8821d93be5c2dd620a84a2e7d908fe650f6b5f9d1f9ce64fadca987280e) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | A. Iverson '98 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x336842c9919ed1424e633d5a17a23036083fb1463132f76a08a82ac2b7343fa9) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e7115eca76d1d724769f42b3bee08844a67fe9d82dd5dbd571114c19d2ab728) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | A. Iverson '98 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5123287e649f18987957269922b8b66094cb38a821b63bd0707fb97a79d3ce2a) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | A. Iverson '98 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x27bb6f0fa486b151e8802466468e008ff5e81d57d897454f7eea489320ea3456) |

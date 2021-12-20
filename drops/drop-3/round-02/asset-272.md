@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | J. Soto &#039;18 PSA 10 |
 | **Internal ID** | 272 |
-| **On-chain ID** | 80 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc31-4839-a5f5-d58ef8c4bb9e/f01b4f48c31eb7857928e6b73581165c4d03a376b35a2c0a5ead08c0f6464307.jpg" height="200" alt="J. Soto &#039;18 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,161 @@
 | 💀 | `1021` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
 |  | `1022` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
 | 💀 | `1023` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd5ecee8ebddc416184f4ed272c7affd6a452db89e5c1452e22d81648efa08d55) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4689db2f1326f1affb78afa8de2c95ad8d7429da377b00c3a75117f2a7f19c4) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6dbf14f0cdd4f252975a7ec446e469df3edc94e5400e6f42a5f25db3657a795) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x85e6d96aac13297a50e617f3b9a14bd96b81056581902af4b0f28c6e1b7dfb6b) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb1836e57eb032418c286a8ae641e1adc5d26da2f67f3abaac49e842322f59ce0) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf951542359d2dacf7c4ad12b1a004b16dc1cdf7437f33e0c608575150dc28702) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xac2a8f400f2d530b96766a2c25156c67326ee2d4e765cef7feb7827dce5ed6a7) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | J. Soto '18 PSA 10 | 30 | [Polygonscan](https://polygonscan.com/tx/0x503d645ff260319539e8c3ea4f03cd3312df7e1a9c43c402782d46e35a9e955f) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | J. Soto '18 PSA 10 | 17 | [Polygonscan](https://polygonscan.com/tx/0x6dd5a8ca8aeb14ba944949136eb8433bb14c39dc39891936c6d0d1eb5b75d645) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf4b71ec4a56ef712c1be014038c65a15681b8759e54fe8c9930a446c836ca91e) |
+| `0x0a39fe1b45c700c3BD6eaE18A48Fd7d4F45743DE` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21c4e14216cc7268ecc53626b7cc9f63571c5a22393cdb9c2b25de56cb775b84) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | J. Soto '18 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0x0655fe58c9c2385cb717aaf92257d013a0aa808558498c642364d93885486cd4) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd8717e25ac6c06da6d1c0059d388995428797439c109b837894e12bb506c20b5) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9799a3430909d0c9ff0640a249ddfebf513886314e00476cf6b2cd484b2c52db) |
+| `0x1359868D0Aca0C06c092e24741204B2Ee73d3f45` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba04bc8ae386ba42b930220b0f366d7036627caf2f5216396a481ec5bb2d6d8c) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2f19b447a2f67f1379ae859682a0bf6622e52bd2b8e3349e7459228ccc3f419) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ffd564c5ae590a541c3e870db9552e5eb4e3adaca2c442bdf84bdf5cc216730) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | J. Soto '18 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0xb1689bd09fe22a886fa651a6bd5d96344c374f2b1c98511504ea2c676ef99222) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0d9b8c1c7ce70abd633aaca52a832d3a46ff03caa9c8011e6dd8cab0aa9836ff) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb39e5fc3dba802b5da3fc900343e9f143116acf380a7a2f95a54aa7b31b0fd6f) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | J. Soto '18 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0x4b113f57cd016ed5c7dd8aad19fbaff447338c00ec9ecb098bdacc33799e1215) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6c46e4dd7238fe2166110337fa5a629c77834f18542f3d686dfa8bb0a7578028) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42a0cd3d152465e55ee3471dacc629f6bff664c241ce7caf10284639af7559b5) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f8b876314e27cbd9aa6d2b4e7d0876902350763a092bf3e04d9fe6cc2c9efd5) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4510f033da595c0a9af3e041e1c5c3c7a4d5ea045d7dce42039ccdb87c88e799) |
+| `0x24A6e2548368eF321b8807985FEEd37e437d0C2B` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27d46b0a48863abb8b32b4f17367faf52d68fb15640740882908bd4f6aa212b1) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc772bd20fc00c9d283c2abe1180587c1a94b06385f290e5fe1bdb26515ee5735) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x886961fbd45196a1b14c1da8165f35eaf2ecfef62d8fe0acfcd0c408d6769bb7) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6152c978dba794627787d408e5d65fecab570036e7b24a8e3476c50aac0985e) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e64862eb054898cd45e7ef2076d16475d7f454ae2f73c89c9e09d15d7455a7b) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd785929f71363aba7ec6f25beba74d8c92e47d3616027542b81dc9fc9872a343) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99a90c2b45284e54b6489bd7500d027d2d6193da109f438a39c18940ba394432) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc3f4a5c390468eaeefd019e29a59838ba7c701f5d301f4c61cd6bed0d919bb95) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x58ce359a283903b005dd3fdc85a0927fc1d532958a8ad7fcf8f614cd6361fcf3) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x170dacf2c4a240526637e3a867e9ddd07064abd88ac9cbfea3dfa0a22b6bae3d) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | J. Soto '18 PSA 10 | 14 | [Polygonscan](https://polygonscan.com/tx/0xe5b928739b35cc5ab523888e19b21ca34339f0c164f5ea0b736df94985dfecfc) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea010a49d9fe522ae163a7e21fa33a9d4161c846e87024bf74418daf6389061f) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3c9af39a78d3fc7b83541af291eb110aed08da562856e73538431f133e651b3) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8512e521fe119fd43eeabf3e78a015d57da6b628f90f181a3a0ce7b7d447b782) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x66f66fc398e6da82988589ad403496828f2e1ce0b88e6e5350064cbdd0496771) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40663445ca4b3d4429661be0dc7784c0efa2796823689a3b221d6077cc4389e0) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3a36dc1fcff2ea23913c42f90cbd9001cf78279cbb499630a9b339544acd96f8) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | J. Soto '18 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x86505391af6fd1d23449b3de6d70e81cf86eafffc0aab131c92014c13a9d251b) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x604aec3907bb38a71d5f251b9ef1d11a69395837986b900bfd848dfebe5b18f7) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | J. Soto '18 PSA 10 | 14 | [Polygonscan](https://polygonscan.com/tx/0xda7f497f2c29b9ef23903ad0ff42d3dea72a1b51efa0eb10caff0463bac8c9e8) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd647bdb6f2861a1e98868d6ffe2a6b062da1d96ef01fda823d134947d23bf4c4) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54683245b34b01e41097f13093a1aca7bbb45a91c323ca08270c24adb78941f3) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3154ba4e86243c424ac73b8514c5ac68ba125ce3a2e895b72ad07f9be7f2c61) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59498e20dd936941e6409db985f60b3998416937f06ac07a7f961ad78c326a16) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x997d5361f08b383259c6431910d50222d5494096c80bc9c7ec547222567db4f4) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d3283d6a75716f29ca7270502bd370899e3d75df292c56a1ccdb889e017c10f) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa30c646275a13c8167f0efe058a8048b6072c2d1ff20777cddcd298972cf70e9) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb8c2d7b9d070665bf7172148b0c8c95baaed9747c28a6bbc8765bc14efd5e385) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbbfa52ce19ba765764338d41478552bf64bc4c7442adbb6003cc050e9a78e653) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a6ae22537e99a4b7e2faecd1421572271a889e546e300ce26ae0e0ad65411c7) |
+| `0x563C946Ad597BBE777A480D69e770D537F9C69De` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcad1201cca758a3ad3bbff35774bcf54d3f1c459beef5dddbcc2f58bec4ee46) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc7087725e79f842eb3b0dfe87c2f9be145828591e510c6f500267ede8439b811) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1715d4f684bd73950437f0e398179194d8cf76545aaf786ed6bba94aa19d85c4) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x274d857ce6e8f6d668525d08088ed424665c140e9030fcb00f14f9b077e2528b) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bbad53fc85fafd40bafba448bfc3ff1d66d48a93ff4991204c5cc3a0b76176b) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2275f7785c6c11b4de99c4ae9440128632cb01481bf0a2f090e3bb8ea47f043e) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa588496176b6b9094db82ead38925ac006535cb575f3cb69de2b480c8a7276b7) |
+| `0x643E9cc376Db93360dF43022897C0F98Cdf0dFa2` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19baed1d248d1910f7ca973d7348daa234d74b524938881408b552e73b202a54) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61407f70f2aa701ed7c0d6c1c61b79cb9ae5c3e489c34703f6de019366e288f6) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | J. Soto '18 PSA 10 | 21 | [Polygonscan](https://polygonscan.com/tx/0x6effd9a1df85d0609cbb84b87e0959d7004dd53ccde0e974c19de2878104c2e3) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d41604185e60293e11b74f5969020cadbd7a8945d07a3f30d81d3e10b96d258) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c636c86292ce918b38728aae7b2e8eac833779735b7168838b9f5dd4c4f8447) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3caf2cd7591d9850735054cbd8eed9b7902a14a10787a713973e6d4759c60ec) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6ba9df4f4dd892a375090f37242ed0eba747b7afda242a867831b8007127df4) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7702224cd09a93aea5254e0882cacc87fe8493ff5d44284fe77dcff2dbd32632) |
+| `0x6B77FC32480f171975dC7Bf262a422b2A181af24` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0c9d90ac5ad7de49122692dc7ff0287a9d7718b86fc2eac39b81778ee7abdb3) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | J. Soto '18 PSA 10 | 80 | [Polygonscan](https://polygonscan.com/tx/0xcdc9bdf0490bc207e6507d7f9ec5081f8179fdf9217e1f00c1065bb8a9742317) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | J. Soto '18 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x56e6d44577c2c0ed89c93b8ba513886de2fa1c99ab2daeb46aea06e03beeb956) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ffae7d086c4ecdca7696e17809eb7ee9a23a46141820abb808308da1bbf1132) |
+| `0x6F584D05b34b058ed5b78B09b34ABA6409E440FE` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7294759627259fda0f2de9b0162f650cd10533f494a2331f6727fe7820047d7) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | J. Soto '18 PSA 10 | 10 | [Polygonscan](https://polygonscan.com/tx/0x6f4b9476865fe08cde22d9538d80abc35abdd89af1a7019ad00cdb8903c5a4f6) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c20bc783081250d03a7b6cfa2f3e198095e94d7a69d399151d06f418eab1aa5) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36b24ffbb8a93f825ca64d882eb716498288862736ff42afcf4a37068bb37a8f) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x523207d9f877773d44cc48e7c97d2d5f0d9ac9f14dc2b69c995796482d574660) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | J. Soto '18 PSA 10 | 10 | [Polygonscan](https://polygonscan.com/tx/0x3ea72ee3559215dd4a24788a9ab762a1bef68ef0b1fcc8f50d0542c2807a65d9) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90e3bb001478ddd7da96d50dbb80bb14699ea644ff15aa4678986bb90405c65d) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f9e5b77b3db289b7d1929e84ecd703e6a6fc9e4172b8e223aa06a0d910b0d8c) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | J. Soto '18 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xe9e9fc5193bd5d044b230b25ff224c3fcd3b65d81e030c709f8b09c762a25d7f) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x71716273d34fcc81fa96b8ce9c317269d46a4131d9c95390d114c0a861f02030) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x90ac269ed4f46f1ed5aad55ca5ca7279b8fe10ab44c6faf80901cff8346325f6) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x025fadc361ac1538507ea3a846204759911c2bea2df5d1f0e417e2459d3c9be1) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | J. Soto '18 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xffd13f63c2425ef71a555cd29b366d342bc2df5a3878b127604013634af49285) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | J. Soto '18 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x8f1481201177a552507f547c247bd4702b5af84ea0457bd71eb7974ee49af9dd) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bb1d15749cc280110ad7abb56ba3bccd4a6994e549c1c73b94ef07d657823bc) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2a1f949c27eb92f9004809def4fe9960a845a924e37d1325532fa12f81d34c5a) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb67d584f386bbb3275f9ffb570e294a769fb376a41b42db04212eef2090f57a3) |
+| `0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b5ea371d0096e6e89a297b02755c35399eea3664380fa5b202bcb844fa8aca5) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88c3d53036c404189f6d38a65dbfad46367ce3011c0a8a1a9ef7dbc14a83f4ea) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1de51d3056083dc5e68f8a770a384942ae6223150ac636202a42fe9dac1a6d8) |
+| `0x8F35E31E31A2475908881B063Be05eb15b7a2624` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4214d9c73f7cbf31fec776e59f5e837c7db081f2ab2f322abaeac16806ac0c86) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x745c15518ea6c09a28c342d74597a18855af8c98d9d09bd9eaffbf6f65af05ba) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a8fd032f076a50a387e4bcd76c9f2f2ee7b2ff1e8083f087faca64e819e2fad) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdaeccc989245b82502c0f26b39003c71c561a14587a48e1cd1126e8f13ce2e53) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | J. Soto '18 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xe468152811f43c2a817365fd04b041be638588c196ea42716f203b74c5e50bda) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | J. Soto '18 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x2f284e531a5769a64490a9385a1dde88d341823303124a6398ac4a68cfa413ea) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd99cbc140ce796336fc1c68e1619008b8fa364773a2f1f73d097a219282f408b) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38fd3b4141b1aad1e51063836f3c20bcd2643fa23708731f01c9832ec0839653) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1055d0e578358f43a85b492442d9c2f1af3476f1a3b12971e05ce3ea29c6c755) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | J. Soto '18 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x234fec543bc44bdf68e6c7e29e2869bde144d4853cb3141b7dc044f3df57470a) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0ef0ff737ac58afd2906aa5ffd12372a87715b5d1e4d62329915a666d7cbe46f) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbded6d556f3fb3823c968ef570307704fa824274a7d67ed8aa09b940aa62f01f) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf08970c37b38ca893b5dd2a2b42cc9036f66da011058b8ff292c245eb6d13095) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb142328e9a55e037542b8ce4a4456232042547dadae7b083cb426edad7a3edfc) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x47641b4b2d2e95b38739916e1ccf6793f16df15c930ddd16fa23fa75401dfc44) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17fd32ebb5de2e731a53bee13b99e7f63d13542ae5fbab9a117ab081f0e74e98) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4d851eb2b7463cdaa61b439c00df56219408660636a23ad6ffa6837bc79986b6) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xed633de7ceff0baf16af793fba6fd5df15c2df3ae33f3408441f9987223fabfa) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xe076b9cf17401ff0daab7c18fd2f5c9d2995a016343ba53e5ce023daf3f51be0) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6b6954a125427befe19ce830b680aee2f5dd152ff72f54a7e106d55c3b503ea) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d8e0ca1905085b09c4ee193677d4a8e4648375032228adfafaf41420dce7508) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x17f57a362c6ae11c299f95257a3bdbe6cebfd5ce60853a4bbb692e1bc5c0a2f2) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc90817e37a17543a1142918ebdab320340f223c8c4ea420dde6a64d2109e8519) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64a2386e6f73009e6b4343ce5fe75c3adf03876b0cb70cab603aaa2282adcc26) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8a4efe418874027530735dec7f2c00093838166653eedcb7831523bd046fa60) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b88669802d4af8e6fcbb80ac88299a94f90e2389b159beb937a8537fd447c30) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa0f8a45b81590ed880d6c8871ad135c722bb163bd844f1aabf3e40e0ecfdd0ae) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2e55e959bee9cc05ddce5720cc71bf9e88df19d1bf62d66a66d3752403f9894d) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x72174f6c865fb3bee1099cefe7a7c0a76a725cb8df291bbe9401737402929f31) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81cf9b70a944b70c50c864ad48308fbbc1b11567fc0cb695c266a0f077ebe500) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x20cddc06e1e2d92a47203b2c1f772ac92c91a90634cdc1a84f2357aac256a567) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9649a1d63349e423f1c695fce505572c0ee0f141a55eb5168fed8016c00de4be) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x18c51c643f1788dc60117874f9b880d71fad149ed6f4c189d2e641d7766c6486) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | J. Soto '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x793e2911e0f2722e781027b9400a9c82cae7419ff96fd353330c430235946b46) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | J. Soto '18 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0xcc1735d21228b2c74e827f134341b870eb7093c22735b082c4af082b5de14fdc) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xca4290fbcb0108c9cca4faf14978e5783b75e89cbe2de04ef8ed30a9eb93e6e3) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3326682b4632af262259ade09035200508aa7ef9f9b456fc3e37d075251efad9) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e898898964f278e2255c23e59e8fba7e7d711f8e142e695f7e5ba6cb7db9356) |
+| `0xd912fE8cf58C7270033f1b135d221c13693886b3` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e55cd214d44912b0275f8342bc9cde1abba5ff63cb77b4f5a34c3231e21133a) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d041eb1f155b714b6d5c8fb84bfabdf4e6503ab062d7b0a67f13911406ac764) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | J. Soto '18 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x1d16d7b6d6f57dfcf26dbcbeeb7dde3dfda4ddd0adbeac4c394485ff49dd4060) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe405b4b02ee947d80ff7289524864528228c64cee41d00332fde5335387fcdf3) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4467dd2b6b4b1facb7eabe24dd13a17ac8e6f763fbd0121380c8c9c7bd36d05) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc28c9a0a06e3eb9e7cc768782ae14f9615c83a218abc9b4ca9d13d46c22e4a7f) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd9a298afa8e828f48b501be8a29dbbe40f30fa9a644d214b68a01b5df579985) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe1c662df2dde08f994dbf6fadca673de69cd3ac753b87ddfca6b915d3df388d3) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x207a25b4c589043948a58eeab38446deb02b3b5ee12c857543e1b20789b61c98) |
+| `0xe8A8cb3e243B06073b8398214887b87b303d7b85` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ef4cc50936a5598554f42fd5d4b015baaab82ae14fd9bfb0845645cba5560de) |
+| `0xE976204DaC0a4411173B4E19778B073D5630277a` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bcf96e460705dd2be7fdd0e651865491cc2ab95f949a2a39389682bbef20abd) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e75c62fe5650a18186d6a8c6fc1592bb705d858d912f4dcd9b611345e77b94a) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96401a39cdef6163357343962a944c02cf85e1c73ff269d049c357f63b77fadd) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x96e8aff1bdd77ea3aa5e717f7288c2a283b6b6d51524c76af6b0f41d0947ad2f) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57c7be71802c640177677ac27245c0dbca02686eb4d46189d5f42c7e75695c49) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7c415e0fd27f2658a589ee0ccf45bb543de78451f7b43923c46d18c2cd144650) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | J. Soto '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba4764c7475ca4d4eaa44e184fe90914433070cead399cd46e9778eee3de90cd) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xad28a26d686a301fc3164b7621dec79a0473c02fa16030928935927da509a48d) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | J. Soto '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64395bfec7846bc964d99e2e473d112a09eebbb628ded19dfa5d7a5a6cf90e15) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | J. Soto '18 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x65aa8e4e165e59f6c6689f4d7434c21d348ac040b3c6397dfce9586058882a26) |

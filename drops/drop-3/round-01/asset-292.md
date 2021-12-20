@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | Blastoise &#039;99 BGS 8 |
 | **Internal ID** | 292 |
-| **On-chain ID** | 76 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc43-433d-b9ab-74dce73976d4/f96b4ca7e9359e65ff1e75a2970b75ecda9f7c5ae5ad74b8aee6010bcf829eee.jpg" height="200" alt="Blastoise &#039;99 BGS 8" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,181 @@
 |  | `2045` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
 |  | `2046` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
 |  | `2047` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d696093658f83a7eaf2f3543d9503f92a4b269fff57df7aef142c5c4a8de5b5) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefdd59340547669885492a55e18cd4025bdf94067ce219191289ed22b8ef3dce) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2b5c9831c2a79d790381c4bac576e5c7307e6b83d1e9b534133048d9e795127) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9838bb6f99c58561b0359f7f559e4237aebc8e1e0ebbe9c2d3b216e8e6471374) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaa499e6e06ef462817bbbd771a81e9fe14e7496168816d8be448d184d51079f7) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5617f1a0aa79a68edba4b55632306e760710b1bae76669e00e7b20d4f5a71f88) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x150198ec9b75654257be74956f47c05f93eeb5142b4ed44968c65de3ce44e54d) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe0e83c057723c1a5fa08c9617f6b91d7b7a5af2ac93a48de696e64a5d706e0a7) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffab1ed61c30593ea00fb8f96d629120a2852ab8ad8d63ac52f7480c14da503d) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1637773bd25ac9a35f6bb08f39061e8f421e4d4d1ce84d18a01494458ac0a78f) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | Blastoise '99 BGS 8 | 28 | [Polygonscan](https://polygonscan.com/tx/0x3fdc4dc96446b0184386f3c50e21e36693b5fd8e818210fd0ac0ad727f3bc9d2) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfd255b80efd330939dc8ecc338f3ab20086e7039d6fce8903b4fe9db3146b525) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f20b9b644a8b11a1dfd110b4e3fa19656d4dc9639692dd101ee77186cd539bb) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | Blastoise '99 BGS 8 | 10 | [Polygonscan](https://polygonscan.com/tx/0x452f260847922b12c5a1c3e05de217b7cbec49d1d347760e63938959145622bc) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6b981df1c18db028bd74c28ee9793198ddd95a18245c93f70599a53d1e19eaa) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x13ef282a3cd4f062d38a7f7f31a99bc8f6dfa13b3404771b1a4effcf3cbcd9af) |
+| `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f39f7937088f688e05ab95b0c6e4b6bdddc1b356314781956be880cd58bcb66) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97ae97a85329295fe0dbdef05beedba790ba4973bc8daa55850be926bf2eedcf) |
+| `0x1bb49dF9c09E1612134BD87264929E85F86Ac4D9` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4701455b07ecbb1cf7ae67e6942a247a67476b30191d4e15357d1ffc8f0b87b6) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | Blastoise '99 BGS 8 | 14 | [Polygonscan](https://polygonscan.com/tx/0x0998d9f781c7878b92d612d3b8a9c93a71e3662a984c44aaa0abca645f8a814e) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e656f65abbec5675ce8bf62510797660591e8c5e7ad1347d863172eb4807392) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25fb2282984778f3613538ce8ae4bc2b0ec9527e3deb498bc31e7ae8193fc786) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | Blastoise '99 BGS 8 | 10 | [Polygonscan](https://polygonscan.com/tx/0x930ddffda013d277c8dff06d37ea1e729f91bf2a0ef63892679ada8e1701ebc0) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c96dbe230aefc9c7ffb7498f57aa188f9fefb68ec8767d36abf12a1942479db) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2704a8dd3480ccb6ae2a1ec252fd9f5ebc278a076477f5d9336163c40d98f29f) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x571901464f797e5f20939071b1945bff5ee7bde1a4a8ec011bf27f9ac7be2207) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7ee0b16fd422940304f897164fbb0cbae43147f4a1e76cd652d6479f1144e47d) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3b6f0ac08f201e7fc7d5d88c8684267cdb1e348019dee50905e05a994ec13ed5) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfbcded7df8cefb29025b5e095f8274b0d75cea64db398d86e9730d649db1a7a0) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc18083d4c12836fb0c0f229bafc6467a91884a2540a32569703aac707fd451ae) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42998b3264236ce2c1933fb3414dffbfe8516d252d5048b2a765f83c51b8a3be) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31c79965c24dd7e2367d468f4c55d1efdcc4a4ed1b1d99654ad1abd75e713b67) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Blastoise '99 BGS 8 | 18 | [Polygonscan](https://polygonscan.com/tx/0x986b4e8b963c8939f2aaa2566e5557af2d95632064f0741a3d31416fa32e6fe8) |
+| `0x2F36A958d6750B21f343FF1920419dbB533E0952` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x398303128d952e3faee739a0fffaf292fd1525285c39d40c6d9eb5d0675dc4a9) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xebff1260796ff15d67ffa938b926e56412b6379be150c86d665bca9614113384) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe82a8fb5136da87b50718c5c7d46c0a168f14ae620d6562479599e285ee82ded) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x30454f06752eb5b43739b5439094a9ec302a6bc6f9cbbd4d0ae9b93ce7d0e3b2) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7195438ff48ceca52bc68cf0a1efec6c3003ebf377a0f58bd252a6ff16c962ef) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36974927523cecbcb9ffa8221eb76d8345b877f46955f97c67e05bb95343148f) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63cdcae04598e80599780b29ca1459f179b99c4b6f6866c5aff65a86e72ad4ab) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29ca77319269cb695bf76fd83fceb41f0ea32d685d55ecbfaee5dd26cc5afa2d) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2b29fdb07313699898acd928d61fad04eac269175f929428df1fc3d8529e0c6) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb1a3af4d6a0861846addc9463c67d63df5188ad6ef43d6243b19c49c9d995753) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9d0e3721bb625551ccedb70dd9420345da26d31793cb8d6c4e67e75d79edc02c) |
+| `0x4551e5077534F459A9131b9Cb6b37be8DAa0a125` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeff4785e85c7aaf221b06a37705ebfd9a8004dde5d178e0a06d987ae2b767ccb) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | Blastoise '99 BGS 8 | 18 | [Polygonscan](https://polygonscan.com/tx/0x04185f9d5b3b2328cab586cf0d7d7272d49be9805921b3b754d3b5ac27d31924) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdda4d493c98a79361fc6cf7f43b29f55d73997a7af17a10a4ca6b14e5607be0f) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x912cfdc2375fd06f4c55d88936d71a5bb1cbf79df07acd45887610c55016351a) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9f3cda67581cd44779f17f02fc45c5321db33a3a867c1492e665007f77b030c5) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7dc6ffcef492aebf5abdcbaf5804fe7f97359e17a1a1e9e52e7618cf832a32d) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3926e4bfdec05c7f4c3367fbcf0f9462ef7a112b8354844b03fdd7130d2caaa1) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa7642ef35cd948096e27bb2f4709ed5457391665b2492f24c8c7feba2c73134) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75b6eb0c1255b410df644501ede92bbe83fd07f1524585e571951f452080edac) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | Blastoise '99 BGS 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x0953db092bab8404951449f64c5f8c90860a0b9393dfa2d24f8ce61c6f315a19) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x756ae06ad980afebffd02e7cf4621096674524d5ab732a1e8c79116dec46e2cf) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde5ca0f36e38b0172230a848b8d057d839d57f7a153bb0793e9432f6e8cbe008) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb052c575bfa60d0489c4c01d1add7b429e02631326add00a24e3868d7ca1549d) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | Blastoise '99 BGS 8 | 19 | [Polygonscan](https://polygonscan.com/tx/0xbf43cf632a5d358dc46282e0dcc4a84a6e21d95e78d405cd141de18a3945c770) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | Blastoise '99 BGS 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0xf10214537c8a21c1025adb0603e6e0e243b2211bdd36bfd3ee41b8452a5549a3) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x84f49e2b7f5625a4a9a5394ff62d9e7617bed8cf26b94eaff0112d74e527b5a5) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe251194a5df5140fa75e88b1449f36c06c89ba5658eba2f5d99a04bdaa139288) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa8cbe8b475b6be06c21b83c0b06bbce93b828fce4c5788781c89f245d5ee690d) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31ac4e72c97d1c1e61babc1b7a7813611eef8050f72ca8848b712b8f3e5eb193) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | Blastoise '99 BGS 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0x9fb6709b185c0d8dca0f728ca1cf38234a4a86c4650c3babc8c35c03d674923c) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x68e94db83b34faad3b391ad75028cdffb5f723d0f59de7a009af728799c2efde) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x29b9de3679dcc73b629e109905420d733758e322c5aac5266be3f3553f6d79bb) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | Blastoise '99 BGS 8 | 19 | [Polygonscan](https://polygonscan.com/tx/0x1ae85bffca7d6c02c88e108816eea880373e4323f2157c3c9639d7bb27db987c) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5d4e18a8715a91694cd9125a21d66b76c90ffbf3b5ab0045b7ca9fcf0368715a) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x07a5306c88dcabe28d74739375646fdc721a1b6c4c64c096cd3690c600251b83) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x170310722079113cf0801c0629c9e8d26d54c8f6856a9474d6bd9183fd2afd4f) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x08866428fe50f42a9bc4be77bc1d8eefa0878b20b47d1c1a08129cc520d3b013) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc56ced61f885986ebee6d28d22aad17de8b5141233433556782152bbf1426d74) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | Blastoise '99 BGS 8 | 103 | [Polygonscan](https://polygonscan.com/tx/0xd0b82707094b9fbd278ea0506820578878d3c14196af018e6c42ebafaaea48b0) |
+| `0x6C17772d595F4Fb6373B7FB2a3FB1796c01d87eF` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ce10629bda9b7475fc5c58502e97196062799be1dd03d851db99977259ba94a) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5959da1bd489b752840a326c51daf5b8b0a7c31352a3cc61aaaeeed5f3bc3031) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | Blastoise '99 BGS 8 | 8 | [Polygonscan](https://polygonscan.com/tx/0xff25955b8411b9ce52324f047eb3cbe42a5d91e8982bcc0a24350c162fad9e7a) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | Blastoise '99 BGS 8 | 10 | [Polygonscan](https://polygonscan.com/tx/0x35e7c264417d7a95a4625815dabaf58d0017af83f4500a7094ac617edcda9227) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0ae70e85b1540598b7b0cb1e69703281c1b13b9ec17716c4098fd2145873a7c9) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | Blastoise '99 BGS 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0x692499679ef551a3979f63f829da6cc458051f31bb1e1d0ae0bc0da5f73a0102) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8b6e0c4d8c20ba9fad8ea9776c5f8c598a13e02f27635c20a6f8294f20a6fc73) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | Blastoise '99 BGS 8 | 11 | [Polygonscan](https://polygonscan.com/tx/0x18fdd0176a1a16aeda0129196b6426808c5d9030c84cb30749d61eccbc493657) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf027456d1ae3d4d0de76635faff61a3aad85f7e9238576ca391939875791be11) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x95c4926019f42c7b2d47650f65c2c638d2d4d01e8f7d2c37a7339c2baab3f4f4) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4e34d6fbab208bf942b1c55d7e6439456e316424953cb89223b8ff3ffe2dbfb1) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | Blastoise '99 BGS 8 | 14 | [Polygonscan](https://polygonscan.com/tx/0xd42fede5c5e3eb290542dc13fed7542c827192e85d60a7b76651d27c0ac1ff95) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef921f387c34390610988db1712730fd1844e3d2c4398a17811468422ed099a2) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x319f5ca64c460a096cb6bb00e1711615e20797e52a2bc4fac2a35b9896eb80ed) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5fba7b50fe7ebaa74b089a08aa5db5cad17886600fb19b4608ca1ed7cc51d9a5) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | Blastoise '99 BGS 8 | 14 | [Polygonscan](https://polygonscan.com/tx/0xc46dba5ef84d96e152ee2ff3e6c904b5b1255b9828b8d63536769411447e723f) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c595b03b25727a5284f0364d17897ad6d835fb7477ef2155c55e2d8131347e0) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | Blastoise '99 BGS 8 | 16 | [Polygonscan](https://polygonscan.com/tx/0x5265aefff40a245398349183377eca348d3c4f3f2a197b335777fcb1d0e66fe4) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19b095e8802ce630aa8e23b1086d8bc19cf68fb23a00240c2bcef881c879b9e3) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | Blastoise '99 BGS 8 | 13 | [Polygonscan](https://polygonscan.com/tx/0x38a5b8ca4ff0e67d873889abbf23d7d29d9740c1b20ad129e79ac8e2729c3412) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc598006f0c49e8ce5b40f55b01af48cacd2deefd6d73bfef2516ad1d60da6144) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34ed7949510915d06d70493e10699defb3cfb578e348e6c2c36090e5c0ec1618) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f2a7aec2e762fe466669de78fd34b60e4b44698cadc63fdcface4941f9fcdb6) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | Blastoise '99 BGS 8 | 369 | [Polygonscan](https://polygonscan.com/tx/0xbbe0b8c50657707dca7ad8567a1f30e60495f7540e91c558f2bb6f96117dd163) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x956cf280b5ca6881b545d05b1df65a723410b589d4a66087f7fb12aed8bd6c76) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0be83136fbf9f419458a5a1ce48ab26828378ef98f75b5c9009f455060f759ce) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9858d0185170655b9c61c9bcffab574336e6c95079f377ac1d6f40ac33055141) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf737a18886deb4cd90643ba02f6a9318d9933cebf29a52cf5a44e595121d1cad) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87f04ccc2d05069b4b39a9508d08cae180eefebfa1337f07a0da543a05965e37) |
+| `0x93171109dccB003E477620B7b4d7C84E1feB351f` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x568a3d47ddc64826d1042a0c5a00ee99da504bc77844becbb61b3ce157a4cc01) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | Blastoise '99 BGS 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0x5681e8d594146e1fca95160b7fb604cb0c75e8c3fbd09ca84c2687ec4183f366) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | Blastoise '99 BGS 8 | 17 | [Polygonscan](https://polygonscan.com/tx/0xb80384eed6ed109b3ca67e44fcb509890c7bf35a39fdd12f6c9b289d1e912449) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6315bb5c294814b6a90f5daf7cb2469a21666c96f212a2c9202223605e4031be) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32a069221d2e54dc22d74d80d748865b82237b451696ae7415aaa18bf9b9f185) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f0341d546518490a06a8477c49fb855a0f6c04b66e2089d30af262946633ad0) |
+| `0xa1CC1e396ae17F8685BE4a387f5914527877F720` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf2e24d1633596cddad32d7b08890255d2f607a474ed3641482c4a27c440e839) |
+| `0xA5aeF44AD878ceB789C9cD77B3D1dAE984a5DC9F` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84df3a077431e2625fc8e0e4d9ed18d7092dca4664a232a3d56322cee2e49d78) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xeffb9ae0f90f285a782cb18f1d1eb782e46f86e8a8cce2c8b24f08fbb2fc5e67) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a1fac098deef7f103bff086419f0e361fe3c7461a1d85a4f950c684a8461a42) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x33f192ef720e1d73c01dad472509563b7df3e761c61b63cd14134122398c434b) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9662c5fec0e2caf030b97c645fe36c4b537038432f0d05b1cdb0296477fc5a11) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x500ef28c45e91b8b5f29a171e983567ff9954797227cd01ed7e03c501a99c2d9) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d4770d011286a7fc466a05bf8338e794679ce9c63848257bbb3d567d8ef43e9) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbfd3349c3bf1cca082a9abab6e377c39b1ec6b91b12874c539fbe384e6481b78) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xe33b9a0b812c000ed0518a9a14f8f035352033854d90033dac8975f4ed3444a4) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa058fb74a5873415031af32214e6132233727c3e312ad5602144313820293c9f) |
+| `0xb5BFe0b4F3Aa14bAFE7DBea59690D3beBfF833B2` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23d243a7a86ef5f32be47f25041f96cf892a49eb14280748a21659e155470aea) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce87014a577477105d527884d0441b7f4344be52976f3c8b639e5c5375248bd4) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9b265ff3475acbdf069f2284ad3695bd08d20e1e6c3f48211105d64345d638c5) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x503cd1d7c26981a5e7cea93a74db523145b74407bb96a0428903743c35c01598) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d676ff2445ff8ad07d189abd27f0a4af7ca4d2d8529193c7b97c3c18c7c6161) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f1e09533ed64c9619ec1aab3b967581cb52cb7725b262f3a0586be7708f0754) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x21e91e4c49f374f690e33a82eca78a7979b59fefcc76ba7ee464ceff6ee695e2) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d1f63f18f7fd9ff8fd9e856e37d5dd5f7a8fc2b21f62da0b52b8ae0e48721ea) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd687afce017e1a99956bfb35611aa005d92150c36544fcae9f969cbdde24e0aa) |
+| `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd58d127bffc289a3ba2aade214fb04f2197ebafc3723ef2cd53613a768fb44f4) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x95342e60cad686dad90c236daf1e7ed0a82a936294c838b23b86cd55ea617dcf) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaf574e54c03adecb14070bc4e81004c7716660ce0e2459e95c58f3409338e693) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8151251ab94be9c01ea1356128b0d9b8f14b28c275cc483f29db5a9e8d0dd92) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | Blastoise '99 BGS 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0xe232f63308d348904421c35cb22502fd9e45e18cb8887fd6e6ec6c01d10f7307) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xeec208d13c46465f3cbc28847fcc1d3719d85dd3b98f9568ed4a78fb7b8a93f3) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ca9a26f0211fe520f8d463633f975f18bb7d3629ac04ba65b557af44f2eeff0) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2c15b97bd18429d399b0afcc7909803cb2a1bad88c4fe2be00273b8053da3630) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0c3618540b0ced4cebf986983864b70d3934bd4011b8aca63cde251a90bd4cbc) |
+| `0xCB7F5d85580174562A5cE352e3395642bA1ccAB4` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x453673687010653e727ba8c04f8c2bbffdf7be346256ba0721750fa884a51fb0) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3aa9304f1aeec0c3bb31087bad1c3c8b0b6e2c24f08824dcf2860b2fd7054c4) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88e226a4c13a78db733587a4b6f51d91a5731a52b96156d474ed4d2800b4438c) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f9bd1a6071917265c94db976b7dcd27f1a41a2a8b7a94113863d479bf405d9f) |
+| `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d88947dc0467d15e3f7d2733dbd04d8ef8b10a2e6c234136fee39f3e6d6bd9a) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf0781ddbb01482fc061d7c38bf45884e8ce839c1d827ea3dff6baa2cbcf18ed9) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb51d1e05c2db2146faa5627fe5b9be9c531050bce18a0723ff0f41e228be901d) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd0a2641e512881e16e44743cca50572de4c3b0335e563cd92b88cdeb5e5287fd) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10a2f1b9838dc29f93eaa67ca052e02963286105f2fe82e396f11efd1f8a7104) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9279fd9fccfa7078b0ebb58798f8ff60e0286951058ac3cc4716667f1822bfd8) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5206cd2e5f14cf62133f247193869b4962b907a777ede97c8d91d9a5603f5b47) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0d8c9434ccbad686acbcd1ec0dba9930f8a79d9609718adcaeabfe9322af04ac) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdf48cc6361af7a1f6f43b1744d4e90c83b188ef730cde0f1c7eefcf2619e48f) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb2406bc448c3664bcda483f5f6d21531fd9a58331b01060008b2087d9d267d3a) |
+| `0xDa92dB6Ef48431B5FdF8929b7f4Cb93C10d454Ba` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x586d991fd856d52acc7153e61c6706743474ec7688d48521f3bab2f3be0223c3) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xfc7fddd3c444d0887975859cc5e20e0003808ae2f5992ccfc215cd06fa0e1b94) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xd14c987055001c50f0a475925826c0e8a5c105a4f6ac5cec309f11b6c2c79e53) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | Blastoise '99 BGS 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x1becc5299b79452da33551e10369f074e9777f3d3cc8ba9a62c9eac49dee57d0) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fb19a593ff4c530fbcb235ca6bf49c55bc91e6c694695dd14858ef7b770f868) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48d045de47dac4ae304dcc3fc76cd67eb560cfbc4b039ed79ebce22afe64dff9) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb9f483f464f31a274b75fbe74ab9d051456e8f46dc8d543d292c164764d431e1) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb7fc1b3fef2be99483fb0c884c2027225f7e5613f80eb831780d16d7fbc4c03) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x4900368d838c2a1e93003ad218c7bc102f16573f81125dce3af114709ad514b4) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4e23146e08d25ddcec36598b6bf91cee5d7c95efd6f4cc6cfe5e908e0d5cd056) |
+| `0xe8FC2013e0b39A95f2fc5d696Ab91535D72A8e80` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfeb3ab840dd9937305c5ea2d22a11c91ad41227b37d4e2545388f3c9de959a2) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | Blastoise '99 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd6a68bf2cc3cb9d17425739bf9aeb1a04f727c3b0dc14e56c2d08a15b8a4ea24) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0576fcfdc90b00b2dda933c61693fdfce4923e44e755e61aa8763a4ffd7e7540) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb8052b10ed5fd8fc6b55b114e283b520e0268b5001baaa7324273e837db1e7d) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x874d182ac0208a4e4b1e5d37fbaa1290ea084c2b6a52c4826f8e6c81e832dac4) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5bb1e94337225944e568c9adc8622255b99125efab3144611258722efc1fb5d3) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69efc12a9253c13c6cd6cb19fb2bef156f45b1ebacf4cc173e24032b78e8e3eb) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ce93f6cb0ad5f836b02f965ce2fea00884ffadb76dd3cf690847c6644f00a55) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | Blastoise '99 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc6328fb30d978a2ae6619dc8c679e21a91ee2397339a85596b718b74cfa66e4f) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | Blastoise '99 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74fb7dbfd91ea19b8a4525ac59560ea72c2cc44d555d821f0fe542ff010e0940) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | Blastoise '99 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x869f97d903066403b377afc5839d9548de644b85777953670913d8605cba5d5f) |

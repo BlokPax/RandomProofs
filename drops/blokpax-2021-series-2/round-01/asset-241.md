@@ -1,0 +1,2711 @@
+# [Elimination Proof](./readme.md) / W. Gretzky &#039;79 PSA 5
+
+|||
+|---|---|
+| **Drop** | Blokpax 2021 Series 2 |
+| **Round** | 1 |
+| **Started** | October 6, 2021 5:00 PM EDT |
+| **Completed** | October 6, 2021 10:02 PM EDT |
+| **Tokens remaining before round** | 122,880 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
+| **Tokens remaining after round** | 61,440 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
+| | |
+| **Asset** | W. Gretzky &#039;79 PSA 5 |
+| **Internal ID** | 241 |
+| **On-chain ID** | N/A |
+| **Image** | <img src="https://tcdn.blokpax.com/9484ebfa-632f-455f-9916-6fe27e4aa5f4/14aa0779aced1b6d5af51595182cea300a4340aca62b5405026be9447a0ac32c.jpg" height="200" alt="W. Gretzky &#039;79 PSA 5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | @Neehansolo |
+| 💀 | `1` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+|  | `2` | `0x4Ee27340bd608835532E9eB8B09005C6A6802fc5` |
+| 💀 | `3` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `4` | `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` |
+| 💀 | `5` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+|  | `6` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `7` | @Getcardshere |
+|  | `8` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `9` | @Whitextz |
+|  | `10` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `11` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `12` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+| 💀 | `13` | `0x421AB72a939bEcf0Ef6dC607960d877dA6E7b0c7` |
+|  | `14` | @ItsTime |
+| 💀 | `15` | @Jonquiles1987 |
+|  | `16` | @WAVYxWORLD |
+| 💀 | `17` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `18` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `19` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `20` | @Yayson |
+| 💀 | `21` | `0x28f1236dB87D23256D0fC2A6015fF74c4cF304C7` |
+|  | `22` | @CynicdarK |
+| 💀 | `23` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `24` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `25` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+|  | `26` | @Jrex1993 |
+| 💀 | `27` | @BSpax |
+|  | `28` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `29` | @Coastalsportscards |
+|  | `30` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `31` | @Jman009 |
+|  | `32` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `33` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `34` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `35` | `0xf2d433A950E9Cd4d4F0bcCB1c6b5d33686b1FA52` |
+|  | `36` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `37` | @Jintheroc |
+|  | `38` | `0x17B242060D3b5cca6bafddd1170A223AF84ecE4E` |
+| 💀 | `39` | @Sk8tan71 |
+|  | `40` | `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` |
+| 💀 | `41` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `42` | @matthewb613 |
+| 💀 | `43` | `0xAfc4CbA5Af99f89b5a7aCD2cc04876dF6889d34B` |
+|  | `44` | @Malthorin |
+| 💀 | `45` | `0x3B8D41C78a95b725Bd1abd5672215db6A20ECDfB` |
+|  | `46` | @Dsksports |
+| 💀 | `47` | @JOHNNYC909 |
+|  | `48` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `49` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `50` | @schaer12287 |
+| 💀 | `51` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `52` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `53` | @KingOfPain45 |
+|  | `54` | `0xafBaefB072e70641DF14253C39B7649021A60993` |
+| 💀 | `55` | `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` |
+|  | `56` | @Jdub69 |
+| 💀 | `57` | @Toma_agua |
+|  | `58` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `59` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `60` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `61` | @Bdkstevens37 |
+|  | `62` | @Caidenhyde17 |
+| 💀 | `63` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `64` | `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` |
+| 💀 | `65` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `66` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `67` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `68` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `69` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `70` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `71` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `72` | `0x90168c1cA22B2106F90DB8B675A3F85898516c88` |
+| 💀 | `73` | @rross246 |
+|  | `74` | @JoeDaddy71 |
+| 💀 | `75` | `0x423e8A637e95ea31f6a3fAC672fd92dF119478b9` |
+|  | `76` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `77` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `78` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `79` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `80` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+| 💀 | `81` | `0xfD8b6B9C954B887802203824AcD88818e37F5608` |
+|  | `82` | @Thatwasyourplan |
+| 💀 | `83` | @Ichwk44 |
+|  | `84` | `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` |
+| 💀 | `85` | @LukeDuke92 |
+|  | `86` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `87` | `0x9FE8B927386E8BDAaB7F2Cb9895156E99feC3492` |
+|  | `88` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `89` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `90` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `91` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `92` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+| 💀 | `93` | @Gemtweeker32 |
+|  | `94` | `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` |
+| 💀 | `95` | @RedPandaTC |
+|  | `96` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `97` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `98` | `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` |
+| 💀 | `99` | @JAM1105 |
+|  | `100` | @DropEm |
+| 💀 | `101` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `102` | @NickyShanks |
+| 💀 | `103` | @TheRuke |
+|  | `104` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `105` | @Sportslounge |
+|  | `106` | `0x7004373D672BBE6Fa6550f66A431E78584a69D27` |
+| 💀 | `107` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `108` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `109` | @SquishVader |
+|  | `110` | `0x7992AE6c482571E16b679e01CD16b42B2a579f23` |
+| 💀 | `111` | @VegasDreamets |
+|  | `112` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+| 💀 | `113` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `114` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `115` | `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` |
+|  | `116` | @Iwuzwrong |
+| 💀 | `117` | @Mamamoody |
+|  | `118` | @robert |
+| 💀 | `119` | @vic26 |
+|  | `120` | @fairman |
+| 💀 | `121` | @Steebo6977 |
+|  | `122` | @Cjchristensen |
+| 💀 | `123` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `124` | @Germanu1 |
+| 💀 | `125` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `126` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `127` | @adan0rtiz |
+|  | `128` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `129` | `0xe9C9A7D4De1d567E863565cE20e3FA72eD9bc7D0` |
+|  | `130` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
+| 💀 | `131` | `0x515bd0e94B48C44B602162E37114073A67aA719b` |
+|  | `132` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `133` | @Dweissman37 |
+|  | `134` | @rickybumpus |
+| 💀 | `135` | @Robmac52 |
+|  | `136` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `137` | @FurryCat559 |
+|  | `138` | `0x55d00f90FF8DcC99096eEb2071B10Bd0a0Dc69C3` |
+| 💀 | `139` | @Mike187 |
+|  | `140` | @DEMLER |
+| 💀 | `141` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `142` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `143` | @Junkys |
+|  | `144` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `145` | @Leotorres_42 |
+|  | `146` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `147` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `148` | `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` |
+| 💀 | `149` | `0xdad1d0700271716774D5C08357321221B0b03682` |
+|  | `150` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `151` | @Kevinw321 |
+|  | `152` | @JORDIETHESTACHE |
+| 💀 | `153` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `154` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `155` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `156` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `157` | @PonchoV33 |
+|  | `158` | @Jtriolo7 |
+| 💀 | `159` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `160` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `161` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `162` | `0xEF375B65Eee873deAf82D08918618aed10976624` |
+| 💀 | `163` | `0xa16E540f3Fd7F9EDF0Fb706e791b1b584251dEE0` |
+|  | `164` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `165` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `166` | @Somedude |
+| 💀 | `167` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `168` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `169` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `170` | `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` |
+| 💀 | `171` | @SmlyMqz11 |
+|  | `172` | @GoldenManatee |
+| 💀 | `173` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+|  | `174` | @Pandoraboss87 |
+| 💀 | `175` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `176` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `177` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+|  | `178` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `179` | @Styx |
+|  | `180` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `181` | @Wally |
+|  | `182` | @AficionadoPax |
+| 💀 | `183` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `184` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+| 💀 | `185` | @Lamandmelz |
+|  | `186` | @JuliaVictoria |
+| 💀 | `187` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `188` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+| 💀 | `189` | @Tylerurl |
+|  | `190` | `0x312A275b68E21BBcB568aA3b89d11278ddA1ef04` |
+| 💀 | `191` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+|  | `192` | @Wyattsdad |
+| 💀 | `193` | @Drewsvt |
+|  | `194` | `0x63743150156BB0432172D5B2C833C212f737d77a` |
+| 💀 | `195` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `196` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `197` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `198` | @Richcard |
+| 💀 | `199` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `200` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `201` | `0x5541F03371077197ad0657607dE5aD9EC60424a7` |
+|  | `202` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `203` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `204` | @OddyNuff59 |
+| 💀 | `205` | @AFM2021 |
+|  | `206` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `207` | `0x419a419857EB72231d956bC1a95B29111b176016` |
+|  | `208` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `209` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+|  | `210` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `211` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `212` | @Jchesnel1982 |
+| 💀 | `213` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `214` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `215` | @Locicero7 |
+|  | `216` | @Beezak68 |
+| 💀 | `217` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `218` | @Vahe1993 |
+| 💀 | `219` | @appojax |
+|  | `220` | @Twuchter |
+| 💀 | `221` | @A14U2NV |
+|  | `222` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `223` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `224` | @Toby3113 |
+| 💀 | `225` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+|  | `226` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `227` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `228` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `229` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `230` | @Jameskeithallen |
+| 💀 | `231` | `0x725375026595F7F2758A083DDfc7A23fbF3F9e5d` |
+|  | `232` | @DCarp9448 |
+| 💀 | `233` | @TheDynasty |
+|  | `234` | @bcjones152 |
+| 💀 | `235` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `236` | `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` |
+| 💀 | `237` | `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` |
+|  | `238` | `0x3C28F8D7731600FdbFE5be7F49df58F5f0Cec1cC` |
+| 💀 | `239` | `0x58494fE00Ce761669acFBc7D5a72a9E0Bd44409a` |
+|  | `240` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `241` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `242` | `0x5928b3F86c8B6d18481D1aaD7D82aB96bA057f93` |
+| 💀 | `243` | `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` |
+|  | `244` | @VasMaximus |
+| 💀 | `245` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `246` | @Captain |
+| 💀 | `247` | `0x56f3bF1006D12497d79bD8d0cc663F27c6d2211a` |
+|  | `248` | @Walo |
+| 💀 | `249` | @Michaelfkurtz |
+|  | `250` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+| 💀 | `251` | @GatlingGoose |
+|  | `252` | @Omarmia |
+| 💀 | `253` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `254` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `255` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `256` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `257` | `0x0Ba6f8b2a732c72fb3C6D1B0B1595cae20Ef3913` |
+|  | `258` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `259` | `0x7ce2C24fa9447da94f15d9255C5F44bFdaf8dC07` |
+|  | `260` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `261` | `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` |
+|  | `262` | @MajikProphit75 |
+| 💀 | `263` | @Steveo33um |
+|  | `264` | `0x3b6361c1Fbdf6Bd179E53ce504155c3cd94695D0` |
+| 💀 | `265` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `266` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `267` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `268` | @Orioles218 |
+| 💀 | `269` | `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` |
+|  | `270` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `271` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `272` | `0x4803c94063C3954d55d6684141AB742715155896` |
+| 💀 | `273` | @Heitter17 |
+|  | `274` | `0x7A0BfC1d76d7F643E3Ff653867d3E51d596E3D5A` |
+| 💀 | `275` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `276` | @maadmen |
+| 💀 | `277` | @Bluehen75 |
+|  | `278` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `279` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `280` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+| 💀 | `281` | @Richcard |
+|  | `282` | @dkeeney75 |
+| 💀 | `283` | @Husker |
+|  | `284` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `285` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `286` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `287` | @Belrawcards |
+|  | `288` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `289` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `290` | @avvv |
+| 💀 | `291` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `292` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `293` | `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` |
+|  | `294` | @bcjones152 |
+| 💀 | `295` | `0x72E0436aa17F8b42387754645E340Ed356Db8C33` |
+|  | `296` | @McFischer |
+| 💀 | `297` | @Jintheroc |
+|  | `298` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `299` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `300` | @Yoli |
+| 💀 | `301` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `302` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+| 💀 | `303` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `304` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `305` | @Darren32762 |
+|  | `306` | @allinkmemorabilia |
+| 💀 | `307` | `0x5a44c4B0c0092651c914399FddE85720B2617E6a` |
+|  | `308` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `309` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `310` | @Hurts2026 |
+| 💀 | `311` | @sincerelyredd |
+|  | `312` | @Cowfan75 |
+| 💀 | `313` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `314` | `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` |
+| 💀 | `315` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+|  | `316` | @mblanke3 |
+| 💀 | `317` | @Bocatcc |
+|  | `318` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `319` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `320` | @WaxEcstatic |
+| 💀 | `321` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `322` | @DaOregonDuck |
+| 💀 | `323` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `324` | @james1 |
+| 💀 | `325` | @Scott27 |
+|  | `326` | @Cryptoclement |
+| 💀 | `327` | @DizzyLizzy |
+|  | `328` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `329` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `330` | `0x7F7C1F71C9487c15acD4a564F9C4BE5a28122018` |
+| 💀 | `331` | `0x38D3C36BF3e8D35d058E655c760E17384619F877` |
+|  | `332` | @Nate512 |
+| 💀 | `333` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `334` | `0x2c815FdC7A76C2e508BD0359b5b7241c2F69CbFF` |
+| 💀 | `335` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `336` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `337` | @Pack1200 |
+|  | `338` | @Shawn0525 |
+| 💀 | `339` | @AbsoluteValue |
+|  | `340` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `341` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `342` | @Burton74 |
+| 💀 | `343` | @OHTANIHOF17 |
+|  | `344` | @Boxbuster23 |
+| 💀 | `345` | @FrankN6767 |
+|  | `346` | `0x87CD4251aA6cDDfDace737c7815Cb1B7bbfA684b` |
+| 💀 | `347` | @Jrohr1126 |
+|  | `348` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `349` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `350` | @That_Wiley_Guy |
+| 💀 | `351` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `352` | @Mrent197 |
+| 💀 | `353` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `354` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `355` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `356` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `357` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `358` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `359` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+|  | `360` | @Brian10jones |
+| 💀 | `361` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `362` | @Jchesnel1982 |
+| 💀 | `363` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `364` | @ausaus |
+| 💀 | `365` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `366` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `367` | @ThommyBoy11 |
+|  | `368` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `369` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+|  | `370` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `371` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `372` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `373` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `374` | @BlockPaxGod |
+| 💀 | `375` | @Samson |
+|  | `376` | @rcbeck2 |
+| 💀 | `377` | @RaySantana56 |
+|  | `378` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `379` | @MoneyMitch |
+|  | `380` | @Dukefan1979 |
+| 💀 | `381` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `382` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `383` | @WiggleTree |
+|  | `384` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `385` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `386` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `387` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `388` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `389` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+|  | `390` | @Ibbeastin123 |
+| 💀 | `391` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `392` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `393` | @parzival4042 |
+|  | `394` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `395` | `0x9A19148e3428026363Cd844c3f399afdcDC4FB50` |
+|  | `396` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `397` | `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` |
+|  | `398` | `0x88Aeb5e84ea71c5185a1012bD1b610136DFE535d` |
+| 💀 | `399` | `0x563C946Ad597BBE777A480D69e770D537F9C69De` |
+|  | `400` | `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` |
+| 💀 | `401` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `402` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+| 💀 | `403` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `404` | @Renninger77 |
+| 💀 | `405` | `0xC466F91BBfE3Cca3cE577B7c2A97B678C1C0A4d5` |
+|  | `406` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `407` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+|  | `408` | @packslu |
+| 💀 | `409` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `410` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `411` | **UNOWNED** |
+|  | `412` | `0x2170357e50d1F0d15B21aB7467D3e9ddC6aF9c6c` |
+| 💀 | `413` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `414` | @425sBesT |
+| 💀 | `415` | @mmiskus09 |
+|  | `416` | `0x1817A327Dc73E51E5fAa028d8f59e574141E695F` |
+| 💀 | `417` | @WillG |
+|  | `418` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `419` | @Brandonlink89 |
+|  | `420` | @raven2wp |
+| 💀 | `421` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `422` | `0xe25C97ed5D0f98A50a1bfdbe0ff681932FA2D1dD` |
+| 💀 | `423` | @Bjamps09 |
+|  | `424` | `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` |
+| 💀 | `425` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `426` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `427` | @Liveballera |
+|  | `428` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `429` | @JohnnyRipz |
+|  | `430` | @Critic803 |
+| 💀 | `431` | `0x302d8b5994A8aaA7f2346A657a045cE5569ed61d` |
+|  | `432` | @CGraham_SC |
+| 💀 | `433` | @Joejoe112879112879 |
+|  | `434` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `435` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `436` | `0x630473Fa1ACd1D799AdDA3e0d5750192514a21dD` |
+| 💀 | `437` | `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` |
+|  | `438` | @Scash202 |
+| 💀 | `439` | @Crgktz2 |
+|  | `440` | @CynicdarK |
+| 💀 | `441` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `442` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+| 💀 | `443` | @Ryanrob23 |
+|  | `444` | @Egreenberg11 |
+| 💀 | `445` | @Spyturtle1122 |
+|  | `446` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `447` | @Johnmartin804 |
+|  | `448` | @Zner1506 |
+| 💀 | `449` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `450` | @Bongoman |
+| 💀 | `451` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `452` | `0xd797000176455865AfF99245399D375e266a788E` |
+| 💀 | `453` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `454` | @Amdavis |
+| 💀 | `455` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `456` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `457` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `458` | @B33FTRAIN |
+| 💀 | `459` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `460` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `461` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `462` | @Wkay |
+| 💀 | `463` | @Aaron |
+|  | `464` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `465` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `466` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `467` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `468` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `469` | @Jeepn08 |
+|  | `470` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `471` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `472` | @Kingretro |
+| 💀 | `473` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+|  | `474` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `475` | @thejackaryman |
+|  | `476` | `0xC0f1Af4537F821fdFCeB6C07021547C48F2773A3` |
+| 💀 | `477` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `478` | @Musicman21 |
+| 💀 | `479` | @Countchocula |
+|  | `480` | `0x7E3Df22A6e35073104deBEa23B5b04dD00E82162` |
+| 💀 | `481` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `482` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `483` | `0x6437Af16F82619aAafAf1242Ff0bcaf110774161` |
+|  | `484` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `485` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `486` | @lrsportscards |
+| 💀 | `487` | `0xA5f1804dC8d7787A3c63d63c58B7D7652d13f345` |
+|  | `488` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `489` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `490` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `491` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+|  | `492` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+| 💀 | `493` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `494` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `495` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `496` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `497` | @DoctorKemp007 |
+|  | `498` | @Loew42 |
+| 💀 | `499` | `0xDa0f1BCbdF10783c536CE36919314bc3DFFA0291` |
+|  | `500` | @Michaelfkurtz |
+| 💀 | `501` | @Dmack |
+|  | `502` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `503` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `504` | `0x38D3C36BF3e8D35d058E655c760E17384619F877` |
+| 💀 | `505` | @Jsdagati |
+|  | `506` | `0x1F67848e80FB9854cc0D16A184562467b0738BE5` |
+| 💀 | `507` | @Padsfan10 |
+|  | `508` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `509` | @Kriegsman33 |
+|  | `510` | `0x17B31a13650257F4050071fff10de860606B43Af` |
+| 💀 | `511` | @Aaron |
+|  | `512` | `0x312A275b68E21BBcB568aA3b89d11278ddA1ef04` |
+| 💀 | `513` | `0x09e511B1502A572E0acbE5EC0466d7827F72b475` |
+|  | `514` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `515` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `516` | @Knuggss420 |
+| 💀 | `517` | @Adamm2055 |
+|  | `518` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `519` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `520` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `521` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+|  | `522` | `0x01F699f01e346e84864413850A3B8272B353eF87` |
+| 💀 | `523` | @Busterbeall |
+|  | `524` | `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` |
+| 💀 | `525` | `0xA589F131d6b0F86f90883Aa64169479DB5d27391` |
+|  | `526` | `0xf061902AfF408b720c5E789BcdFb6c577C21B8BE` |
+| 💀 | `527` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `528` | @scotrager |
+| 💀 | `529` | `0xfFA1b35889D7fEe52DD8AEF415B3aDE38A1cC0A1` |
+|  | `530` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `531` | `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` |
+|  | `532` | `0x7004373D672BBE6Fa6550f66A431E78584a69D27` |
+| 💀 | `533` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `534` | @DjAron |
+| 💀 | `535` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `536` | @Kboyles74 |
+| 💀 | `537` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+|  | `538` | `0x919d36A5E485915269834C5453b736F3DB108d6f` |
+| 💀 | `539` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `540` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `541` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `542` | @Texthree |
+| 💀 | `543` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `544` | `0x61b9583E1D227E033DA542AF0150df9f6a228670` |
+| 💀 | `545` | @rcbeck2 |
+|  | `546` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `547` | @dstoud3 |
+|  | `548` | @Gobie1971 |
+| 💀 | `549` | @Lefebvre08 |
+|  | `550` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+| 💀 | `551` | @Mamba4ever81 |
+|  | `552` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `553` | `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` |
+|  | `554` | `0xEbcEa89D0E3bEb500449F7216bb0f456D1fd93CB` |
+| 💀 | `555` | `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` |
+|  | `556` | @Clay |
+| 💀 | `557` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `558` | `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` |
+| 💀 | `559` | `0x6EFA2cEC6816D6E776Af9a336Be88E92F15B0c9b` |
+|  | `560` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+| 💀 | `561` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `562` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `563` | @NateB |
+|  | `564` | @bdm105 |
+| 💀 | `565` | @Neidl32 |
+|  | `566` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `567` | @Pitsteers |
+|  | `568` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `569` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `570` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+| 💀 | `571` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `572` | @TheOriginalSoosh |
+| 💀 | `573` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `574` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `575` | @Saerandy |
+|  | `576` | @warmup555 |
+| 💀 | `577` | @Remyredd |
+|  | `578` | `0x4803c94063C3954d55d6684141AB742715155896` |
+| 💀 | `579` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `580` | `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` |
+| 💀 | `581` | `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` |
+|  | `582` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `583` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `584` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `585` | @lrsportscards |
+|  | `586` | **UNOWNED** |
+| 💀 | `587` | @Dsksports |
+|  | `588` | @Mjcollector |
+| 💀 | `589` | @Eric |
+|  | `590` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `591` | @Iusbsoccer3 |
+|  | `592` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `593` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `594` | @Cal000 |
+| 💀 | `595` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+|  | `596` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `597` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `598` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `599` | @Daniellpaul |
+|  | `600` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `601` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `602` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `603` | @Ahood35111 |
+|  | `604` | @Dsksports |
+| 💀 | `605` | @Rch14 |
+|  | `606` | @Greenert55 |
+| 💀 | `607` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `608` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `609` | @Shepherd8304 |
+|  | `610` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+| 💀 | `611` | @Mavrick99 |
+|  | `612` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `613` | @Spartikis |
+|  | `614` | `0xfC996654aB3e3Fcaa9E86cC10B621D6Bcb2D299f` |
+| 💀 | `615` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `616` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+| 💀 | `617` | @Kobayashi_82 |
+|  | `618` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `619` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+|  | `620` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `621` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `622` | @Elevatedweirdo |
+| 💀 | `623` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `624` | `0x5F4178D3179A03683f079Ad4302fE28012259ca4` |
+| 💀 | `625` | @shadohking |
+|  | `626` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `627` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+|  | `628` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `629` | @Antg72 |
+|  | `630` | @Yogi85 |
+| 💀 | `631` | @Phoenix4282 |
+|  | `632` | `0x17DD55012F4B8015950034494DEaF8463c490167` |
+| 💀 | `633` | `0xa5530c389E4548C525AC674039E3F69e88aFd26B` |
+|  | `634` | `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` |
+| 💀 | `635` | @Jsdagati |
+|  | `636` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `637` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `638` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `639` | `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` |
+|  | `640` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `641` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `642` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `643` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `644` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `645` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `646` | @Baberuth2552 |
+| 💀 | `647` | @NLetra |
+|  | `648` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `649` | @TurfEaters |
+|  | `650` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `651` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `652` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `653` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `654` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `655` | `0xb5D83fB529F7BB715defAe9966fB2Cc9a62EC8bf` |
+|  | `656` | @Chipperj1 |
+| 💀 | `657` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `658` | @Kylerriske |
+| 💀 | `659` | @yeller76 |
+|  | `660` | @PaxKing33 |
+| 💀 | `661` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `662` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `663` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `664` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `665` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `666` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `667` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `668` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `669` | @Noflo |
+|  | `670` | @Terrybwhite |
+| 💀 | `671` | @Terrybwhite |
+|  | `672` | @Aaron |
+| 💀 | `673` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `674` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `675` | @impezdgr8 |
+|  | `676` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `677` | @Cowboybatman |
+|  | `678` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `679` | @Willyg81 |
+|  | `680` | @Nasdoc1 |
+| 💀 | `681` | @Bobsburger |
+|  | `682` | `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` |
+| 💀 | `683` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
+|  | `684` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `685` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `686` | @Aaron |
+| 💀 | `687` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `688` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+| 💀 | `689` | @Vietvet6768 |
+|  | `690` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `691` | `0xBdE1b08071421AAB08BbB3133097A589891c25F5` |
+|  | `692` | @mrpackripper |
+| 💀 | `693` | `0x2Bb66bbc442c9d8De04C6bA8De313ef0383a9D9B` |
+|  | `694` | @Adapptiv |
+| 💀 | `695` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+|  | `696` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+| 💀 | `697` | `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` |
+|  | `698` | `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` |
+| 💀 | `699` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `700` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `701` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `702` | `0x2539375a3c2aE0AbC9889a37527574820234ca25` |
+| 💀 | `703` | @jeromebelasco |
+|  | `704` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+| 💀 | `705` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `706` | @Aaron |
+| 💀 | `707` | @Blockchange |
+|  | `708` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `709` | @Jimmygh |
+|  | `710` | @Amosmoses |
+| 💀 | `711` | @Nightwolf162 |
+|  | `712` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `713` | @Daking21 |
+|  | `714` | `0xaC154D25DCc08fEdF1491f5e47FB49e1838F8fEf` |
+| 💀 | `715` | `0xD6216e0ae51d27024951a655c252E5aDf2C4BFf9` |
+|  | `716` | @Ebdavis11 |
+| 💀 | `717` | @Battor |
+|  | `718` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `719` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `720` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `721` | @Aririe90 |
+|  | `722` | `0x8de6F1c6A9C1488dEd6Bc64879fc347aAD24C62b` |
+| 💀 | `723` | `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` |
+|  | `724` | @Godfather955 |
+| 💀 | `725` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `726` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `727` | @tcwalletsandmore |
+|  | `728` | @Ptrak |
+| 💀 | `729` | @NateB |
+|  | `730` | @j_dellinger1 |
+| 💀 | `731` | `0xC378424Ba8D7A47B0Cbd5e41c3b63F13d910e751` |
+|  | `732` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `733` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `734` | @SpeedoBandito |
+| 💀 | `735` | @Smiles2322 |
+|  | `736` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `737` | @Wolfdaddy |
+|  | `738` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `739` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `740` | @Yayson |
+| 💀 | `741` | `0x63743150156BB0432172D5B2C833C212f737d77a` |
+|  | `742` | @Codymac232 |
+| 💀 | `743` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `744` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `745` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `746` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `747` | @Bighair420 |
+|  | `748` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `749` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `750` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `751` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `752` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `753` | @304sportscards |
+|  | `754` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `755` | @ItsMookie |
+|  | `756` | `0xF03FE5ee123971bf62562c8d541b72b565F819e5` |
+| 💀 | `757` | `0x1208F7B25ad98B353a35bBAe80E0EcA011fDa866` |
+|  | `758` | @Wedo |
+| 💀 | `759` | @TeeWhyyy |
+|  | `760` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `761` | @ByrdesBreaks |
+|  | `762` | @Aaron |
+| 💀 | `763` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `764` | @WilliamsDN1995 |
+| 💀 | `765` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `766` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `767` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `768` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `769` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `770` | @MEECH |
+| 💀 | `771` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+|  | `772` | @Daniel521 |
+| 💀 | `773` | `0x177B5CBfd32efA317D35B21fC635c52f80b57B41` |
+|  | `774` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `775` | @HalfBro |
+|  | `776` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `777` | @cadeclark |
+|  | `778` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `779` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `780` | `0x3cEcDfe7458452786F79d6E7Ec0bCB7D169f5a57` |
+| 💀 | `781` | `0x460e9705E43Dab4dE840256767Cb711ff326ed6E` |
+|  | `782` | @Cjlaliberte |
+| 💀 | `783` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `784` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `785` | @BillsCollector |
+|  | `786` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `787` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `788` | @Deezo25 |
+| 💀 | `789` | @xtnimot |
+|  | `790` | `0x1F67848e80FB9854cc0D16A184562467b0738BE5` |
+| 💀 | `791` | @akamrjones |
+|  | `792` | @Dwightepp |
+| 💀 | `793` | `0xA5f1804dC8d7787A3c63d63c58B7D7652d13f345` |
+|  | `794` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
+| 💀 | `795` | @Iznel89 |
+|  | `796` | @garrett1981 |
+| 💀 | `797` | @Beck |
+|  | `798` | @86Jordan |
+| 💀 | `799` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `800` | `0xf2d433A950E9Cd4d4F0bcCB1c6b5d33686b1FA52` |
+| 💀 | `801` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+|  | `802` | @ojack |
+| 💀 | `803` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `804` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `805` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `806` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `807` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `808` | @hmukai |
+| 💀 | `809` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `810` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `811` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `812` | @Thelobsterman |
+| 💀 | `813` | @NoFLUKEluke |
+|  | `814` | @lrsportscards |
+| 💀 | `815` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `816` | @TripleBSportsCards |
+| 💀 | `817` | @Crgchris |
+|  | `818` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `819` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `820` | @lrsportscards |
+| 💀 | `821` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `822` | @Zner1506 |
+| 💀 | `823` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `824` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `825` | `0xD3862a6c5Ac0e793E533ab2f97e975637b6e83E3` |
+|  | `826` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `827` | @Ireland1 |
+|  | `828` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `829` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+|  | `830` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `831` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+|  | `832` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `833` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `834` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `835` | @DizzyLizzy |
+|  | `836` | @jbodnar20 |
+| 💀 | `837` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `838` | @agreen218 |
+| 💀 | `839` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `840` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `841` | `0xa89ac03643eb3d0Df7Ac9F0EA092c37f11505afD` |
+|  | `842` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `843` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `844` | @Raps4Life |
+| 💀 | `845` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `846` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `847` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+|  | `848` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `849` | @ibedlam |
+|  | `850` | @Aaron |
+| 💀 | `851` | @Tw33t3r |
+|  | `852` | @Zner1506 |
+| 💀 | `853` | @ndeheck |
+|  | `854` | @RaySantana56 |
+| 💀 | `855` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `856` | `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` |
+| 💀 | `857` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `858` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `859` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `860` | @packslu |
+| 💀 | `861` | @PupusaPapi |
+|  | `862` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `863` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `864` | @HarleyMan3 |
+| 💀 | `865` | @Rob98 |
+|  | `866` | @Oceanside600 |
+| 💀 | `867` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `868` | @anders |
+| 💀 | `869` | @cctaylor57 |
+|  | `870` | `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` |
+| 💀 | `871` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `872` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+| 💀 | `873` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `874` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `875` | @Elevateme1 |
+|  | `876` | `0x8818C2E04A1Fab81cE6432f98a4674971280753F` |
+| 💀 | `877` | `0x1603D3631651b326f9a73E98EcCF3B1b0a79E37b` |
+|  | `878` | `0x394c2FE8e151707c7B662e574d895d4eF11c0b5e` |
+| 💀 | `879` | @GrandSlamSportsCards |
+|  | `880` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `881` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `882` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `883` | @Toodge |
+|  | `884` | `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` |
+| 💀 | `885` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `886` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `887` | `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` |
+|  | `888` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+| 💀 | `889` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `890` | `0x8f8BF90F10671E3EE05Cdc080d5963c8C74f11E6` |
+| 💀 | `891` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+|  | `892` | @CoffeeAndChronic |
+| 💀 | `893` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `894` | @Officer_Hatchet |
+| 💀 | `895` | `0xac41b017C55b2ADf08505f1AC7Cd800FF3CE9eC4` |
+|  | `896` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `897` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `898` | `0xa08c1744AF9eeDeE56dD628068eEEF9BC28683EA` |
+| 💀 | `899` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `900` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+| 💀 | `901` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `902` | `0x0C9d86678448A9d6c789381cF112AF52A3439b20` |
+| 💀 | `903` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `904` | `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` |
+| 💀 | `905` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `906` | @Grimmm4 |
+| 💀 | `907` | @warrenthx |
+|  | `908` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `909` | @UtahNate76 |
+|  | `910` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `911` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `912` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+| 💀 | `913` | `0x2923BdB711fc8d6df7850D6eb7795E6a37B9227A` |
+|  | `914` | @Jeter75 |
+| 💀 | `915` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `916` | @CocoHabano |
+| 💀 | `917` | @Spaztik |
+|  | `918` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+| 💀 | `919` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `920` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `921` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+|  | `922` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `923` | @LordPig |
+|  | `924` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `925` | `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` |
+|  | `926` | `0x79C672D355EEABbF5dA98F7b0ed63c73f6c732E1` |
+| 💀 | `927` | `0xcB419512a56D16620541eEC05A6A525516fBc696` |
+|  | `928` | `0x6b30FA4F75d356b9b58d15C4Ed2b8C8748D1362a` |
+| 💀 | `929` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+|  | `930` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `931` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `932` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `933` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `934` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `935` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `936` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `937` | @cdttoken |
+|  | `938` | @Aaron |
+| 💀 | `939` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+|  | `940` | @Vikes |
+| 💀 | `941` | `0x450429Aa896b4830a52A092d3563C26b615B8540` |
+|  | `942` | @Morales6103 |
+| 💀 | `943` | @WaxEcstatic |
+|  | `944` | @TypsyTyrant |
+| 💀 | `945` | @CP47 |
+|  | `946` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `947` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `948` | @Pickleape |
+| 💀 | `949` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `950` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `951` | `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` |
+|  | `952` | @Nightow1 |
+| 💀 | `953` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `954` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `955` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `956` | @acs108 |
+| 💀 | `957` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `958` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+| 💀 | `959` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `960` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `961` | @Jaredlu60 |
+|  | `962` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `963` | @Nandoes |
+|  | `964` | @Mica |
+| 💀 | `965` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `966` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `967` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `968` | @Glennwilk |
+| 💀 | `969` | @13emiller |
+|  | `970` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `971` | @Albert_bike |
+|  | `972` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `973` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `974` | `0x1e637327010deb5D6D5dC052a883750B68F47d9E` |
+| 💀 | `975` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `976` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `977` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `978` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `979` | @Corvus |
+|  | `980` | @Pucho1026 |
+| 💀 | `981` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `982` | `0xE61C8809CEA0FFC3C0468B44eadE87Bb93688FC5` |
+| 💀 | `983` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `984` | `0x9397a1323ABe46E743B42856642942B3795ae9a0` |
+| 💀 | `985` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `986` | @Austinf2447 |
+| 💀 | `987` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `988` | `0xB88d59a6e2184d1cc4459eA9AA90a8c7b9ED2d17` |
+| 💀 | `989` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `990` | `0xBAEA29dc8b104881C7A4fabaC201FF0609eDBBD9` |
+| 💀 | `991` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `992` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+| 💀 | `993` | @Tommy2gunz |
+|  | `994` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `995` | @Bodyb1960 |
+|  | `996` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `997` | `0x0852E3a3070fb3D16277b31bC32D555126f8dDd3` |
+|  | `998` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `999` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `1000` | @0xYeurri |
+| 💀 | `1001` | `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` |
+|  | `1002` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1003` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+|  | `1004` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1005` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `1006` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `1007` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+|  | `1008` | @Griffey13031 |
+| 💀 | `1009` | `0x3c37BE8c5590B4DC3057e79e26A72C16c69471E5` |
+|  | `1010` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1011` | @Grindingcardboard |
+|  | `1012` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1013` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1014` | @ChiefChain |
+| 💀 | `1015` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `1016` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1017` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `1018` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `1019` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1020` | @chickencoop |
+| 💀 | `1021` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `1022` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `1023` | @WaxEcstatic |
+|  | `1024` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `1025` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1026` | `0x904D7c6f194ee8b888dbd5ab6857202EB19Fd75A` |
+| 💀 | `1027` | @Smiller5331 |
+|  | `1028` | @OrangeJoker3560 |
+| 💀 | `1029` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1030` | @srichardson629 |
+| 💀 | `1031` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1032` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1033` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `1034` | @Quinn1133 |
+| 💀 | `1035` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1036` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `1037` | @elkapisimo |
+|  | `1038` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `1039` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1040` | `0xC4072A6aDDa41c1b84784c7A9E591265D73D6efD` |
+| 💀 | `1041` | @DoctorKemp007 |
+|  | `1042` | @Dsilvanic |
+| 💀 | `1043` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `1044` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
+| 💀 | `1045` | @Njshirt |
+|  | `1046` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1047` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `1048` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `1049` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `1050` | `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` |
+| 💀 | `1051` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1052` | @rcbeck2 |
+| 💀 | `1053` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+|  | `1054` | @Vonskully |
+| 💀 | `1055` | @Dcs14100 |
+|  | `1056` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+| 💀 | `1057` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `1058` | @pnealis1621 |
+| 💀 | `1059` | `0xa1351209734990059c9EBa773B2DCDE47655646F` |
+|  | `1060` | @TreyDee |
+| 💀 | `1061` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1062` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1063` | @wisman |
+|  | `1064` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1065` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1066` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `1067` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `1068` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1069` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1070` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `1071` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `1072` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1073` | @Quietstorm |
+|  | `1074` | @Clpudypearl73 |
+| 💀 | `1075` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+|  | `1076` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1077` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1078` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `1079` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+|  | `1080` | `0x290eD1c75DD46F802283847ac8b5cfc8eD55802C` |
+| 💀 | `1081` | @Stevepres71 |
+|  | `1082` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1083` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1084` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1085` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `1086` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1087` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+|  | `1088` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `1089` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+|  | `1090` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `1091` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+|  | `1092` | `0xE976204DaC0a4411173B4E19778B073D5630277a` |
+| 💀 | `1093` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `1094` | @DuhWhite |
+| 💀 | `1095` | @Anewell17 |
+|  | `1096` | `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` |
+| 💀 | `1097` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1098` | @TheHouseOfCards |
+| 💀 | `1099` | `0xF98a46232C5DB5d869033a5Ad9171AbAc93A2E5A` |
+|  | `1100` | `0xcB419512a56D16620541eEC05A6A525516fBc696` |
+| 💀 | `1101` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+|  | `1102` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1103` | `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` |
+|  | `1104` | @wguidera |
+| 💀 | `1105` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1106` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `1107` | @jetstn |
+|  | `1108` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+| 💀 | `1109` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1110` | @dairing |
+| 💀 | `1111` | @Rstraile |
+|  | `1112` | @Dewy3511 |
+| 💀 | `1113` | @ryandash55 |
+|  | `1114` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `1115` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1116` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `1117` | `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` |
+|  | `1118` | @TigoCards |
+| 💀 | `1119` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `1120` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `1121` | `0xc292d5bb3CDb73c32879A83b3E9590c4aaE838B1` |
+|  | `1122` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+| 💀 | `1123` | @cadeclark |
+|  | `1124` | @Shlomes9 |
+| 💀 | `1125` | @snbrandt26 |
+|  | `1126` | @Steelrunna |
+| 💀 | `1127` | @Jdubberd86 |
+|  | `1128` | @dance1959 |
+| 💀 | `1129` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1130` | @rtillman25 |
+| 💀 | `1131` | `0xa807cb55c126F7B2766C3Ae5d9bCB2B4ffAB69cf` |
+|  | `1132` | @Mrkong |
+| 💀 | `1133` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1134` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1135` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1136` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+| 💀 | `1137` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1138` | @LSDofIsland |
+| 💀 | `1139` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `1140` | `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` |
+| 💀 | `1141` | @Goldenlion90 |
+|  | `1142` | `0x49e7A70f622bfAa30145815b3fd7DF7faac747eB` |
+| 💀 | `1143` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1144` | @Caliking |
+| 💀 | `1145` | @mo2680 |
+|  | `1146` | `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` |
+| 💀 | `1147` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `1148` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `1149` | `0x09e511B1502A572E0acbE5EC0466d7827F72b475` |
+|  | `1150` | @Gherrera9630 |
+| 💀 | `1151` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `1152` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `1153` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1154` | `0x93171109dccB003E477620B7b4d7C84E1feB351f` |
+| 💀 | `1155` | @Boardsbardsandcards |
+|  | `1156` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `1157` | @warrenthx |
+|  | `1158` | @rcbeck2 |
+| 💀 | `1159` | @Edward6970 |
+|  | `1160` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+| 💀 | `1161` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `1162` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1163` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1164` | @Rhyguycards |
+| 💀 | `1165` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `1166` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1167` | @Gem_class |
+|  | `1168` | @Jaywigz |
+| 💀 | `1169` | @Warriorpolice |
+|  | `1170` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+| 💀 | `1171` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1172` | @Acros62 |
+| 💀 | `1173` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+|  | `1174` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `1175` | @rome9bc |
+|  | `1176` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `1177` | @amac |
+|  | `1178` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+| 💀 | `1179` | `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` |
+|  | `1180` | @Sangria |
+| 💀 | `1181` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `1182` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `1183` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1184` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+| 💀 | `1185` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1186` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `1187` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1188` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1189` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1190` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1191` | @Latinroc |
+|  | `1192` | @Bongoman |
+| 💀 | `1193` | @SeekOn1 |
+|  | `1194` | @Jareikat |
+| 💀 | `1195` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1196` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `1197` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1198` | `0x42a07C9561Cea857A448E6225BD9F4E797e77d34` |
+| 💀 | `1199` | @schaer12287 |
+|  | `1200` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+| 💀 | `1201` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `1202` | `0x61B759047Ed7778850AF7Cb8583AdB6d284fe710` |
+| 💀 | `1203` | @MineKeeper04 |
+|  | `1204` | @NoFLUKEluke |
+| 💀 | `1205` | `0x48295e9A4c6619150EB4985B838cAc741321Bd82` |
+|  | `1206` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1207` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `1208` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1209` | @Ahood35111 |
+|  | `1210` | `0x877B37D3E5467B4aAE7687Dd3480A46C8D3e16Be` |
+| 💀 | `1211` | `0x95C883c5358dE4Cde6881F38fAA8Be8BC2d888F7` |
+|  | `1212` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `1213` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `1214` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `1215` | @425sBesT |
+|  | `1216` | @don211000 |
+| 💀 | `1217` | `0xF03FE5ee123971bf62562c8d541b72b565F819e5` |
+|  | `1218` | @AteamGOD |
+| 💀 | `1219` | @Flea |
+|  | `1220` | @Sxfn4lf87 |
+| 💀 | `1221` | @Rich5olliid |
+|  | `1222` | @Mjcollector |
+| 💀 | `1223` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `1224` | `0xCe3730B98C60A594466A0E6Cb057162C36954024` |
+| 💀 | `1225` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `1226` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1227` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1228` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `1229` | @Aaron |
+|  | `1230` | @Greatestjudas |
+| 💀 | `1231` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+|  | `1232` | @lrsportscards |
+| 💀 | `1233` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1234` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1235` | @Jmac82 |
+|  | `1236` | @Edk2226 |
+| 💀 | `1237` | @Dooge1 |
+|  | `1238` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `1239` | `0x97b0c0Ed2Abc7f3E5645Bf7aF26581abB6036216` |
+|  | `1240` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `1241` | `0x003f2f65b6a864d55d39A0f62769c47a976Bc971` |
+|  | `1242` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1243` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1244` | @Thammock34 |
+| 💀 | `1245` | `0x0C9d86678448A9d6c789381cF112AF52A3439b20` |
+|  | `1246` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1247` | @Ripweazel |
+|  | `1248` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `1249` | @Kgiemzik |
+|  | `1250` | @Dfiss25 |
+| 💀 | `1251` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1252` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1253` | @Richcard |
+|  | `1254` | @Anthony19 |
+| 💀 | `1255` | @Chriscolwell92 |
+|  | `1256` | `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` |
+| 💀 | `1257` | @TillerGrahamcracker |
+|  | `1258` | `0x304159de059bA7124C72Df7f2d8277a4fA0797C2` |
+| 💀 | `1259` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1260` | @Billythekid |
+| 💀 | `1261` | @Zinack |
+|  | `1262` | `0x302d8b5994A8aaA7f2346A657a045cE5569ed61d` |
+| 💀 | `1263` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1264` | @jusup11 |
+| 💀 | `1265` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `1266` | @naveed |
+| 💀 | `1267` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `1268` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+| 💀 | `1269` | @Jtsully32 |
+|  | `1270` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1271` | @Pharmdoc |
+|  | `1272` | `0x2966AB8B6C0C7382826515B4283bA2D5b9253C45` |
+| 💀 | `1273` | @Cardchaser23 |
+|  | `1274` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1275` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1276` | @SteveNoChill |
+| 💀 | `1277` | @Hungry316 |
+|  | `1278` | `0xB8AD1b5807FCa2be190Bdbd1AcDA33Da55773a70` |
+| 💀 | `1279` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `1280` | `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` |
+| 💀 | `1281` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1282` | @Nhare90 |
+| 💀 | `1283` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `1284` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `1285` | @Thenewmejourney |
+|  | `1286` | `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` |
+| 💀 | `1287` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `1288` | @The-Wei |
+| 💀 | `1289` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `1290` | @Chitownsportscards01 |
+| 💀 | `1291` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1292` | @newtinfl |
+| 💀 | `1293` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+|  | `1294` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `1295` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1296` | `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` |
+| 💀 | `1297` | @activmonk |
+|  | `1298` | `0x21B8B92561551778B5F6c5123a8cAB2aE0739851` |
+| 💀 | `1299` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1300` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
+| 💀 | `1301` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
+|  | `1302` | @Pyggles |
+| 💀 | `1303` | @GeminEye |
+|  | `1304` | @Cheeseman67 |
+| 💀 | `1305` | `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` |
+|  | `1306` | `0x3b6361c1Fbdf6Bd179E53ce504155c3cd94695D0` |
+| 💀 | `1307` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1308` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `1309` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `1310` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `1311` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1312` | `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` |
+| 💀 | `1313` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+|  | `1314` | `0x63c68b789F7aDd1350B12ce60C5845b214EBfbD8` |
+| 💀 | `1315` | `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` |
+|  | `1316` | @Bravo20 |
+| 💀 | `1317` | @BHoyer90 |
+|  | `1318` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1319` | @DefectDotVC |
+|  | `1320` | @GreazyMTBLL |
+| 💀 | `1321` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `1322` | @Tenuntouchable7 |
+| 💀 | `1323` | @2soup2 |
+|  | `1324` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `1325` | @Eric833 |
+|  | `1326` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1327` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+|  | `1328` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `1329` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `1330` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1331` | @warrenthx |
+|  | `1332` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `1333` | @Raysting7711 |
+|  | `1334` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1335` | @SyracuseSlappers |
+|  | `1336` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1337` | `0xBcEE0eE9a653291733FdaD734E7B4e83545d00F7` |
+|  | `1338` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `1339` | `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` |
+|  | `1340` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1341` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1342` | `0xD3862a6c5Ac0e793E533ab2f97e975637b6e83E3` |
+| 💀 | `1343` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+|  | `1344` | `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` |
+| 💀 | `1345` | `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` |
+|  | `1346` | @Pokelluminati |
+| 💀 | `1347` | `0xFDa3F5f2492dC8B7e28B7021A66eC688916AAb22` |
+|  | `1348` | `0x6A989A56365a00269BCD7e2B4194BA2e862944b7` |
+| 💀 | `1349` | @PeteyC |
+|  | `1350` | `0x58bc1765Db2755763727767Ccd1B576dE75B04E1` |
+| 💀 | `1351` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1352` | @Swiftremourse |
+| 💀 | `1353` | @Beavs559 |
+|  | `1354` | @Hcredell |
+| 💀 | `1355` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1356` | @Mike_HCC |
+| 💀 | `1357` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1358` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `1359` | @commoncards_ |
+|  | `1360` | `0xAFEd2eDAb6C160119cA3C46E55aEf2Ce37f87200` |
+| 💀 | `1361` | `0x726f3271cC9DE40fb9Fd5C76735100B0613a1e40` |
+|  | `1362` | @Kylenyl88 |
+| 💀 | `1363` | @becker47 |
+|  | `1364` | `0x9F966607d87989913e4a515D768316e3eeC4bE77` |
+| 💀 | `1365` | `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` |
+|  | `1366` | `0xBf5e76F94e366C6d0C13A1300cF5D83274Cc5e0F` |
+| 💀 | `1367` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1368` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `1369` | @Aaron |
+|  | `1370` | `0x8C976C39B8043718E65DeD5386aD0558F30F2260` |
+| 💀 | `1371` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `1372` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1373` | `0x111C85b45285A22e5eFD3b31216A2B06b01ED559` |
+|  | `1374` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1375` | @Gmhpa88 |
+|  | `1376` | `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` |
+| 💀 | `1377` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1378` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `1379` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1380` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1381` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `1382` | @Iwutitan |
+| 💀 | `1383` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+|  | `1384` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+| 💀 | `1385` | @Zombie_eyez77 |
+|  | `1386` | @Kingire3 |
+| 💀 | `1387` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1388` | @Dredogg0228 |
+| 💀 | `1389` | @Mothman |
+|  | `1390` | @KenLuck |
+| 💀 | `1391` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `1392` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1393` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `1394` | @Joeroc |
+| 💀 | `1395` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `1396` | @Guzzy |
+| 💀 | `1397` | `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` |
+|  | `1398` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+| 💀 | `1399` | `0xFb9d71F9Cc3C82767fAbE9c6b0e5937c2704fC04` |
+|  | `1400` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `1401` | `0x32b158Ab41C47Dd0d2d33F35e7523EF7Ab9A2d0C` |
+|  | `1402` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1403` | `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` |
+|  | `1404` | @Pforlizz52 |
+| 💀 | `1405` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `1406` | @clarkvc17 |
+| 💀 | `1407` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+|  | `1408` | `0x66Bb27b52A5C9E039426612559819758ed733f52` |
+| 💀 | `1409` | @A6H10 |
+|  | `1410` | @packslu |
+| 💀 | `1411` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `1412` | @Jbrown1310 |
+| 💀 | `1413` | @Dpike04 |
+|  | `1414` | @Notoriouscollector |
+| 💀 | `1415` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1416` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+| 💀 | `1417` | `0xd1AD3b98f131cf4C4C3703674c38172F7CB19FBe` |
+|  | `1418` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1419` | @SHMATT |
+|  | `1420` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1421` | @Tbonefl |
+|  | `1422` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1423` | `0x460e9705E43Dab4dE840256767Cb711ff326ed6E` |
+|  | `1424` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1425` | @Tcanning15 |
+|  | `1426` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1427` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1428` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1429` | @Vonskully |
+|  | `1430` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1431` | @Bigluvins |
+|  | `1432` | @Fittedsole |
+| 💀 | `1433` | @ChiefWahoo |
+|  | `1434` | @Flaco305 |
+| 💀 | `1435` | @WaxEcstatic |
+|  | `1436` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `1437` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `1438` | `0x39114a28E07b6C2A2A71f48e44efd454a6cCB638` |
+| 💀 | `1439` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1440` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1441` | @Coastalsportscards |
+|  | `1442` | @Flystyles |
+| 💀 | `1443` | @TheHustlerTX |
+|  | `1444` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1445` | @Theapexhermit |
+|  | `1446` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1447` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1448` | @Sbrown3583 |
+| 💀 | `1449` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+|  | `1450` | @AS2123 |
+| 💀 | `1451` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `1452` | @Jtvikings |
+| 💀 | `1453` | `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` |
+|  | `1454` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1455` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `1456` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1457` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1458` | @Nandoes |
+| 💀 | `1459` | @Tdubz207 |
+|  | `1460` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1461` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `1462` | `0x05FE334036d0aF02DEbDCaE47E24D1fF65D37292` |
+| 💀 | `1463` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1464` | `0x2B4961835E205e698d02F61331be361Cd0a5827c` |
+| 💀 | `1465` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+|  | `1466` | @lrsportscards |
+| 💀 | `1467` | @Aaron |
+|  | `1468` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `1469` | `0x64d70E4403057d4a1a46d250556711Cd9C06cC08` |
+|  | `1470` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `1471` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `1472` | @Djsquash |
+| 💀 | `1473` | @ksavage777 |
+|  | `1474` | @ibedlam |
+| 💀 | `1475` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1476` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `1477` | @Toma_agua |
+|  | `1478` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1479` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `1480` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `1481` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1482` | @Smith1b13 |
+| 💀 | `1483` | @Bengals88 |
+|  | `1484` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+| 💀 | `1485` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `1486` | @Hotsoup23 |
+| 💀 | `1487` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1488` | @Kingjlzard |
+| 💀 | `1489` | @Bjackson99 |
+|  | `1490` | `0x61b9583E1D227E033DA542AF0150df9f6a228670` |
+| 💀 | `1491` | @MothmanProphecies |
+|  | `1492` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1493` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1494` | @8bitgabe |
+| 💀 | `1495` | @PeteT3 |
+|  | `1496` | `0x8Ae1Ee46961324572085b95693C4Db14986a3E80` |
+| 💀 | `1497` | @Jestroc |
+|  | `1498` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+| 💀 | `1499` | `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` |
+|  | `1500` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+| 💀 | `1501` | @Abs6468 |
+|  | `1502` | @dmoney24 |
+| 💀 | `1503` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1504` | @Drewsvt |
+| 💀 | `1505` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1506` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `1507` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+|  | `1508` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `1509` | @Gobble83 |
+|  | `1510` | @Cheechspizza |
+| 💀 | `1511` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+|  | `1512` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `1513` | @Best5000 |
+|  | `1514` | @Jaybull |
+| 💀 | `1515` | @CashGritty |
+|  | `1516` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+| 💀 | `1517` | @Lizard6453 |
+|  | `1518` | @Moemoney |
+| 💀 | `1519` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1520` | @Normie5 |
+| 💀 | `1521` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1522` | `0x9a8bDBE5Bb0b63312e5AF863aA66dcbC9D7EC4FD` |
+| 💀 | `1523` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `1524` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1525` | @Aaron |
+|  | `1526` | @Dd2121 |
+| 💀 | `1527` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1528` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `1529` | @Sandman22 |
+|  | `1530` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1531` | @Bighud |
+|  | `1532` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `1533` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1534` | @Bcrowe13 |
+| 💀 | `1535` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1536` | @heatles |
+| 💀 | `1537` | @jwinCards |
+|  | `1538` | @Aaron |
+| 💀 | `1539` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+|  | `1540` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `1541` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1542` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+| 💀 | `1543` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1544` | @Richcard |
+| 💀 | `1545` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `1546` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `1547` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1548` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+| 💀 | `1549` | @agreen218 |
+|  | `1550` | @Badyodelers |
+| 💀 | `1551` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1552` | `0x8701C3C5ac64C76c91bEB2849D22AA12Aff2A0D1` |
+| 💀 | `1553` | `0xc301625D64528e69ddF101914188fCd793c528CC` |
+|  | `1554` | @Cthieling |
+| 💀 | `1555` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1556` | @grayshomebase |
+| 💀 | `1557` | @Joshuabmonroe |
+|  | `1558` | `0xeF94e8eA3fBE7b1a6aA6b61b89aDEEB8fbd0b40F` |
+| 💀 | `1559` | `0x2c3474Bfe64cD9748be69D24c30cC91639265e68` |
+|  | `1560` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1561` | **UNOWNED** |
+|  | `1562` | @hoeser |
+| 💀 | `1563` | `0x3249E472B4b2bCe6c4CA65545e1029CC42Ae6aa2` |
+|  | `1564` | @Aaron |
+| 💀 | `1565` | `0xfBAebda6b1927D36816daF8bD4bed54C1F8087Dc` |
+|  | `1566` | @Dohmatta |
+| 💀 | `1567` | @ddangelo87 |
+|  | `1568` | `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` |
+| 💀 | `1569` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `1570` | `0x4aA639e746f314d411A7E74520877a16184Eec74` |
+| 💀 | `1571` | `0x9A222351600692Ddf3290f6BcA54561B817c3DD6` |
+|  | `1572` | @Zner1506 |
+| 💀 | `1573` | @Mtang21 |
+|  | `1574` | @Baberuth2552 |
+| 💀 | `1575` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `1576` | `0x8DbFa95C02871e227B587Ad56d53F3b670672B13` |
+| 💀 | `1577` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `1578` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1579` | `0x3dB571e80f3d2C3C1D8DC79B87b396eFCF2eebeC` |
+|  | `1580` | `0x09e511B1502A572E0acbE5EC0466d7827F72b475` |
+| 💀 | `1581` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1582` | @lrsportscards |
+| 💀 | `1583` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1584` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1585` | @paradiseloren |
+|  | `1586` | @Spacer |
+| 💀 | `1587` | @Vannaton |
+|  | `1588` | `0xd797000176455865AfF99245399D375e266a788E` |
+| 💀 | `1589` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `1590` | @RyanJ1981 |
+| 💀 | `1591` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+|  | `1592` | @GreazyMTBLL |
+| 💀 | `1593` | @Goblue113 |
+|  | `1594` | @Badbradanderson |
+| 💀 | `1595` | @Spicer2308 |
+|  | `1596` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `1597` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1598` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `1599` | `0x309046489B36908c8Ab78ff43FcB963158330BE8` |
+|  | `1600` | `0x290eD1c75DD46F802283847ac8b5cfc8eD55802C` |
+| 💀 | `1601` | @Mhaber |
+|  | `1602` | @Bangerchaser |
+| 💀 | `1603` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1604` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `1605` | `0xB463BFeCDa2E53c3Fbc0F3cfFcbd79655e8fb2C4` |
+|  | `1606` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1607` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1608` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1609` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1610` | @syedali2056 |
+| 💀 | `1611` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `1612` | @ParisKennedy |
+| 💀 | `1613` | @smurfdaddyflex |
+|  | `1614` | @Rxftz-YT |
+| 💀 | `1615` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1616` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+| 💀 | `1617` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `1618` | @Maverick12 |
+| 💀 | `1619` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1620` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1621` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1622` | @dikran |
+| 💀 | `1623` | @GatlingGoose |
+|  | `1624` | @Marshe |
+| 💀 | `1625` | @sportscardgiants |
+|  | `1626` | `0x4467C8B8B69Fb8Df92feef3dD4DD852bBaE2Eb5E` |
+| 💀 | `1627` | @mrittmer |
+|  | `1628` | `0x16172942f16c50A18d7024d339a672E3650653D5` |
+| 💀 | `1629` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1630` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1631` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+|  | `1632` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1633` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1634` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1635` | `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` |
+|  | `1636` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `1637` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1638` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1639` | @Elevateme1 |
+|  | `1640` | @Cardboardchaser |
+| 💀 | `1641` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `1642` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `1643` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `1644` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `1645` | `0xDD37fde3e8D21F7Ad869a93D0c9F9CFF7D8A126b` |
+|  | `1646` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1647` | @Steelmasterjohn |
+|  | `1648` | `0x4811aD9C9b205CB7e3e74f25d8ea7fD69a39e912` |
+| 💀 | `1649` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1650` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `1651` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1652` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1653` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1654` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1655` | @PopsNPacks |
+|  | `1656` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+| 💀 | `1657` | @justbook7 |
+|  | `1658` | @PupusaPapi |
+| 💀 | `1659` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1660` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `1661` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `1662` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1663` | `0x7eDc0a2DfdCE0B8a72478405a95dd991D866f296` |
+|  | `1664` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `1665` | @Nickgoli86 |
+|  | `1666` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1667` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `1668` | `0x856334Af600BA275Af7C7882A25A1dd19c4cb104` |
+| 💀 | `1669` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1670` | `0xFC502A09854F5685171F6766F22f92121999248F` |
+| 💀 | `1671` | @Saturn82783 |
+|  | `1672` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1673` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1674` | `0x66Bb27b52A5C9E039426612559819758ed733f52` |
+| 💀 | `1675` | @SoCalDave |
+|  | `1676` | @Roguereflexz |
+| 💀 | `1677` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1678` | @BrentGzE |
+| 💀 | `1679` | @Dave916 |
+|  | `1680` | @Bulletz705 |
+| 💀 | `1681` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1682` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+| 💀 | `1683` | @8BitB |
+|  | `1684` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1685` | @GrandSlamSportsCards |
+|  | `1686` | @pojo0811 |
+| 💀 | `1687` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `1688` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1689` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `1690` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1691` | @Davjhawa |
+|  | `1692` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1693` | @evrock73 |
+|  | `1694` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+| 💀 | `1695` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1696` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `1697` | `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` |
+|  | `1698` | `0x9F966607d87989913e4a515D768316e3eeC4bE77` |
+| 💀 | `1699` | @SacramentoKings |
+|  | `1700` | @jf300z |
+| 💀 | `1701` | `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` |
+|  | `1702` | @Juicedupandsloppy |
+| 💀 | `1703` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1704` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `1705` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `1706` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1707` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1708` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `1709` | `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` |
+|  | `1710` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1711` | `0xB88d59a6e2184d1cc4459eA9AA90a8c7b9ED2d17` |
+|  | `1712` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `1713` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1714` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `1715` | @RyanT91 |
+|  | `1716` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1717` | @Rockie14 |
+|  | `1718` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1719` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `1720` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+| 💀 | `1721` | `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` |
+|  | `1722` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1723` | @Manhattan |
+|  | `1724` | `0x5fBccfbC090f0086bfdABF1B9919e8Ff7a5daA4F` |
+| 💀 | `1725` | `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` |
+|  | `1726` | @Littlemancan |
+| 💀 | `1727` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `1728` | `0x68DE09e9f58A2c328EF4400107E348C94701A3bd` |
+| 💀 | `1729` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1730` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1731` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1732` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1733` | @Cahd5 |
+|  | `1734` | @dkohio |
+| 💀 | `1735` | @lonnellriggs |
+|  | `1736` | @dairing |
+| 💀 | `1737` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `1738` | @AndersonFlag |
+| 💀 | `1739` | `0xc975F7C08385DbD72D1E624dA2767E3235DEa775` |
+|  | `1740` | `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` |
+| 💀 | `1741` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1742` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+| 💀 | `1743` | @bmachurley |
+|  | `1744` | @Jrb92aggie |
+| 💀 | `1745` | @Jaesenhuze |
+|  | `1746` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1747` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `1748` | @Walkdiddy |
+| 💀 | `1749` | @Matnat21 |
+|  | `1750` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1751` | `0x61b9583E1D227E033DA542AF0150df9f6a228670` |
+|  | `1752` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+| 💀 | `1753` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1754` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+| 💀 | `1755` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1756` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `1757` | `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` |
+|  | `1758` | `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` |
+| 💀 | `1759` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1760` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `1761` | @LasVegasGuy79 |
+|  | `1762` | `0x4d901F1E6e0042365c548300965e1898182F6232` |
+| 💀 | `1763` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+|  | `1764` | @warrenthx |
+| 💀 | `1765` | @TypsyTyrant |
+|  | `1766` | `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` |
+| 💀 | `1767` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1768` | `0x6beD3724EfDD1DEF8bd498957A3e47b3da8A5bf1` |
+| 💀 | `1769` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `1770` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `1771` | @Zner1506 |
+|  | `1772` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1773` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1774` | @Stevenbell314 |
+| 💀 | `1775` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1776` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1777` | @SmlyMqz11 |
+|  | `1778` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `1779` | @Cardcollector93 |
+|  | `1780` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `1781` | @warrenthx |
+|  | `1782` | `0x2F500de3Df1d0e05E3b84f978efaCE39A07C8193` |
+| 💀 | `1783` | @jimmygeestees |
+|  | `1784` | @wguidera |
+| 💀 | `1785` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `1786` | @Pokelluminati |
+| 💀 | `1787` | `0x460e9705E43Dab4dE840256767Cb711ff326ed6E` |
+|  | `1788` | @TwentyPeace |
+| 💀 | `1789` | @Cooz |
+|  | `1790` | `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` |
+| 💀 | `1791` | @Raysting7711 |
+|  | `1792` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `1793` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `1794` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `1795` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `1796` | `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` |
+| 💀 | `1797` | @Miler41 |
+|  | `1798` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `1799` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+|  | `1800` | `0x148E6f311b4653884158329AdEebD07Beda4Ed91` |
+| 💀 | `1801` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1802` | @Thammock34 |
+| 💀 | `1803` | @Cryptoflo1 |
+|  | `1804` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1805` | `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` |
+|  | `1806` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `1807` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1808` | `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` |
+| 💀 | `1809` | @Cico123 |
+|  | `1810` | @Michatak |
+| 💀 | `1811` | @Tecmoboot |
+|  | `1812` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `1813` | `0xB15137f5799494b7592288E2980d758cb288a027` |
+|  | `1814` | @Aaron |
+| 💀 | `1815` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1816` | @Smoothy181 |
+| 💀 | `1817` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `1818` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1819` | @Lex22 |
+|  | `1820` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `1821` | @Bronxbully33 |
+|  | `1822` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1823` | `0xee812beE9e7eeeD93BD20921A83C00cA072db5f3` |
+|  | `1824` | @sixdev |
+| 💀 | `1825` | @oriolebrian |
+|  | `1826` | `0xd585c8840ade66a0f314402c649215792433415B` |
+| 💀 | `1827` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1828` | @Danwestcott8793 |
+| 💀 | `1829` | `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` |
+|  | `1830` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+| 💀 | `1831` | @rickyjames51 |
+|  | `1832` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1833` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `1834` | @ajbither |
+| 💀 | `1835` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `1836` | @angelfwtx |
+| 💀 | `1837` | `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` |
+|  | `1838` | `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` |
+| 💀 | `1839` | `0xaC154D25DCc08fEdF1491f5e47FB49e1838F8fEf` |
+|  | `1840` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `1841` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `1842` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `1843` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+|  | `1844` | @mda6118 |
+| 💀 | `1845` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1846` | @Badbradanderson |
+| 💀 | `1847` | `0x0DA34Fb20fb00544c0e6131c3AD56293738668C8` |
+|  | `1848` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `1849` | `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` |
+|  | `1850` | @beesummers |
+| 💀 | `1851` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `1852` | @Aaron |
+| 💀 | `1853` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `1854` | @Aaron |
+| 💀 | `1855` | @PupusaPapi |
+|  | `1856` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1857` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `1858` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1859` | @Ouk2005 |
+|  | `1860` | `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` |
+| 💀 | `1861` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `1862` | @SeanWantsToBattle |
+| 💀 | `1863` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `1864` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `1865` | @Jaredlu60 |
+|  | `1866` | @MikesCardboard |
+| 💀 | `1867` | @donaldtrump |
+|  | `1868` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `1869` | @Jrluxy |
+|  | `1870` | @ripcitysick1 |
+| 💀 | `1871` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1872` | @RaySantana56 |
+| 💀 | `1873` | @SDYote |
+|  | `1874` | @WISTASOX |
+| 💀 | `1875` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1876` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `1877` | @Monster817 |
+|  | `1878` | @acewhips |
+| 💀 | `1879` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `1880` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+| 💀 | `1881` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1882` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `1883` | @Vahe1993 |
+|  | `1884` | @Tblonghorn |
+| 💀 | `1885` | @RickyM0354 |
+|  | `1886` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1887` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `1888` | `0x9397a1323ABe46E743B42856642942B3795ae9a0` |
+| 💀 | `1889` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1890` | `0x8F96fc01279A93E72e9FB2ADe2faA247f5B2DF95` |
+| 💀 | `1891` | `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` |
+|  | `1892` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1893` | `0x02481F182fd42b4AF66E083efCD8104072bC0C82` |
+|  | `1894` | `0xBd23Ba386BAF796b6526e1670D9dDdF1f7b15Ebb` |
+| 💀 | `1895` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1896` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `1897` | `0xd797000176455865AfF99245399D375e266a788E` |
+|  | `1898` | `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` |
+| 💀 | `1899` | `0x64FB19a918F4388747A23458B5677EC047Af3e5c` |
+|  | `1900` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1901` | `0x0127314bA95e469714f0e84aAaEDb825de36E7f3` |
+|  | `1902` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `1903` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `1904` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1905` | @mpage87 |
+|  | `1906` | @Salmineo22 |
+| 💀 | `1907` | @jpantoya50 |
+|  | `1908` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `1909` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1910` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1911` | @Banzai_Bri |
+|  | `1912` | @Beavs559 |
+| 💀 | `1913` | @Jd9452021 |
+|  | `1914` | @Icky |
+| 💀 | `1915` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1916` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1917` | `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` |
+|  | `1918` | `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` |
+| 💀 | `1919` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+|  | `1920` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1921` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `1922` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `1923` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1924` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+| 💀 | `1925` | @Scottybugatti |
+|  | `1926` | @Jlaw |
+| 💀 | `1927` | @lrsportscards |
+|  | `1928` | @oneonethree85 |
+| 💀 | `1929` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+|  | `1930` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1931` | @Lunarity |
+|  | `1932` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+| 💀 | `1933` | `0x138810A0E026E7fc88De524d6e229777a09Ddb82` |
+|  | `1934` | @LasVegasGuy79 |
+| 💀 | `1935` | @Jojo_rabbit |
+|  | `1936` | @Boro56 |
+| 💀 | `1937` | @Tjulian22 |
+|  | `1938` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `1939` | @Topshotkief |
+|  | `1940` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `1941` | @chickencoop |
+|  | `1942` | @Airitout87 |
+| 💀 | `1943` | @Aaron |
+|  | `1944` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `1945` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1946` | @Cfinch0921 |
+| 💀 | `1947` | `0x7350bdb59681D3Fa560785C5dC9e41FA7B94E6e2` |
+|  | `1948` | `0x05E10cCF5B9b649B79B350d7e8e41dA558226364` |
+| 💀 | `1949` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1950` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `1951` | @Hopper1055 |
+|  | `1952` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1953` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+|  | `1954` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+| 💀 | `1955` | `0x471Cd20FcaAe11e9e0085Dd24C8df5852CA521FE` |
+|  | `1956` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+| 💀 | `1957` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1958` | @MADMILLER81 |
+| 💀 | `1959` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+|  | `1960` | @Jneal |
+| 💀 | `1961` | `0x03f08e6ae103943B578A3645AE539e3F2804e15a` |
+|  | `1962` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `1963` | `0xD1DA798C2895058d988356C58df5EfA4C0710747` |
+|  | `1964` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+| 💀 | `1965` | @elmo62 |
+|  | `1966` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `1967` | @Jim_McDuffy |
+|  | `1968` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `1969` | @Leoken154 |
+|  | `1970` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `1971` | `0x4Bcf781913a661d628d7Cb8Bf3032cf64E501CEb` |
+|  | `1972` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1973` | @Eric |
+|  | `1974` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1975` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `1976` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `1977` | @mattcook |
+|  | `1978` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `1979` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1980` | @lrsportscards |
+| 💀 | `1981` | `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` |
+|  | `1982` | @Poonior17 |
+| 💀 | `1983` | @Ohiohusker79 |
+|  | `1984` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1985` | @mfrattler |
+|  | `1986` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `1987` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1988` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1989` | @Jeremyd |
+|  | `1990` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1991` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `1992` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `1993` | @packslu |
+|  | `1994` | @SportsCardGOD |
+| 💀 | `1995` | `0xf330927935df20a643A671aCc1AAAaBd16EC5E78` |
+|  | `1996` | `0x24b00Ebd2445e1e0FBb9Ca5eB80a072D5e9Bde3B` |
+| 💀 | `1997` | `0xe4d7Bf139fDE138B247F0ccaB63BF9796Ed86D58` |
+|  | `1998` | @GrumpyPa |
+| 💀 | `1999` | @MNMORARIE |
+|  | `2000` | @Meghan |
+| 💀 | `2001` | @SemperFLife |
+|  | `2002` | @daqlydigital |
+| 💀 | `2003` | @KKoz9 |
+|  | `2004` | @Maleras |
+| 💀 | `2005` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `2006` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `2007` | @Jeremyd |
+|  | `2008` | @caleb2k5 |
+| 💀 | `2009` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `2010` | @Jeff129 |
+| 💀 | `2011` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `2012` | @Scsteelerman |
+| 💀 | `2013` | @Jlennon92 |
+|  | `2014` | @Hypekicks |
+| 💀 | `2015` | `0xe2606941359e1f7403384D7D371aC298f6b915E4` |
+|  | `2016` | @geauxn |
+| 💀 | `2017` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `2018` | `0x09e511B1502A572E0acbE5EC0466d7827F72b475` |
+| 💀 | `2019` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `2020` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+| 💀 | `2021` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `2022` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `2023` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `2024` | `0x563C946Ad597BBE777A480D69e770D537F9C69De` |
+| 💀 | `2025` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `2026` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `2027` | @Reejecoap |
+|  | `2028` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `2029` | `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` |
+|  | `2030` | @Aaron |
+| 💀 | `2031` | `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` |
+|  | `2032` | @Dalba87 |
+| 💀 | `2033` | @thejackaryman |
+|  | `2034` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `2035` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `2036` | @Benbement |
+| 💀 | `2037` | @Sexybaby |
+|  | `2038` | @Smoothy181 |
+| 💀 | `2039` | @Salmineo22 |
+|  | `2040` | `0x55AE0678ED7EE96FEb2cD3B5499D61338a0C5D36` |
+| 💀 | `2041` | @ogflynndogg |
+|  | `2042` | @RobC23 |
+| 💀 | `2043` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `2044` | @Meghan |
+| 💀 | `2045` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `2046` | @HitmanJMB |
+| 💀 | `2047` | @ndeheck |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x003f2f65b6a864d55d39A0f62769c47a976Bc971` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7d4977d4b7fc5a57d8a1e9623d84bd73fcd3fb5be9bbf16dcb64d1876468c2f) |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x01457404b12c40329ca6a8ed0ee2c1e836156897c9c22ce627545b281bf5d1bd) |
+| `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x307a514dec9ea7203b5f4a525c280996d7a7ac024444e0571f1b8f3cf63b3a84) |
+| `0x0127314bA95e469714f0e84aAaEDb825de36E7f3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3652436ef8a9ce99b13756888b9fce59061eeaac8b5672c510ec4f2a6c5b02a0) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | W. Gretzky '79 PSA 5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xf516f10a2813bc0ed52c43d554b93ae680c1d35580a8f220d0ea6143a6d2ddd4) |
+| `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f29c3e1272581d2c8db93b193e2b80861397fe34e56b78d6838af4e07a64945) |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1965cae385099f05d65918b1a8956921efe0f792c518130528b1dd6fde40f5b2) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb49983837e9010cc9b9508b3c6175a375e03d325bc7a06ded1b831e09405c7af) |
+| `0x03f08e6ae103943B578A3645AE539e3F2804e15a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15ba63576b9d44323ddfcf7b3bf96449e785332c34ee157b9fc1894a37d63f87) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x82969f95b031602d4c540604c42ce1cbb1b8d26c84889e527ac57778d58831fb) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9355e8b860b7b15824597df8078eafb82a65cfb36e4864e6ac532f3c2dffd176) |
+| `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd418cd9e45c680b79f8fd1fa1108a1914a26c9a269909daa7e77bba79819ff60) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | W. Gretzky '79 PSA 5 | 72 | [Polygonscan](https://polygonscan.com/tx/0x1d6e10d643f5a82a74c70fdd8a49fbd3eb7e17be84fcb0160ecda4b706ec83a2) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfe58c443a74ab5b156a4d564d0ef59f351a09f38f78272f8525abe7a00a4185a) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6b7b6decda44937f39eeb2c7ab8d44837ce42cbfd842c332135f577b3a26e32b) |
+| `0x0852E3a3070fb3D16277b31bC32D555126f8dDd3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1aced4f2003525a32d94e0f12bb1736c2d86ae5353a70ea75e92d2982a3d624c) |
+| `0x09e511B1502A572E0acbE5EC0466d7827F72b475` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcd78e5929af962cc103bd42d933c73da88395ead7a75423ef27f8e41a2639246) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fc9e57c7ecdca979ee7697eca5764b78f6f074907dd69dafb263e3f49868f5b) |
+| `0x0Ba6f8b2a732c72fb3C6D1B0B1595cae20Ef3913` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa25284db86126226b8cb91b956431ba0ce1b13b9f695ccceb73f9ef48722b015) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5468e7cc866ba7337b3e43561ef5f0608a86a86f8f5cebeedcddd2a5e5085edb) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | W. Gretzky '79 PSA 5 | 8 | [Polygonscan](https://polygonscan.com/tx/0x778757a8df13f2dc70007eeb4b2c33bc7c61a9c25f51855b69b76c4434104fec) |
+| `0x0C9d86678448A9d6c789381cF112AF52A3439b20` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x372f74552169e253f038189dde4eb955e73b466dbb696ed31bc99dab2cb68b3e) |
+| `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75921b1249bf6452375a06163f5fd409eb4317a2b290f1eb4f697d6ae7241070) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb53f1344235c765ed8da5310ef2571094a0907ee052474185d1fd788ecbd0329) |
+| `0x0DA34Fb20fb00544c0e6131c3AD56293738668C8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6773f64b31980cb664e536ca5ea2fbb7eaa55c616013f8040792f8097451b035) |
+| `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x394d74578e828fa2884b0abe125e1ed450602e89fedaf5541731522df4f3bed6) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x47a1980e7803e7d6279933d00f2aa5f33864490cc4e9b20235a50e5937006359) |
+| `0x10744887494e29e1f5d25d146B09517329ebC3de` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2307b8caded4199c4528e06fda359e59a3ddef7234fd8a3bb31008c73060afb3) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x13ef7f186062e74cf8c26515ae94fc9db989f7dad66d17182dfcf51e2efac519) |
+| `0x111C85b45285A22e5eFD3b31216A2B06b01ED559` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17dd2f8f6cb0438309fa4d00f31763c2a333f90f55be0c3f52611169ab5294cc) |
+| `0x1208F7B25ad98B353a35bBAe80E0EcA011fDa866` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd45a647d2f0d4b5524595ef7dc38f87c902e5f4456628569bd60a3b55f92e7a) |
+| `0x138810A0E026E7fc88De524d6e229777a09Ddb82` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fc531352089ed0da02add75ffaf5db764a830bea9f0cf2c99e53058a13e2186) |
+| `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4fff21bba05ad49f01f7d0ccaef3ae462c42e42b68763abc54d7fff7b8475ada) |
+| `0x1603D3631651b326f9a73E98EcCF3B1b0a79E37b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32afdf415dbf82fd78ab5d3bfcb7d48460e02725769ffeb585680f8dd12f48bb) |
+| `0x16321283Ab22e4B2c56052319ca17773F24c8504` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0e3c2de33621ee3fbedec228a3e1555f0ac94bad009e6c3e96706ab0012a5b3e) |
+| `0x177B5CBfd32efA317D35B21fC635c52f80b57B41` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d49bc709fffec1a6914361c80e73b10016054be57b588a794e8ce624a660bc6) |
+| `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b501db0ef8ff40c9b0f24ae4c30ddf8a7d97eee9f5f840432fb7ccbca41a103) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | W. Gretzky '79 PSA 5 | 19 | [Polygonscan](https://polygonscan.com/tx/0x931bd60296fc961fbe01ad6ac5d03a16560ea7b721d0bd08a716cd7bac64daf3) |
+| `0x1c180883B04B502d69b35c7784eCC78b93748856` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x440ffac2880af2a9624c0d36d81577bf575a56e7ef81f7f4b390644ba613708c) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x150411371f019d6e890ae5d02eff92e1835a9ca696ad5d099c8e9606ef7e3036) |
+| `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba5674eebb407d36456719065b41438ba0c92c867cb0a67290a217d937ee5da1) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x225919ca0e90f7613dd1ed281dc96a75015906f1ba05b0599d9c801edfdfad68) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3b2f333d1e993cde45336e8a4e6877fcfa0b88ed90066738697dc964d136a10a) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3f0dfac263403afbdd6b3835be84f55335a954efd3852172eb6f55d1a9cc6b0c) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd8eb3cc65f0b42e73871abcf19ab776ff0b8434722b24ba4492177a420c214b1) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb85b95f890700a70d61dfc7709fe151d8e2eca0324aecf857e90ca6351758033) |
+| `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8888eb508b1df87bdbe1ca5638634db743babdc66a410dd6dc8cd8f5a62cea86) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf68fdc245c21de0619ac59e46872eecb4030ba3dfe7501685aa6915cb161604f) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa2f084510004d68fcae3ab20516aaab9406e5f75d7a10c767f4be850bfdeb887) |
+| `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9b75be4d47ecea814792855dac54be171b67bbb2d76563820631b7ce4512bede) |
+| `0x28f1236dB87D23256D0fC2A6015fF74c4cF304C7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4584d229f9026d865e6a138af0087e775a49bd36acf51fafc8bdb8c0dc3e156e) |
+| `0x2923BdB711fc8d6df7850D6eb7795E6a37B9227A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1f3a28f937b6e82788f7d3311d046b1b1323d6a62e4b3f08c1b2f1329f1aa92) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x852de11339ffb1f6e32fed12f2e9821768ebb17d80d436789d788e29f113c4fd) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfa3869f5e84d9710df84c195dc2c1358204eb60d7704e748d19df7987d67d18f) |
+| `0x2Bb66bbc442c9d8De04C6bA8De313ef0383a9D9B` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78513673d7e1faf0bd035f8dd21c0889ec8f371f6064916a5920e7e1fa25e6ed) |
+| `0x2c3474Bfe64cD9748be69D24c30cC91639265e68` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0d0655d7ca1076fa41f93babf0648c3dba841c3f7e888d91a718cb56e2f95e0) |
+| `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59de7e9ab44fd67d6dfd52c57152e47ffcb1952223c22a0d5f0a4390c2c3efba) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | W. Gretzky '79 PSA 5 | 10 | [Polygonscan](https://polygonscan.com/tx/0x74831ad7636446aafbb763b15370837e274d1f9789ebd92dff0d3f5694e24099) |
+| `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` | W. Gretzky '79 PSA 5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x2f0f887ada1a62011230189466e9d05d8d22fbb825f80dfece058585ed92fc68) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0f3dd210e539a846bce13bcc8b1843cf725dd7a0572ae1162167745d964d594c) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe082e64911fe1f26f2fb2336057dbabc083d571f0ddee24bf1ff89583661e231) |
+| `0x302d8b5994A8aaA7f2346A657a045cE5569ed61d` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecefb6cecb248bdba386044b20f39a156743c2f99b2d6bf3559c81b5dac1e1e5) |
+| `0x309046489B36908c8Ab78ff43FcB963158330BE8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44caf9e5c2cad284ccfcc16923e998dcbc30f5d7cf3b6458273911b773b1e38f) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x56c5c18fb2890b80a404a7acfb7c96ea775e82252dd0d9091fb8a4fe5149c29a) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x746a2de1e7dc11a89c3427c48f7cba682ec72c04a913ed65b223d32d1407d54a) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe79b11fa4d609e3f4e731fddda52cb1d5938cb4d45b5eec7e9c64e8532c2f9d4) |
+| `0x3249E472B4b2bCe6c4CA65545e1029CC42Ae6aa2` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c06b8c9835d164693e824bec76ea7346ef155d96a3dff848598e4011e97191f) |
+| `0x32b158Ab41C47Dd0d2d33F35e7523EF7Ab9A2d0C` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7bb3884d01ccfc8e3622f35ec097e411147d1736ef4622b4c9325c8259a47dd6) |
+| `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf418b5e0e3502e67698c20cec7e8c9be56e86fede48e0f467542ede3a1519aab) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc1648aa3ddb5490beb62c123cb6e518c6b163a1d11ccac9dead5b9e681221814) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x15d5fa778fd86dff1283efff7ac151b592f35849df3984b624ac5341fe66e0c3) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfba3057ab80204f316194a749d1a2807ac82764e794288fb3aacae11ca4d58f4) |
+| `0x3B8D41C78a95b725Bd1abd5672215db6A20ECDfB` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10f561e1e6b73033570da5612acd07ec8c8bd3442f4d872e3fe149b8973cc9e9) |
+| `0x3c37BE8c5590B4DC3057e79e26A72C16c69471E5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c847716ee135778c79ed488e2bed823b3c3b9cfc25964af4b74a4b1c3b78628) |
+| `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda3267a5d171fc0a1b883721c6d4e242785f9cda0dee58c44ab7929d99b1e83a) |
+| `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c45a6182c410e0ed5546c547f73115697566957b83aaa9e70e1eaef72f486e3) |
+| `0x3dB571e80f3d2C3C1D8DC79B87b396eFCF2eebeC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdea1deec5eafb51ed75cc71d2e46293c2b21ee6beb3b89ff1903138091b77974) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x895a0faf430810392db69be40b95c4b6a30f23f15621c422bf5ffe5506341c40) |
+| `0x419a419857EB72231d956bC1a95B29111b176016` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9983cc9c2576fa014a69d76444eab94a7e4b5483076c64fa813ee42cfa572c3) |
+| `0x421AB72a939bEcf0Ef6dC607960d877dA6E7b0c7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89cbcf1193252438a88156e34d1fe4bb6b7ed461c49a10ac23a7524ce393569d) |
+| `0x423e8A637e95ea31f6a3fAC672fd92dF119478b9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2e24ac1f44c023f5eaf3e5b073b35fb3750c5d85e9de96a39c9118edcc81d86) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a9cf7f24b388cca722d57df923b7d7b7ea630b451f50f3e706e3c3ce83e696e) |
+| `0x43fF0f5779fea275A57F2866680841Eca38f26C2` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe61da98ac2ff81fbdb4d4b474b74e0465f90a0f93b04bab43bdea22f2d676884) |
+| `0x450429Aa896b4830a52A092d3563C26b615B8540` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f8bfeef41e4740b0764b031e324fc3cf96dcd611a74dc9347f8583d3406d0f1) |
+| `0x460e9705E43Dab4dE840256767Cb711ff326ed6E` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x64e3a8d50ea7a0b135a01a6c3269c310ae3cce55e6ee14f96cf1c07203b47feb) |
+| `0x471Cd20FcaAe11e9e0085Dd24C8df5852CA521FE` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f6011ab0ab28a2f63ebf469dee7de69b546a18207a1485f9c8b2f321f146f6e) |
+| `0x48295e9A4c6619150EB4985B838cAc741321Bd82` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82e41e88a9f985040cdeb093f7b7ac46cd06316b15c2e7055f2120ce5d710692) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | W. Gretzky '79 PSA 5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x910f9425eac0c774865ff06c9db7ec2c94277fec6954244e55089234e454cbfc) |
+| `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca21e6d824f75497d19711ffeb112a95730fa45a622aac605eb2f9348c05d458) |
+| `0x4Bcf781913a661d628d7Cb8Bf3032cf64E501CEb` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x180df83e422d444b91228765f2904bd1b82819d6cd51eed96b7668f125ca25de) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa34e9c698d351212707a77198866b631186f74e5809436951557b20e11288664) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | W. Gretzky '79 PSA 5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x2d6b7606d2dfd51e38ec1f9ad00f9fd031536cdccfad6883da6a7a3a9684dd58) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44ef68e37b64ced694022bc829fb68d6e9a8022f6e0ea316f1560a7e1ab874ff) |
+| `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46d1e85b6563b0daf3c7a80acf7c911f064a3e866c69a6edf59e67b8fdfc559f) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8658334329f6d37e09ee237355dbc6dc6f54a13a4705493c850c325fc87a220c) |
+| `0x515bd0e94B48C44B602162E37114073A67aA719b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bcbcb57d06786d07e87edfd9e2a77d7735f58bba6840036b077ec807bc93543) |
+| `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b7e0165c53fbdc4aa9c391bc75593f286073fa67283d270135da310a8fadca8) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf679828311ade1da6834e235dff8b9855ca0eee5fbff871a3c6ecc728ad1766a) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad895456a7a5b94887e6ccd0b67940ae9a0c48c2e6533e9fa931628382321500) |
+| `0x52fBF3649f098623A1075B24E5f4f53b39012733` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x957903b57137977771bb2a2e6d1ffd4c1acd71f94ede964bd5effaa3d7127661) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | W. Gretzky '79 PSA 5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x39f35ef4dd1e23e8ed7008998178b2780cf560f1a3a1c3f98393c5eb7d83c983) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xee873bfecf094a2e2f98d41cef3ce0c59339896f09b5578ae14cbfa1ad1f69b2) |
+| `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a3f20905ad9f9e1d74a0c051e10c1f62e8bcb9570d498cb3bb0e42e5a138ee2) |
+| `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39afc8cf23a9e0f0e8dd478538a7f8cefc94e138a1f23fc4761eec9c6c1fe960) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf8297b0b686e364130c7517336ff389c810a75fc4108917b957d730e187e241) |
+| `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd7b06856884b2551eb1b42cc91b3262b8aba3d045d09440ca655919a6c2924c9) |
+| `0x563C946Ad597BBE777A480D69e770D537F9C69De` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb08d4d5b9abea5c1cd1b3de43a204558ef25a7f716736da391254d005b4cead9) |
+| `0x56f3bF1006D12497d79bD8d0cc663F27c6d2211a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6c059f9c1902e9626adc2e7eca036eb04206c615eb8e51167cbee17844bbcfe) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21a91915d14ff18e557155ead161ecadb8936dcf3b2624a9b463232a07e69267) |
+| `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa84cb7134b607f913d24d924b7eafc8f156f82c0c0e1a319c5e1b995a982982b) |
+| `0x58494fE00Ce761669acFBc7D5a72a9E0Bd44409a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89690fa53b2eeeda1fd97e398915f9e97cdf399c0c52749a63dc9f7254182f74) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8bd0bc3ed0997eb6710619011298c3ac93c798f3169147c8bda5099b99cf2ca) |
+| `0x5a44c4B0c0092651c914399FddE85720B2617E6a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6f8797f236cf44839155426291026b903a6909bd13e32ae2db91196467f444f) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | W. Gretzky '79 PSA 5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x40c9068c321904c2d6ddcc4da4d3fa0dc45a73ef7b1560d4f605b71e3e8384d6) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf1e213b68116e038408ca512dfd67321698dee0afe6c7b8f982821c87e3206a1) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd68b6c22ba1e3ccfb8943dd1cc1c0826aebe87700fe4138882d01855aa3f454f) |
+| `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd9ff34cb2d20e92c2bce3318e5bdadb0023b4cca5205cc6592574ab69d935305) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d8e434e64506c8c77a04c92b29f93c6dbe5f1789d5552b9cd8efdb037f1a661) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf72e39ed0a0de8216e44a5624ecff6c0c03da859580e3528c200a634530c7a78) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1d6d122be77dda1f9570f933bb6f43919d16f9005448a63ec7d8f9253f25a609) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48ea91aec3477d92bc860a620449b47bbb37525cf7ef09a0e8fcbd4f86679c3f) |
+| `0x61b9583E1D227E033DA542AF0150df9f6a228670` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6983dd2dfa420bfcc726e12acc72e24afd24721cf115540d3417ddc1c9b6b863) |
+| `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c047a0329cef54f53b1013bdfba45a312c827faaf71e1c3cdd3773839eaae92) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd82199e5e98d734b0d8d55a42e19592f0d3b6ca6cf3e635972fdd86f9c5620fb) |
+| `0x63743150156BB0432172D5B2C833C212f737d77a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ae752e6b95cae1d051623306ab0a6ad840141aaff7fbb31753f42c58b07720e) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9b2db472079d3262ad23c7cae56ca1c3d56541ee7da69affbd9bd0f7ce5a9f43) |
+| `0x6437Af16F82619aAafAf1242Ff0bcaf110774161` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a0e0525f6030a19748aab48159f3fd6b80f5f1e549948c2caec4d115f9d4e11) |
+| `0x64820c5381a70335e456069205e947720dE749Da` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x12572af4706cc199b0ea9bac1984870671a28f01728398bdf6da702e320f3d15) |
+| `0x64d70E4403057d4a1a46d250556711Cd9C06cC08` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf134ba25662cc4a084b4b59b27861522c7e8042555a91dcdf26822d8f68d65e9) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe628c3f5ef4f7f9f4667bf985fb9fdac70ab9aeb49b6ee016132c37abd6fd0a8) |
+| `0x64FB19a918F4388747A23458B5677EC047Af3e5c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fa33c84a100f3354b7dc8e2a0400f9ea4d33f00167c713afac4e722e8e6f940) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | W. Gretzky '79 PSA 5 | 10 | [Polygonscan](https://polygonscan.com/tx/0xd2be93360111f06ae554828634db88eac01132101f8c8a7b8bc42eae2d32994c) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe418fa91e267f33cce57f6b4d8ac3f659f8ac96eb0c2d29ae6ee83b0c4ee40bd) |
+| `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7bbc362b312c4fe92b97308dbe1e395521a84225730efb2e4c31d05cbd65056) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | W. Gretzky '79 PSA 5 | 13 | [Polygonscan](https://polygonscan.com/tx/0xbbf1a10fd7debc500e8424583ba114bd4b0c1e4269f7bd2e862ae1950c12a93c) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedc443a9c4ab4784987ceb926f9550a728fa2c32590b8d7465c6d64eddbce003) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb18e7e1c61bf3c5a62ce5384d27d217acbbd50d2973c74af4bd40aaa9e5bd784) |
+| `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64c46964533ff2f1afdc0b5e0d1beba57f54b9d0b17d853f623906552663dccc) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbf18c9f507b10228d5e3bf97fcd468082b568e425038c92487040e47b59eb4b) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2187e4c746e383e08f0839416544ce10ae7ea41f7ccaf9db0aa95c7db36967b) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a2ad3f1cbbfa51febca3d9af4b4bf7b9bcc9ed8cfbbf224376e5ff5bb11452e) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5aeb3eab9bea1693839400acbda748084d2edf31bb2ce3401b5662b6a661cd68) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xd7493f1576323cf116d432e1b8cbfe8b7b6fcedb108e738a54e4fa073db0e849) |
+| `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7de93e6a0de652a643332193fd527a13ba6348c5fe7f5c8e6f24d08258059597) |
+| `0x6EFA2cEC6816D6E776Af9a336Be88E92F15B0c9b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb308cb390588e806ffe3580e697a891837c008ad7eaa346deaaab6a2e28ffbfb) |
+| `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` | W. Gretzky '79 PSA 5 | 9 | [Polygonscan](https://polygonscan.com/tx/0xd200676e5ba085fb2d92caf501f2d901222c7eab213b6d5d9b7f45893b8284b4) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8be2f393b972a7d39141f2b8714b327583da49fafe5d0207189b2190b39ac24d) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | W. Gretzky '79 PSA 5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x2db95084927f6d081c9440740607f85fb1e4690011a9c6083556d4e2262135d0) |
+| `0x725375026595F7F2758A083DDfc7A23fbF3F9e5d` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01ab2da8137d7825c9476e8d10deb47708bb37e4c341271b017b99f8048150cd) |
+| `0x726f3271cC9DE40fb9Fd5C76735100B0613a1e40` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6896a6a90c6db3cce312705cc7348530fc2d287b21debf245f9dd87facd25c21) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19f3e1748770b1e35e010413ee9dcabaa85327e86bf9a9362766347382a39b92) |
+| `0x7350bdb59681D3Fa560785C5dC9e41FA7B94E6e2` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92b1e416323503fd7745082c545e8b9250101e814dbe482e6f88a4b54b67104a) |
+| `0x737FEc5a0448fC228270AEfd596525e61Ba41274` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9cd054f62a8c6977ad1ec5e119491c357bc82465c24587039e69371a8441e193) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x879d2730f1a08d4fad5d46044bb751d0f87c623bd9fad8b442ef0fc2777bd7c4) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6e264239b7da59f8ba059569888318a3ec3b6e2a736f5e6e8cfab6466d293381) |
+| `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9135eb7d24cf10bfe3c9fe5611fae307c135a468b9a5a06d12e856f18adbda92) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcfe9820f5d58444600dd862c3d08a84b44803b0f13cbbbb94b7fc1c9765a5274) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf81472a0930bc21267c0f07e993d764b2b80920c1947314594329132b5ecff2) |
+| `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa3bea8ebbf7771979662ae460f488dfc88f364b1210aa7d9535ca9d4c2da6af6) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5bac73546c1227a8a474a1c2bf23a37b4d092d7551f8eb6c3d25102b4b01dc41) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa361e802d0facbed4d05da68fa3976813c7d81cc25475fad6069ad5cfaaa70a0) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8b873e39833f8a4aeff5b4b28c76721d191d4cea3ed4643caa984b0697b0625) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | W. Gretzky '79 PSA 5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x4654d41bff165b2718c1c07cc388bf1cf570fbb98cb2d24f5c0e3f2a5b8f2cf9) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa54dcb29dd05773bfff56ebe1112bc825d60dd18050997844866e3b1a35d583a) |
+| `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xebdd4514603323c8b344c422e8feb3f213d6312e5a4ba355dc900397da12ec85) |
+| `0x7ce2C24fa9447da94f15d9255C5F44bFdaf8dC07` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae0121549268529baf3c5cfc21c724a059c401ecabaff877f119e298e60e0a96) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xa8d7ff708d87acb9329d2e3cafd4967f4421678e5aff3108904674ebccb84149) |
+| `0x7eDc0a2DfdCE0B8a72478405a95dd991D866f296` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x369ee1a339ec9b656129029c7a2384a267fa37cd25a480264a039593d78183df) |
+| `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf488175e6ccba9504277684370bc646837caa04e537bc989433ac4436fe8bd22) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc593abca478fc89e60d087a270cbac61d8be2559c3d0d003cb2ee6573c566fb0) |
+| `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9afbb4af9b417b25df44a78d58c92c9f946687d666693be5c2469faeebbcb0ae) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83dd324cc1b22532790c8cb7a4dfe580d9c2c472c5abb4ace753a3bd878a3915) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf23f94b3bc198e0d3199432d789a8b950cbdd10d9715d1404314519e944f251a) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6993ef2837ca1d249cd83afc4a427130ad00493600b8dc5ff0bfebede93be103) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0522a2404a7f2350ec2765683c6870681f399ebdcc5a3a0251499b754bb86f39) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4a6d42c963cb4d1f350766b0001490427aa9129b4e00cefe75b5adbd6a497d27) |
+| `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45a9af678c428ea90f4f42586294f1f6a7bbc9c7dc34976c75cd89c1d891bc8d) |
+| `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49d47873e3157e2089f265f9684b0799551113fb209a0c9324b8780c6456e1d2) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcbb7596e55eda727f61f9d01f2a5e3c58d6e4f7ce1c442872a9f7b72cce9e99) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e6282f9e1894ee6c7b12200e6c7683bfbc2165513ef655ab5564b38b6bc9c60) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7be9470c10181a49f4290126dc0fb7d8748ba319220f9b9abf14ca9af08e619) |
+| `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab3de855d1be22b057a9440c4a9aca82ebaefe9dd2a8c7dc166c47def551e699) |
+| `0x95C883c5358dE4Cde6881F38fAA8Be8BC2d888F7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19c27f06731ebd92e186df272cbf0a657677ba02445cbc08641eafeb60abea1d) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab1383ee7c513d816cb95cb534135279dccdf4531aa62a1726d83cfe6043bf23) |
+| `0x97b0c0Ed2Abc7f3E5645Bf7aF26581abB6036216` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dabcff29a891291ee174563638c489db0ae3713fb0b4bbd2739dcfaf7fb38f8) |
+| `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6d529e89a000d782c65a629026e25f1b761f25083e8800192561ae9af67acfd) |
+| `0x9A19148e3428026363Cd844c3f399afdcDC4FB50` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x772cddafbebc6cc240ea8dc8b3ff24d564ff57f7ebe006317c7bc40ed2acaf09) |
+| `0x9A222351600692Ddf3290f6BcA54561B817c3DD6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac40d62fdf0b3adc4881ab7015c75da70a648e75dde04278f305bcf2a412d228) |
+| `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38c69b9da5566915cabaecee07b9ae16e01e24a0b339c24f61e920740e7fcbff) |
+| `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x15c6c816ae313a9027418f648e24f9028704b57bc9d80cc78fe6b39468f2d404) |
+| `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x51ac9f587e05d4ebc0d59c476c5ef3a32629fd1b0e56a1e34deb31939957b8d8) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x414193747df8527787cadba9d4450820da9d607319cb6f9b929bbdda1da2a99e) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfa36050428f7732e5121cb29582fa1d043d1cb08029482f95981883d7f2d4e8) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9739ade818a9e8888fe45d1da05b792e69b944a403fcfbcce81f5a7aa359a24b) |
+| `0x9FE8B927386E8BDAaB7F2Cb9895156E99feC3492` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e62fb19a32617750efa0ed0e99edef8931e6700efba710968d142c38978b3e5) |
+| `0xa1351209734990059c9EBa773B2DCDE47655646F` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1501746130dc11839647fc23a3e1453609d5dc4efadebdff6c152637b904856e) |
+| `0xa16E540f3Fd7F9EDF0Fb706e791b1b584251dEE0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc21871e21553835e7c06fab13e8d31e1b400e79ff0a65eabceb7af3543207f8a) |
+| `0xA253c7c96dA57cbacC508ba081BD7AD484982599` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd6364cf1e2908a28da5626d250d1cd50cae13d920d256368fb11489130834d40) |
+| `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x366449d070780bb5591f7025c19922434be04196626b8b5140302787784bd799) |
+| `0xa5530c389E4548C525AC674039E3F69e88aFd26B` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28b575431f8f924625c1a3e4513e51372ef7bfea1a5e06ed19eba0633ba0c617) |
+| `0xA589F131d6b0F86f90883Aa64169479DB5d27391` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x308755434a79f962f2d5599014f4b04dddbbe88991af39d4f1de25a3f8758efe) |
+| `0xA5f1804dC8d7787A3c63d63c58B7D7652d13f345` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd96e170684c64e4cea6761a278bbb7dc4f5e35218110ec90fd562cd616a821c3) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83ddfc7c70755787c3b7822c54712e0240ffcb2bcf89f6548b3812aa103cc9c5) |
+| `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa040187798103dd4290e7581f81d45da03a9fad92fa32b31769baf456eb2f822) |
+| `0xa807cb55c126F7B2766C3Ae5d9bCB2B4ffAB69cf` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7eb4622a4846d6f2be63a5fcfa08bb9bdaed016cd12c148e1934cfbffdaecef) |
+| `0xa89ac03643eb3d0Df7Ac9F0EA092c37f11505afD` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7655ab51c0b8317fef592c264daa77e1217279ecf726c6b9d3b1140bc0e079c1) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x685185726eb89cee1a462a2e29af36fd87a4f41d754cbad7831598c02d87a4a1) |
+| `0xaC154D25DCc08fEdF1491f5e47FB49e1838F8fEf` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5d4ad8585b5985287cbdb1aaa00dfd25d2d8e35b6d9c509210eafc44b9ea89d) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69145337be128e8aba6bcaa9038cd5e36942aa9afd48c42ba0ef77ef2cccfe7a) |
+| `0xac41b017C55b2ADf08505f1AC7Cd800FF3CE9eC4` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b2f437ad0ac22dffd887626c4f757b4d1376c9379cea58875414a55341727df) |
+| `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0994115f42bbc24c2c85d958ec45fb9501834fc3d3f5ba231a4e2107c324457) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd037dd794a8a3c8d9a0f6b430b049bfc08f75c8a9f6d0e756a07029fe7179af6) |
+| `0xAfc4CbA5Af99f89b5a7aCD2cc04876dF6889d34B` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa38e72b72ec67e5aa868cd39fcffb6c8ca8ed68fa1049aa593d4e13ab21c2ed6) |
+| `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bea9c87a65962ac7b7c0f2f3e71ef411a8fb5949a42e5bb750a7bd1acfa2fba) |
+| `0xB15137f5799494b7592288E2980d758cb288a027` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a39fb2663914b0a61cc9d6ceba78b5195969e0dc8f737e09102335b45fab48f) |
+| `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4ab9196ba3981e8c06a1ad2ef60429f769a394a2391ec8eb06939a525a8016a0) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | W. Gretzky '79 PSA 5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x4e4796ba72de6a7421a27d1a7d22b476e93044f698f0bb34c3290daa03747a39) |
+| `0xB463BFeCDa2E53c3Fbc0F3cfFcbd79655e8fb2C4` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaab13888dd0c87712acd63c8947928b116828bc76c7d91b99593101a8e2bf7e5) |
+| `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x480fcb9aeb3133b589a6540d52ac833dbb5d84bfc492d936814fcb40b083af91) |
+| `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa441ebf439f1d3f12b559872db33fcdd40a4742f97c2096693822482c6aea5cf) |
+| `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdd2e432a8687fa28fe9f427f842ab9c01c1627fa3d6c46e121cacb81693f6135) |
+| `0xb5D83fB529F7BB715defAe9966fB2Cc9a62EC8bf` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2aebecbf27c8b4300efc8d7f398754dace4750db25f5c7fb24fc31c7ba47c09) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e0eb4e31dc4d70953c3644d29cb71034c68e5ca87fc73aa3128b0b2f500d431) |
+| `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x633d45cc4c59b86ceaa953619227803d56232339b283fd8ed0b6248bc1dbe6ed) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x72c0025733e2154886a4d5b2c8396153c0607fdc0a0674380efdf675d02861d9) |
+| `0xB88d59a6e2184d1cc4459eA9AA90a8c7b9ED2d17` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7f8a245f410d84c3ac4fd72a9149834612b1f72beaa4d569f7c55e62c9a6d5e) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb59f378ce9eb2ca3e2c6f9c7606db74e65ed67e5f59c130bfbd233f3c130b4d) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65b5be2f1b9569c63d647c37816d9f124a84132a7cae73e08df76de571d3f018) |
+| `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x26f5b989efb4bc7a2d6fcc102c755ca2ee24882c5ca8deef12714b6548aa2e89) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x09ea5057ea8c554df8e859e7aab98fb5ef147466d34e246db73428582d4db131) |
+| `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcd9f83d308b6a347f3f15168e88aa6ae708ada11ee76611577e3165a91bad945) |
+| `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdea16df9d76178d52ba3beb5b021aa8436d5a5668036c8772bd69a6bfbac69c2) |
+| `0xBcEE0eE9a653291733FdaD734E7B4e83545d00F7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x228f8f730ee3229f4b2999056b9f658114380401f8db65dd2bd8c93f6b578a90) |
+| `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa49ea5cfc80affe3df000a9bc929ac1250faffe9b7be1bf585b4236e34e4cd80) |
+| `0xBdE1b08071421AAB08BbB3133097A589891c25F5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51106c1d6cbbec29da6375dbb9d940f76da65a875e2102f24b63f061ff5934c3) |
+| `0xbEee808aB4D45dcf70357EbE94172bb542D23BC8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5796300af45eadb0d94d642f4f3167939d069c01f7003d00a2527e22e299105a) |
+| `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x904fa06e3d80d0a7f29b868df4b8497700ed6f65ba2bc32f55821d0533019511) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9b4fd9164ada4595142158b8a3215a99ebecae784f0ca494bb8cd65e7104f28c) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f707bd54e968702e9fb60f085d961639923e6709e8999b974ae3359402b1ce3) |
+| `0xc292d5bb3CDb73c32879A83b3E9590c4aaE838B1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30535958a1dad591767f36a71a95183cbb0d15ee81520e7bf48f71f01153b22e) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xee7a5fb8838646a34fe73e4c63ee7dcca507fb33c6a783163d3b13d299410e67) |
+| `0xc301625D64528e69ddF101914188fCd793c528CC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x625a0ca14fd9e89462d8175e9638b24885f2b9b5090ab5989a391a58f1fa0a20) |
+| `0xC378424Ba8D7A47B0Cbd5e41c3b63F13d910e751` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc89c603efb5ed15b5c7968efc2109554971f7f6710511ca67028957cb03d92e7) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1efbcb711ccf497cb579274975bffb9c0db0b2bded062fce7c9aea97de252f5) |
+| `0xC466F91BBfE3Cca3cE577B7c2A97B678C1C0A4d5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e9d52666ea467890766f75677a825635372defeb09705758a3aab72ff97ec2e) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46f86ecd609b1887c4e686bed594180c7f15905a5fcb3f7db7f02fa5efcf1f52) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dd3935fdaccb51e47287ae4a366aaae7a407411de1348644da30f027f09b487) |
+| `0xc975F7C08385DbD72D1E624dA2767E3235DEa775` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc83355f9fc654fac3c469f5b3a878d110f9e670c9f22aaa432dc9e0fcd27da1c) |
+| `0xcb200D715eB24483b71f2Cb577E534641C336A0f` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3a9f35216035aaf7f57f3e1989544c72bcf5cebabed2d9265f498d9eb572b41a) |
+| `0xcB419512a56D16620541eEC05A6A525516fBc696` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x344fdf5923450073f2c1386f6715f8af29f92888ebc49ff00a2e2d2c83dcb2b9) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d5e3fbff0e30747b7d22a54064e3f1ccd3ebd01f49f2af9416fa3c614b0dd3d) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x264ff1d9bd67096a82eb9862b8374e3bd2ed24488a02511e25da3078668875d6) |
+| `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x1e267d2ab01583dfcd649e030dd101922526fc32ec6f400f696bad91e664bb2c) |
+| `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22d4dc2fbd538cd526415329d2ddab0f567f5d48da2de9acc00d898cc6028d58) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a23386a54648898481414b491932db7e1448d7c7c8a3ec9f73c55b8664fa1c7) |
+| `0xd1AD3b98f131cf4C4C3703674c38172F7CB19FBe` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde97cd46eb59c87ac5ffb6891582e2e8a19533fe1950eb9fe7ae7d946088ddff) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc24b2118d81c3cd90d2c9bf7593d671f0e3242cdbd5d449ca7748a9ab40700b6) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7d23058eefc934f5680ea921573b38f72c9899601d96e4a07b7eae503e5d17c) |
+| `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24025a640962c87e2acf6bcfb8bf6a5ba093c09b9b2db1a480666b29f8fa66df) |
+| `0xD3862a6c5Ac0e793E533ab2f97e975637b6e83E3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2857d89d8625d68d5c635ac8f1d220f872669b5151b88ed38db829fac9438e31) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc6881e784d6ece9f8027404431b74ae64d80505d6a2b7697b453eb34ddda9e8) |
+| `0xD6216e0ae51d27024951a655c252E5aDf2C4BFf9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7971e734fb2b9bc2776be9e35e434acbd97526fec598608aff41ad6af2123505) |
+| `0xd78338421b0c53De416c3c2C207B5f340979A682` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x1540180640b307321d7f4080c9d8228d314341ca7e1058869ea33d7419056dad) |
+| `0xd797000176455865AfF99245399D375e266a788E` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd5fd0909914f553b9e0ee440c97eca889385c3ec849c9a8aa9fff024b430981) |
+| `0xDa0f1BCbdF10783c536CE36919314bc3DFFA0291` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x189cd133b9466572b06631af605730ea511b40df0a57623c308710473084dece) |
+| `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfc27e21d91591fc5883010c0928dec8652c8878e7c6b978ddea7537047593b22) |
+| `0xdad1d0700271716774D5C08357321221B0b03682` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x886a536d16c4ba0b9f43174de4b12da21211b6d015fe5a422365625457141b9d) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99118b00a04c3eb476183ec4f2258ab12295a348ff5b8e4a2d1e041aedb48e40) |
+| `0xDD37fde3e8D21F7Ad869a93D0c9F9CFF7D8A126b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ca7ba8d7da2b7cba1a3ac966a639cdbb0291f07f9344f366bef46307780c87d) |
+| `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` | W. Gretzky '79 PSA 5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x554da9c4ab79969851c204e869e3a3b6e2f4da7d028fb3f7dd67d8e3654e2721) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb57185ffe3d0580e90015ff0463b5ab0fb3a58894a9a5175c639130030fbed6a) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a4c7bd84feee79188cba81c63988380f78a8c2254566de239fbe7676c1582b8) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x354f09e8d2253d13a16d2dbcf942019b2e773b0119bffe5366fff2f44055b25d) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x366347faff287324e61674ff623a3c139130be543c035851d75265a458306821) |
+| `0xe2606941359e1f7403384D7D371aC298f6b915E4` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfea3fda95567e94b2ec0f112ffc442b2523c6fe8d13a7a6b64938dad3a58468f) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41e88f466cd762b0697e248a86c5cc9dbe3552e9a3dfdb5a13036a65e50e6fdc) |
+| `0xe4d7Bf139fDE138B247F0ccaB63BF9796Ed86D58` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd041cc3873971349fb79e47e00b07e93955af97577b72a1a3bbc6b36732fe00a) |
+| `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8470a7b7ca0df8b33b729ebddfc4db1f28d1a1539a4610860144dcddb25827c6) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x04202a5cf75e7e7b4e328e25f6802299bf3310534933ec8f8de70fedc553cac5) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc970c1608bead12bac6a2d21fede127522c0696a452e45e19df91f0df86cbfae) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2cff938c436093829530b8709b760273e323d1b96d174bab355533b973c6392d) |
+| `0xe9C9A7D4De1d567E863565cE20e3FA72eD9bc7D0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe17b5e2d892e46d8e3142eab4753ff1f36fa7eda485b313e6e467b033744896) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79a1e9de562980f9265fb0b981d7e35a2febed4a38fe914273f658936814c297) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xad4ae956cfc338a82cf42875383e105993007ed1aa5855bac52c32a9ef8c947b) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x099528c16eaeb9bc9d0de113e7f224e2294a0b7009b9fb921e4e5df6cc439f1d) |
+| `0xee812beE9e7eeeD93BD20921A83C00cA072db5f3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dbe5a6326ccf57204d5f106806cc2fe90b97b7aeb1ee96703bda8bd1f3b7d8f) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc210b9ac0d4a43eb4184eb5dc609350f9fb95f307c493d40424dac6384dff838) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf2482b9bd139ae9186715f852d84b5c777f21ea389c0721a2429fa987e1d566) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69a8a1e19df5b81127d5d4c026eb43af9c82b3e922e99f2070e11c1eb679da30) |
+| `0xF03FE5ee123971bf62562c8d541b72b565F819e5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x028f9418ca4a578efe1be7eaee5b449b52a72e0bca1377dd1c517c6926f0e315) |
+| `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x816f255601d792f4a01555bd05d13a2a6d2eec153af4477c582e72db270d34ee) |
+| `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5cc61b374e1a3ef4cc9c31457a4cfec701066a2be5023a11451c45737131677) |
+| `0xf2d433A950E9Cd4d4F0bcCB1c6b5d33686b1FA52` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdafc956c6ef64dd704b08f992407b752c1c87d6f85b6ecadb05fe1f5204d6e21) |
+| `0xf330927935df20a643A671aCc1AAAaBd16EC5E78` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x364931b32cb1e12567decf8d4226e36f85803d91ba1f9792dd2e7519e18ebf57) |
+| `0xF863a56a46547d0d700E32028984Ee6091A90fEA` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7478aec4a73fa10cb55610b96de379613a2c69d0bd5044985914f3eba74013d) |
+| `0xF98a46232C5DB5d869033a5Ad9171AbAc93A2E5A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4ae3ccc26297c97dd04b41a89ff09b3ce0f53154175aa43a2e84e7c061e344d) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19f78d49629273ccd77d9c23d4c526bb5f0216772bd9f1c0f4a2e17b5839879b) |
+| `0xFb9d71F9Cc3C82767fAbE9c6b0e5937c2704fC04` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde5cd0371981dd78b0d632f89e56ce3099012a509b7b68149eead670c92bdd9f) |
+| `0xfBAebda6b1927D36816daF8bD4bed54C1F8087Dc` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7030ac407ebd957041b8fcf9dbddba95d0ae7290364cc60cc314a6f628fd83c) |
+| `0xfD8b6B9C954B887802203824AcD88818e37F5608` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b51ebd10fc682b6f04a601733fdff994bce5202e010e5303387c1833809883b) |
+| `0xFDa3F5f2492dC8B7e28B7021A66eC688916AAb22` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62623840f6f4a1d1edeac97b5aecbc902660c98d789c4af73c5802dbba2a4c6b) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ba2dcd0763022bf079c9c5f6a190cab0df98931e4a495d1bf808020724fcf66) |
+| `0xfFA1b35889D7fEe52DD8AEF415B3aDE38A1cC0A1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b498d773064e61c4dadf404a0d0480d6a64be7a4c16b41c21b1fd4e8af49a2e) |
+| @Aaron | W. Gretzky '79 PSA 5 | 7 | [Polygonscan](https://polygonscan.com/tx/0xd35b93aedb9629f10fb3b607e412769920b1b470cddccd975b6ab0a0356e6aa0) |
+| @NateB | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x719271cf6d2a2bd5b7b91d02350cb10989db3e0aaa1d54573f6f615bdaa46329) |
+| @GrandSlamSportsCards | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1ba7c880cf7c128c90ccf40ad3cd9b0ea94ca7fd2a4ebf5fb873fc59674f249f) |
+| @Padsfan10 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64fb0dd6dc00fba1bbc1f2d3833ae492882e29c24af257cc48af14b0e87dc355) |
+| @Pharmdoc | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91b18745eec306d4fce65169113977eb1c725218344bd6e901f4566103bb6fea) |
+| @agreen218 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88c95b08d32704a483b93a94ac89bbe666821aa6cd52f16bbb4f62f176ba9734) |
+| @Boardsbardsandcards | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x021cda842b3043071285525756d2b1ff715de15dd25a86adb0fc10f0291d1624) |
+| @WaxEcstatic | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc6bf7afa91f8f7a528930ba0ff1db7c93b0c28e65f1e5e01cab67358aedae4d8) |
+| @Bobsburger | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7485da8269a26919071973aea376998af89535157bbd127ae41bd5e3af0ff1e) |
+| @Cryptoflo1 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff59df4c6e6b62da952ab19b68f41f9b60754fb8cf4fe6f1d01f8ab18c62a54b) |
+| @Neidl32 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5247576e66b7019c3bd08299c4e917df561310ce839394e73e101e418e03270) |
+| @Spyturtle1122 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33c6b3f3817600db2f13b9a84599f3d47e68be85e4515dd7ea614442d3a4df42) |
+| @lrsportscards | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1ddc32fb13a5cdef417702dbd5c2ec72f964cbca3ba73ef9aecbbeaf5cfa2a9e) |
+| @PupusaPapi | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5ee92507a8eb9651ddfe1f993e485aa21411f9afd1f76f348f0bcdf06ae69e1e) |
+| @Cooz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf08469aded540dc5799b5aea7cb8749421ed96afe12a731ea721f70133f19083) |
+| @HalfBro | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf62d11c4487394eaf68081a1475eff69b19ac323cd721b969a59dd946661c9a4) |
+| @thejackaryman | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc79691d8f5fdd9d0b611f79c538fa47aeb2630c2164f58985d3d1d37402f22d5) |
+| @Goblue113 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x107fb88800ce32af052c5e97829c0762efc19e5bef52590c0f4de3ae72bd1345) |
+| @Smiller5331 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4c149d36a4fddf442562f06875fd960667cbffaa69098741580e9fc6aedb745) |
+| @TurfEaters | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9a9995774216df768a24c0552e24eacd4fd2b034240ceee004172cbfda34179) |
+| @becker47 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0601ba4653ee11b7d621f77cb88add3f3572a2dc30ef2637d8135490c84ea2fd) |
+| @evrock73 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbaf7450745483fa7ac9e0573af9bf8a9ba72896f859168ffc2297d67559a60b6) |
+| @Cahd5 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x648da52f464776af4c83bd866cd80ef5383f567f86a8e8d8b305c5e6080c12bb) |
+| @Rstraile | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd79b44400df64d7ca96a9c6996dbefa739d88d8145f51b96440c9ff2cad41c5a) |
+| @mpage87 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f9901d1d5f567782c50b896952b283c71612ab58399743f0793ad318d20f69a) |
+| @Flea | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4161526bea77e1f5770ac09c786d6fec8ab0c589338649cc9a48d78810caf1cc) |
+| @Dcs14100 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f974af40075c74549e8806623f5804aee470cbe0cf860c67c8ae2418e3d2189) |
+| @Styx | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab9527a2d123456788d6d7b6d178ebb6858b9302019831ac90fc7c396ed86f1a) |
+| @Scottybugatti | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac88bc460e81a36c2488804245ec3a91501d2e636f42b534455cecf6c0a9214d) |
+| @Tecmoboot | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b8d2cb9274ea36ed5dddb928c25c42af27203dceae166cbea5068aac0196087) |
+| @Gobble83 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82bd14e819dfa5311eb5075ad67b4db8eba12df866fbab67d3cb6968158e06bf) |
+| @PeteyC | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x413e43a54c50d6c6e01cfe0b69e002020c0255ca7662b6bc960d05c35e90221b) |
+| @Willyg81 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e9fe0c81007627d4181816c9f28da23981708062b08fae20d20272f7dbe274a) |
+| @Bjackson99 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1b36e4762c34acf744f09be8376bfbe32aab16a9e4f4df28c372bec47b2827a) |
+| @VegasDreamets | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ef3bfa0b5de31626e6983c01526f74f281dbcb5e4a1940ce6bc22298b0b5da6) |
+| @DefectDotVC | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x034e51d40aad12f98f8ffbfabf1d5da1c5ac8a4eee34176cf6ae0c9036027f92) |
+| @rross246 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9283dcc68d1df715051cb2a225712e5f96efc91d697648eded7e02b133a0d93c) |
+| @xtnimot | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a303d5a5e201ae502fe39c9a8b5bffc30ad779927b69bad4107e686866acc78) |
+| @Michaelfkurtz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2e992d96eb79b06a0602fbb9342946067b7c747a0eb95a1478b40249c99dbd9) |
+| @jimmygeestees | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6b3269f14dd24b07e973de001ebfd6ae8c6d69b7953b92abcce55ba3f1139e7) |
+| @Drewsvt | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x357c1af010b8df5233d4291066c32ef3bac23b2b5fa408da9eda8a5d515431a8) |
+| @Davjhawa | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f3c8f5dfc05ef1d01f3310bfd1906c0c9d253e1ed618293cf15b8022e5de9af) |
+| @mo2680 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ea206c8b651020a59d3763c8a8c5c8c2b6db93d1b6082439b4df5c53cfbda09) |
+| @BillsCollector | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36616c076b8a3cefc7ff0dc0848d22445fa4eed607c56c6f438914a5e64a8b0d) |
+| @KKoz9 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac42004392ce0a740e39388f314246883ff71f71df1ab97c7b0b19a9274666e3) |
+| @smurfdaddyflex | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e6917d88262415801b37711c6d89796840a778fec8715773426ae04594fa169) |
+| @Njshirt | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5bc19e98cdee1d36cbc1489d9490ed5ca76be3e9505998017eb744cf87d600b2) |
+| @Aririe90 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84bb40ad8b994d3b8f81abf4a34c7e06281b0c4c3f560ea608623d705ee0e528) |
+| @Dpike04 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1e9e580cd03e6682c8b60dbbe5d062db4859cf577f45496a26187f5620344c7) |
+| @Ireland1 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a507d87ebc11fd14d29e9ce7d47ea1d301e104021880c85c563aca30e40db96) |
+| @Sk8tan71 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1fddfe95dfe598f44680eca69b2b9023871c8b278347367e26924a612d1cfe3) |
+| @Reejecoap | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ec0216f0b454ae1d510abef9b0d5afb05c29582ee949e7ed0e583b0e9e48e44) |
+| @sincerelyredd | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeee0e0c41341d263b4d526061144bc7576633fbf0de87d2e1be936170fff11ec) |
+| @packslu | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21a2c0c2cdcf9c29b65cbd0c735ecace828cfa0dd3b9b4682889e528128bf84a) |
+| @mfrattler | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf82bf2e69ec4e817c307d07d1dc1e28fbc57b55e8df1730265f9ff57758e84cc) |
+| @elmo62 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc516daf928a81374b1218a79a9feba5fe51aa49ceb466803baa9ef1e1f3dd69) |
+| @Chriscolwell92 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08716f6105cc4838499807cb8fbdd4714ccd26317bcf761d14f7f52944f3e755) |
+| @Cowboybatman | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ddebd31a37bf908f74ec0bdf281b8316ee2e2aa1387c6c434c52ed44f82827f) |
+| @Kobayashi_82 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb62fdcce2d5c0e2b8b7eb727f106b28967fc88f138e68e3d51bcb4aa5b9f4edd) |
+| @Antg72 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6384970e91aba0b4047165702db96752800c1a7aa36fd454ca3824eed3ae6e77) |
+| @TheHustlerTX | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6091d23f5d45e20ddf984999451d19ecbeff6bc6813307acda1ea0a19e0c60b9) |
+| @Lefebvre08 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef2b81f69dde883be4ab6e0984a157ee9cafd36748846fa71c6d284f7c00b351) |
+| @Grindingcardboard | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9608ec6241141cd40aa114f6b684ea2cf9ac016f80ac5b5d47064e865277ab15) |
+| @Leotorres_42 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d8e36c6c264e0f1f0d7096d996a7547b29986af69efda245f82c4a6a30b31c6) |
+| @DizzyLizzy | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x78cda67fda322d64bdfa06a459e1fe15f2dd0738aa987eb199791811315d395b) |
+| @Tylerurl | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f3c57b5f50cd8974f3668f4ee373bf6e40a15dda07e232b37b1311c45f13b5c) |
+| @shadohking | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13cc9149a52bbc082c76b26f70e0e63ae201306bb6ad5160a0b5992d1b7c6c8f) |
+| @RickyM0354 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13ecd6b7437ef3bdc1af03512c3e0d1d3978fcd2dabc69f66afd1e4da528f019) |
+| @GatlingGoose | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb39465edbd82640a196cec29b6f91d88faec922ea2baf0d47f298921ec7d118) |
+| @Iusbsoccer3 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f8d598d8208e327e556c9cbbafa1ebd6242c20a6723ed474ec8ecb343e637e8) |
+| @SDYote | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40c48a004bcbe3f0b269a39c8d3aa6156c656511f0d20e55dfc00cf917068cc9) |
+| @Bocatcc | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7738205d56c0abbaafb3787e112cabea260ad015af4eb0927c03af845853b6d6) |
+| @Raysting7711 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xff40d6931f9af782fd9d0f2e449199785b5a069bc9d7f11987d7467765c18388) |
+| @A6H10 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2533f0b7e5dd6874829da9d4fa452da89adfdf71b7d666108770811358a7fd39) |
+| @Zinack | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59af0f0be17af703dc043d9db92fa7dfe88611f6d9a4598337f749684d555676) |
+| @mmiskus09 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d13c541b46105e65f354d0581dfc216a382ed49fa07598a62eaf6c93adc4e2f) |
+| @Darren32762 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fe0076950637ce63fac345d0057d2c3e365ec4049b7c19a25116a3846b45e88) |
+| @2soup2 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedee622426cd93a8093354da646f809a7fd824c369aa1b67774c116be7132e4f) |
+| @Noflo | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf50d1eb08b971e4a947c53a2d824665d1e456836e021d0e8a52bcfdfe3d870fb) |
+| @Toma_agua | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc434ccbc173cb6c86e6df856118cd5831a875bc776e960a0236f3cec70556230) |
+| @Anewell17 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3fddc48f09986819711debede4add64ecfd6ff9d1934f9e6b58e6b0630af9c57) |
+| @ndeheck | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4dd10c1b1b34761c5a5c68bfed25599ff8c5cb8e96e4c85d169cda95f9353750) |
+| @Scott27 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e775e6e1ce5fef15269a30188f6d52b818c7c6745eb261d5924b102555e706e) |
+| @Spaztik | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89e59b5c6c5a5f8eb7b7b0a882a509341a2581bf5114bb54d0c947241786ac95) |
+| @TypsyTyrant | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5168baa78225ae574b517dae7c3c1dc1702acc0c3fe12ca3c0251676a2cf9773) |
+| @MothmanProphecies | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf689322586f09c238f6567c873c90cd2ef1397ebaa0b857d795cb795b160de68) |
+| @Spartikis | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13b09478ee04b3d79c834ff98a99d80b0a2c4ca977038024c2e38a8ba58ebcd2) |
+| @ksavage777 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf269e42075c2aee91faa61db5b419374db27e421cd00d4d36228d73e66925785) |
+| @impezdgr8 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b3035520fe02b48471b6b81cfdd39196b363237205f3983e50b2a34c6388b4e) |
+| @Saturn82783 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6158c9761116b6a610fde57095e2c3c8478e558dc0e222c3f79072798657cf8f) |
+| @Gemtweeker32 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4369df6f6550480ba27af541828f9b5ec5cdbdc5b30a5fbbf00b1fb755c75952) |
+| @SyracuseSlappers | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf5d6eb193d98afc1eb346e062e9a8f1671a9a01579bacdc3442c4a982224a4b) |
+| @Nightwolf162 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48e22a98f848d52882836148a5ec88e7d1afda75b65567c5deb599d4b5b1d75a) |
+| @cadeclark | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2fb119190ab96248ac3d58a37dda2a5934a67f21c6e02f0bde71f721ea3d1184) |
+| @TeeWhyyy | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8db3d825f8b0b45198af8fb25854872f4a96eadf5c0be5b2c01b7be5e4f5868e) |
+| @Daniellpaul | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9da74bc413a6147a38e00e03761acafb48cc68607c6931630c0f1a296ac240e4) |
+| @donaldtrump | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e0f869dca1ce61d6e13444c5746a193a4ef883bbfb698a29e4308121dcaf2a9) |
+| @Lizard6453 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd967cc19426d03393c48050701a1710c75b5ed29197eebe8475f58c94b906e9a) |
+| @Pitsteers | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc124f9cf15a2800d3f92ebe243c07683870ba98096a3f58294fe593627fbaeab) |
+| @Jrluxy | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f79242e310a69985d38495e6d69dd9f1548c1690d9dfbcae7676ec33c191816) |
+| @sportscardgiants | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x078e2c942fc9dc57726f809495de28f24e1ab0397dd4289326ec174e57ef7e67) |
+| @commoncards_ | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5419fdb504dbe6a155ebc4292390f02eaa956b0c81f9edb0e5545e74fb5159d) |
+| @Zombie_eyez77 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9eeea7046e480a95d5a2cb7b48ec0a2781546406ab44608995e5a30694dbf4c) |
+| @Getcardshere | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61064e0a6033e874ff0ede3100618f1c844fecb017d4c8c0cbc3f5f484b6c634) |
+| @yeller76 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4ef2fed54080f8410bee92ca6e034bf0f44464f267bb55238caf90ef4bd2717) |
+| @TillerGrahamcracker | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b5eb716651da01779aadb8e08f2fcf22f0587aa31c385df2cc6aee502b9cdf8) |
+| @Eric | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa2c1483a2222ff6753c40142f8908810f5411be38b91ee24153b8b7e17f9e05f) |
+| @ibedlam | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x935336511fa6e554d4193b2b22955ff28538b56414a44121300e64bd123c596a) |
+| @JOHNNYC909 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1174dabdfddc6b29d2bfad266d534f881ec72e3b583882e5f3972d1693d626be) |
+| @rcbeck2 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6be99d3b5c45738747cbd375ab27dff47eb1386ae2c9e5d07cb11bb351383db2) |
+| @Edward6970 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73bb420bc66cc2ff887bd39e8e264ace533d7f302c9329fa03917dfa7254f8bf) |
+| @Banzai_Bri | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1dd56e2d29a907f4b75771d464b3279427580e1e6b5bc90d6e8aac4ff8aa1a8f) |
+| @Locicero7 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec3a49101f311b264a01e6a87e95e3ca25baae092e7ea4433e64906455c935fe) |
+| @akamrjones | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee003ffbc96e9f123088e6db3745be89d876e957f7d70748f502bcbff2bb7746) |
+| @Ahood35111 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf10b3087203b572d65c06a2425a3d96fc1dad73dbe9a712950eefc0739e7e797) |
+| @Rockie14 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7252ac1c5be525bdcbca37f5bd27d02b64c5092293b06139c2fbc0d0519aa38a) |
+| @Husker | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9a00b9c9a729ba7d58a87d262e3abde62044cef4d7afb3d1e9b618abc4ab350) |
+| @Spicer2308 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f53cc81022a0a51aa7581bf180b4dc1aca393ea8bd3fb375e0c2a52b7a07d0e) |
+| @Kriegsman33 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf583278c246125eb22ed27ddaafeedfb7215116a66e3ed52108466a9ad52bf16) |
+| @MineKeeper04 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf30b5aef5668f5bf117c507ad1acbf42692bbac338afd3d8cac4dc864ac54d47) |
+| @Jlennon92 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3dcb586caf092823e58dc8319adbcabfc4e61bd8378ab839e92d08dc58a27dc) |
+| @KingOfPain45 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e79cebe11fed9b852629d6e81d30e4f64aa8fe8d65cd034c505e00ab23fa812) |
+| @MNMORARIE | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7aecfb4e6fb51d616c92887e10a685beb974c2879b8d63aa5be37b7a2dcc9080) |
+| @Albert_bike | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc3c951c58b150b98f67b6e2cbab11cd24f04487ae914de47cc16a63499f51c8) |
+| @Sandman22 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11f1ad92bbf4a24b36ac70df9e931819777f14af71ee07bddeed67065182ab1c) |
+| @Miler41 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x049638f1d5ce2ae850652cc95fb0fd4ec75d9c077411b3b73da199f34caeb7b5) |
+| @Vietvet6768 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc03e531d101889dda838506ff276a2aa1e00b431131b8a41d2ebe878945c859d) |
+| @Theapexhermit | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x142addc427d4b3cbab87ba189c328baf2b44d475124cf2238584c538856956ad) |
+| @Abs6468 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3aa9706eba7787e184a452ae6d3f68b7b39ee8b666906cda27c9bfa95c6f728) |
+| @activmonk | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x852e4d432372dca4e2d1d4bf36c512f7dad747957694dea070d4848123817a50) |
+| @elkapisimo | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x224ab4e158844c884bfc7a39146338a7735540c91ab5191cf24c89ff83a8bee2) |
+| @Wolfdaddy | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3fc53c630d5488a2e87125f0e3cf632bbe7d11b0bab172dedb8b51e6762a33f) |
+| @SHMATT | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x386f1302ceebb8ae67c9d8c8470ce74e9057c6f0ceb00379c5280216a5d225d0) |
+| @JohnnyRipz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9508134760e26f991cea0cfcfc70db5591b04b92ef898707940b6c4031d072ef) |
+| @Kevinw321 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24e671f7bc913c6ee7b417e6fa12a03564d15d2777524c550d597bc3511b2b53) |
+| @Jim_McDuffy | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3c368c0642d9c799bff397d9161386ae649558ef2f64c7eae4007040fdc8e52) |
+| @NLetra | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd224677ae2cf94d94711ab5d051d60d5c330dac45cbac7a5b0fc6ab09cf5bd7f) |
+| @TheDynasty | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4c5008e1557225458f651dee0552215e216fcfbca022829d861818a3883e2d5) |
+| @Johnmartin804 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cb91f908a4ab30647dbc95c32960a94a1ab718034842041cd3392da801f1beb) |
+| @Remyredd | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5ff98a5198d55f05d8893fe1a59aff4246556d25a5fbb7ca5fa0e9da316aed2) |
+| @304sportscards | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ddaf3896c7014fbf38bb8eec0da09da2d72797084dc167b7a3db312f9820ef9) |
+| @Best5000 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda1a273358355c7d1314db696df9b10d59bfc7bf6f89f83fbcd8647687a75d4f) |
+| @ChiefWahoo | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x036ed9c05c023b1a381cdfbb7eaea6d2b30a12a6609ad887678698adcaae373f) |
+| @Jrohr1126 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2046e8d0725f7c3123426f0b70a081d6e82edf7a538877ee52e6c3a46848f720) |
+| @WillG | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x349be32cb84bbaabe07c18df3225137cddd85dedfd250ffe3a90ba2392487208) |
+| @Tjulian22 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2cc114be0d49677222abd6297459a5de0c0d3fc5e5627cdeed74090f4f3f579b) |
+| @Bronxbully33 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77b9c6e3e61df2e05fa4244f6d3233842fc551e5f950af6744e361f3a2e4cebc) |
+| @Stevepres71 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3f9911c8f1745fb8917a4d529f87c19b89794b34d19abee5ef0cb2964e9ca74) |
+| @PeteT3 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd86d5f4a70c2a49d15c1fd49fe7dc3ea7b0a47db759637e40e6b20e96965b4e9) |
+| @Jsdagati | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb497c6b92af02d826d01bb66a328793561f4a355280a120473d97572f9b89393) |
+| @NoFLUKEluke | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf387e09e68227d45fb9aaf1ffad97fe3df8bcb481744cf8f0627e59c07e8952d) |
+| @MoneyMitch | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1efd24ad69b3a70061071ba8f064cf3bcc74b49820e658d8d12e95b5847e97a2) |
+| @Bengals88 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02864f93910cdb66c6e7b5ca8583ed887afeec28ad7680d71047338828bea693) |
+| @Zner1506 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fc527d1763006ba5641df59167ebc4373343a36300a30fe6950d11380befc7e) |
+| @Heitter17 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e91a3687d1e6ab5417526ad658510a3c50c6a49fb01d51415dc01ea5e594b36) |
+| @Steebo6977 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x417b01d777c87b8e4a306c53abe98363dc89d5f96e3615c3937e0eab95281ee7) |
+| @Tbonefl | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce6dd9276ce7f5705b125da93fbf14639874c7c840f12e630524d8d49805112a) |
+| @CP47 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37be77470388e0cd00f4be8c3a47f3a25983fa02d4462df49e11265ed6cb4272) |
+| @PopsNPacks | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x321164beb2cb83dac0aa5f5329c0c037b6f8992c941f2b0dd97e9c5fbb2d3497) |
+| @AbsoluteValue | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd823457f39fa319bedb051fe08e51a286abf8914c3eb2ea2bce079d39974446) |
+| @Sportslounge | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc59c09f47d5994be2635be4bf83f4fdceac406cf41424bbeec53a4fad48be5d0) |
+| @Junkys | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03b7edf3bfa5e510e85df149a288808b6a17d0a81264b71de5240eee2da319e9) |
+| @UtahNate76 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f257e92e71c5da11f32702ef9bf79e6c58bed701c7ebdc8008ab3b895f91cf5) |
+| @Nickgoli86 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9a5871ad02bee5e90f8138289115210829f2dd0eafb119412d834f764d3a161) |
+| @Jestroc | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f756c42369cf28cc5a0ef011fb2f271c2863bc23dec1fe843e487014d2cd31c) |
+| @SoCalDave | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x057308351eba91789bd105080c8ad99ec80ceca7c0346c030962df831b20f8b4) |
+| @Vonskully | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27f900bf5472ca64d1cdf9f771156a2a8d513900439f5a0eadc22d0847970030) |
+| @8BitB | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x621d9e4de9229b41cbc3252384854f4d7ca621683ef9d63fb6e3641306d91f1b) |
+| @Corvus | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f9283f413807a34b71c21ca91561b1fe11aa71a5553c74fd82366dee2918146) |
+| @Joshuabmonroe | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a0b57abe0f8b187540350f863cf29381e974d0722b8bc0457a21bf80a7916da) |
+| @Bluehen75 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xabcdbf04d8ee5dfb72bcbb9ef50a7da2c437d9aec038703453d7585281313b81) |
+| @Bdkstevens37 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c733482bb2ac9f6921c3ba611018733d2f401977a7f243d944429f8597cce99) |
+| @Warriorpolice | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53d7781bcd6a80f12f2b9382da51fb470ff103b01ea39414dbfbd5a573eab655) |
+| @jetstn | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2de0dc31930579263426d0c4f5ea6151b4fb05abb781bd5631a7228698a726c0) |
+| @wisman | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91d1a3496cf436c5c42593d556671944f14b74408219ce7345f47874a3c62747) |
+| @FrankN6767 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39ad7f02c1ac94552ebf4f407ac28019350a18ddbc598ae37aa16593b23d1acc) |
+| @Gem_class | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe172c16e8627dff28397613236f3d81d1e4158666e90113de1cd8f1dd8417d24) |
+| @ogflynndogg | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72b42908e0a294660607b508bcbd96c6c5270391a0ba486da44a0678565e0bca) |
+| @jpantoya50 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4f78ab5c83d375cb507bfcebcc8a3d95024d374bf9413dafa46d1b157c2c5b1) |
+| @13emiller | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f5016f5f6f83350fa4b57f97ef7d238ce50f26254b22637b16e80367ada52ca) |
+| @Jojo_rabbit | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19e1586afca46fca030e67448b7242a76c64b6c6abeea80a03313410e177fbd0) |
+| @mattcook | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9847456d4bde1ff69bfe24569533ebf239750f03019ab507b10d0ccdd93293cd) |
+| @snbrandt26 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4eda1ae8ee2c0a332107edc24327e0821d534226ef18232d610740ce186c0c6) |
+| @LukeDuke92 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82f26ffa8cedd3c93c8738dc1f1cbea5796301e179e52ff49bb9f2b4a9fbc6bd) |
+| @Busterbeall | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x819348746a1ca231d2df1b65680fe3a6de3937c149c7fdc5e7a8214644064483) |
+| @Monster817 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd26f9f15719d08ff51af87c0644ff6bfb0ba402f2c949972e3672ef176b3c77c) |
+| @appojax | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x091da5fdb914c771957dd0cd55b51fc3a368b537ce405ac0aba97320da44605c) |
+| @Tw33t3r | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf599015ab050fe876ee280c61e3854454d760337e3eb927909a3d9914c2bffa) |
+| @WiggleTree | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd12589ea59e8971644b653bcc443ccd16526538708ec4f99c601df04de2da0e5) |
+| @JAM1105 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ee6ea03ea531e312307e91cdbd554f1035fee6fa10ade6525793ed18cc8076e) |
+| @Jaredlu60 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8e36e87790a944155fb241b940498af8e8be6a79216ff08b8b7beb6e081cda3e) |
+| @Mamamoody | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe05f281bb22d78515120224975de2d60b2a890f8e19d5ebc5445878a0652d8de) |
+| @Manhattan | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0b0439782b6718beca977bf15987721da1110597387bc6f0b6ee6d34478fa0a) |
+| @Mtang21 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e4dea2f361ffa4c8bf71d3bd1fc0eca611a110d56e767c4476da84340fce33b) |
+| @Jtsully32 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40e1dce07147e05ff9d2f9c6a586443ed8c42fa770bbf1853a74d6bcebc6e9b8) |
+| @ByrdesBreaks | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0103efaf2ea810f73ba5ae43a2b66edc32c13fb6001a36bcb1d1bf4e4520984d) |
+| @lonnellriggs | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a9b03bd1fb17f149e028b2bb8e491da365a7db108430a7814fcb32e5dd8b4cb) |
+| @Jd9452021 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95560efba18a8ea575957948d9fcb532d0ecab4f92b54cb534a9fa355cd5cf8e) |
+| @oriolebrian | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc6c9efc7aec09c58e16cee9f589ec1e28f781dc3f5dfa03f833cb3ffa0bbf3a) |
+| @Crgktz2 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x520875b13c69ac4fed5e4a57251bd2b7380dadc9150c47d2e4b1041fe296d282) |
+| @Samson | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2e9fa76ef22133672bdc6a8458edaa3a8f24553a1c30d63ef5107722f654097) |
+| @Daking21 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9be121ee1e2660ee0bf684c1604d8d97d6826bec7a5cc7dbf59e20bc713f27c0) |
+| @Cardchaser23 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe1b8052fe283cd1cca87e611e3d8c586dd83df2e9823b6eb72eff5d4670d1da) |
+| @PonchoV33 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77d9f2cc5ada94092d36d4e9fb542db2f12f3604e788ff73cdad3001568a9ff4) |
+| @Coastalsportscards | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38702a98c1172826acee7e50f8db1b4851ca1064ea600037a05a8e735c8eb6e2) |
+| @Mothman | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb3d6e3c4794ea2639ac2e6b42ff59f8146b9c0746c2eab28a240958dc92aed6) |
+| @Phoenix4282 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4b3e39d5c98d9c77e877ccae9174837304f912fbfcbd44d37a0ff2c4ac09153) |
+| @Ryanrob23 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd7bb1b542c85613d0acc85bbacf62447429fd29a789c652bbbe86fc0919c1df) |
+| @Hungry316 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6aac5c1cbc3049d178f98b36a621c455cb3ac947e1b29e37127881a6309fb5f) |
+| @Ripweazel | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4967691eda8f0e2fa6de8f5f59908b24612a75cff7a24838d377b67e02f3d2d3) |
+| @paradiseloren | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63b3578eba95cef0bcdd30fef50fe1267c47882105376678e37e971c5e4246f4) |
+| @Liveballera | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2accec2ac64bcec9837d1288e48628aa3126a771926fa65999ed2a757a25f732) |
+| @DoctorKemp007 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x96a27471f8429f7af0ae6f0fcf4ed718723b8569a29d6c9a9f01fbc1fe5829e6) |
+| @Lex22 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x492a72bf7d548e811f3b2c957d449932279179344102b2c3db7bdf9109db235d) |
+| @Saerandy | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0e4f7f4deba1f9c6d82fa617f13f108e1e8cedff2c1f5b06f626b6df4d7a4f3) |
+| @jeromebelasco | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44c54f74a44bcd47c4a534af7dc7d652f6a16311f72f56f62626dc8cef6ae314) |
+| @425sBesT | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdafa334e729e20e65ef3fad7fa7c1fccb842e4fd23b4a42c980512e6e33e86cf) |
+| @Brandonlink89 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e03a99a825421c848a5653f13c743fe7c8ceb0d7eb76a92d9a8b27b4333ec45) |
+| @SacramentoKings | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36bb8e3361691d40cc7ff4e1ccbca565bf68f11bd7ac4b41b7429d72af225a9d) |
+| @Mike187 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe59d72e573a483a4d2e49e538bba4f53c03080113f6bcf131c7267b1b103b3a3) |
+| @SeekOn1 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x583b8d3dc16d5b5d0594d3435ee7af7a84898ab2dfa43dc058c9e20e37eec254) |
+| @Jeepn08 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8ea132bf54562bff3dd949a0de2440ea2f79cf46de382edc9ce5a0766379d71) |
+| @Latinroc | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e26b9e55be58fbd0bb87a7d40a39b34e042ed9a3a1f91cbaeba0046c893f14b) |
+| @Blockchange | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x508c2a28e5be3992a267abf6e62413648025b1a28b75fc91eac0857f6ab35946) |
+| @BSpax | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeefe89e9154cc790aa513527ebb173e2e4d2488171ca4019330ac15e5da44f58) |
+| @Leoken154 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7e2480d65b89a509e8311065ddad41878263aed6c8bfa80ec6f4e66abfc0fdb) |
+| @Richcard | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x74309b0828eefd85207bf95cf57c2ed1916204c3cac1ea99d9992a700cd63d43) |
+| @Beck | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc783196ca26ff0f9926f2b240421b76a8d1e3092af5ae4fd6ada338d07d29846) |
+| @Gmhpa88 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f4b07909872486f55f54a893368a4823c342003ecd7a4db1dfabd472866a366) |
+| @Vannaton | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa7dffa12f22e3fdbe79a1aabcc3692a60ac3d7fece6bd9683d4e78d9acac50a) |
+| @LasVegasGuy79 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72e11f364fff75357e580d3990cd801b9eb53c51ff2287b93ba4a09aa8ca0d27) |
+| @schaer12287 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba25043a38b48c219b8408344e2ec4a2404618ab0fbd0d2eb423bc5a923ee04b) |
+| @RedPandaTC | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f462105d02d1b5d22eb58d11fa0c882226d37fd07b7953b7b5f0b67e84f466f) |
+| @Kgiemzik | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc00f064ab2235764a573a715bd73abf298137428631259b1602fa662667554cd) |
+| @Elevateme1 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0816ecc29ad57bed77cab51f474c24ede66a0a2c5627ffb88b697fd342cfeadb) |
+| @Dmack | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c90db2db80c2ab261fd2e17e04e2c30a6226ff0aed47321b0cb22498a514bda) |
+| @Ouk2005 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa690c8f41fdee4b95e2c7b22d3b786b14830e4dc0446d84805e97a034de638bf) |
+| @Belrawcards | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb7fb52dd9cc8fca8b89847bf922b7a814548b18aff82e43bd9aec3c1c7ed9cb) |
+| @Crgchris | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff4bd8a23f99118976c1bb1ac6851d3ff28d5c005cb9584427d22afa2b091b1e) |
+| @Jintheroc | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x438d36604183f30bb05b97e3300913131ede9972fab16078d094b80631aafb0c) |
+| @Bigluvins | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4609a0058ca249e3f08424a35aec5c081ca16dc8c9e152ef4cf6381a12af8bd3) |
+| @Terrybwhite | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf86e7f44f065338cb38b1ac2ad195bba354bb83ac31f95cd4387aaeaa86ad3b0) |
+| @Hopper1055 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf62ef89cb115503f1be7425cbf1c2f0d11b5cf4705e8bcc2284aca8bf6c11d08) |
+| @rickyjames51 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f863f46427f958d930da3f0c6dc8712b22457b22dddcaf810e11d0f6dea0bf) |
+| @rome9bc | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a4f9f512140ab031a6e4d4f19ac2356050eb975879d101124071462fb23bafd) |
+| @dstoud3 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9446e0dd13a1ca4177840ef5f791aa79776c60770b28e443db7a7caf1ab6e8a4) |
+| @Tommy2gunz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55cbd5675d5a39f084b58059640140209560e5b4b5a8db589cf9618081478f58) |
+| @Jman009 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1334113d261fa38ff657145bd99533f941c2e3f7cc273ad930845f2be4c2102) |
+| @Shepherd8304 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9b795fcb1e6f6148634f5b7b9f15ab0d3d1d1a421db77fd327bf89f135edcb6) |
+| @Dooge1 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x256347471d91b5b5fdf3f17807b85bb73b580dfb0b78cf39e7462b0123b16505) |
+| @ThommyBoy11 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e9516c007a09c6fddb37e6a66fffc36c23cc8ae5c54b0ab2bbeaf8feb951d1b) |
+| @cdttoken | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01ce32b99defbe35e7fc5a4a0d71be753c812b13b3229098a6ca7fcf6a7c4b74) |
+| @ryandash55 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9428b0f660ce56b01d8aa37bddc61e4e644674da9b82dff4396d34f8ec9e1a97) |
+| @Wally | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x572c9b113a40a9ffc27a70379fee0736a8b591dc0bf8dfe36120d677ba06760d) |
+| @Iznel89 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x492805136cbefa67c98f6168fc687fc1f87016796c5d6f40dbd7964ae4848712) |
+| @Toodge | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d25f2a9e8df6a9bd2c0417ef49c98006cae2c55c815e44cb68a54ec423c8146) |
+| @Dave916 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc833901e394baa7391c0dba730ff522297f8f4031e9dc3c640c9bb1828ed60a6) |
+| @Adamm2055 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50b6e56863495e90d7c8f71aead3f9e7f25b78a094339b2fcbd981942f641478) |
+| @FurryCat559 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5044845cc02a1a143d5b899eb9b70d9f3680a9089fa7a9998dd7a50fcf09be3) |
+| @tcwalletsandmore | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfa4972b8b6921cbd24174b0f98e00aba6ec9a98b6dc9f9809f3f309e8108fe0) |
+| @CashGritty | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x967e569be359e43a1375d1048d1baa4588e51bbafc702935acb7b07035eb821d) |
+| @Jimmygh | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x753795455c1211d76de78cf7d738cf6c276993f0877132e0a3f5630a94eaf9f5) |
+| @Beavs559 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bdac2a1a6e1e57365cd4162b8b406e60c22047dbd8b73f4156fc8bba42c67c7) |
+| @Robmac52 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39981354e35ec5dc80d1f9e7f9743d48fe696c91f3dfe6c57caeb2ccfa7000a4) |
+| @amac | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8134ccc83c651503ecc5e309daaa5aaa1ef751e5acc3f6abed0df513d542ca8b) |
+| @Cardcollector93 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f0b0240a3e9555fa2436c0c9a296806dd31a0ba699b730d8dbd61e82e6dc636) |
+| @jwinCards | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf566b9398db0fc5a6b6e4368a1e9f76750c87e958fa72fbd1caef779d93f10d1) |
+| @Mamba4ever81 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x988ee1516e9a6db06a86ce29d9d26d96d7c668e2a4ccae0c365abd6037324b48) |
+| @Vahe1993 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbae78bd45db5b23e2e2eaa92900daafce06268cdc0e60696fbfeace447880276) |
+| @Lunarity | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bd1f25fd4f7404aaa80dbf49c0ae26a9515370bd2ee9653eafbe0d3f78d059c) |
+| @Jmac82 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xead163ea29ef279e060fc2d2959b7885ce3735f8da648c0aa10b81bd7995aaea) |
+| @Matnat21 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3462bbc3094a7f4933480931051f6ce81c469abf91261db59a93b5fb22fe3598) |
+| @GeminEye | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf56995b10fcb8ba4ae8b575afb4a940c4d4df7558fa3f81a9719ad914673063) |
+| @SmlyMqz11 | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfead04a48132d2a02202277448b03a99622eeda0ded3ca61ab397340f32600c9) |
+| @Smiles2322 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc475cc1b38c491f66f68acc08fec79cb3414013b16695361e0337adc6d121889) |
+| @Mhaber | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e472083d93fcab948fb2f518c7b19f32b86442b5ae601dedf8a98eb5530872f) |
+| @Joejoe112879112879 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94c6e7e1e89c2fefe1481776aa0bf97fdc4ca53e64c64d8e8f953d92ff4b5001) |
+| @Rob98 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7eb0f3912a6b09be282358dd174ad684810820b0495ecbafd16d08b216de025c) |
+| @AFM2021 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26174477bf7d4d1de49c34eee2db7faf28279d65e28790f8ec29b802daef1f72) |
+| @Bighair420 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8df34531b865b2520b87353aa5a579e9e15500df792463b014766becc3144f1) |
+| @Jonquiles1987 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x700214888f1d834b55436a88a85fdf57a210cd658168834807cf9b9103fcf4b9) |
+| @TheRuke | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d85dbb24570b1e7fe6dae8a0dd2a94d4c70da63b5d4058be78d5a9e42d84a6b) |
+| @justbook7 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83a215f6fa6537a504c7be8fae94a5a7ca68c51a8a81b898a094a68dedcca131) |
+| @Pack1200 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ae44d94a82ddf0c3187e0d36196963b1b83bb772fd7dbf7556ca8ca0fbfadd3) |
+| @Dsksports | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bcfd6aac805f8873537c4c2fb64063d13dbb614793c8d7afb0983df151f8ebe) |
+| @SquishVader | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc55bdd6378330ccbe30d0670942898bdfe5afcd7c233d18aae64422b89e4fe0b) |
+| @chickencoop | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34f4840e3c7b3cd6dce08d51c8f444b8d158f34f30f16f08f09021e342ebf0d9) |
+| @BHoyer90 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3fdc0241a65e5e93ca95477b4a09d933915045d22822b76f52bcf6d7dc019580) |
+| @A14U2NV | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3fce24eb1fbcc4a6bbc1bb02d4868b1fe7008f92755b265ca453d4dc1af0159) |
+| @Lamandmelz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb731cf16548ca14dec7a48aaa731ef77e78d7f75281c0b384aad1316d7f30a06) |
+| @mrittmer | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a97760da928e691a3ab4008aeaa924e7f2419d43f5e995b0c37a7cbff7cc325) |
+| @Bighud | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d64210aa0ba23643b676addff821166abe09b7e2e3eed735e32cd0458ae7f23) |
+| @Ohiohusker79 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82443e99f4bff67f3d347478609a59ebb793093d358e6a1e04c75b5ec99d3968) |
+| @Rch14 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x670817304cf4a93f6223cfcb8ae77db238cabb05d89f66af4040e19a7de84c85) |
+| @Jdubberd86 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7ede89063aac387e93b54e60e368e4fa45332b58b581c6d6025b761a395553c) |
+| @Salmineo22 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5b317eb22401c76797ed81651a00ed2949df6ed001634c0ebe699917e024575) |
+| @OHTANIHOF17 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf8aeba4e783e0b68bba4fd80ec3c17145933032fe784af93d12684b4d2bf379) |
+| @warrenthx | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x798be47520f8e358be94b585b310276360a6d08b8ff4cff4026981abad7a8ea5) |
+| @LordPig | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d39c94cc0c6ef8f4dd41529441be4e1c2ff6c089cadfc58975de1beb62b73a2) |
+| @Thenewmejourney | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x687fc71b4d685a56611665d44335e2067f4d764694a6309269937ef134c4c630) |
+| @Jeremyd | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x884ecc98de451a1e85635817e4720d2228678e2ff96755e9a65efc9f9c350b37) |
+| @Whitextz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d091015e69c0c5d9cc743930d923d432a03c42c36476c8754f43042faecac6e) |
+| @Sexybaby | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c6fc54912a49463c116f313fd87f978c34851e35828d7c6e17ca0b371e011f0) |
+| @adan0rtiz | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02245ad145a9a56c523f3749432c430bf9a611de1cc3e7ae347f9b588d0ae859) |
+| @Bjamps09 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96fa56c9e1f1c70f63480a4cd6b8e04c046eb21a066f9c1addb92913c2ecb6b7) |
+| @ItsMookie | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05a666d277816b74acd132c94e2e42cbe3c2f14ab4ce81c085fcc9c263e2bf39) |
+| @cctaylor57 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf571231794c3d04c1d6c9c98d1924069922dae65ba16b3356d9efeb1556d6e48) |
+| @Rich5olliid | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x689f3aa6ceda858e34321ca6fd68b09b9f1308109a4927c94d8990baac30a500) |
+| @Ichwk44 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x133b29837266b5a32b423fa07b5b0f046b1384122a75b5dfde330052fccabe1a) |
+| @Battor | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcd26ed0330ed6b0d5d62d3f2b17dad2e3c20fb27da1d2726ea59e1fff9a4074) |
+| @Tcanning15 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3252e94f118ec2d88f62625be117ad54735db7b4d06969b2a8efc3c032f1898) |
+| @RyanT91 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x655f77ef17cfef4fa35a68566d6e6f09bf3872eeaa1e76a62bf524fd569ea757) |
+| @ddangelo87 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x606f73d93f225e204cd5d9389a448fb79b61b113599e3c776253aae6a561c63e) |
+| @Quietstorm | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3945a56d22b9569960a6128109a14dec9617ec5f92558896e62ab52c7a9d47ef) |
+| @parzival4042 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb178919b3b4e521e23e7b887a59aa2f1fb3eea2e05858b585a974e2e6057ba7) |
+| @Topshotkief | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a9bef473b8a0267d52b79eabe5012b170869c451cf2b4203a6a0164bacb641b) |
+| @vic26 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bff9aadcd6479daefe6e54d65d828a1bcb44e9a908aafc0a812d608566042f5) |
+| @RaySantana56 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45b1e5dc77a17cdc5b43691a24287667ac47f8dfaeec6c60e40b92ab9275f4aa) |
+| @bmachurley | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dc018312d84765ce224d25eb113c7b00041fc66aaf4aa463f759d8cb1c50dda) |
+| @Countchocula | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11179469204aefb229cd0e5e7f76c9bf571a0060fb463b6a6d89186de6af0ba9) |
+| @Goldenlion90 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb55483bf5cab8e9fd19d52c6ba9a602444f4245e4becb38e08cb31c7cc0e3ae0) |
+| @Tdubz207 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x681857279eaefa68bc8760aca248dbf2c4b5a1fb5d2aa01bac3af68f6e7c9f59) |
+| @Cico123 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa17e3216fa01100d88d897ef887516ab1bce6b21022738b81ac149de7d62b505) |
+| @Mavrick99 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc968738a5642883b48d15b6361a03cd847eced2a5d760a41255e0343f20eb049) |
+| @Eric833 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe17335a6228deaa0a72efebd68043349d10e4a29c0ad1a797aab2d14325f6cdb) |
+| @Steveo33um | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb82ae7020d1866cdfa4f81d149821a2a1d29bd8e218cf6cea2e2d380e750672b) |
+| @Jaesenhuze | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35315bd2fca460784ef1cff25f32c243e4e1028d546edb12ba00cd5b1f99d600) |
+| @SemperFLife | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f11e58ebefc61b85bc3f60812b74d2d99185a3e5b88ff55aedd66a18303e4e7) |
+| @Bodyb1960 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebb9e49e98c5825ffff04faac9acbc5f0ad0d2decb52845084dd415d22f044b8) |
+| @Steelmasterjohn | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x279cc6698b1f26ccf6324d5d1fd5aca65c0a329131ef71f2c7a583263099d605) |
+| @Dweissman37 | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbe53635eb6830c1acc0c5773aaefa4ab33f8274a78e29e4f2cefc3ce4540b97) |
+| @Nandoes | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99e74192dbf3a6fb95c7189c6765d241d4cc045eb80595475b046db46de0aa3f) |

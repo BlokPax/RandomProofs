@@ -7,15 +7,16 @@
 | **Started** | October 25, 2021 10:00 AM EDT |
 | **Completed** | October 25, 2021 10:13 AM EDT |
 | **Tokens remaining before round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 1,536 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | J. Koosman/N. Ryan &#039;68 PSA 4 |
 | **Internal ID** | 247 |
-| **On-chain ID** | 61 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e23-4197-b5e6-faefacbbdbdc/972ae417f1329d37d3cdce6c1b1ce558cc389a719f4ad977c26802459006f404.jpg" height="200" alt="J. Koosman/N. Ryan &#039;68 PSA 4" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,116 @@
 | 💀 | `253` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
 |  | `254` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
 | 💀 | `255` | `0x73d5de71c22a1DCf5eE6cf95e25C2046B0fB2D64` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff27633c0d1233443c8391945205edd1dc05ca4ff5b25c27dd18e3e41b5d72a4) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f9f035de7ec436fc5bf40fe7f79fdee8d2f43667d8f898d31cce77375c10c80) |
+| `0x04705AC79e3C6A79347eb178cD4BC820ee402989` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff94b4abb8201bde9b92b907457d67e79a860da9e047c2611916b7835e6db562) |
+| `0x04D79601229A81B7dB0625Ba0D25a6b81891992A` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dd9761f522c41fc8ff1701c24f1d141839103203b1ad40826af581b2876e485) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61e5d220b795f7dd8752a6859f52dd10441c5d0bc1ad720550dd04c9966ca6f7) |
+| `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7c841a323a6db22e420a8da5f820900bc732e213ad8c3ce2a03a930fb118cbe) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | J. Koosman/N. Ryan '68 PSA 4 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe56fdceff98fdf445b2579aa332251f919d8edb931a8f9ef73903b0a13af9aa6) |
+| `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb6450644c8b2b20e36245224412810b7a1f76a3af73c9eca8add5d67f150f54) |
+| `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe80e4cd7aea7af663737e04416fd55032da8cf7b48a153e9eb49d8344fc6c0a1) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x840b99f16e0d38130863b47c65effa8db5e391a5c2e3f2f6583f46456d661b59) |
+| `0x0Da27b00Eb9be9A75C77d6c8Ee25236dFf81F65b` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x347c0d3e8e0b3799e5515efa26502889afe97f98ec2f7ffa46ed802597345ccd) |
+| `0x0dc0c699F401c492f0119fB2415867babb7d9f81` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89346ece5258182cee2197bb9893c50d91c0f02504d8a15af4521ae81d202a3f) |
+| `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c884e0b65f3f435e26e8b5fe979f255281ca250d67573b9f03f18bd5089bf16) |
+| `0x16321283Ab22e4B2c56052319ca17773F24c8504` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13993b9d93586337f77dc00e89828ce7bb0ce5c686eaa7bd2328df8c4b30a1c4) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea2da8b95a6d448c52199f4a476536a2eff11dcf61e0065c180a0f2a5afb5fb2) |
+| `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0df2d32f03fe2ee1f159ef245ba7e28b74d6e070a19274e7a038bd0c14523e9) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x164f02475b7032d1b53dd6296cff5d07e33e03e60d86c31966286fc1af901e9c) |
+| `0x24b00Ebd2445e1e0FBb9Ca5eB80a072D5e9Bde3B` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f98009ef9194bd1121e3602186a6af5f544d86f0efd7fe824d672e92fe162b0) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2979315e50ce9665420b2d0f3471579b88afd3c2b757980c35dbe5e186f12c76) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11e5d997cad794ae09137c294c29541f74f7f0dd47b58a6fcb3522930b0fa21d) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e16a7ee7fa9eaece8fae1b21dda6b07904840894b90cf26ef3e05fa003ae2b1) |
+| `0x2F500de3Df1d0e05E3b84f978efaCE39A07C8193` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd3171af02c680d2fb69e6bb5d63ff897a7adbc5400f2258a685e2d4b9edc9f2a) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe88f891fd58419b6a52e1122d3a935e3b300ed31b5e3252b4f6f591cd23ca5b6) |
+| `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98fdd6ae3a83a0786931474c37d65ccf27fde38f26dc8c5dc123f3affc7b313f) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x215e9c65a66cbc9ab96b66fbbd7588f318f5e5942bc81f61c8d4a15b784ea162) |
+| `0x309046489B36908c8Ab78ff43FcB963158330BE8` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06e373b3b062d34823a3da78dc81fe96abe1b12dfdd08f70dffc5fd9e5f2e3bd) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x710644fe22f96023442fd05885649a17e72e456fb85e2d8310a425e2b32a380c) |
+| `0x3b94D702C3F338C98cbafb75d5c9BA7c4a011AE2` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17b942f5e94ccd258e03b158d42ca6325700eff91e7f63f9c2388137230a0834) |
+| `0x3b966979f6730Bec1A7411883D112fDa2bE996c3` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a092200b46c8bfd1d7c468caa0f5bedd139e5aacc7e3172e2c37502dfb6b0b1) |
+| `0x3B9fEA7eCBa85A7083435A08b0C43D6E27d7958a` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd488d4851c668fdf43563e33f7e8ad467911432f7c4853b50fd79e227396a2ec) |
+| `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2cbd25070671701e9cbabf7c19934b0ad49ccfcd29453732683b87006159b1b2) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf6740488e180375f22be1ebac461fff6e5906edb97b718334e4b73d2b1bb42c) |
+| `0x40722604E09F70E9D13c3cf057929CbC009b546f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1155c27197544ea45a68ce82aacdeec1548dee95f060154afcdd24d5f69e6b54) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x060a6e65c29bf0f95f9ef7acad16a8d608a3c8a2def8fa4ac80e7a3c6ab18efc) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x036b58d31088ee50499c93f5dc61f16a49da1985fc9a2e1688bb900ecb790b87) |
+| `0x55d00f90FF8DcC99096eEb2071B10Bd0a0Dc69C3` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x928d867c34830a869564cfce1c3a58ac68cca3f306cafe2614f78e8562e47aad) |
+| `0x59768b06b66f105Bc0424816704E216a15780fcd` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf229e41f9710f4f13e9f0c71558cfc1685be1340602507b407b73d065b915484) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24f25cbe52ca14c3bf38219101004eb894b46d3b1e26eac00649196b4c0d50fa) |
+| `0x5Ff93a60B7B3eb2970DB64a093cc70D292EEC248` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca11f560a44fccce1680f7afa222b00f74029b0f566f1c1dfd386d7c6c16c6ab) |
+| `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1508b8a829086b5aa401b9e4e22527b68921079ce724f6f036e8e84a641c0f1e) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x44dee153babc9b42516a019aef07d40a733e5b008756d8d30d986e1a11dd50b6) |
+| `0x63BA63b8A357ABba1d1f144F7a2D3b0b128Bb80E` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x315f891c7160076685ab566851e7097c5a1414518868f49def91729ae171e61c) |
+| `0x665B9742659B59Fd9F8d4988DE84B4E011b8a305` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59a9c873f38006775809e6326ca0bf6d6a16c887c6a87d06b03b716ca8f426fa) |
+| `0x66649FBF0d3929D9557E77f44eB587658E3b584E` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x253a74fc870b805f75cd9d40508d146e8e4f33be51bb54ebf6352d0746a1bd45) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0150a695d38bb90d78aea6de7b2e769e6f77c57abcaf63a08cb45a3ab40fe5d0) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41791f6f5fc5de20d99a052c59830f8daf2e3532314b6eaa9b249d1d8880c742) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc26b7120916a978989ff149c381c62f86d522e3870f045d7317e7323b9c6eea6) |
+| `0x73d5de71c22a1DCf5eE6cf95e25C2046B0fB2D64` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x617c09f43842d9a3b9cde46289273f93e170fd11b2861aa6a8f593213623b1fc) |
+| `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xacb232bc5955fb0f2aa0401ca71c519575651d06943bdc8b4c32a4bd0fe417ec) |
+| `0x7A0BfC1d76d7F643E3Ff653867d3E51d596E3D5A` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01a5b6864e63573ffc7f3afbd13737376966328723f07f98ebf2113b7c0c6436) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x620e37d3e6d5d6ca5f4fa264bc81dd88cf6dc879ab385fcba6d4e6e4186143b9) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a66b8d76a9e471100b58a59494e9b1492d79dc43314d9c50b3fbbce2cda4cfb) |
+| `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x342c994a2e57349d89e008f1b2aa1aaf335a4b29d114e000362ddad5074fb3fe) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3b589b05170728a13f2ab87010e1ff29ab3b7d41e256e91823a84997e889861) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c87a6f2228a017a4819588d76a68f023205fe56931c78716e49da78e3701cb7) |
+| `0x919d36A5E485915269834C5453b736F3DB108d6f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x402d9b1a6d55cd939649bad11613bed40a9a230c333656dea2d23878986ccbde) |
+| `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02fcabda555eb1bf1011816372017bc51d45aadb1e1e1ea9e557fd175605a74c) |
+| `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x479445caa58a22b88056403e1c02ab37d6639008c7427c8c60c277ab1b293e23) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb1d88073b783c7e238bf8837dee0fe7d503bbd1e34460365ee9e88bb02cf3c5) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x931183c195c6c559bd03347e276d28cb8f5788042475685f04e35aa3c010e8ab) |
+| `0xA2E117E91696A9E08bb73BDAa52A8baB46a6394D` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14319e528444dfd32c737aae9cfc9ac5b768987b7062fd6b1f437d87604dedb4) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa90a77c2b696ca4518c7633d409aba5b6fbe7646adbe02b1b0f491632e7cfb7a) |
+| `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52f2a8b84e2bb9ac167fc1d9de016f0b4478c0a5357f75f981439bd4ec8b647e) |
+| `0xa9e3CFAe8ffECAE464c6731DaDBDfEF1c7064d35` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5d18ad70bb375c216dd8edd6e86ed0bce3ad7eb83e056706c1827324f6e5a32) |
+| `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85f0e566bb6e750d5d314f49e0d6d119086ab4552b7e457b36fa895ca3d53cfa) |
+| `0xB15137f5799494b7592288E2980d758cb288a027` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd48c0728110788614666c0ac63fbc94d5e09da29270910f3fbf89e41330b672) |
+| `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c28c8156f2fe3bdbcabb44c732eeb848c23e521d0bb57c726e8d916431131e2) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94e8a6d628bdde691b0958fde5781290ceb184b41d2291447574a504dbe93bff) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ed1f2390d4804056416e8016030e7527d8e4c72aa90b45dc14552e98bf085c2) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0cd52e1df88d9ee3e1eb834a69f11f18c8875d6ffdf106f412dcc0d4f4fa784) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36403b767f689796119d703b09f1362971487f3c8154aacaa7857f6bc190d6c3) |
+| `0xbAf592fE279F1864C617a1664083A5af35dee04e` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b12882a2e5880596e27626c5daf9e18fd36f8a9042aeca417c1b438bc932c25) |
+| `0xBD4f74937F4912cc9a91eB3d4372e8fAa5496c02` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x230d1eacfab2793ba1ac54bfeb9389dc507df339f5421f1d2f73084f2f885947) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8884192b347315b971506e5323d76e3209d06e7d2a966b95e099f89096b4168e) |
+| `0xBF856A838D25C2C3d6764d5626544898D75457F0` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad0a357ccfe0810b6adda26167e15d217d138d987eb7d33d58b6593f09ed688a) |
+| `0xC171b377800b977b6B705ab005a8D1695274b300` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d7e408cda5d7736b185956de2c05cd98b75ef239b77becdc5d55b9fdf7e0d81) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbaae8f4ed064197dce0659b279d23ac4f6675665d439572ed6e1ce1bde5164e) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54ff2c58839d59d0157280aa4558f5a4b5075c7cf605d6bb70b28f047865cedc) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x791ec2c01ce8f08cbfb33ba6a855f4db89f84702b5f1b26f7396404fd17efefe) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | J. Koosman/N. Ryan '68 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xe96f41afb362404b9ed3d6582d6af0048c8b90081bcbbaad900c146e05239960) |
+| `0xcD4703a86810a73c3B0D6Bc0e9D88AB2b5277dA5` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa50c295340968f5b7b5758ae614ea20e1f416ab2e893e7c32ade5682d704091) |
+| `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd709e240ba5ce9a28463f26d73aca31406bca60d2984da35dd3bf50a7e8d09c) |
+| `0xD3940DB57EaF5c6f401B0e010E137057B6ECD6d6` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbabcbbb476ca991f9535714fc63c0745cb337f5b6541093bd97db494e00c35a2) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x99c13d3fa7175315c961969366a32de5361a87be0884ed0c59cfe4940feb2fa7) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38ca23101abadf588cac17fb3377d6379bc0e7e819c1ed76080ec68d20290785) |
+| `0xd5685a75f50a6375B2D57080e2e421F09A94B15D` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb8ec01420e61ce874c98c375da7a08e865c019c8d823614b047a7e2946e6f56) |
+| `0xd585c8840ade66a0f314402c649215792433415B` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05f9acbe9809b810e88336b65551bffa7d48069393b8f6f5291ef6c7679fb78b) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x23d5a17dc1a1ba3cebcbb3f2d9927485ddf24d758f7c7525c888ab472048847d) |
+| `0xD8B1883527a0e755876018be98b68bB37bc367b1` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2f8626cbbc1581abdd51192706461aa81b81e354d54c7cc67febacd89a1b16f) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b334c8a7561efbb043ae38df17891e8645a623d431ccaced78ce01704838d9e) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fe4871a7e7826345a04f4b49555d690307fe2069098d5d35fee111a45861c24) |
+| `0xDC72cfE3f6c1094CFFd8413658B0B927AbBA9fce` | J. Koosman/N. Ryan '68 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd2be2f2e45e4539e8541e6e695d7e26b8688569eeb74c935b1945e0620551e4) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59bddd4d951736f505216ffbc1083db7c2b8eb9377db08328c4e22fcfd555f3c) |
+| `0xe52fB5Ca83fd467A6ff07923B7907118D34F9018` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e50ed299e6453e76e4657355d54be59ee23b2c843489b0a1fd7ea9dc2c537bc) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d0b69a5010056477bb73edf0465c68bbdfd0b6fc21f83ce723007d87df40bc6) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe02b4bfddae4ccc778bcb062df79e9a5d0335044c5110ed7154ec837519e66d0) |
+| `0xE976204DaC0a4411173B4E19778B073D5630277a` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6fb97a78cba5fe9aea7b04283372a8a62d98543f6161ae92613456c95c7db71) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff5bc914f2570e4caa3a29ea220e02065e3809cbffec2c8976fb0c4387d38359) |
+| `0xEEfBb6649fcbD30f9F9A99055e2F0Fff651A000f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9de2ac04a8ad7fb2ca5ed7847dbe4b6006f33790ef459271c2a32453a9a10c04) |
+| `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x849f1b6b6d8d39a7b37ed5f1990dee24e6191c61410f14adfb6da26daa0e171d) |
+| `0xf54f8ccA72163B94b6628755F1Fc6026228130De` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c5240d856f90fb82b2ab247dee9edba87533e8bb9dbfcbdadc13f2f6893aecf) |
+| `0xf96dc64EC48565cB65F03884a84f1B5Ce8e89F06` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04891b9bacc702d79f8ddb83c76618d33fca60ae5960aeb39b0cf3232d5e7b65) |
+| `0xfaB829C88CBe5Aa62EafD06f6cac8280037977da` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2bd46966e7e3efb1f06639630fc55dda973e1ac2f9896573e8dc0f19f0618ce) |
+| `0xfbc60dDca984558836c12098e7D858cEFDc0ED23` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06b2f43679575c8b8e2352fc4654a86a54be1b65a559c39c5684d4322483f676) |
+| `0xfC996654aB3e3Fcaa9E86cC10B621D6Bcb2D299f` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x787b6758df334479b16df4340e6f340385dc3580ba0d9deee54b735277329088) |
+| `0xfD8b6B9C954B887802203824AcD88818e37F5608` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x373ecf2fec57a2960f6e22f066941908cd323a5767fd3f4e2ebb37b13bf95f6b) |
+| `0xFEC1a799BFFBF824F95d9eE4DdDbe27558A3a2c4` | J. Koosman/N. Ryan '68 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x078f0c6b26abcae43e60cbe8fa844b6c2573013f526ea48f9455ed272ece326b) |

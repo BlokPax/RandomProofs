@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | Williams/Ruth/Robinson &#039;18 BGS 9.5 |
 | **Internal ID** | 263 |
-| **On-chain ID** | 101 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc5d-44c1-8544-12ad6c8b03e5/89c461fa8ff97e0f99cba47bbafb1ba17e6b2918ee035ee5df6b124594cc1ab1.jpg" height="200" alt="Williams/Ruth/Robinson &#039;18 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,171 @@
 |  | `2045` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
 |  | `2046` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
 |  | `2047` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | Williams/Ruth/Robinson '18 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xb9d5d101981aecfc0dfbc43c9d7e1c3bf8ecb3a30eefd010a33dd856312b1800) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x07c3955780fb7bf2ab14b04b8d6b40073cf301b20d9f273dea7342cac9cde488) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x90d28394aa144e32ed3dccd59c114e78fb6a8f8b014cafb738dd0d2055dabf6c) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x84c8dd72bdf0b9910ee50543307c0956740ea67c4305fc6f241c39e864fcdccb) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | Williams/Ruth/Robinson '18 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0xa4f25272f9ea35512bb540a15827475aec6cd88bd943d3e05876f8cee640be10) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb43e494de9853ce74f47a4ab9c5a84e268cdda3fc1390d746a5ad29c0fb5b138) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | Williams/Ruth/Robinson '18 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0xe1f07dfb42be1fc8f25411b0c26bb36164766022d23d6cdfcd63d0a48b888d01) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa2163f3560f966b12ae61730def75771bb421b0f685725da922213779e9c0c88) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x157b1801fdc396db6e0a0b6565d9de9dfbb48f788f98c837432abea67c8d98c7) |
+| `0x11979858D6559bEb4E607D7A2BEe95943cb0cdBb` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c0329c86cf8dd8fe742b718c0a50e40b2758952209f94926466724ae6036dd4) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24060e89202f1fa364ba163d3b87a6a854a15e41c2d3d84c3bdc06badeb834d1) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | Williams/Ruth/Robinson '18 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x11c9fc9a5d5e375f11bb52833972e9bf5cd5b70a99cfc36ecdf1c8872e31204f) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb1cdbe8b932103f6514d6a17a24efa2da398e30fb69ff1391776ca0892b9128) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7af168602faf0687bf71928d91185d62a2454cddf83c85cb491cb04db8399eb5) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xed5478bf6712e2f470f34799990e95b99529bd20b2b29f5b7968b4512c3e0872) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7f5c41c68e4f5321c9b30f087b3f91e9d40ece635daa28c5d848dc47c4617033) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9884b863382fad46cd5ffab1af1b2aca2357514951f18af804549820b573289d) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1fee7be04c384fb98919a0a0affb5e757e3f81c3fe29652f49fc47c319f2bef) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62b33513ed30f3bfabf900313f3073f0115579b40ec0086ce91ef24987ee5929) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x696886c3e990bef601d9500082ad5618d4bea3acc27f7addf9754dc223b2c8d2) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa7399b05e20757ea7a89954ac83b4b22ecbc8a3256ac5a80c00cced2a4b3f268) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd554323a0819854781c2738ab1124369997cdf3a0b2b3cb1c0eb25595d89648a) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa7b267135482a62230080819a542dd786dbdde1ff0e2820f8470ada16411dcc0) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9daec83a0360d3102060e5d157f26dec694ece4e80a96035a2f42e590ac2add2) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf35151d4f49fb6f4a1f8d468edf7763784e34ce252cb2c25ac9c3bf9f1377e70) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2fda08a566ef9a6c2e1a503505f3cf92ad22683d73922cd3600116702f28d83b) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd3a5ebb600e6fc42382dda273a279edf157750925bcd55d2b1ffd4ee93b3ccb) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Williams/Ruth/Robinson '18 BGS 9.5 | 18 | [Polygonscan](https://polygonscan.com/tx/0x44c583d1aee6e87acc8c55ea1b08b776c0bf7557680ca33717d9a1b703f3081d) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bb89dd137cf76628a8f33e600811bdb95e941d70fe871e82404dfc306a52e98) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5420344cde5c3f71a0bf0342c3ce86c4d96980709e86e5a47a09f555b297c8c3) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x378d35f279cd24df0011df5f036b7210f3a29b4e5f9621a722a64c310bfbfe2d) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x06917e4c301bacc23f40435cfe57e1fee37d023a393b4cebb703aeb41fe18adf) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x10a6fdaf1ce62557d1ee3742527c3e9e8e81c463d5aa4524e0ada3d5f2e0ccb2) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x617da45ceaa1932d1b08c83d861f477643b8c783327c4bd14b2953cdf5232b62) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x4e00479ca4bda00e77a6e09a6059c444dc759b5d86a355ad5fa973235fb2691c) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcd167932254d1c1cf91a4fd968915e87814aa89c02205ab987a6e45ced441f0) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99e5eb75b33d4f55036b008a052e6884834d69c8be819f4e1a3a050889edc3ae) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f0d5a9319fbda78991f2f08545ebcf1fde897b8e845ab6226dcb626307eedb7) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2259533ef7677c8855b697ef18fdb1c873d074f6bfc35cf90ec6c1ff63f068cd) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55a41ff94af23ea2c2e48372c327d185cad3dabe7dd1191750232afd1698a185) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | Williams/Ruth/Robinson '18 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x960dc7d3387dee7be4c4d3a5bc588fc98309586f14481c8c0ea365cc850956b5) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe1cd1f6f7882189c8ebaa0e2d80a3754ee7d6798583d66ec70f782eb67bc8f54) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc8f4ab0f1c9ab5bdf0558bfa2785aa8b5a8dda547a78d245e2adc063344a27f4) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca43ed73dad011d1ab6d095b39f375aec3fd256aec6cbe46941230674b6b1b34) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xafac79f3387ec1ef21846df567b949d428a874f1a01f8f43e4ece9606c2cc13a) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec738027401035d0a3f42b9b988e7623d0fd05dff08f26cbf829cdcee4b72439) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5cad4d07c6169b8d8dcaa90c28a4ca2362e719d96950c8e3c7fd34e3e1095c5) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x22076aff284a137ad6dc735c98e9b62bbd1dace9ae3b74cf4b1decf7d63d1559) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64280816d5f4bf3d7a17f883db7f172a96c4c2456d07cd89ef954fb56f065bea) |
+| `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4702a032b091194104af6339ca3c6fcd0502848097f5f0e78a9a13497ebb3f25) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24e16438de99fb92e4114bb5fca6b1d487e0edbadb41c1157f940fa0ded32daf) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f1c842ccdc5baa22b96a71f2b631bf7362e423c9e7a90487818212f54a65e5b) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8928e02eb6269a0666b29b2c90d410f229541398a2700535d5df5de5644814fa) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcd0ded9d4a958a0c14ce02ece007a9c650337fad497f8297362a410ec1cd7731) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbdf9b13862badb60af9ef26a2895f7a815515f284183d765c03feb04621b37a8) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | Williams/Ruth/Robinson '18 BGS 9.5 | 17 | [Polygonscan](https://polygonscan.com/tx/0xe0536fe6fc81493f4a88754ecf3d30828746b3f66edc7596847a53af7107ddd5) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x072feee59f419d8e31ea0b59acdfd397a0e839f7bc816fdc67cc286ac3059ece) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdda533ec596ffd5e7d3d34ca5bfb72a95a624de79296aa16179e83429ac4b502) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa7261d85b248ee2fc12a918d798217c633dcd6ad2976f7e2f9c682a7414cb748) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02eaa5cda0ddd7004d0f00bc2ce1001f1a1b494422f472265800df28c2c01a20) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc052b52319066ddbf8a784cb76b066b38b8ec8026279f0fbaea3abb8ead0ce11) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x352fcd3150863b325fde9058db0c3f88841a7be4fa6cbe64385cd279b97f8aba) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9fa931fd22140936f03438b9ee883df6fbfdf970cdd7342a0e0ea9e68759374) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3243f970c70bb481aa52ee9e573b88c53a9f58535f4a9186afb621fa1ac147d0) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23f72c851ba04480dc6c3535619e3e55143664062ec71a31e29cdf29d33c86a6) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | Williams/Ruth/Robinson '18 BGS 9.5 | 25 | [Polygonscan](https://polygonscan.com/tx/0xcadc3cab679ec4fb96de05ecf37d6d76c83fc0247d2adc2dd6ad764f492dca0b) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xfacdbbbf1b80aaf329511e792cd38e554bea0587c543b38fb348cddc1c63c5b5) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa05d4646aece979d875f50e3682682d534e8c6519716a29c8c1c433f00d4ad31) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x139ed2ef07469c04bac0ac1d974ed5fbfe5c5e922b16f1291c699261beb8c2ed) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3a86f7905f221eac12c843196f6a2c74f5b8428c3d14c36e6ccee8591bfedc2) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe935dc3990e522cf293be74428a4e32125c626c6523bd1a9fd17dfb700da4f67) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | Williams/Ruth/Robinson '18 BGS 9.5 | 103 | [Polygonscan](https://polygonscan.com/tx/0x9b90953c1def7879703524b633f126bb4db52400b753f3180965ca9e10c162e7) |
+| `0x6C17772d595F4Fb6373B7FB2a3FB1796c01d87eF` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e0b9717fa9db8302e59498b6eebc7d4fb3343088a1b924e995e11ecf2629ab2) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0add3d811b0042f77c0a582db10621f295da01ad5ab2ddc8881c75135564c23f) |
+| `0x6F584D05b34b058ed5b78B09b34ABA6409E440FE` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x20b5451da96b11642465d031e61f33796ce899c81629f3c9f831acc67f416178) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | Williams/Ruth/Robinson '18 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x095d34bea5705ebe885c81ddfa0598915cd38e5f6c74d677ef1671298fdd8982) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc300fa9ab42334ba20777972e46ee09b932fca4aaa9eb97c297381e5b20494e1) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x19dae64a48223717a52eb6852bbedaf4b03b5b1be78d492a04487045604eb067) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | Williams/Ruth/Robinson '18 BGS 9.5 | 18 | [Polygonscan](https://polygonscan.com/tx/0x815f12eef1bfc21e1ccdca3819177742b8ac48ecccb4f9de716b61617a9d841e) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x5d889bbd079f041d08e6564f2f85d1c56bbc2829ffe1a11b246c85a8a8a63a41) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa586e309a5e54b09db33f25e97bc8e74257f6295cfa81796ea8803df9ffc4171) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | Williams/Ruth/Robinson '18 BGS 9.5 | 17 | [Polygonscan](https://polygonscan.com/tx/0xa9ee2170ccf7b64c98975b36554628266e89510f4948bc6caf22e73be2f2460e) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfb535df93af9a0bb2bf5d2c08f68d5909dbaba1982435790c49f89f8455b3fc1) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x129cb01cb0138026fbaef4c6db2a177080b654b3f78a002534494b1225511291) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | Williams/Ruth/Robinson '18 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0xfa73131d6018d511f078b9b6c415f9ec22a5584f71c3718398500a6519106812) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | Williams/Ruth/Robinson '18 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0xb61caa3692d28cea2763513b25a87b62a5326a1863bd748b99556ca838c6efdf) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x507c7865255a69c919a453e817f9b8ae32daaf1100d888cc366c10716d771d1e) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98e921a16537fe7eb1aa96fea091fa73caa3c6ac2cbbbe50ab5090d953794be8) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb94f247db5dc1eb2f2534f409ab35bf6ba2f4ce7fee6aadcae132f67dae63b85) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2a4212cf653618bced28b162f603f25c631da5fc52ab2570858f3913ef40d1bf) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5edfe5cef39df2a0f2070a4297fb7e5505a9f811e3d6ec04f72696ca1816e21a) |
+| `0x8701C3C5ac64C76c91bEB2849D22AA12Aff2A0D1` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ab2f32d1c79f059374f9f46d1847ba9b105cd7d8ca30fdf3202a42567080c63) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec7b33b3429d3e71e982f8355216ee38a9074e4712923b1d04d6eba28b3dc896) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | Williams/Ruth/Robinson '18 BGS 9.5 | 389 | [Polygonscan](https://polygonscan.com/tx/0x1b8d6aff814df527e57c5e2c7b0a2e7f9fc06b189e84b0557d4ee9ccadc1f813) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc918833cae1a186f5aa9193ece3bf706df4e1aa6def52ded2ce53b445f552ec0) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | Williams/Ruth/Robinson '18 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x2526cef6f83992a686da024bb4d535438110fd4f935aa0c4ef4fb754a92a4897) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x67db5e1ebf0c02585c8686778f2fb5c87db186b74c3067ceea5f6973d92cc436) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf657025b1fdd57d9447a02ea8ac12e88e9bfc132a635540356c181c9a872bef) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc2c1c8fb7edb67cfce413cc8690f1120be7be7d86992bfd84cf27ba761dd55e3) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | Williams/Ruth/Robinson '18 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x1931a7a87b68084528e65e1048b7dd770eed2d7ccb4df62a70c4aaafa508fde6) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf0ffe3390bebaeedf553623381bad07870497c2c7544c91e37f66ad3a7d2892f) |
+| `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd577eaf158ea79e290cd04af8e1cf340346e5693688c6a88023fefb1b15e5e4) |
+| `0x9C25fE64af87DF63d6507732f537E8697cC8bf25` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5011cb66750dc41bab226ab638f9f8b43fa9366fd1fbcb0c6240b698dbf4d062) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0932557390d2eb1bce0d54d3998ecec6c76cecf829b42aa2b87241a7186e5f64) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7a551ef14827518a811c995e5c25843a234bfb610152a53a6027a40095a16f8e) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb6861c7e87352cb6413489ab92a1d1332909e965773c750817622ccba69c800) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2951c16146faad8c0591f1136c05e332f967aae530397462271c60b86af27e06) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86da0f440686002d50a603e2fb66caf8e90e8d210210d292e406be5aa7850b5e) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1ab16303635bae111d4aad001d26c9007caf72e59f3cc0490d53b432cf513c6) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf43f437a9bdec3895883ab4730e1a1d33bf87ecb53fac11cc953b5ba023b88c2) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf04f0f88825b4aad77be3bc49669390df2410c520d41b4ef72978a3f4b76d3d4) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | Williams/Ruth/Robinson '18 BGS 9.5 | 22 | [Polygonscan](https://polygonscan.com/tx/0xee1a85fcc33bf496d86a0b62266eea9051eb8cb55d67b1c92604b5f07990ce7c) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0e9ac5a59c246dabc04d615bad7513a6e8ab5d57f7eb07d57cfc120e1789fe54) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8dd00916bedac82427df137cc081c2d7d9a84860facbb4e39a08e4cb6a30945c) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6c04e325fc8641ea9e93bd22fafc1096d8d32ba5fd2789a53e69e711bc37afcc) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18b4ec2d08d17f9bd22ad4046c0960d32aa2b47b9d2b5e3957624bc1860aeb2a) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x828f78400d34059b92c614ecb86997d951bda4ed85f09f4d414012f68a374318) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x188e9b2ff8ba07e41da39fd4c24c83e59a387c670374e319a99a655d28fb6860) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6fd30fed977b8507266fc79b3bc1d52ee2254a7a5be20838a30d984a1e1a4717) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xac6fa5f891b952fafb85c58b923a2ceaddf3f8f9eeba74edb081b366b5d22a42) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x09c1ba44ed3750f0287e2aeca5fac2df1ccb09507ca41e94b461c0aa5e1cb823) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e6c4ecacfd86b9849434963d9847a7ea0d4bb5b708e852710c827116b061a79) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | Williams/Ruth/Robinson '18 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x10a39d256ba263a6c71dc1bb38819a1e2e2f497f20b73d6618a910305ed5ed82) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef418ab3d1035ca67f38aef38a3b21acc4b1108de9231f71bcfd05c1d9defc81) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x118ba1d156863be1f8f1e5edfd6b296c939a4cb5492da347fa13ff982119891a) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x43872ce0d3dfea6933abb0719ad3457f95526b0ce57ef4044dea4fff9d52f070) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | Williams/Ruth/Robinson '18 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x09e1f40dc3aca5bd00ae18b52fc842f108f764ce6b7da5f0ff6597dcad9a00e6) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x06b6a4eb058a4ccd5f9a07a6355c947484bd1179bdaf62f7660912a1c4e31581) |
+| `0xC8e93EAEdBDCA697DE84249632261c8Ae4a187bE` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x920954542208c2cd5410209cb1b63545f7b72592f7200b6261360dc7348302ab) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb5f31ab45eb40964943b9221c6af1df0f43d18d93e1298cb40aa8fc521c19d92) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa68502bee39ab29ce714ea9429d7cf25ea1cf9dd1e4ad8bd3da8c9140b3ded81) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b477aaba84f215fc08350d7ed90608a4147cef6ecbfe3e1624cbbee9c7967f0) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x030b65ee81e03a645275e239f000818c3fa057d89b6907de7294b36e2a7ea439) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfa81ef9bd60b9c5acf810520e1d21fb4eb33f32efa46380704f43622048b651) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1707c22f8ec07d3617b19946d63b8941d303506e572708c8b782de87ae2c9e4f) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5910ba445cf669f2b4994b7b8578f12f667d7376cc4ed0f3c23c9c1f62191e77) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ca1351b752966e2674654a063d2d9b066c0ab8d18f8a1f86fd77b79f8e2587d) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe2945b51802536ff621c755770cd664c8e6f4e1a9442d8169fcef6e93d37ae1) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | Williams/Ruth/Robinson '18 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x7249ac2778de9a89c3c03614b0a0a656b5199004d89fdd776a812baf3eec82b8) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | Williams/Ruth/Robinson '18 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x84f82d8afe9e02ebd3bde5b15d321bfeaad18668c1d65511cf4ecafedd0c5f98) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb5e4698a843c4bf6b7b1165fa8d9e8513e81dca18d9bfd9ee5b4a077737adc3) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc32466511d747e49328158c7e7fb0ce2a97ab314b19cea8928107ed87cb3fad5) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4b3eeb0e574212c0cd13648e227c8d99c69483a51b41ccc4b4de4ec237345c68) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdd94ec8dedb405aeaa147d65a1e567da04f960ce6a9d280a653b86a3ffe4042a) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1af3193b4829b9b7ea64a4a0d88b18ebd4de62a8cca030a54257f9db12d4f76) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c899a339330cae82ff264bf687965c13f896435efc85587c2d7ceaeb5560873) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd837abf32219b81bdb44e03b1b259622fa528d22bfe2d87ffe5c67e7a3991bee) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc233ebd6dd08bc286b233f0a28ced935d5ee2f0990dfb1baf9e12266945506b6) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dd7d3b651ead145e0943697d6112d312eebead8f26b5677c92deeb78b4fc1d5) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | Williams/Ruth/Robinson '18 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x29b607c57b31b24aad4f32e954b1b0c3f69abceecc0b82a9cccb2f1b0eb703a8) |
+| `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb293447f3b6bbcf54556096a5e52517f293d8d3e3df5fec2dcc7d39b691b2c73) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | Williams/Ruth/Robinson '18 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x4a08a19cdf7064fd669de842e30820491c07e69f313da4d76f8f40c65d1b1aa0) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | Williams/Ruth/Robinson '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7567a8e54ad8f0229c2d8289a42f32fdc5176fd47eee71e071bd5b87e32ac2fb) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf6e66a310525bf397a43fce19de75eba8fa2fc5618df382e2ff0b04f07e11baa) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x57ac18b590b4f6ee4403e65aae21d400ef994cf90cb389085f65829ad3b3ee10) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa7894c5cc332fe81815977515410f1d5dd79b7a2b01905c8b794d826cf13887a) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | Williams/Ruth/Robinson '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xc5ebace26226ca8aa5279880aa519378fec5c63980a3dfef6271489abbdae595) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1496ab17fb997e0091da7d1dd285c68dceaeace5f0458d814709b95a5e7f6d34) |
+| `0xf9aEbc0Fb3D6511a151510905fB10694Bb9AFcdf` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1cf3cffd96bacee9757b152287d57a712034b42d2ab9e58aa452e4e5f53dc84) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb2363ecd05418a77abdf4c5648b1df8237d7a39d6b416d60193e887e6fb9b664) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | Williams/Ruth/Robinson '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x97bb3094dc9fda56c2c06629ea8e68895882ec5793ad99bb71ee3d124601aa58) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | Williams/Ruth/Robinson '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf60840d16248c4efccba84c8fce9e6cfd0499602433c0ffbde6b5b47caebab0f) |

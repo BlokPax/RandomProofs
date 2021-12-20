@@ -1,0 +1,2714 @@
+# [Elimination Proof](./readme.md) / L. James &#039;03 BGS 9.5
+
+|||
+|---|---|
+| **Drop** | Blokpax 2021 Series 2 |
+| **Round** | 1 |
+| **Started** | October 6, 2021 5:00 PM EDT |
+| **Completed** | October 6, 2021 10:02 PM EDT |
+| **Tokens remaining before round** | 122,880 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
+| **Tokens remaining after round** | 61,440 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
+| | |
+| **Asset** | L. James &#039;03 BGS 9.5 |
+| **Internal ID** | 201 |
+| **On-chain ID** | N/A |
+| **Image** | <img src="https://tcdn.blokpax.com/9484ebfa-630f-4368-b7ec-73f618d07e63/86497e46f4f72aa46a3556694f61db7c4400c541b29a487b35fca75368d32bb1.jpg" height="200" alt="L. James &#039;03 BGS 9.5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | @Djay2424 |
+| 💀 | `1` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `2` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `3` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `4` | @axspointe |
+| 💀 | `5` | @Robb417 |
+|  | `6` | @Kujayhawk20659 |
+| 💀 | `7` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `8` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `9` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `10` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `11` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+|  | `12` | `0x15490366643f01c0EF6345Be449c56DF9E267eAA` |
+| 💀 | `13` | @Hotsoup23 |
+|  | `14` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `15` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `16` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `17` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `18` | `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` |
+| 💀 | `19` | @Kuig |
+|  | `20` | @Mrbibbles |
+| 💀 | `21` | `0xe52fB5Ca83fd467A6ff07923B7907118D34F9018` |
+|  | `22` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `23` | @clearskyline |
+|  | `24` | `0x3fBb620dD84f81Dca27AFca4087d179ae377D8Df` |
+| 💀 | `25` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `26` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `27` | @JohnnyG41 |
+|  | `28` | @ARCIV |
+| 💀 | `29` | @Mzoltek |
+|  | `30` | `0xa2140e9c5eA863Da58521737e566D27087E198c9` |
+| 💀 | `31` | @Aaron |
+|  | `32` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `33` | `0xc402Fc6D9aa01f4Fb13568F13582aE837ed9ec78` |
+|  | `34` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `35` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `36` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `37` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `38` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `39` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `40` | `0xB463BFeCDa2E53c3Fbc0F3cfFcbd79655e8fb2C4` |
+| 💀 | `41` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `42` | @shonsbud |
+| 💀 | `43` | @Hobomatt8 |
+|  | `44` | @two4qt |
+| 💀 | `45` | `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` |
+|  | `46` | @Meghan |
+| 💀 | `47` | @Sailing904 |
+|  | `48` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `49` | @Jeepn08 |
+|  | `50` | @MAXSLASHED |
+| 💀 | `51` | `0x2e3d2c133f1E8C7d56940Ea6FDFF86C4C2f779AF` |
+|  | `52` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `53` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `54` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `55` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `56` | `0xf10560083fED00917609910127bd822344cc99ef` |
+| 💀 | `57` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `58` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `59` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `60` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `61` | @Phinox |
+|  | `62` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `63` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `64` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+| 💀 | `65` | `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` |
+|  | `66` | @Rj9568 |
+| 💀 | `67` | `0xD6F1285528AD2448f1E37004Ba389C19e1fb317e` |
+|  | `68` | `0x1e1C8817304b7dFa38655F8C48715EdAc44b05A7` |
+| 💀 | `69` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `70` | @Kuig |
+| 💀 | `71` | @Beltran5 |
+|  | `72` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `73` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `74` | @Ichwk44 |
+| 💀 | `75` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `76` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `77` | @Dkussian |
+|  | `78` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `79` | @Devg34 |
+|  | `80` | @Metalheadmedic |
+| 💀 | `81` | @Bforrer444 |
+|  | `82` | @CplNaatz |
+| 💀 | `83` | @Nicolasj1 |
+|  | `84` | @Dmclanin |
+| 💀 | `85` | `0x9E1b582A70dA26f79391de64D93cd2A0e51E0209` |
+|  | `86` | @Aabreu |
+| 💀 | `87` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `88` | `0x42d94C7F303A737223831984eF2329aA789dd5C5` |
+| 💀 | `89` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `90` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `91` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `92` | @Michaelfkurtz |
+| 💀 | `93` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+|  | `94` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `95` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `96` | `0xF6b62c2F3Fa4cD460FFBA54575992Ff5B946392F` |
+| 💀 | `97` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `98` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `99` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `100` | @azel |
+| 💀 | `101` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+|  | `102` | `0xC0f1Af4537F821fdFCeB6C07021547C48F2773A3` |
+| 💀 | `103` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `104` | @Orioles218 |
+| 💀 | `105` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `106` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `107` | `0x1e1C8817304b7dFa38655F8C48715EdAc44b05A7` |
+|  | `108` | @FrostyDog |
+| 💀 | `109` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `110` | `0xa2140e9c5eA863Da58521737e566D27087E198c9` |
+| 💀 | `111` | `0x282E91A17d51859C450a9bB5725D652284D02c90` |
+|  | `112` | @Wilman26 |
+| 💀 | `113` | `0xbC300F50b210f5101769b6689961B67fdA79F481` |
+|  | `114` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `115` | @Djaxn10 |
+|  | `116` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `117` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `118` | `0xd215d23D8cEc4B94AFC1bB1B2D201637C183AEC1` |
+| 💀 | `119` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `120` | @Oshnapz4real |
+| 💀 | `121` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `122` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `123` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `124` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `125` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+|  | `126` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `127` | @mekadon2020 |
+|  | `128` | `0xEa66f33Fb201953316dcB3a96054B664eeD7c04b` |
+| 💀 | `129` | `0x524537bb47C13aDbcf59aB23DF47DcB639462d05` |
+|  | `130` | @rvo37 |
+| 💀 | `131` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `132` | `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` |
+| 💀 | `133` | @USMC03VET |
+|  | `134` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `135` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `136` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+| 💀 | `137` | @RoseCity |
+|  | `138` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `139` | @Barefootstomp |
+|  | `140` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `141` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `142` | @Rk1228 |
+| 💀 | `143` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+|  | `144` | @Bubby9224 |
+| 💀 | `145` | @Rolzs |
+|  | `146` | @Waffs |
+| 💀 | `147` | @425sBesT |
+|  | `148` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `149` | @Bread |
+|  | `150` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+| 💀 | `151` | @nandresen |
+|  | `152` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `153` | @Keavenbrown |
+|  | `154` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `155` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+|  | `156` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `157` | @Nopressure |
+|  | `158` | @Jayjohnson |
+| 💀 | `159` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `160` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `161` | @Aaron |
+|  | `162` | @JJJ101415 |
+| 💀 | `163` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `164` | @DirtyJeeves |
+| 💀 | `165` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `166` | @xChuckwagon |
+| 💀 | `167` | @Thecomeback |
+|  | `168` | @Defidior |
+| 💀 | `169` | `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` |
+|  | `170` | @Crgchris |
+| 💀 | `171` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+|  | `172` | `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` |
+| 💀 | `173` | @Logainsta |
+|  | `174` | @Bigbullgashi |
+| 💀 | `175` | @Todo1111 |
+|  | `176` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `177` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `178` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+| 💀 | `179` | @Berncardinal |
+|  | `180` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `181` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `182` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `183` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `184` | `0x73BD103dA179253B60e19b18d9c570F371e3c477` |
+| 💀 | `185` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `186` | @Thestayathomedad |
+| 💀 | `187` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `188` | `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` |
+| 💀 | `189` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `190` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `191` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+|  | `192` | @Sparkathor |
+| 💀 | `193` | @Ripweazel |
+|  | `194` | `0xCe3730B98C60A594466A0E6Cb057162C36954024` |
+| 💀 | `195` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `196` | `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` |
+| 💀 | `197` | @Sexybaby |
+|  | `198` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+| 💀 | `199` | @William2879 |
+|  | `200` | `0x4221E209640b90901c4932129bfaD744e5A7DadE` |
+| 💀 | `201` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `202` | @Jaminix |
+| 💀 | `203` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `204` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `205` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `206` | @mferrell74 |
+| 💀 | `207` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `208` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `209` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `210` | @John1980 |
+| 💀 | `211` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+|  | `212` | @diddelyscott |
+| 💀 | `213` | @dropEMoffdaSHORTedge |
+|  | `214` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `215` | `0x3Bf9A28fecf48b5e81bb6eFd84c81b5f3DB81C90` |
+|  | `216` | `0x1cc662870FBB5df810C74B72773bfBd1399E79c7` |
+| 💀 | `217` | @tcwalletsandmore |
+|  | `218` | @DiscreetTaco |
+| 💀 | `219` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `220` | @Vahe1993 |
+| 💀 | `221` | @Fost |
+|  | `222` | @Dalba87 |
+| 💀 | `223` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `224` | @ChardyMcfly |
+| 💀 | `225` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `226` | @Ojeezy |
+| 💀 | `227` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+|  | `228` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `229` | `0x204255cFB052473e6F7f69A72d07C5811bDc8ff5` |
+|  | `230` | `0x17B31a13650257F4050071fff10de860606B43Af` |
+| 💀 | `231` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `232` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `233` | @Aileyn |
+|  | `234` | `0x4735EF6D67e77bEd01198Fb90CcCA13d0B096Fc4` |
+| 💀 | `235` | `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` |
+|  | `236` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+| 💀 | `237` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+|  | `238` | `0x2e3d2c133f1E8C7d56940Ea6FDFF86C4C2f779AF` |
+| 💀 | `239` | `0x7445938D345c59143f608Ce686551eDE52cA5716` |
+|  | `240` | @DaddySmash |
+| 💀 | `241` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `242` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `243` | @Leinhart |
+|  | `244` | @Brandonlink89 |
+| 💀 | `245` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `246` | `0x601c115F74eb4cE709E7ef1B8a9Df159078e82a6` |
+| 💀 | `247` | `0xB3A028D6F28b35d0f805b487Aec41f601A1B8059` |
+|  | `248` | `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` |
+| 💀 | `249` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `250` | @N-Gine |
+| 💀 | `251` | `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` |
+|  | `252` | @jaymez25 |
+| 💀 | `253` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `254` | @LowedKutz |
+| 💀 | `255` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `256` | `0x7107B1221a467559c2Af17629AEAF46806626C57` |
+| 💀 | `257` | @Enigma |
+|  | `258` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `259` | @Castoraj |
+|  | `260` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `261` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `262` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `263` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `264` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `265` | @Pyggles |
+|  | `266` | @Deezo25 |
+| 💀 | `267` | @dbett82 |
+|  | `268` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `269` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `270` | @Braxtonsdaddy87 |
+| 💀 | `271` | @bighairyarab |
+|  | `272` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `273` | `0xb4E5A70053b086525aD46A10014586474200E897` |
+|  | `274` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `275` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `276` | `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` |
+| 💀 | `277` | @jsunwall |
+|  | `278` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `279` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `280` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `281` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `282` | @Kdubbb6 |
+| 💀 | `283` | `0xb25670e731691BCC0Adb39a7C7b23A460503397a` |
+|  | `284` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `285` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `286` | @YodaB420 |
+| 💀 | `287` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `288` | @RogerFord |
+| 💀 | `289` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `290` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `291` | @JB74wesley |
+|  | `292` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `293` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `294` | @Shanks214 |
+| 💀 | `295` | @Zdollak |
+|  | `296` | @Meghan |
+| 💀 | `297` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+|  | `298` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `299` | @Crogers337 |
+|  | `300` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `301` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `302` | `0xeF94e8eA3fBE7b1a6aA6b61b89aDEEB8fbd0b40F` |
+| 💀 | `303` | @eddiessportscards |
+|  | `304` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `305` | @Providermusick |
+|  | `306` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `307` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+|  | `308` | @MikeRong2138 |
+| 💀 | `309` | `0x68aFEA09A6a1d250Ae1612809a320cDbd080085a` |
+|  | `310` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `311` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `312` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+| 💀 | `313` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `314` | @garrison36 |
+| 💀 | `315` | `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` |
+|  | `316` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `317` | `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` |
+|  | `318` | @Boro56 |
+| 💀 | `319` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+|  | `320` | @Topjim0713 |
+| 💀 | `321` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `322` | `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` |
+| 💀 | `323` | `0x21B8B92561551778B5F6c5123a8cAB2aE0739851` |
+|  | `324` | @Brandonlink89 |
+| 💀 | `325` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `326` | @Millsmojo22 |
+| 💀 | `327` | `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` |
+|  | `328` | @Thatwasyourplan |
+| 💀 | `329` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `330` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `331` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+|  | `332` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+| 💀 | `333` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `334` | @DaddySoCo22 |
+| 💀 | `335` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `336` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `337` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `338` | @Mydestiny79 |
+| 💀 | `339` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `340` | `0x4d4Cade0eB1B78545A40C8B25BC4C7b8BCFdf508` |
+| 💀 | `341` | @H8er8814 |
+|  | `342` | `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` |
+| 💀 | `343` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `344` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `345` | `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` |
+|  | `346` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `347` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `348` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `349` | @dgambill |
+|  | `350` | @bmcmeas |
+| 💀 | `351` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `352` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `353` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `354` | `0x8e3af2796f4730967D87D930335ecB67e6C6b099` |
+| 💀 | `355` | `0x32b158Ab41C47Dd0d2d33F35e7523EF7Ab9A2d0C` |
+|  | `356` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `357` | @Wolvenator48 |
+|  | `358` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `359` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `360` | @Aaron |
+| 💀 | `361` | @Vahe1993 |
+|  | `362` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `363` | @MadMak05300113 |
+|  | `364` | @jenkins |
+| 💀 | `365` | `0x2539375a3c2aE0AbC9889a37527574820234ca25` |
+|  | `366` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `367` | @IzzyT21 |
+|  | `368` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `369` | @AaKP28638 |
+|  | `370` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `371` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `372` | `0xa52e83527932B3674581E5910fC56ff60C327746` |
+| 💀 | `373` | @Bang |
+|  | `374` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `375` | @Mphoward |
+|  | `376` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `377` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `378` | `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` |
+| 💀 | `379` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+|  | `380` | @Ericxrp9579 |
+| 💀 | `381` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `382` | @Googoli |
+| 💀 | `383` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `384` | @Cohigh42 |
+| 💀 | `385` | @Mikefocker |
+|  | `386` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `387` | `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` |
+|  | `388` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `389` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `390` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `391` | @KyJFields |
+|  | `392` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+| 💀 | `393` | `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` |
+|  | `394` | @Hurts2026 |
+| 💀 | `395` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `396` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `397` | `0x4f79e9Ba5E41E1b19938002341b6Cd223f84AB76` |
+|  | `398` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `399` | `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` |
+|  | `400` | `0x8d2287f628ea35ffe5cD6CF34443Ec5194532cd9` |
+| 💀 | `401` | @TwentyPeace |
+|  | `402` | `0xfFA1b35889D7fEe52DD8AEF415B3aDE38A1cC0A1` |
+| 💀 | `403` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `404` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+| 💀 | `405` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `406` | @Kgiemzik |
+| 💀 | `407` | `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` |
+|  | `408` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `409` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+|  | `410` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `411` | `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` |
+|  | `412` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `413` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `414` | `0xFDa3F5f2492dC8B7e28B7021A66eC688916AAb22` |
+| 💀 | `415` | @Mightybatmoose |
+|  | `416` | @commishconley |
+| 💀 | `417` | @Suggested |
+|  | `418` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `419` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `420` | @broganoherron |
+| 💀 | `421` | @TradeApprentice |
+|  | `422` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `423` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `424` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `425` | @Mphoward |
+|  | `426` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `427` | `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` |
+|  | `428` | @Flaco305 |
+| 💀 | `429` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `430` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `431` | `0xf726303f4DDB9AA982519249f4afeA74B5e106e0` |
+|  | `432` | `0xe2606941359e1f7403384D7D371aC298f6b915E4` |
+| 💀 | `433` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `434` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `435` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `436` | `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` |
+| 💀 | `437` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `438` | `0xd360cfC49e06b2Ad6E70AEFC2D89ea9737B2B494` |
+| 💀 | `439` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `440` | `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` |
+| 💀 | `441` | @marcrap2006 |
+|  | `442` | @dkohio |
+| 💀 | `443` | @Oledoodles13 |
+|  | `444` | `0x6C17772d595F4Fb6373B7FB2a3FB1796c01d87eF` |
+| 💀 | `445` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `446` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `447` | `0x2D5CB0cE32539b04FD24b317D631708Ecce61d94` |
+|  | `448` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `449` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `450` | @NickMiranda51 |
+| 💀 | `451` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `452` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `453` | `0x7E3Df22A6e35073104deBEa23B5b04dD00E82162` |
+|  | `454` | @Chrislejano |
+| 💀 | `455` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `456` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+| 💀 | `457` | @Thebiz2973 |
+|  | `458` | @Kid68 |
+| 💀 | `459` | @Jaycook |
+|  | `460` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `461` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `462` | `0x343BA02e3A3F9A33A5B238B9C3b3F73ba02cb96D` |
+| 💀 | `463` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `464` | @Dsksports |
+| 💀 | `465` | @Marleymagic |
+|  | `466` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `467` | @lrsportscards |
+|  | `468` | `0x6437Af16F82619aAafAf1242Ff0bcaf110774161` |
+| 💀 | `469` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `470` | `0x8d2287f628ea35ffe5cD6CF34443Ec5194532cd9` |
+| 💀 | `471` | @DirtyJeeves |
+|  | `472` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `473` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `474` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `475` | @svance35 |
+|  | `476` | @Keithskis |
+| 💀 | `477` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `478` | @MarcDSimon |
+| 💀 | `479` | @A14U2NV |
+|  | `480` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `481` | @Twisty12 |
+|  | `482` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+| 💀 | `483` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `484` | @Morgan |
+| 💀 | `485` | @Dak_33 |
+|  | `486` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `487` | @HurricaneJeff |
+|  | `488` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `489` | `0x33BeD6E961F510bE95a00381B775483Ffd70a3A6` |
+|  | `490` | @waccoon |
+| 💀 | `491` | @TreyDee |
+|  | `492` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `493` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+|  | `494` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `495` | `0xA0C0b23FaAf67775016B256D0574E67ffdf41223` |
+|  | `496` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `497` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `498` | @Bama18 |
+| 💀 | `499` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `500` | @Tidefan1 |
+| 💀 | `501` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `502` | `0x18726E2af433889354F9311e89f81A24C6CaCef8` |
+| 💀 | `503` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+|  | `504` | `0xF4437518F3aC7aB3B2F5ecf4EBd035634F3C28ab` |
+| 💀 | `505` | `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` |
+|  | `506` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+| 💀 | `507` | @lrsportscards |
+|  | `508` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `509` | @Cburn1235 |
+|  | `510` | @TRode |
+| 💀 | `511` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `512` | `0xe5AA137f8A08978EEF7460809ed1a6A156C06035` |
+| 💀 | `513` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `514` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `515` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `516` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+| 💀 | `517` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+|  | `518` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `519` | `0xc67099b84Bbf09a94f3711df522DB5015AD90D49` |
+|  | `520` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `521` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `522` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `523` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `524` | @WaxEcstatic |
+| 💀 | `525` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `526` | @Akbarkrumb |
+| 💀 | `527` | `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` |
+|  | `528` | @Djay2424 |
+| 💀 | `529` | **UNOWNED** |
+|  | `530` | `0x1a916145507f01653f4e2Df72E68c85be7016346` |
+| 💀 | `531` | @Odot |
+|  | `532` | @Jmac1623 |
+| 💀 | `533` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `534` | @JusBkoo |
+| 💀 | `535` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `536` | @Tonyknows |
+| 💀 | `537` | `0xab4B3A2c4A7959e459Fff7FEFf17C02c60a6bdcF` |
+|  | `538` | `0x5fBccfbC090f0086bfdABF1B9919e8Ff7a5daA4F` |
+| 💀 | `539` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `540` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `541` | @Oshnapz4real |
+|  | `542` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `543` | @Farrisc |
+|  | `544` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `545` | `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` |
+|  | `546` | `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` |
+| 💀 | `547` | @Slinkkrodgers |
+|  | `548` | @Ares1042 |
+| 💀 | `549` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `550` | @Mattattatt |
+| 💀 | `551` | `0x25A8aE899F7Ecb7FE56AB133a9cc7856E21006AF` |
+|  | `552` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `553` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+|  | `554` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `555` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `556` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+| 💀 | `557` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `558` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `559` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `560` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `561` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+|  | `562` | @Sdrunner |
+| 💀 | `563` | @Toddzilla23 |
+|  | `564` | @Gmrturtle |
+| 💀 | `565` | `0x68DE09e9f58A2c328EF4400107E348C94701A3bd` |
+|  | `566` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `567` | `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` |
+|  | `568` | `0xd2a15c0f728f3a0856c3373F5C3BB83c7ce02Bd9` |
+| 💀 | `569` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `570` | @Liberty777 |
+| 💀 | `571` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `572` | @Pzsuave007 |
+| 💀 | `573` | `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` |
+|  | `574` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+| 💀 | `575` | @two4qt |
+|  | `576` | `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` |
+| 💀 | `577` | @Iceman38714 |
+|  | `578` | `0xec529bCBbAf8Eb3291d37f61485585EC2700fcfe` |
+| 💀 | `579` | @TMHS92 |
+|  | `580` | @Zombie_eyez77 |
+| 💀 | `581` | @KingKeylo808 |
+|  | `582` | `0xA77E21e2e6A36B6C5a331c69251066Cb533CBaaf` |
+| 💀 | `583` | @Bigballer8500 |
+|  | `584` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `585` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `586` | `0xa2bEe6ED41bcd8bb183A44421C5B713aF9a6e313` |
+| 💀 | `587` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `588` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `589` | `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` |
+|  | `590` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `591` | @dfsjerk |
+|  | `592` | @mrgoodgreen |
+| 💀 | `593` | @JohnnyRipz |
+|  | `594` | @Eddyed13 |
+| 💀 | `595` | `0xbF5434118630208825eed8E3B5E009d721aAf39C` |
+|  | `596` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `597` | @JoeMerengues |
+|  | `598` | @dagotkin |
+| 💀 | `599` | @rldlsteele |
+|  | `600` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `601` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `602` | @Spartikis |
+| 💀 | `603` | @supercopes171 |
+|  | `604` | @wknose |
+| 💀 | `605` | @brtennis01 |
+|  | `606` | `0x8BA4790B31EaC3761c7bDF057b1e3a6DB4740cc8` |
+| 💀 | `607` | `0x016bdb903929664EB330084fb27398F250DbB1FE` |
+|  | `608` | @Leinhart |
+| 💀 | `609` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `610` | @Sjolander2021 |
+| 💀 | `611` | @Thammock34 |
+|  | `612` | @Tahlequah |
+| 💀 | `613` | @Busterbeall |
+|  | `614` | @2blegendx |
+| 💀 | `615` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `616` | @luissportscards |
+| 💀 | `617` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `618` | @WaxEcstatic |
+| 💀 | `619` | `0x27f2Ca0F68A854dD23c2AEfB3EC8315806e1ced4` |
+|  | `620` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `621` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `622` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `623` | @Kobayashi_82 |
+|  | `624` | `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` |
+| 💀 | `625` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `626` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `627` | @ItsTime |
+|  | `628` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `629` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+|  | `630` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `631` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `632` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `633` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `634` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `635` | @bighairyarab |
+|  | `636` | @dfsmojoman |
+| 💀 | `637` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `638` | @DCL82 |
+| 💀 | `639` | `0x3813f83CEEc937Be23f21BAF1141e91214e82cf0` |
+|  | `640` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `641` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `642` | @BigDawg23 |
+| 💀 | `643` | `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` |
+|  | `644` | @Bdkstevens37 |
+| 💀 | `645` | @NameGel |
+|  | `646` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `647` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `648` | @Rosh316 |
+| 💀 | `649` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `650` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `651` | @Kawshon |
+|  | `652` | @PeymanK |
+| 💀 | `653` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `654` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `655` | @MasterXavier |
+|  | `656` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `657` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+|  | `658` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `659` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `660` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `661` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `662` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+| 💀 | `663` | @aWholeLottaBase |
+|  | `664` | `0x7C1B01078c3B046596d7F36F6EfFa6c937221Ebc` |
+| 💀 | `665` | `0xda5be91E7d617753f764840b54c28E3eb3D174F6` |
+|  | `666` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `667` | @ChiefChain |
+|  | `668` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `669` | @bachness |
+|  | `670` | @Kushdogg |
+| 💀 | `671` | `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` |
+|  | `672` | @jimmygeestees |
+| 💀 | `673` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `674` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `675` | `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` |
+|  | `676` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `677` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `678` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `679` | `0x5FD58E9A5da721F6634218912a8B2104eDADd3b6` |
+|  | `680` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `681` | @sonicmetro |
+|  | `682` | @aWholeLottaBase |
+| 💀 | `683` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `684` | @Robvik1523 |
+| 💀 | `685` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+|  | `686` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `687` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+|  | `688` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `689` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+|  | `690` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `691` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+|  | `692` | @Frankiepet |
+| 💀 | `693` | @Aaron |
+|  | `694` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `695` | `0x56f3bF1006D12497d79bD8d0cc663F27c6d2211a` |
+|  | `696` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `697` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `698` | `0x0Ba6f8b2a732c72fb3C6D1B0B1595cae20Ef3913` |
+| 💀 | `699` | `0xc54A366e47Dc1D5a20e6D208bc4703b9bfa3e805` |
+|  | `700` | @Ketelbot |
+| 💀 | `701` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `702` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `703` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `704` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `705` | @Brunolli23 |
+|  | `706` | `0x2D8999bBca9D256821288220C46FA027985c562d` |
+| 💀 | `707` | `0x7B7631d250da508FA1c4bDA09Cfe68E6aB01c719` |
+|  | `708` | `0x25A8aE899F7Ecb7FE56AB133a9cc7856E21006AF` |
+| 💀 | `709` | @cmassey13 |
+|  | `710` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `711` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `712` | @SOULCARDS |
+| 💀 | `713` | @Brutus2021 |
+|  | `714` | @xxxregerxxx |
+| 💀 | `715` | @Jwheels24 |
+|  | `716` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `717` | @Dvn303 |
+|  | `718` | @Montana2rice |
+| 💀 | `719` | `0xA589F131d6b0F86f90883Aa64169479DB5d27391` |
+|  | `720` | @Kdubbb6 |
+| 💀 | `721` | `0xC05020D499ae910a5374745C5f5863D8fb06BC29` |
+|  | `722` | `0x1b47574007Db582A335127D0E5e5e0b979A426a4` |
+| 💀 | `723` | **UNOWNED** |
+|  | `724` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `725` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `726` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `727` | @Jdog |
+|  | `728` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `729` | @amanes22 |
+|  | `730` | @937cptcrunch |
+| 💀 | `731` | @ajbither |
+|  | `732` | `0x8841931b12dD827BADd7F2762C988Ec4B3E07981` |
+| 💀 | `733` | `0xA77E21e2e6A36B6C5a331c69251066Cb533CBaaf` |
+|  | `734` | @Zner1506 |
+| 💀 | `735` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `736` | @RamenCash |
+| 💀 | `737` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `738` | @Kwhitehead0721 |
+| 💀 | `739` | @Chipperj1 |
+|  | `740` | @Anewell17 |
+| 💀 | `741` | @caleb2k5 |
+|  | `742` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `743` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `744` | `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` |
+| 💀 | `745` | @badhigh14 |
+|  | `746` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `747` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `748` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `749` | `0x3a7d951de60Cf9A91CcEFf9Dd7eb61a4BEbC518D` |
+|  | `750` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `751` | @Djl819 |
+|  | `752` | @Aaron |
+| 💀 | `753` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `754` | `0x617A0c862062Fca4BbfE471F80E94D5ed3Ec6dc2` |
+| 💀 | `755` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `756` | @Marxoss5 |
+| 💀 | `757` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `758` | @whiting22 |
+| 💀 | `759` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `760` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `761` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `762` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `763` | @truppe8 |
+|  | `764` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `765` | @Shaffer28 |
+|  | `766` | @Acenchuck1229 |
+| 💀 | `767` | `0xFAE3B5BF1913454Ac084Be4669136dDe235030C1` |
+|  | `768` | `0x09e511B1502A572E0acbE5EC0466d7827F72b475` |
+| 💀 | `769` | @Thejop |
+|  | `770` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `771` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+|  | `772` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `773` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `774` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `775` | `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` |
+|  | `776` | @AResnik100 |
+| 💀 | `777` | @Jswiftt1 |
+|  | `778` | @JerryGarcia81 |
+| 💀 | `779` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `780` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `781` | @Jmizzle224 |
+|  | `782` | @513justint |
+| 💀 | `783` | @RockAwsom |
+|  | `784` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+| 💀 | `785` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `786` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `787` | @Stevielocs |
+|  | `788` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+| 💀 | `789` | @TexasWheels2020 |
+|  | `790` | `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` |
+| 💀 | `791` | @Blwtarheelsfan |
+|  | `792` | @coinkhat |
+| 💀 | `793` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `794` | `0xBAEA29dc8b104881C7A4fabaC201FF0609eDBBD9` |
+| 💀 | `795` | @Richcard |
+|  | `796` | @nevinross4306 |
+| 💀 | `797` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `798` | @Raistlhoff |
+| 💀 | `799` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `800` | @Trapper22 |
+| 💀 | `801` | @Dsilvanic |
+|  | `802` | @Ryanleebrasher |
+| 💀 | `803` | @Number1emt |
+|  | `804` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `805` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `806` | @Mtang21 |
+| 💀 | `807` | `0x630473Fa1ACd1D799AdDA3e0d5750192514a21dD` |
+|  | `808` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `809` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+|  | `810` | @RBL117 |
+| 💀 | `811` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `812` | @Annajm97 |
+| 💀 | `813` | `0x02481F182fd42b4AF66E083efCD8104072bC0C82` |
+|  | `814` | @adbeck02 |
+| 💀 | `815` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+|  | `816` | @Miler41 |
+| 💀 | `817` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `818` | @DonnyGee23 |
+| 💀 | `819` | `0x4829197816B7A69711Ec098C8cd717F9A96c6821` |
+|  | `820` | @Daniellpaul |
+| 💀 | `821` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `822` | @chernangelo |
+| 💀 | `823` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `824` | @Iceknight |
+| 💀 | `825` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `826` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `827` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `828` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `829` | @tucryamu |
+|  | `830` | @ibedlam |
+| 💀 | `831` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `832` | @MarkTheSharkCathey82 |
+| 💀 | `833` | @bri637 |
+|  | `834` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+| 💀 | `835` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `836` | `0xd4135597cdd673c2D004103c96Cf92311bC46E4F` |
+| 💀 | `837` | @Tflippo1972 |
+|  | `838` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `839` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `840` | `0x42d94C7F303A737223831984eF2329aA789dd5C5` |
+| 💀 | `841` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `842` | @taylorstang |
+| 💀 | `843` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `844` | `0x148E6f311b4653884158329AdEebD07Beda4Ed91` |
+| 💀 | `845` | @Boosierock |
+|  | `846` | @aWholeLottaBase |
+| 💀 | `847` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `848` | `0x10A71677178e156138CD5C0B6d4dC5F6E62D4CCf` |
+| 💀 | `849` | @Souder82 |
+|  | `850` | @Youngdaveswissha |
+| 💀 | `851` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `852` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `853` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `854` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `855` | `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` |
+|  | `856` | @Poppinfresh |
+| 💀 | `857` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `858` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `859` | **UNOWNED** |
+|  | `860` | @Roux1310 |
+| 💀 | `861` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `862` | @JohnnyG41 |
+| 💀 | `863` | @Rj9568 |
+|  | `864` | @LukeDuke92 |
+| 💀 | `865` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `866` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `867` | `0x52FD66c94F9C322de83ba5CE2F3bAa50049AD4ff` |
+|  | `868` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `869` | `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` |
+|  | `870` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `871` | @yzsportscards |
+|  | `872` | @Antmanndie |
+| 💀 | `873` | @Rak1917 |
+|  | `874` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `875` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `876` | `0x43fF0f5779fea275A57F2866680841Eca38f26C2` |
+| 💀 | `877` | @Tryan27 |
+|  | `878` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `879` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `880` | @Zildjiah |
+| 💀 | `881` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `882` | @Rhyguycards |
+| 💀 | `883` | @Gradedflex |
+|  | `884` | @Mcflyfrom1985 |
+| 💀 | `885` | @Steveyballgame |
+|  | `886` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+| 💀 | `887` | `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` |
+|  | `888` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `889` | @raven1 |
+|  | `890` | @Razor11_11 |
+| 💀 | `891` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `892` | @Banzai_Bri |
+| 💀 | `893` | @Miggy2369 |
+|  | `894` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `895` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+|  | `896` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `897` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `898` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `899` | @DJRUFF1 |
+|  | `900` | @ddpodpes |
+| 💀 | `901` | `0x50f54bE19416Cc91bAdC0EEC42995b83731B6d76` |
+|  | `902` | @Rxftz-YT |
+| 💀 | `903` | @naveed |
+|  | `904` | `0x6B5c3546F16Ff95196035B54489c33B6523cd9F3` |
+| 💀 | `905` | @jefft8378 |
+|  | `906` | @GodlessSupreme |
+| 💀 | `907` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+|  | `908` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `909` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `910` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `911` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+|  | `912` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `913` | @Himtami86 |
+|  | `914` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `915` | `0xa5530c389E4548C525AC674039E3F69e88aFd26B` |
+|  | `916` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `917` | @cnksportscards |
+|  | `918` | @iryno689 |
+| 💀 | `919` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `920` | **UNOWNED** |
+| 💀 | `921` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `922` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `923` | @auskelly |
+|  | `924` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `925` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `926` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `927` | @Kinwan |
+|  | `928` | @SoDakBreaks |
+| 💀 | `929` | @Trig2022 |
+|  | `930` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `931` | `0x8841931b12dD827BADd7F2762C988Ec4B3E07981` |
+|  | `932` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+| 💀 | `933` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `934` | @Midlife28 |
+| 💀 | `935` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+|  | `936` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+| 💀 | `937` | `0x0e76500BcBaF79eCFA711aA69bcC1661d66ee785` |
+|  | `938` | `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` |
+| 💀 | `939` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+|  | `940` | @Poonior17 |
+| 💀 | `941` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `942` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `943` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `944` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `945` | `0x2ef10F8AbA85BdBd878cb1Da4f6E4666Fdeb9BdD` |
+|  | `946` | `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` |
+| 💀 | `947` | @reedthriot14 |
+|  | `948` | @Maham0507 |
+| 💀 | `949` | `0x0C40c84a27561B8Ebc4d1d1f7318B3d0AF6c6588` |
+|  | `950` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `951` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+|  | `952` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `953` | @jrod2014 |
+|  | `954` | @PeteyC |
+| 💀 | `955` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `956` | @Knotfan |
+| 💀 | `957` | @ATOBTTR |
+|  | `958` | @Ewhitner |
+| 💀 | `959` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `960` | @SICKWITIT2BEE |
+| 💀 | `961` | @Hopperdropper |
+|  | `962` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `963` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `964` | @Mytown |
+| 💀 | `965` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `966` | @Zner1506 |
+| 💀 | `967` | @Refsonic |
+|  | `968` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `969` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `970` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+| 💀 | `971` | @Mrtattoo |
+|  | `972` | `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` |
+| 💀 | `973` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `974` | @Tjnickels |
+| 💀 | `975` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `976` | @RogerFord |
+| 💀 | `977` | @Zeroglobal |
+|  | `978` | @gbuki7 |
+| 💀 | `979` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `980` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `981` | @BreesGuyNWI |
+|  | `982` | @Deltaecho |
+| 💀 | `983` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `984` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `985` | @JTGraham |
+|  | `986` | @tkeller93 |
+| 💀 | `987` | `0x63c68b789F7aDd1350B12ce60C5845b214EBfbD8` |
+|  | `988` | `0x61b9583E1D227E033DA542AF0150df9f6a228670` |
+| 💀 | `989` | @Jimmygh |
+|  | `990` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `991` | @Ryanleebrasher |
+|  | `992` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `993` | @kcraig |
+|  | `994` | @Deliri0us2010 |
+| 💀 | `995` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `996` | `0x1b47574007Db582A335127D0E5e5e0b979A426a4` |
+| 💀 | `997` | `0x7eDc0a2DfdCE0B8a72478405a95dd991D866f296` |
+|  | `998` | @Jblacktkeus |
+| 💀 | `999` | `0x524537bb47C13aDbcf59aB23DF47DcB639462d05` |
+|  | `1000` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1001` | @wguidera |
+|  | `1002` | @Wolman777 |
+| 💀 | `1003` | @cjs0 |
+|  | `1004` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `1005` | @ginobili_fan |
+|  | `1006` | @Aaron |
+| 💀 | `1007` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1008` | @ugabulldog89 |
+| 💀 | `1009` | @Xppfrosty |
+|  | `1010` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `1011` | **UNOWNED** |
+|  | `1012` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1013` | `0x3FA5EFBAFcd81B8325b98899B8F7093bD2e6db7B` |
+|  | `1014` | `0xb6705fAA29000fb5902b1F1fe6E379B5f6F9E056` |
+| 💀 | `1015` | @KKspesh |
+|  | `1016` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1017` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `1018` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1019` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1020` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1021` | `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` |
+|  | `1022` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `1023` | @WhovianDude |
+|  | `1024` | @WACCOHAFBLQ |
+| 💀 | `1025` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `1026` | `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` |
+| 💀 | `1027` | @Meghan |
+|  | `1028` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `1029` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+|  | `1030` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `1031` | @Poppinfresh |
+|  | `1032` | `0xe652F0C0Eb5037AC4c2e1b6F968db2226969bC01` |
+| 💀 | `1033` | @Jtriolo7 |
+|  | `1034` | @QueenBree93 |
+| 💀 | `1035` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `1036` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `1037` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1038` | `0xfBAebda6b1927D36816daF8bD4bed54C1F8087Dc` |
+| 💀 | `1039` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1040` | @Reallymj |
+| 💀 | `1041` | @LAMBTX |
+|  | `1042` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `1043` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1044` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+| 💀 | `1045` | @GmaCrypt |
+|  | `1046` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+| 💀 | `1047` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1048` | @Dirtyfootcards |
+| 💀 | `1049` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+|  | `1050` | @Ekman77 |
+| 💀 | `1051` | @JDM11 |
+|  | `1052` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1053` | `0xeC311866f2D2529779Ad25e8e0940d2Fa96fb810` |
+|  | `1054` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1055` | @Memphocardman |
+|  | `1056` | `0x4f2a2023b4bED762B15bA2bDd614A779f640a5eE` |
+| 💀 | `1057` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `1058` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1059` | @JusBkoo |
+|  | `1060` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `1061` | @ryandash55 |
+|  | `1062` | @0115vance |
+| 💀 | `1063` | @N3CEM_CARDS |
+|  | `1064` | @Rac2323 |
+| 💀 | `1065` | `0x4d00D41B575b39442A0e6f5881a893e2e79390c5` |
+|  | `1066` | @warrenthx |
+| 💀 | `1067` | @lrsportscards |
+|  | `1068` | @Leoslastwill |
+| 💀 | `1069` | `0x7D5C0363A276c495e61fcfB4179d1250f95D6e5e` |
+|  | `1070` | @Bamaboy1414 |
+| 💀 | `1071` | @paultatad |
+|  | `1072` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1073` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1074` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1075` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `1076` | @Kevindwaynefry |
+| 💀 | `1077` | `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` |
+|  | `1078` | @RyanH887 |
+| 💀 | `1079` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `1080` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1081` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `1082` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1083` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `1084` | @Egreenberg11 |
+| 💀 | `1085` | @Farrell1820 |
+|  | `1086` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+| 💀 | `1087` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1088` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `1089` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1090` | @Jbrown1310 |
+| 💀 | `1091` | @Junglecat |
+|  | `1092` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1093` | @MEECH |
+|  | `1094` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `1095` | @Vahe1993 |
+|  | `1096` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `1097` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1098` | @ItsTime |
+| 💀 | `1099` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `1100` | @Conman051 |
+| 💀 | `1101` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1102` | @Rmonaro |
+| 💀 | `1103` | @Yessamekim |
+|  | `1104` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `1105` | `0x27f2Ca0F68A854dD23c2AEfB3EC8315806e1ced4` |
+|  | `1106` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1107` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1108` | @Poppasouthford |
+| 💀 | `1109` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1110` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+| 💀 | `1111` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1112` | `0x419a419857EB72231d956bC1a95B29111b176016` |
+| 💀 | `1113` | @Mwalters7422 |
+|  | `1114` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1115` | @lrsportscards |
+|  | `1116` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1117` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1118` | @jclint |
+| 💀 | `1119` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `1120` | @Mcino |
+| 💀 | `1121` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1122` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `1123` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `1124` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `1125` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `1126` | @Joevx84 |
+| 💀 | `1127` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1128` | @Bigeng1655 |
+| 💀 | `1129` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `1130` | @dillingham |
+| 💀 | `1131` | @Richhog3274 |
+|  | `1132` | @Malbogia666 |
+| 💀 | `1133` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1134` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `1135` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+|  | `1136` | `0xb4ef931432991Efbc6B2571b30B23354f37F0498` |
+| 💀 | `1137` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `1138` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1139` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `1140` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1141` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `1142` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1143` | `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` |
+|  | `1144` | @Unordinary34 |
+| 💀 | `1145` | @Vahe1993 |
+|  | `1146` | @RonWick |
+| 💀 | `1147` | `0x148E6f311b4653884158329AdEebD07Beda4Ed91` |
+|  | `1148` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `1149` | @Tnmnjax1 |
+|  | `1150` | @raven2wp |
+| 💀 | `1151` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1152` | @A14U2NV |
+| 💀 | `1153` | @Flashy |
+|  | `1154` | @Bighud |
+| 💀 | `1155` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `1156` | @jpdough129 |
+| 💀 | `1157` | @Markjack23 |
+|  | `1158` | `0xdF63357b882229550E275EF4a053623BfD68a40B` |
+| 💀 | `1159` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1160` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1161` | @Rippax |
+|  | `1162` | @Maham0507 |
+| 💀 | `1163` | @Highlyflavored |
+|  | `1164` | @Rwt9567 |
+| 💀 | `1165` | @JusBkoo |
+|  | `1166` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1167` | @Hu7cH |
+|  | `1168` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1169` | @MarkCards |
+|  | `1170` | @Aaron |
+| 💀 | `1171` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1172` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1173` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `1174` | `0x2cb9D749A783Bf160B510938B325431A6625470e` |
+| 💀 | `1175` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+|  | `1176` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `1177` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1178` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `1179` | @Hrlmbtz |
+|  | `1180` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `1181` | @Dupontgoer |
+|  | `1182` | @azel |
+| 💀 | `1183` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `1184` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1185` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `1186` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `1187` | @SphericonRex |
+|  | `1188` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `1189` | @Aaron |
+|  | `1190` | @bneal123741 |
+| 💀 | `1191` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1192` | @WaxEcstatic |
+| 💀 | `1193` | @wguidera |
+|  | `1194` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `1195` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `1196` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `1197` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1198` | `0x450429Aa896b4830a52A092d3563C26b615B8540` |
+| 💀 | `1199` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1200` | @Jeremyd |
+| 💀 | `1201` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+|  | `1202` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1203` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1204` | @CryptoScarface |
+| 💀 | `1205` | @auskelly |
+|  | `1206` | @cdavidson238 |
+| 💀 | `1207` | `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` |
+|  | `1208` | @Redtygr |
+| 💀 | `1209` | @MattMoon5280 |
+|  | `1210` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `1211` | @Richcard |
+|  | `1212` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1213` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1214` | @Nelsond99 |
+| 💀 | `1215` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1216` | @Clk1987 |
+| 💀 | `1217` | @duglasfresh |
+|  | `1218` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1219` | `0x15b5E2A732D946D79dca83D6EC47F1C7062eB515` |
+|  | `1220` | @Foobsie |
+| 💀 | `1221` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `1222` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1223` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `1224` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `1225` | `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` |
+|  | `1226` | @Jaykig13 |
+| 💀 | `1227` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `1228` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `1229` | @Kujo6969 |
+|  | `1230` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `1231` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1232` | @Pj3ntrepreneur |
+| 💀 | `1233` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1234` | `0x3A8b4d5656D6e45a18D8bfbb115bD7332C0aEa67` |
+| 💀 | `1235` | `0x24b00Ebd2445e1e0FBb9Ca5eB80a072D5e9Bde3B` |
+|  | `1236` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1237` | `0x87B12BDEb178Bfc4c01a3ABdc6184040dA677992` |
+|  | `1238` | @bbycarrots |
+| 💀 | `1239` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `1240` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+| 💀 | `1241` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `1242` | @jmy1333 |
+| 💀 | `1243` | @Spiespies81 |
+|  | `1244` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1245` | `0x8Ee7E64F8Fbf4F8D3E58b64aE167a1177cdd9F3f` |
+|  | `1246` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+| 💀 | `1247` | `0xbdF8945A8943AcbaE4297E8eA51881B50Eb7EfC3` |
+|  | `1248` | @jibonroy178 |
+| 💀 | `1249` | @Novaxylion |
+|  | `1250` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `1251` | `0x226b1d2Cd64d305B2B5ceCB64c997db0D19BF67d` |
+|  | `1252` | @Rhyguycards |
+| 💀 | `1253` | `0xf082bC6d1f4Bf0748dD2F63D6E06147FD02753E8` |
+|  | `1254` | `0xaf469C4a0914938e6149CF621c54FB4b1EC0c202` |
+| 💀 | `1255` | @Wallyscardworld |
+|  | `1256` | @JPKJR |
+| 💀 | `1257` | @yzsportscards |
+|  | `1258` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `1259` | @EVANG |
+|  | `1260` | @Buddpr |
+| 💀 | `1261` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1262` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `1263` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1264` | @Pandoraboss87 |
+| 💀 | `1265` | @Bem0 |
+|  | `1266` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1267` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `1268` | @darnoldi |
+| 💀 | `1269` | `0xe51c820bf454a7e208529874b7B38FBdc7de9D6D` |
+|  | `1270` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+| 💀 | `1271` | @1966biscayne |
+|  | `1272` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `1273` | @Jasonw79 |
+|  | `1274` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1275` | @zhauger |
+|  | `1276` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `1277` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1278` | @Tripled1985 |
+| 💀 | `1279` | @Jbrown1310 |
+|  | `1280` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1281` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1282` | @Westuh |
+| 💀 | `1283` | @Rdc0716 |
+|  | `1284` | @Nyght1984 |
+| 💀 | `1285` | @VPvanessa |
+|  | `1286` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1287` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1288` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `1289` | `0xdeAB699d61B23ce1aA5D6dC792728B49ba3f87C6` |
+|  | `1290` | @Hawkmagic03 |
+| 💀 | `1291` | @Cromslor |
+|  | `1292` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1293` | @dhuff1981 |
+|  | `1294` | @Jimmy1966 |
+| 💀 | `1295` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+|  | `1296` | @LowedKutz |
+| 💀 | `1297` | @lrsportscards |
+|  | `1298` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1299` | @Jawasta |
+|  | `1300` | @D3r3k09 |
+| 💀 | `1301` | @lrsportscards |
+|  | `1302` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `1303` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+|  | `1304` | @Chuckd6179 |
+| 💀 | `1305` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1306` | @BigLou |
+| 💀 | `1307` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1308` | `0x03AC0e64e90A113c99a25A73c00Db898deE0164A` |
+| 💀 | `1309` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `1310` | `0xD0e65F6d09Df5232cB2D15D6C66e0256a8DEf167` |
+| 💀 | `1311` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `1312` | @Kansas_king |
+| 💀 | `1313` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1314` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1315` | @Hoef01 |
+|  | `1316` | `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` |
+| 💀 | `1317` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1318` | @Cardaholic |
+| 💀 | `1319` | @oriolebrian |
+|  | `1320` | @GoldenManatee |
+| 💀 | `1321` | `0xc301625D64528e69ddF101914188fCd793c528CC` |
+|  | `1322` | @Hobomatt8 |
+| 💀 | `1323` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+|  | `1324` | `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` |
+| 💀 | `1325` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `1326` | @smurfdaddyflex |
+| 💀 | `1327` | @Mikekamin |
+|  | `1328` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `1329` | @ATOBTTR |
+|  | `1330` | `0xbF362063439a4ffb6629ee362789f0D317fcEDE1` |
+| 💀 | `1331` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1332` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `1333` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `1334` | @Awickness |
+| 💀 | `1335` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1336` | @GoBlueILM |
+| 💀 | `1337` | @BinaryLaserTaste |
+|  | `1338` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+| 💀 | `1339` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1340` | @agreen218 |
+| 💀 | `1341` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1342` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `1343` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1344` | @BMFM628 |
+| 💀 | `1345` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1346` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1347` | `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` |
+|  | `1348` | `0x8d2287f628ea35ffe5cD6CF34443Ec5194532cd9` |
+| 💀 | `1349` | `0x5026376Ca65d65D2aCd3e3dD3cc1ae8ad91cb43E` |
+|  | `1350` | @Rmonaro |
+| 💀 | `1351` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1352` | `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` |
+| 💀 | `1353` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `1354` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1355` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1356` | @yzsportscards |
+| 💀 | `1357` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1358` | @Logainsta |
+| 💀 | `1359` | @Bdanley |
+|  | `1360` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1361` | @Dishdog40 |
+|  | `1362` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `1363` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1364` | @KingoftheNorth22 |
+| 💀 | `1365` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1366` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+| 💀 | `1367` | @Richcard |
+|  | `1368` | @Map76 |
+| 💀 | `1369` | @Dsksports |
+|  | `1370` | `0xbF5434118630208825eed8E3B5E009d721aAf39C` |
+| 💀 | `1371` | @PeteyC |
+|  | `1372` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `1373` | @Freedom |
+|  | `1374` | @jarouse1009 |
+| 💀 | `1375` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1376` | @Madman48 |
+| 💀 | `1377` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+|  | `1378` | `0x1950f28CfF91B0777630437643D1B18D668AF069` |
+| 💀 | `1379` | @Fritzo |
+|  | `1380` | @Richcard |
+| 💀 | `1381` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `1382` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `1383` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `1384` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `1385` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1386` | @shammy78 |
+| 💀 | `1387` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1388` | @Nate512 |
+| 💀 | `1389` | `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` |
+|  | `1390` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `1391` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1392` | @Mortified |
+| 💀 | `1393` | @KILLJOY |
+|  | `1394` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `1395` | @Blsteel14 |
+|  | `1396` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+| 💀 | `1397` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1398` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1399` | @Elijhawatkins |
+|  | `1400` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1401` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `1402` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `1403` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `1404` | `0xFC502A09854F5685171F6766F22f92121999248F` |
+| 💀 | `1405` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1406` | `0x76156bdA9C0E98F417f90D2C157B6d8F4Fa042Fe` |
+| 💀 | `1407` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+|  | `1408` | `0x058047A4C899c5E7c2bE3D08AD198C5A4161248a` |
+| 💀 | `1409` | `0x461b8A17789E74E6EAb6f09a436747856616315d` |
+|  | `1410` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `1411` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `1412` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1413` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+|  | `1414` | @Vanmennace |
+| 💀 | `1415` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `1416` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1417` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1418` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `1419` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `1420` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+| 💀 | `1421` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1422` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1423` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1424` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1425` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1426` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `1427` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+|  | `1428` | `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` |
+| 💀 | `1429` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `1430` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `1431` | @jibonroy178 |
+|  | `1432` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `1433` | @JungleIs101 |
+|  | `1434` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+| 💀 | `1435` | @Twiztedninja |
+|  | `1436` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+| 💀 | `1437` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `1438` | @MarkCards |
+| 💀 | `1439` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1440` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `1441` | @Bacher22 |
+|  | `1442` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `1443` | @Rheld2Chiefs |
+|  | `1444` | `0x4383cFCD9354655073E1B40391a94A8cD3213251` |
+| 💀 | `1445` | `0x548f032D5Aa6E04536a21E57e3d0B83bFFd8FAFe` |
+|  | `1446` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1447` | @WaxEcstatic |
+|  | `1448` | @ADmNusnce |
+| 💀 | `1449` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+|  | `1450` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+| 💀 | `1451` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1452` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+| 💀 | `1453` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `1454` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `1455` | @lbrecht1984 |
+|  | `1456` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1457` | @Thammock34 |
+|  | `1458` | `0x9ad49fa28e63EF2566330883FEA603A9732323E0` |
+| 💀 | `1459` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+|  | `1460` | @Iusbsoccer3 |
+| 💀 | `1461` | @jluisrojas |
+|  | `1462` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1463` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `1464` | @Ewizard |
+| 💀 | `1465` | @WaxEcstatic |
+|  | `1466` | `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` |
+| 💀 | `1467` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+|  | `1468` | @jluisrojas |
+| 💀 | `1469` | @Nyght1984 |
+|  | `1470` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1471` | @kevrkin300 |
+|  | `1472` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1473` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `1474` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+| 💀 | `1475` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `1476` | `0xE976204DaC0a4411173B4E19778B073D5630277a` |
+| 💀 | `1477` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1478` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+| 💀 | `1479` | @jesusjones |
+|  | `1480` | @Theviv69 |
+| 💀 | `1481` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `1482` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1483` | @Shitsandwich |
+|  | `1484` | @aszewc1977 |
+| 💀 | `1485` | @TerryCruise |
+|  | `1486` | @WaxEcstatic |
+| 💀 | `1487` | `0x148E6f311b4653884158329AdEebD07Beda4Ed91` |
+|  | `1488` | @Cnot45 |
+| 💀 | `1489` | `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` |
+|  | `1490` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `1491` | @rmrobbinsesq |
+|  | `1492` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1493` | `0x9C69Df47b9716488972B3D5E03C287e21bAb0235` |
+|  | `1494` | `0x4EA312AA15FFA7873f69531e053Be79150b891D5` |
+| 💀 | `1495` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `1496` | @Blockchange |
+| 💀 | `1497` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `1498` | `0x73eB1aac02d0CA30b24F8b174C84C9632d03813a` |
+| 💀 | `1499` | @capnnogood |
+|  | `1500` | @5150krazy |
+| 💀 | `1501` | @MJB51 |
+|  | `1502` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `1503` | `0x92A4b8DCAd3E3f1C62efEb2985a776D7A16EEf0F` |
+|  | `1504` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `1505` | `0x260C65763EA95b053741bc18318e1b6CaDCEF1ba` |
+|  | `1506` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `1507` | `0x63dcc90B5990475fa9bAcae5566ca6722C450930` |
+|  | `1508` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1509` | @Peaches21 |
+|  | `1510` | `0xBdE1b08071421AAB08BbB3133097A589891c25F5` |
+| 💀 | `1511` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1512` | @PopsNPacks |
+| 💀 | `1513` | `0x1208F7B25ad98B353a35bBAe80E0EcA011fDa866` |
+|  | `1514` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+| 💀 | `1515` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1516` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1517` | @Milou3478A |
+|  | `1518` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+| 💀 | `1519` | @Jachild |
+|  | `1520` | @Tonyknows |
+| 💀 | `1521` | @Maltballs |
+|  | `1522` | @Amalder |
+| 💀 | `1523` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1524` | `0xC536A0faE10e441da39b85F93E67452881252723` |
+| 💀 | `1525` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1526` | `0x788350aa24bE3158B799f26bEd6326aD6A74d0dE` |
+| 💀 | `1527` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1528` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1529` | @Richcard |
+|  | `1530` | `0x5c3024e94343d3af3C43E174Df23D7053e168817` |
+| 💀 | `1531` | @Johnnyz77 |
+|  | `1532` | @Kybos |
+| 💀 | `1533` | @Vonskully |
+|  | `1534` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+| 💀 | `1535` | `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` |
+|  | `1536` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `1537` | @Hotsoup23 |
+|  | `1538` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+| 💀 | `1539` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1540` | `0xa3B4aee56fE96b2E42E56039aa4cd2b0Ff343F00` |
+| 💀 | `1541` | @Ryamurph |
+|  | `1542` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1543` | @Jdavis269 |
+|  | `1544` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `1545` | `0xBf5e76F94e366C6d0C13A1300cF5D83274Cc5e0F` |
+|  | `1546` | `0xa2140e9c5eA863Da58521737e566D27087E198c9` |
+| 💀 | `1547` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `1548` | `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` |
+| 💀 | `1549` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `1550` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1551` | `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` |
+|  | `1552` | @vic26 |
+| 💀 | `1553` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `1554` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `1555` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `1556` | @warrenthx |
+| 💀 | `1557` | @testtesla |
+|  | `1558` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+| 💀 | `1559` | @425sBesT |
+|  | `1560` | @SteelerNation |
+| 💀 | `1561` | @Greatestjudas |
+|  | `1562` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1563` | @Btalley1 |
+|  | `1564` | @Rtroup89 |
+| 💀 | `1565` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `1566` | @Brettevert |
+| 💀 | `1567` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `1568` | `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` |
+| 💀 | `1569` | @Anthony19 |
+|  | `1570` | @SkinnyLarry |
+| 💀 | `1571` | `0xA0C0b23FaAf67775016B256D0574E67ffdf41223` |
+|  | `1572` | @HalfBro |
+| 💀 | `1573` | @Aftermidmusic |
+|  | `1574` | @Captainhammerxk |
+| 💀 | `1575` | @Stubitse |
+|  | `1576` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `1577` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1578` | `0x7793379066C19e11055e53Fe88467724E85d570f` |
+| 💀 | `1579` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `1580` | @acs108 |
+| 💀 | `1581` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+|  | `1582` | `0x76156bdA9C0E98F417f90D2C157B6d8F4Fa042Fe` |
+| 💀 | `1583` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `1584` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1585` | `0xd9a8D209E8B5101862DFc39412b1Cf07655320b6` |
+|  | `1586` | @Ebdavis11 |
+| 💀 | `1587` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `1588` | @SDYote |
+| 💀 | `1589` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `1590` | `0x4852edFb4048BFcD44c37fe0CEF2A2dfaAa42896` |
+| 💀 | `1591` | @Razor11_11 |
+|  | `1592` | @Mpotter87 |
+| 💀 | `1593` | `0x233dF7ca8992Cb7EA82Bcd6AE276457ab4e26A73` |
+|  | `1594` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1595` | @Jayson1112 |
+|  | `1596` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1597` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `1598` | @Kinsler5 |
+| 💀 | `1599` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `1600` | @fivestarcardz |
+| 💀 | `1601` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+|  | `1602` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1603` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+|  | `1604` | @Terrybwhite |
+| 💀 | `1605` | `0x70cED66c135024b9e3696cc8B2E22247E9C822d3` |
+|  | `1606` | @2021Bourne |
+| 💀 | `1607` | @Gehrigc |
+|  | `1608` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `1609` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+|  | `1610` | @Jared |
+| 💀 | `1611` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `1612` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `1613` | `0x7D87B67b34405d22A55868f619e09c505712005d` |
+|  | `1614` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+| 💀 | `1615` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `1616` | @TheCrusher69 |
+| 💀 | `1617` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+|  | `1618` | @Hu7cH |
+| 💀 | `1619` | @woofy |
+|  | `1620` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `1621` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1622` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+| 💀 | `1623` | `0x791509eB0540225570baeC704d522051086d2991` |
+|  | `1624` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+| 💀 | `1625` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `1626` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1627` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `1628` | `0x56Ee849B0d03B20A055a2497C54fe74446054bCe` |
+| 💀 | `1629` | @Babayaga913 |
+|  | `1630` | `0xa1a681b9506f50dAa75a284C0bBE62548fCf349D` |
+| 💀 | `1631` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1632` | `0x4221E209640b90901c4932129bfaD744e5A7DadE` |
+| 💀 | `1633` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `1634` | `0xF17F3eC29AF6457aC1F134011e80f3f2BaF9D01F` |
+| 💀 | `1635` | `0x3813f83CEEc937Be23f21BAF1141e91214e82cf0` |
+|  | `1636` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+| 💀 | `1637` | @Liveitloveit |
+|  | `1638` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1639` | @Richcard |
+|  | `1640` | @Dshannon44 |
+| 💀 | `1641` | @Adapptiv |
+|  | `1642` | `0x603C386279ea863988fa30B222fe3F9b794Ce051` |
+| 💀 | `1643` | @Jrock6929 |
+|  | `1644` | @TXhaymaker |
+| 💀 | `1645` | @squiggle1120 |
+|  | `1646` | @masjr1987 |
+| 💀 | `1647` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `1648` | @YouLikeDat56 |
+| 💀 | `1649` | @Edwardlowe77 |
+|  | `1650` | @NoleInJax |
+| 💀 | `1651` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1652` | @mepudding101 |
+| 💀 | `1653` | `0xeB8F35C72d13132d5Cb36c72d7A30F2A17C80EcC` |
+|  | `1654` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1655` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1656` | @Nmares9679 |
+| 💀 | `1657` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `1658` | `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` |
+| 💀 | `1659` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `1660` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `1661` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1662` | @Dooge1 |
+| 💀 | `1663` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1664` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `1665` | @Trucardaddict |
+|  | `1666` | @Djay2424 |
+| 💀 | `1667` | @AdamDunivan |
+|  | `1668` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `1669` | `0xfC2e6F80bc7fA861043E90F93ebF712b379b30e9` |
+|  | `1670` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1671` | @NolaCollects |
+|  | `1672` | @kcraig |
+| 💀 | `1673` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `1674` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1675` | @Elvis31tx |
+|  | `1676` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `1677` | @warrenthx |
+|  | `1678` | @SDYote |
+| 💀 | `1679` | @warrenthx |
+|  | `1680` | @JohnnyO24 |
+| 💀 | `1681` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
+|  | `1682` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1683` | @Buddaspear |
+|  | `1684` | @Gumby31mn |
+| 💀 | `1685` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+|  | `1686` | @svance35 |
+| 💀 | `1687` | @Jbalz97 |
+|  | `1688` | @Mattybsbl02 |
+| 💀 | `1689` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `1690` | `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` |
+| 💀 | `1691` | @haroldo |
+|  | `1692` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `1693` | @SDYote |
+|  | `1694` | @Post95 |
+| 💀 | `1695` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1696` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1697` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `1698` | `0xB3F5308623e486DBFa45BB35b68e07Be2fCF104B` |
+| 💀 | `1699` | @Juglinesports |
+|  | `1700` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1701` | @Jinnabide |
+|  | `1702` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `1703` | `0xAE6b795C8e2398e790EFe2936f6703958E307d1d` |
+|  | `1704` | @Craiggardiner |
+| 💀 | `1705` | @Silky_The_IV |
+|  | `1706` | @SmoothMoreno |
+| 💀 | `1707` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `1708` | @Sparkathor |
+| 💀 | `1709` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1710` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1711` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `1712` | `0x1cc662870FBB5df810C74B72773bfBd1399E79c7` |
+| 💀 | `1713` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `1714` | @DallasCowboy1 |
+| 💀 | `1715` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `1716` | @Warren654 |
+| 💀 | `1717` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+|  | `1718` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+| 💀 | `1719` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1720` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+| 💀 | `1721` | @Dudetubez |
+|  | `1722` | @Jsdagati |
+| 💀 | `1723` | @addictivecardboard |
+|  | `1724` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+| 💀 | `1725` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1726` | `0x68cb66baECA7a5F305fbF4ed24aA1b48ab4ac508` |
+| 💀 | `1727` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `1728` | @Walkdiddy |
+| 💀 | `1729` | `0x1744345d7e2c5E24aaDDa50A17C04461e2b8aBA9` |
+|  | `1730` | @BlaineB1975 |
+| 💀 | `1731` | @Dougles123 |
+|  | `1732` | @Dave916 |
+| 💀 | `1733` | @Phuff25 |
+|  | `1734` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1735` | `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` |
+|  | `1736` | `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` |
+| 💀 | `1737` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `1738` | @JDGE |
+| 💀 | `1739` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1740` | @Gators420 |
+| 💀 | `1741` | @Mister333 |
+|  | `1742` | @Beardiful_NW |
+| 💀 | `1743` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1744` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+| 💀 | `1745` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
+|  | `1746` | `0x2ef10F8AbA85BdBd878cb1Da4f6E4666Fdeb9BdD` |
+| 💀 | `1747` | @Edjr3 |
+|  | `1748` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `1749` | @NLetra |
+|  | `1750` | @Storm12 |
+| 💀 | `1751` | @Thedarkhand |
+|  | `1752` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `1753` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1754` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `1755` | @Farmdog5000 |
+|  | `1756` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `1757` | @Valpocat |
+|  | `1758` | @FStancliff |
+| 💀 | `1759` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1760` | `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` |
+| 💀 | `1761` | @Brunolli23 |
+|  | `1762` | @Marshe |
+| 💀 | `1763` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1764` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `1765` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `1766` | @Jko87 |
+| 💀 | `1767` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+|  | `1768` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `1769` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `1770` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1771` | `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` |
+|  | `1772` | @jwinCards |
+| 💀 | `1773` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1774` | @Jayjohnson |
+| 💀 | `1775` | @Shelbell3 |
+|  | `1776` | @Radiosity |
+| 💀 | `1777` | `0x01379CE1e70ddd2a476A068f171AaCa554155929` |
+|  | `1778` | @Darkessence |
+| 💀 | `1779` | `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` |
+|  | `1780` | @bri637 |
+| 💀 | `1781` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `1782` | @Joenick |
+| 💀 | `1783` | `0x8BA4790B31EaC3761c7bDF057b1e3a6DB4740cc8` |
+|  | `1784` | `0x8E1A4cC6326c7e24fBa327E6AB027d5e0e604ce1` |
+| 💀 | `1785` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `1786` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `1787` | @cydor1 |
+|  | `1788` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `1789` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `1790` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1791` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1792` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1793` | `0xEEfBb6649fcbD30f9F9A99055e2F0Fff651A000f` |
+|  | `1794` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+| 💀 | `1795` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1796` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `1797` | @Fost |
+|  | `1798` | @WilliamsDN1995 |
+| 💀 | `1799` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1800` | @Chulo37 |
+| 💀 | `1801` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `1802` | @mfstops412 |
+| 💀 | `1803` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `1804` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `1805` | @TheBigLeJOWski |
+|  | `1806` | @murphjeep |
+| 💀 | `1807` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1808` | `0xd215d23D8cEc4B94AFC1bB1B2D201637C183AEC1` |
+| 💀 | `1809` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `1810` | @TheGreatest1 |
+| 💀 | `1811` | @Schnapp985 |
+|  | `1812` | @Jagray6973 |
+| 💀 | `1813` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1814` | @Dturnbaugh69 |
+| 💀 | `1815` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+|  | `1816` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `1817` | @Cico123 |
+|  | `1818` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+| 💀 | `1819` | `0xC5B89f65b708bA68011f8Ef177126760d4322Ba6` |
+|  | `1820` | @Packer1234 |
+| 💀 | `1821` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1822` | @KanHawks |
+| 💀 | `1823` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `1824` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `1825` | @Aaron |
+|  | `1826` | @maja120 |
+| 💀 | `1827` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1828` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+| 💀 | `1829` | @Ikebark |
+|  | `1830` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `1831` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+|  | `1832` | @Bones |
+| 💀 | `1833` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1834` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1835` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1836` | @DinoDino |
+| 💀 | `1837` | @JMack1970 |
+|  | `1838` | @Beastmode42 |
+| 💀 | `1839` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1840` | @AficionadoPax |
+| 💀 | `1841` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1842` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1843` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1844` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `1845` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `1846` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `1847` | @doclove5555 |
+|  | `1848` | @Bryrich17 |
+| 💀 | `1849` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `1850` | `0x791509eB0540225570baeC704d522051086d2991` |
+| 💀 | `1851` | `0x48De78396A8cF8dA8716CB90545c2CF1E3dbDb17` |
+|  | `1852` | `0x4221E209640b90901c4932129bfaD744e5A7DadE` |
+| 💀 | `1853` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `1854` | @ralph_bc |
+| 💀 | `1855` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `1856` | @Getcardshere |
+| 💀 | `1857` | @WaxEcstatic |
+|  | `1858` | @Sndayskoldrpout |
+| 💀 | `1859` | `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` |
+|  | `1860` | @Topnotch |
+| 💀 | `1861` | @lrsportscards |
+|  | `1862` | @Figanator |
+| 💀 | `1863` | @Bertoarroyo87 |
+|  | `1864` | `0xf726303f4DDB9AA982519249f4afeA74B5e106e0` |
+| 💀 | `1865` | @Danarchy2006 |
+|  | `1866` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+| 💀 | `1867` | @fownadeer |
+|  | `1868` | @Cwill066 |
+| 💀 | `1869` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `1870` | @Dsksports |
+| 💀 | `1871` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1872` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+| 💀 | `1873` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `1874` | @Intrepid |
+| 💀 | `1875` | @CompassCardsRedding |
+|  | `1876` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1877` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1878` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1879` | @Glennwilk |
+|  | `1880` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `1881` | `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` |
+|  | `1882` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `1883` | @Iggybigg |
+|  | `1884` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1885` | @Glimco |
+|  | `1886` | @nmjh |
+| 💀 | `1887` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+|  | `1888` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1889` | @diddelyscott |
+|  | `1890` | @Staceymwilson |
+| 💀 | `1891` | @Brobs |
+|  | `1892` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1893` | `0x91E6e5d7E0735eB5435e192A280Cc94AA7Dc7472` |
+|  | `1894` | @tempfooliz |
+| 💀 | `1895` | @Michatak |
+|  | `1896` | @warrenthx |
+| 💀 | `1897` | `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` |
+|  | `1898` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `1899` | @Gutz719 |
+|  | `1900` | @Zner1506 |
+| 💀 | `1901` | @Marino13 |
+|  | `1902` | @Showstopper |
+| 💀 | `1903` | `0x9F966607d87989913e4a515D768316e3eeC4bE77` |
+|  | `1904` | @ItsEmpressive |
+| 💀 | `1905` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1906` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1907` | `0x2acc5cd98A8162a5BFF3EE997F71835690C85BE4` |
+|  | `1908` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+| 💀 | `1909` | `0x8D4De3e0529310474B264Ec80153215987230665` |
+|  | `1910` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1911` | @Andy3de |
+|  | `1912` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `1913` | `0xDa0f1BCbdF10783c536CE36919314bc3DFFA0291` |
+|  | `1914` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `1915` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1916` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `1917` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+|  | `1918` | @woofy |
+| 💀 | `1919` | @Beard_Boss |
+|  | `1920` | @justbook7 |
+| 💀 | `1921` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `1922` | `0x9D30aF23f393892Bc88F29E2f3Ab822cf9858B3E` |
+| 💀 | `1923` | @Nitty229 |
+|  | `1924` | @Diddy |
+| 💀 | `1925` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `1926` | @Ak_Cuzz82 |
+| 💀 | `1927` | `0xEe1C603234D0cdb94e3C6631B2f10A697b8077f9` |
+|  | `1928` | @FredKang |
+| 💀 | `1929` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `1930` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `1931` | @Martykato |
+|  | `1932` | @Billwhg |
+| 💀 | `1933` | @Jeffjez13 |
+|  | `1934` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1935` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1936` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `1937` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `1938` | `0x0C9d86678448A9d6c789381cF112AF52A3439b20` |
+| 💀 | `1939` | @Dat_Cash |
+|  | `1940` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1941` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1942` | @matrixman |
+| 💀 | `1943` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `1944` | @AniseMoon |
+| 💀 | `1945` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `1946` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `1947` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1948` | @Jack69420 |
+| 💀 | `1949` | @Noodlum31 |
+|  | `1950` | `0x94b2bC88F1d6976F3683294d47BA0D2d9F8de9a5` |
+| 💀 | `1951` | @Dukefan1979 |
+|  | `1952` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `1953` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `1954` | `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` |
+| 💀 | `1955` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `1956` | @Ak_Cuzz82 |
+| 💀 | `1957` | `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` |
+|  | `1958` | @broganoherron |
+| 💀 | `1959` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `1960` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1961` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1962` | @Hoopstar22 |
+| 💀 | `1963` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1964` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1965` | @Aaron |
+|  | `1966` | `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` |
+| 💀 | `1967` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1968` | `0xC69Af549860A2F268d02DEE15c77994ddb12D730` |
+| 💀 | `1969` | @drewbie903 |
+|  | `1970` | @Blizake82 |
+| 💀 | `1971` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `1972` | @FFL2316 |
+| 💀 | `1973` | @zhauger |
+|  | `1974` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `1975` | @Packer1234 |
+|  | `1976` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1977` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `1978` | `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` |
+| 💀 | `1979` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1980` | `0x7957c7898144af52D57e00690598B645898eb623` |
+| 💀 | `1981` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `1982` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `1983` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1984` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `1985` | @Aaron |
+|  | `1986` | @JuandosCondo |
+| 💀 | `1987` | @Ctorres19946 |
+|  | `1988` | `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` |
+| 💀 | `1989` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1990` | @doublej |
+| 💀 | `1991` | `0x7D87B67b34405d22A55868f619e09c505712005d` |
+|  | `1992` | @Cleverlyhills |
+| 💀 | `1993` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `1994` | @lrsportscards |
+| 💀 | `1995` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1996` | @msunolimit03 |
+| 💀 | `1997` | @dbox00 |
+|  | `1998` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `1999` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `2000` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `2001` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `2002` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `2003` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `2004` | `0x226888a9b25F8aBDAf8D13d850BaBD43E047F0c7` |
+| 💀 | `2005` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+|  | `2006` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `2007` | @6_FITTY |
+|  | `2008` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `2009` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `2010` | @Cf51 |
+| 💀 | `2011` | `0xDcEFdd20961eF29c58a442F5D2f6c38DC8FeD228` |
+|  | `2012` | @Artieb |
+| 💀 | `2013` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `2014` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `2015` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `2016` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `2017` | @Ssvogel41 |
+|  | `2018` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `2019` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `2020` | @bmachurley2 |
+| 💀 | `2021` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `2022` | `0xaf469C4a0914938e6149CF621c54FB4b1EC0c202` |
+| 💀 | `2023` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `2024` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `2025` | @Jagray6973 |
+|  | `2026` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `2027` | `0xD505670aD549629A67be2C20c12e930599345366` |
+|  | `2028` | `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` |
+| 💀 | `2029` | @Jimworthy24 |
+|  | `2030` | `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` |
+| 💀 | `2031` | @Lilray41 |
+|  | `2032` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `2033` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `2034` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `2035` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+|  | `2036` | @Dunken |
+| 💀 | `2037` | @Da_Dude |
+|  | `2038` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `2039` | @cdavidson238 |
+|  | `2040` | @Yogi85 |
+| 💀 | `2041` | @Parzy |
+|  | `2042` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `2043` | `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` |
+|  | `2044` | `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` |
+| 💀 | `2045` | @sportscardgiants |
+|  | `2046` | @Timmytayo1587 |
+| 💀 | `2047` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xef6c92c8121b4256bbf765a95a0feb1a125a8046fb0ada3252aff09d2aa9182e) |
+| `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x869a956e602e4c172a90e204f0a6bf5c7dbc39f5c6831716aa1bea1331ce048f) |
+| `0x01379CE1e70ddd2a476A068f171AaCa554155929` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x130352651c985d52c171bc4022a8e3b10bc8e0959ca49aa11a7d9a13a1f0bc0f) |
+| `0x016bdb903929664EB330084fb27398F250DbB1FE` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31da8a734491f5aa09a5e05d31e799aa59a174d6ab498f9eeae8dc11df95aa49) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x083db76a21580fee0a986627228423d592815507089512bb1079e1213950d1bb) |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f4495707266be3f859736ec382ac879deab84345d67ae25f5a31423d499d8c3) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2c34e0ca725cb06b3711aecad5956026f852333449d6901b9bd7db05f73161c) |
+| `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x631194fcd0b4e85ba191d9ff6d950ac881f47ae7d7b8d0ba94cf0bab122e7152) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ab38f91d864f5781e2e7257c6087c37581d8b74d8d31a7fabf6ca7086344f53) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa39a353f91ecc6ad0bebfe75677fc80d1003eefe3d241642ffb294530dbf65b3) |
+| `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x80c42504d1f50efa76a9d22e7f34aaa16f509c1b63d87c34cba192a2360651e0) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e9be9113330b74529d61592de554f0e9aaf89684bd01221aaee6384cb00059f) |
+| `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x108fe91e9f36e8078ec4686958c2a2c0714dc2f0d6315a82bffd02669f058e81) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | L. James '03 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xf56debcf60887af097a9096217b8c09b93c2553b6fa37a7870532d5cd9e60061) |
+| `0x0C40c84a27561B8Ebc4d1d1f7318B3d0AF6c6588` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0ba6332458fbf5f78d40b81d7280474216f7dab9d1c58af092104228e2a9c5c) |
+| `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30c32e9301e92fe3c944ec55eb66c4e8c63efb331364f99ecb39204c534f7db3) |
+| `0x0e76500BcBaF79eCFA711aA69bcC1661d66ee785` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x915c81156c0d3d189c7c4b6e7c403ab485739c58d34bd95914b86fd6e453ebae) |
+| `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72fbcc392b8ef8b71d0ff859306b3dcffe8073cfa16a43d45146d829d4888744) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5021975cdc5384da5e2352eb644f19ee5616ecd5d10703a05ebb3e93a877f63) |
+| `0x10744887494e29e1f5d25d146B09517329ebC3de` | L. James '03 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x25e0e86345fa8174d375bf242d62ba845b4fe2c3ab08cf4c4196726d8d1b147d) |
+| `0x1208F7B25ad98B353a35bBAe80E0EcA011fDa866` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6e0160048d03e7e165ba010045f58342fe3c92d167376ebe6adc72c43d81396) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x11bdbfc8c35e9391f88ca0dc75a031b0f1440c6b95940d563730d2287e0a7f41) |
+| `0x15b5E2A732D946D79dca83D6EC47F1C7062eB515` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5860c2f378d65becaee1c41e9536437e86f35e8bd05e20ca4f3f21768c029fa) |
+| `0x16321283Ab22e4B2c56052319ca17773F24c8504` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x670fdf87762e27cb11fbe244b052dd2389d8946916228ccb938b2e7485fe89dd) |
+| `0x1744345d7e2c5E24aaDDa50A17C04461e2b8aBA9` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61f37d93bcf667800271b10a5ad036cd1d3fce0050cdd570edc8254be495a5b4) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | L. James '03 BGS 9.5 | 8 | [Polygonscan](https://polygonscan.com/tx/0x3dbfeecba514f343710fab934fd7c3232dc769e0e53ad110d9e6c894f74b0689) |
+| `0x1c180883B04B502d69b35c7784eCC78b93748856` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf4cf9de163cd14ebad0f56fa69be04e777e41553bb7c83a3bf417b529f024baa) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa3e70909600fc26dbdedddd0ac261926a322966c79dbba1d57c5b62cc33ca7b) |
+| `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97aaf12b4825d2022672a60a6ccdfdb9d0e9f3e905dbb292722c106c3d7e6214) |
+| `0x1e1C8817304b7dFa38655F8C48715EdAc44b05A7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5bb06cdaa72c42a71a3e77dceb28a0f71c8c17e06a7e8642d60b7883b516341e) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | L. James '03 BGS 9.5 | 8 | [Polygonscan](https://polygonscan.com/tx/0x29b7cabf93aa4bfde8b8629ff34af586d9ffb42a43edc5c172f07775eb6cc938) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0xf9fd2e6a273fd72e265c70590ed0a79f5bc97b0c6bc5300e93ba600ebbf934f9) |
+| `0x204255cFB052473e6F7f69A72d07C5811bDc8ff5` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dce20a905f8c7072a9e9267de557a292fcdcd64736673c3daef9eb30724e7ed) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x76321dc14d8e344d0682fdc9d4929e6a4aed6b9b7088ebf05df6255c4c92e994) |
+| `0x21B8B92561551778B5F6c5123a8cAB2aE0739851` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa14aa5ee3484ce97ed9e81a109e4b4bd4e3a4d580d457e8eb4c1263a29456d2) |
+| `0x226b1d2Cd64d305B2B5ceCB64c997db0D19BF67d` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce55964f2c3f63bc7d89821f7d31865f0a51606eeedbebe34ea8ffde69e1355e) |
+| `0x233dF7ca8992Cb7EA82Bcd6AE276457ab4e26A73` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f9e8af14c5f2a38f86a593d48bc6be52b4661147fb6f45cd2f1a7a84bf4fc44) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x1fc0dc289364109e34e3888a64cbf9723bac96641473b1da69e24ef19e0138a1) |
+| `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` | L. James '03 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0xfd945576dc533517c7fa83f9503208f5d97238ad4e0cc1bc7831a64e68946e94) |
+| `0x24b00Ebd2445e1e0FBb9Ca5eB80a072D5e9Bde3B` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x079b929075506658d212f3f8f633cee8430c8e72d1455bfe0f1ed418a72cfd67) |
+| `0x2539375a3c2aE0AbC9889a37527574820234ca25` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf16adfaf9c248f57655b2d7d2ebc7248cbaeac37fe431f6d628c6efcfafc09a8) |
+| `0x25A8aE899F7Ecb7FE56AB133a9cc7856E21006AF` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe102ab55d7970afa6df2de409eb3c4aaac26e3d1e7d6574a6ab3b55925004c1) |
+| `0x260C65763EA95b053741bc18318e1b6CaDCEF1ba` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26168b197333ccba1eb37d7b2c608070db7bfd7487f2fc8c487b719ab29e2bb5) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf256a02ecdc9806489391128d0c5ad2dfc5783680e75493f33587de1405da0b7) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x759b54f84d3d8633e5bd6c7807a22ce2595ddc84b1011c1d7ef1a186694d4055) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc205645b01579512ce948478760c0081237711e733edfe0a7ebdfc30065a29da) |
+| `0x27f2Ca0F68A854dD23c2AEfB3EC8315806e1ced4` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe787e4014c7d1d2b2176de106aa4df4988c5f93a85f4e3ef7cf67e060515c3c0) |
+| `0x282E91A17d51859C450a9bB5725D652284D02c90` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cdf9fd2f15e56b2c8ed677143a1352dfca4210d362562a82d34ccbb0e60cbdd) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec5e360485da7876ff11260a420111a6fe8cbde830a0f7180ef4b21c5fe9a925) |
+| `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf311b7ddf590db19267c8487df29cf7f5b570fdc5c31a7dffbd2f004b84b9d1e) |
+| `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ece20f59629fa4427f8187cfa8bd0d131fc7ed3c2a2b5d59667893280bdbfcd) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7bab11ab86042bd900ed552c7e03a07441740a04270687088a070496f675e35c) |
+| `0x2acc5cd98A8162a5BFF3EE997F71835690C85BE4` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c27291fe0c65a47ee344a2c72db77cdc684c3aec17dfdf6175f5580bec44686) |
+| `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x506868dc5afa3d55ebf2cc91244dcdc1f80f954d79f62798ec39454f97ae1f1d) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64692fbea5fd423424f8dabeac4055b1e25003f2a6aa02927f6547b105787d35) |
+| `0x2D5CB0cE32539b04FD24b317D631708Ecce61d94` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x953e8e33702709a24c186ef0100d903c3eb009e2b43833b7326e26f818b6aad2) |
+| `0x2e3d2c133f1E8C7d56940Ea6FDFF86C4C2f779AF` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47bc6a1a8da6d252c362165fbc4984df9690b3eb52bf0ebd64da3bfba892e66d) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | L. James '03 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0xc934f1a08cd10696e5b2a9657341435144496bc68eeb57b0a97096fc8dbf449a) |
+| `0x2ef10F8AbA85BdBd878cb1Da4f6E4666Fdeb9BdD` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fb004e89fd8c2550698ec6994ebcec40861aba2d166ba2c8d98abc965a4baa7) |
+| `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x77d37dfce6f8b48f014f6a575001d04b487ef62d8267d8522d5f7d2502790da0) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67e0b0a4ec954102dbb60729b9ac26ac6b4b09b6b209fc9f0eed915c01cc5bed) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72c2fb5c0587e841336f7b7d5f9154102772830ad6324d6aa8e5722a33457823) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dca8a412d60f69268ff4d5d9d778936d18b1b6032a8f5f3ce59bb4de2f10684) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcf8cfe6df5203fdb3ace21b0ae61be15608235a25a5362d27be6ea5a7be2bbdd) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | L. James '03 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xfcf39391b0a49ca11908f32fef2b82a5c43f8fde53541e0ee05d9ecb379da3a4) |
+| `0x32b158Ab41C47Dd0d2d33F35e7523EF7Ab9A2d0C` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea6262b1f5eb3c7f4e994c4f952064c762b2d66a69dfd166b47fc13ed703b3fd) |
+| `0x33BeD6E961F510bE95a00381B775483Ffd70a3A6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9cc1a2e3d0dcba173a3096deb607ced9cb88cb49d7b4ea11bbe7342c4ac4458) |
+| `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcb8c9758cca81d600e14eb65372d559726f3efca92e59ed5d45bbef3224a0860) |
+| `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa29b78a6210145fbe47df39ff916872e8873c1cdef22b98439abec49b11a4ffa) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ba4160dfb0a34e380e8544aaf965f0474d53363cef9eaa6a5d6dd2dcb547bb2) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fac18f28ad03a852b7e6933d6c85c1ef76fa20923745b4b135ed45c069793fe) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcf886f5cfe76ec236e2a4867d828b45d98e772bebbbacff3eec4ad5df0a577eb) |
+| `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67e35cc284349c475118c34d0156310736a1e8d4b07bd49f98f30a1f18dc6afa) |
+| `0x3813f83CEEc937Be23f21BAF1141e91214e82cf0` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6bb5061eea68ab6b34df19ab927edc09dc8790eedb1fdb498bd03410e32e93f9) |
+| `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfaf4fa1fffaeadc4090791cae456c3825096b5e8e785f903c6f038884fa2a627) |
+| `0x3a7d951de60Cf9A91CcEFf9Dd7eb61a4BEbC518D` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2dc96a8422e362f2575b6653da0bb6564ef3e073384589d7b1bafc0b2460bd4) |
+| `0x3Bf9A28fecf48b5e81bb6eFd84c81b5f3DB81C90` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d1efee5cffbe0ca541ded187d6ce6d539cb7062a46a87746abfe470badf63ae) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb8c10d07121c0124f44ea617339fce446b12e6185d4afcb0d75ee8705a3ea3cf) |
+| `0x3FA5EFBAFcd81B8325b98899B8F7093bD2e6db7B` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c68b679df59f80f945817944e6b00dd56ab4ba33d792c0bc1917085b6a3d31a) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7632a95fd2602a19294d2c64ee28d4754572097ee5a0ecd9c523ebcf3d8b2d0a) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd254f9a9c8b89296d62e086056fcf2ad4ed4e5cd86886399c9378b5a68fc89cf) |
+| `0x461b8A17789E74E6EAb6f09a436747856616315d` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fddb1da0298d210ca2758f5336ec15035ca45a86c3736f73f253e22472d06eb) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79b8912e0e549f3145a91b6ea28373e80cccd558f7bbe480ba29362606ce7afa) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1471aa2304ff267d11a3d7196571f02f3af4c8cdb3a9bb8397a75898ce089285) |
+| `0x4829197816B7A69711Ec098C8cd717F9A96c6821` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9306852e79fb2f338ed82b1013620eff20529d1e1407ff54d4e3ed613ad9c154) |
+| `0x48De78396A8cF8dA8716CB90545c2CF1E3dbDb17` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12157e9b252937004707a0f7a0c79163d0d60ece6dbacf506d21830c37884ef7) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | L. James '03 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xa2a358a6214fdd7d04e4f0025d1ad091ab4285d51744a349e8a37ff9da459470) |
+| `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1e28cce94a041e5a329ac6f5bf9676d17ee029b6cae92c3ed1efb0bc0bc1298c) |
+| `0x4d00D41B575b39442A0e6f5881a893e2e79390c5` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9baf55c860f0f9ff4e54125988ab2690763080f83a9ef55de303ca658ddf99fb) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x409a68785cab8ad848c822e6db30390e91507383882118a49b03726d385fe252) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | L. James '03 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x57cf143252fd33fd75142a324d1376150c91c17144c36545ec8a81acfbfe8169) |
+| `0x4f79e9Ba5E41E1b19938002341b6Cd223f84AB76` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe76e5c6736f00c4e34cebdb35ad430966756890326078203b6654d5d0e9e608b) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8873255c7c37bf2d9e387de9461f2351cd58a504be17a37d3623d7201e481fca) |
+| `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3b46404eda2dfafd92e428465739d162ce782035e166c51bf4a31dbb3b03516) |
+| `0x5026376Ca65d65D2aCd3e3dD3cc1ae8ad91cb43E` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbf65b183cda6aa4b10d9b15650f2ad07db6b2f1bb1eb801dd3e5b7b43b5c9ec) |
+| `0x50f54bE19416Cc91bAdC0EEC42995b83731B6d76` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d9686b2a8aaadd2b5785aeb327f12b73a1b26aad8d68a823cb049b1d18bb002) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xec8c8a430220a527a9b87cccd43f564762cad193139158f6ad51a1f8c0c9afda) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbf7846c83fcc6315c283f1bdbd1440cd1106799c301f9159f71979f82e6b5c6) |
+| `0x524537bb47C13aDbcf59aB23DF47DcB639462d05` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf3ef67c116b3590af2807ce0f747e1e385b11fe4955e11f836fc10d9216b81a) |
+| `0x52fBF3649f098623A1075B24E5f4f53b39012733` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x01ebf7f640d897ce7efa12e3c2c9cc2905053e22aa578d3ec0f8d8d010f81dba) |
+| `0x52FD66c94F9C322de83ba5CE2F3bAa50049AD4ff` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58af2245c849f72c24f91b08296d45c020b7d25e048dabde3f386d466f89b6f4) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | L. James '03 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x5a9c01cc204857c5d4e8a8d572c3e157a8985032ac71fd31066d8359fc9ae01b) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | L. James '03 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0x52d8dd63b1b466ba856733c1a3f2a39676dff6af99a562fe7337800fc5578251) |
+| `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd917e7f8645f7e17d63320247b49bed8add9a4f866a3059faf95fa2202d66863) |
+| `0x54150CB94D9cA62a7Dfe1CFd56D1E40646175E95` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba4e3e249b17e8b33a06dd24373b2e71531cb1c1b77f834f077f929d03c5a247) |
+| `0x548f032D5Aa6E04536a21E57e3d0B83bFFd8FAFe` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40cfb7023687e464d8e1df3b6b9c3a26d011723df2641d2873cbcb78b34adceb) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2a9af7119f17d82263e88e83f95ded04c8d312bf9d5850a387e1d3880aefb67) |
+| `0x56f3bF1006D12497d79bD8d0cc663F27c6d2211a` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89e3e7f8576afe57418cf023e111d4ed01c20b6c1e8a0ef0ddbefdc66a895f97) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x84812c0387a7735fe70d876f126aa9fb3534cb7a562cbbfa7708fdbfc63f20a4) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | L. James '03 BGS 9.5 | 8 | [Polygonscan](https://polygonscan.com/tx/0x64f76dc2bf853ea81cf1e86948281a9a74ba1e6d8b5207a398a883617e0d5693) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab81ffbe23149a3292320b6306890f5d5462078348492d0f1c5bf59df1cc1593) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | L. James '03 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0xce81d66c5fab5264b86fa629344e294b22fb9972145d0f0326982845baad9a53) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8e3b69de60ae51b1ec54ebbb4d523ee40d5caf85eab228c9f3fc356695b73692) |
+| `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81ecd0d0b0c0a5205f2a326840b0a80a2bd3f0fc3e42d432053fd0ba3939938d) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x91692913515ab5f93a92f66f1adc888dec36366638d7d38690f325a35e97081b) |
+| `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x14bbe69aaadfbfb4c9944fe11b243a021503ded2831a8b064d89c1d1cf2ea585) |
+| `0x5FD58E9A5da721F6634218912a8B2104eDADd3b6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x323f40d5d9162745ab17291c4261e32f7b6f8addbb4fc5ec7d30249e0ef2a19a) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xac2b60e20f956fd48f65c89a942736e7a2622ecc493ad5cab7d2c663bd5c9411) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdf1af28f2bf558ab0aeb291537de98751c0dde4829af425f39b8e341813ec689) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7c9e1b0e38ee3e10c82329bf78c5a836e2fdc9c477ec4d378242e90f54e77108) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x62d3863090664fe67714dc53b2d9496ee3777ec7d6a898927aa0bec9388d4ff8) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe097d4836698c0ba24d1b7bb1ca1546259cd75265ecbcdfd099c76f411b8ffd7) |
+| `0x630473Fa1ACd1D799AdDA3e0d5750192514a21dD` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb874e8049ad373da89528877983ddca7ca54afb6b1f6228a6c5877e41ce50a7f) |
+| `0x63c68b789F7aDd1350B12ce60C5845b214EBfbD8` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23d66e7da8db810043530632f1eae0ce190fcde8732a988bca9f81d538e2420c) |
+| `0x63dcc90B5990475fa9bAcae5566ca6722C450930` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb8fe7c3bf49c87296132f11633eba853bbce9904173d833c64dfb2c494f0e30) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76cc4e7013286533f13fcda2989f4084c6b667b01fc3d33df3ccacc0936fcd7f) |
+| `0x64820c5381a70335e456069205e947720dE749Da` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x391069bb1aac70d193d1a2c6564b9926c633c3ad6521621ba832862f15481ceb) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0608cdec5e6d55c5f3e51f9f755560476f6c44e4cd6804167ad0402ff80854b3) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe3cc5b72320d5f102ab39710d0827ae97e85051b279fde5a7353cbdc94ff03f1) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | L. James '03 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xfbc4e069f52929fc108db9a7e9e7724a7ccf25f4a19a578b4cb40987786211d0) |
+| `0x68aFEA09A6a1d250Ae1612809a320cDbd080085a` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x327ec1e41d25e3df5f1cb55e01bd1086dd21a51631c5f4ab1cab19ebf7a0ecfd) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | L. James '03 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0xcabde2b57ce86f6bc06890755e803309539890c81e37f11bf711a6e5513d1c4d) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x285810dbfccf2eb9809db625ad676831dbb5d1068df2dd3b6ec2ffc3d8fb33f7) |
+| `0x68DE09e9f58A2c328EF4400107E348C94701A3bd` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f40e3227a31b7a2a467d562b0cb89e1e1399d5b92d4807d2741526b97e61a2f) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x841156446f696208dcb91b5f39c3287c781d14af2cd35f6c6d977354f48e2eea) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xab47756fb60d72f26dfd1f0a6a7da5c08d1e7d72b750489ba777988d023c601d) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdbd987f883a1fba360a0f66e1b73cd00bd04a5f3b541b06d9fdc505cde0bc5c8) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | L. James '03 BGS 9.5 | 8 | [Polygonscan](https://polygonscan.com/tx/0x517ae2f25d175a6e62e88e4a6409849742673f28bcfc524d5ea8fe792dd6f279) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x890f33426d618b522513941261631fa07f801adbb1f5d221d7fe33c4feadf04b) |
+| `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa37d7954bf1ad2efd97243e7d3da977e4749690f1ea999072e0c48fe8813820) |
+| `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08a4ec9a4082164ebf3bb33ddd879bdfa4596df8c81ad5fa5683578b2f9239e0) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99dae56461f754862eedb993bd0555a1630d0e0c237791c7c79063c589d8c221) |
+| `0x70cED66c135024b9e3696cc8B2E22247E9C822d3` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70e6a7d5737187f5cd3dca0233005499fb34945889ec70a74a85c2e317c1f88c) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x2c3a93740fdafe1a3c0119cb2397c21b86f11203f31822c31c608e09010812d5) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | L. James '03 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x941ec9b3d71567d292cea90503e6ac53da7cd30eab74d3f6b429bcd206dad2f2) |
+| `0x737FEc5a0448fC228270AEfd596525e61Ba41274` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73ae2b20a676b65dd57e3a527975d2b548b2b485507a514d014e84f44911d153) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x36dcfa542dd72e6275917a3a71ce1c4d8a75b12fe06bff1227eb81476bf145a0) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x6621657a7ef3c6bc3d0ea71d80ca2e8c485b34d775555238961d81154a629039) |
+| `0x7445938D345c59143f608Ce686551eDE52cA5716` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d3dfa1bc1b035b0ac5dd5954a81efa0cadf42fede2219ca257681aa3a0794ed) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7b0f32ccf2a4f847f3eaf902589f10f9dabc2d453f83c90c334dc3328fff225) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1e5bb9eaec976f52949d212ec8d12267b261eb1563272bb503bcf8423e04b732) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d70185b7f6d0528e1508f67fe239139dae6d32fc909ef756b75b018ffa76410) |
+| `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfbc3bde7f6cb31b461968e4fb71f7f39e1728024530db0eb8176e24e8bedb4a8) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9685f81c7d272d65576610274e87aa0d003ed88ff95c8b70f5b15bdad4bf5bd4) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xffdd78aa04de3f4f3da87db4e6ff380b8952492a6e98e37dd1b26d6b507ef9b2) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0245f918d1c958951f30f7e0fef35258cc15e42180e6d2bb0e6cd9113fd8bec1) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96c13ca1e5f5b55bcfc6c0221fc08a10dcf6b533e786eab6ed5b752ec6261ab1) |
+| `0x791509eB0540225570baeC704d522051086d2991` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe51d89e9b7587c13076fafd1f99eec80b6b86fa984defd11c586841337d8977b) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | L. James '03 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0x42f66abfb37a68a7c1e4e3d44e8a87ef9b915cef0e4b03ae2d73a5a716edd7a4) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6adde27fe21443951b877f8879cc8969d8c254fed604233cbf3050d1efcdf17a) |
+| `0x7B7631d250da508FA1c4bDA09Cfe68E6aB01c719` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x288ddd391bd5ef539ebf98e8fd63cdf5ec0d4080530d76a5c8d4467065b7fd1c) |
+| `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76b1859b947313d10380fb4cd6f844546de2f95b2c9b2fe6cd5409e81894235a) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | L. James '03 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x6a90df6c1987158f564e19dd7134ceaeea38c626c569c92e5fe024aca9b07d68) |
+| `0x7D5C0363A276c495e61fcfB4179d1250f95D6e5e` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09efa4c42029d173c17b73881ae9980deda75e8c517eaf6143969d0fdbd0af42) |
+| `0x7D87B67b34405d22A55868f619e09c505712005d` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x293356dd5a379f3ff4308f7374afada7ed86dd9a2248070a1c0d366418584a7f) |
+| `0x7E3Df22A6e35073104deBEa23B5b04dD00E82162` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37aff41ca36eb12c9db7a9ec07436ccbfbf9947579c135fefc90872484dc3723) |
+| `0x7eDc0a2DfdCE0B8a72478405a95dd991D866f296` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48b48499123b743a0186ddf88ba00f3fb02eb5e7c783f99040dde293d7456741) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x63570c1429703b79f032e90d86878487a22126685a837009b687a3cb40028725) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93ec6e8d80d32546db0d344ef10f0def60f579d9546def19a8fbd5b7f74dc4ab) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x434d2fb59d88fbffde55493c7857bc0b5fdbc5034ce01286bf630864e25c2928) |
+| `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23e7679ba69ef1c6f15588c0737c9903088f1c0babed0b92004015cba80d6fec) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c868e8563b3056d27e1ec9991e30aef564a1ec94405838e7cc20d4d2affbc98) |
+| `0x87B12BDEb178Bfc4c01a3ABdc6184040dA677992` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32ac072bf9990c60f8492398c492316bae3ec817ad12179e34af5961b13152a0) |
+| `0x8841931b12dD827BADd7F2762C988Ec4B3E07981` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e9cf5a4942e6d98f83f689ac01794e41cfdc3d30af776aa2e4022d2187505e8) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1b9d50e006daa093e2ec0100c085ba8a5c9cf67a37fafe7f57acd6599974eb68) |
+| `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe78785dd35f11074a923541d833e8b0f9f449a19c5c3768e7b128e20d8d6438f) |
+| `0x8BA4790B31EaC3761c7bDF057b1e3a6DB4740cc8` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84a39cc9246fc6f958b318a1cdf25d6fa03396cd544b9cae3363d17c3a75c09f) |
+| `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea98ef351e14837732859f53b213791a9f64e6f191d7a98b52852ea01c99b320) |
+| `0x8D091CC46064aA27a0E9EA0f787Aa2334482406b` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cc676049c4160c284a5bedf22c901782176633295e2a4f058be82f1de8222ff) |
+| `0x8D4De3e0529310474B264Ec80153215987230665` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34aeb5ad5b8e581469c12ee0dfc530c404c3faa3be1cabedc60af33306ed0f64) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94063d423a4ee11f09209aea43289e40c96bdb49b9e9100ef85c1898c8d30c0a) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4af886867ec1a75a3e1abf1bc69fa6930f9f80632e008c02489c10f4018c9658) |
+| `0x8Ee7E64F8Fbf4F8D3E58b64aE167a1177cdd9F3f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8cc18f80f9443bd61baa2d08dfbd1c7ba88db81e650569d5be585ecbc1232f22) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x40f88334fa35e5db933db49ddefd67a6a2da04fb644895854f702a58d5933472) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x601e7631e18daf66e8c7767537ef81dc33ebbbd3de56ccd0ec4e2fbd588f4eb8) |
+| `0x91E6e5d7E0735eB5435e192A280Cc94AA7Dc7472` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42155b48af4fde7e2e69a7ba5a2c2715883cc2ed5c8199c84ac971ea3883a800) |
+| `0x92A4b8DCAd3E3f1C62efEb2985a776D7A16EEf0F` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78966d9fc3a20fae1c8f0750937de9ee2e23a24089f1668b1822c1164b3a767c) |
+| `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb765e4545ccb2c8da21f9f81bafeed9e80795f8eb20a98981e6da8af49caa0a) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x29a3fbd93d1809967e099664b4c3cae186109c9313782ab63e87c1715f72abd5) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | L. James '03 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0xd651a71de0cca6c2c98fea09f6eae63e0b36c1b654792e95dccb1a5e00d3f71e) |
+| `0x961AA26e0c883E1107E3fB9D854Cb99348F1ea15` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4bef1377d8698d6c9dda222d68a5e0b87e4e944cad283d88e95a85d413565284) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30272d7c808e7b816ae8843f8ab9a3abc0c7b96ae3eb99497dc9d04171319167) |
+| `0x97C3Cc88060de19E6A4492CF11a2d40EF2756C8c` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6c7cd418d02a96fb3840ea533e5e1a7f25e4f287a19adb40098fe782ab731b31) |
+| `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbece2a80aef54df29b9caa55f28daaa6dfbed759321492fc297af9fa94be086a) |
+| `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x502fd4385f8c5f91d35e5ebf433480cd9f02cc5ec63cdd700368413dd4176288) |
+| `0x9C69Df47b9716488972B3D5E03C287e21bAb0235` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x436c191dfd0325b6709461eeb9acd2ca0d62693a64202ad984fbce3f307e20fd) |
+| `0x9c7C358ebd7A8F1B51E4267B416BB261dF5F5E27` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbc6b2d6e3ebecc45ecae4b3a83119b7b2efdaae7cfd3e4e738da45df6a0e8de) |
+| `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c66ba1a786c934bb7862f4e0523a88db86ba8345ec2174b69100f9c1a48adc0) |
+| `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x52e7db355b0d514f3b374be63247bd34ef0be46ae505263102a99c34a095ab73) |
+| `0x9E1b582A70dA26f79391de64D93cd2A0e51E0209` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f13695f001c6268b7a058f7718e3805ee4a6b18f366629b5c3b7a3d30afa9bf) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9a7cb53b68e36c07af1b5ddc696f893ce59953afe70bde5a8c7dd9e050f8421c) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0eb760256c312979ffebddac45ae5d18de522aea1cbaa75cf5f6dddcc5adc72) |
+| `0xA0C0b23FaAf67775016B256D0574E67ffdf41223` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc4f3defda486e5b11e50ba728058f5156c6772e728d71dfc8fd692e8d1058ce1) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc348bdf5c0ae3f555231ac5fae92607f4e7c2866ac38eb9777c7f8c84d12c38f) |
+| `0xA253c7c96dA57cbacC508ba081BD7AD484982599` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x04d154c20fc3f994f77b4d3142a38f89e7825f8a5b58bcd1c8b3766fa076b551) |
+| `0xa5530c389E4548C525AC674039E3F69e88aFd26B` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ff82d7de5b79fa64925f1a9adfb684da197a7789c4752ba06a8f2d2bc5a0186) |
+| `0xA589F131d6b0F86f90883Aa64169479DB5d27391` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5074607d6880f43dcfe21f47051794a0112610f99e543d7bea0c2b9006b8ff3b) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x33fee69f3f853bbcd48e91be830cd2132b8c34900cbc3a31188adcf8617531e8) |
+| `0xA77E21e2e6A36B6C5a331c69251066Cb533CBaaf` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d3f77839cc0c3020dae0cade97bedf774aa12c2c06aaeac3ea8bc3753a694a8) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ae9b6bc7b7df81249720e981f37c83c5c843c95eb28aafc0f3e8e828d6aa5cd) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3900f8ba6d58657b52a534891ecbb7cdf00f1ac0cc083848af09ae439b8128c3) |
+| `0xab4B3A2c4A7959e459Fff7FEFf17C02c60a6bdcF` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9143770b1b7974e273b5b5346c8808f217f9a332c0f7dfb4ddac68945f103aa) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb0f48c558b93850b6d376278b98496fa3966ff60e140296a2348a8bb10e858f7) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39ad4fa704d88c168c5c8ecea381b4ea46731e2e35b6fc14b182da78e899a655) |
+| `0xAE6b795C8e2398e790EFe2936f6703958E307d1d` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fa52bb7e8fec5447977a5282d13659f5ffc7f1f6b672e75138496ee0c2cb015) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | L. James '03 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x69fbef077fdd23696461bfdb516078d306e59e160e4f5f94d6f968fafa9d2d17) |
+| `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64e2ea0abbd610e7b81700cba8d002d122b1e0bd62354380c2dab8c886dac6dd) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4111748f93df8116015b3450b25edb5c2e78eddb97324b3ef131410af633f42f) |
+| `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2204620c7d5c0485afdeae18344018d539838e9cfddf9f323b29fcbe3d325461) |
+| `0xb25670e731691BCC0Adb39a7C7b23A460503397a` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d12f1dd987ba4aa9599080d3dd3795f5bc904706d638b9f2c671054f96ff895) |
+| `0xb290785e590760FBB9c56ECa157B92328Cd66d0d` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0ff2649948f0d3d33acab0ae14f6b7a8871bf9b1075752a78753d4bc58c17c6) |
+| `0xB3A028D6F28b35d0f805b487Aec41f601A1B8059` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61767e0251d40239bd212ab3fc649a3cefc136896a7bc9f3ea0a62504109ded4) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4103732d3b49637a7c7a4f4e650b75683ed09a6ca43c43e5c6c02eb61baf668d) |
+| `0xb4E5A70053b086525aD46A10014586474200E897` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2366893ba58325b41174c9a946d7b55199d705be176f41b82e4fac5cea319e85) |
+| `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed93519671dbf20ef0d732f056e10ed2446ac038e412e5d8eda3a5eced8d58ef) |
+| `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e2f69452706a38278120350bce5f1bfafca2f257842f26a5e960ca109f1a95c) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc7d38c2d071e0bcc5208fee0ea1753e94d56a7677b6404b0e25dca42da5c6b30) |
+| `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0d480ad4998168420e96cfd8b3f50c67d66354c46741d9a7599055c17eb1bc1d) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0b76e4ee3a0fe206fd66ab91ff3f2cb909d1b0238b8ade515adff530553bca2) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaeef6fe764c2266e3e844da8e441e9024a1183bc4152ef57d4c247e12b1cb099) |
+| `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b30fa8c549ba9e11ed9137b9432be504e4d197033fa2310425b4d22766792af) |
+| `0xbC300F50b210f5101769b6689961B67fdA79F481` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcb2f14f2f97ec5c40821ba959028ec143f4a47d753f35902bac92311bb71d9b) |
+| `0xbdF8945A8943AcbaE4297E8eA51881B50Eb7EfC3` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xced24ca62a8d77bda7944a743c630f850e25dd90ea98e8094d01032c74c46f5a) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf692f29737fb1c4f29f91108f9896cd8ba625f019c18311e34fc7ba0362d3ffd) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x158d81c70654089cb2b8cd850d855963459c0445bcddaf5bc5c0027591bcff99) |
+| `0xBf5e76F94e366C6d0C13A1300cF5D83274Cc5e0F` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3e0c9127844c941922739eb84c703e9aaced9f73d29ca28899174ff39464d25) |
+| `0xC05020D499ae910a5374745C5f5863D8fb06BC29` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafdf0b656387962ef6b8862e3b8b63c9ea76d3cbdbb9cf83a76873135ecbb296) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdc77c18d8968230ec36fd112c7047c18b6108e5375f07b3f9f45465d78bcf5d0) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5064719500ee2de702e560a6d178299bfabb70788725ea53e3f549c993341f09) |
+| `0xc301625D64528e69ddF101914188fCd793c528CC` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb640c3b6c82450e867e4b184cbf22279082baf3684e622212b6105f98d8c985d) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xadcc5c7cc551d7506406942a53d14421199616c3054f0c7ad0d8ac4048655106) |
+| `0xc402Fc6D9aa01f4Fb13568F13582aE837ed9ec78` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1da813367d59f68083c9b2815be354737e1038935c6aabd8824abf35fac921b3) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa82838e0c4224c6003e55edf341456ec295621315a1b729803b7a4dae18c4934) |
+| `0xc54A366e47Dc1D5a20e6D208bc4703b9bfa3e805` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3f0a4acaff714e7d1f312a201a25247c8908919080d23e8211a5097df9f5d1e) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8c38903f845d1806d669c17c7217ea206b9e042206e8ec69004088d5ad739e2f) |
+| `0xC5B89f65b708bA68011f8Ef177126760d4322Ba6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfca3e394cb78e4a56fbc9bc670feeae72bcc5f06dd005b782c559a6285b12807) |
+| `0xc67099b84Bbf09a94f3711df522DB5015AD90D49` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93b3d0a47bda7c027e6995cedeaaca8a9fe9a01861a01cf73f066552b3db7c5f) |
+| `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf48fce729b0517ffa163cdbecdd0996502cd65bc4286865693eab56969480aed) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xddfeed4270770f1fe5cbec8a80b40607515e80a552861017d2e7ac7f51b91794) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13d2d60cba7021ddbc0dc59d4f5fcd015ca7754766d468d7c24a828c5285da33) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x124af4cc41fde76b2724976f2b8861d6ab67c64efc815f60d025e9a12160eeb0) |
+| `0xcb200D715eB24483b71f2Cb577E534641C336A0f` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x448f1d32e6a139ca7459465bf713d94a046905dc5e193775983a6f7af85486d1) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9133314e0476e9c9c8c6ba8f10fcecbb1cd8ce181f35cb4fe1a50aab5ad04c59) |
+| `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a13fa3b310ceceddf09fccd5c143c5a71b2d1ce435d4ff56562bdff86657382) |
+| `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6522453d9e8f049fc4c7fe53c508d41734940845e53fd480fcc54011ba3957e1) |
+| `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7868292382fe68d4496f027f1a6dbbbb1c105a3afb715bc5396af727276580b5) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0768bbd638396164d373d17532880920d2977ce1b04466c48c31da66c981961b) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0080b4b769998bdf57a3f8a76b84c39be97b47367921a1e70f21d275545dd734) |
+| `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc81d30437f7e604966c138cfa1e0dd828b9977dd32f49646cf675af2c5faa2c6) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | L. James '03 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0x08ff191cf0e9c72daf3db649c8679c06ec7a397af01e2b8c843f2f417fedcc75) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | L. James '03 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x48d4338a6b4a87f6d502eaeee15de56ff6ce1c7b9a654044d939f9e12e715835) |
+| `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3f421a2bb9945902c13b47af1b671669f5d817fc0d6772355189d5c141f3868) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1254dc0b6a669bcde4cd51d19d06fac8fd9fe397ca71b59ae2260fe6b5a7c762) |
+| `0xD6F1285528AD2448f1E37004Ba389C19e1fb317e` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34f430f3a5ae4796b30ca0fcd11d2176965372deb5fccbe412434f3deefac0ae) |
+| `0xd78338421b0c53De416c3c2C207B5f340979A682` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdf98fae61b7b76ace66b60209b5e1c73174dae51cf8d8b43c75efd1be2ef753f) |
+| `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c5a013813783fc564b5c18977962ca9034a39e8406b787adb16a737a560e977) |
+| `0xd9a8D209E8B5101862DFc39412b1Cf07655320b6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ee7042eb9ad6432fe3a76ca33d5288593802ac07e014400c4c46bd05f9f3a31) |
+| `0xDa0f1BCbdF10783c536CE36919314bc3DFFA0291` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc79aed445513be8bd82f8771976d8b5f2311dee273a889ed95eda05b5d7ecce6) |
+| `0xda5be91E7d617753f764840b54c28E3eb3D174F6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda7f4aad8d9e5ca0abf2fe03aac299e0a3c76b57211e2c723db7600098ed1e29) |
+| `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbf4c305399fc0baaa284468f5190e2b8f9cb75bcb8b74a3cad0f54fa23499de8) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x781d1a5b782d58b532e80440eb3506a0ba3c485440ca1dbc798d5356ea05706a) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1e8d4df251b1cc8ed6e6e535a157d767d050bfd9c8d4279de31231950410c027) |
+| `0xDcEFdd20961eF29c58a442F5D2f6c38DC8FeD228` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa63691530275c877db4affa4d14c962e37339934b6b7530047a84adb3a68525) |
+| `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x88df52f07ec886240388cd8d1108b87ed39ddf5f311bb4187b64bb7828080a2a) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6d9f385661931268293fc2e6f8ae47a867bbc7a6ba27200e331d5bd5e61aa2ae) |
+| `0xdeAB699d61B23ce1aA5D6dC792728B49ba3f87C6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa89dd86017dc20753065af84285abeffc278593aecbdfa6ae5e77d3f782e4dd) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | L. James '03 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x818815486d0b3e6a1bb425b7c03a4ea8d4377b0f4366bca4e06e8ffc8ce6cf58) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe6af2ea0ead1fe36ca73db0f8192378465d69c0aad02b0911fae36c898f026a4) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4805e9d102d56f402e6190cbcf4e506af55851d6fa671d6ba6b2117db58eef1e) |
+| `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaba3736d459113293a9eedbdb1fbb08d42123c0ee75013a4c6dbc5817da2681) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79aa5cd8972f5fb8546808b61aa0b535b7e90fc8bd02c6b0ae41dbaf678b3ed0) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8db524b0be81735df807e4dda7816468e050f9c2ccb31727f0021e7cbb92c5b3) |
+| `0xe51c820bf454a7e208529874b7B38FBdc7de9D6D` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98bd8e8e41493de0144584df3aacbefb1ca7a6a7d9ea859a9c25aa8a968cfe66) |
+| `0xe52fB5Ca83fd467A6ff07923B7907118D34F9018` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cf3ab9d9b9665f7f9ca53508b18309249bab3d812cc374d7b8e2687a6331475) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb755e44495ba63303e636e9714a72640500091b184554ebca136ef9d5597becd) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x818b2972c7b51be772932db0243edd9b87cefc16a313851f62af9f7fc25f4047) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x322ef42ace993a36e886cb5adafe7f44c100fd931f9986ad378cd77fe825abe4) |
+| `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1bd74eb393b042cd80c66b66a073ef605dbcfa64dabfd2b1f6e40e23c8505da) |
+| `0xeB8F35C72d13132d5Cb36c72d7A30F2A17C80EcC` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1f8afc145e6543ecdf0d3bb0e4f9749c614311a4bd18b98cfaaabbc8dbaace4) |
+| `0xeC311866f2D2529779Ad25e8e0940d2Fa96fb810` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f64e9270b82488b04dd6e6b2e6d371eb28368be9e9c81210b189398614f126a) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5b456cd2211664a86d370c0da97add4a8afd02000e44391db8a893a82234dba8) |
+| `0xEe1C603234D0cdb94e3C6631B2f10A697b8077f9` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa778f6dd1a76a4b35a7854d33fb55f79b860de630775b0b4d21cdc6b8c93930c) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcb2fa9c6729275c6cda7e4d5b32061687a3c161a2ecf86ca2a4839558b358e2d) |
+| `0xEEfBb6649fcbD30f9F9A99055e2F0Fff651A000f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6801d62d8aa4c0b722d43c4ccd9ebfb26829dc4bc8296a1ac459e009ea252de9) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x036378a6d75b35a373d79f9b61e28a7f734a144b32bc2955c011a5767d370631) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a38ebaffc8f0302e5898e36acd0935d46dae408460919f69c3e1f68f4846d2e) |
+| `0xf082bC6d1f4Bf0748dD2F63D6E06147FD02753E8` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc8ca2e4afa556498a7100c7bd4ac3df04ef70d3243523cbed82dd995e19d1de) |
+| `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9233d9d611428aad79a4cdd552b002133292c2c0d0c1b2b2381703a635c3886) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x979d2bf42ac28b0bc15a6c5a94ed99432decad281a125f93e44eeb5adde67a98) |
+| `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15fd2cce9345685ba3600699c04709f028fc59385db87c75fba028ee59ce66a0) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x308057d404ffac7689c43240b0b5d39bc9760c1340b49d731cb74800fe034333) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a7ffe348a5ee967b85aef8e45e5771463dd56ece6be1efa1529de22515614fb) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a1b3cb9610621e456859ccba5ebe471025952fa2155126a1cec6a8e96166f00) |
+| `0xf726303f4DDB9AA982519249f4afeA74B5e106e0` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3cad65f45ca0592b926263c0e3267e35d7d7978535c39040cffa0a9cdcbf6e58) |
+| `0xF863a56a46547d0d700E32028984Ee6091A90fEA` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcf99a60e2299a7c9b09d0f4220f58cf93b9f2c2ea01b49d63f1f4920262d99f4) |
+| `0xFAE3B5BF1913454Ac084Be4669136dDe235030C1` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1423f389553ca74a462b2df77e4539354a3b349ec0b5c61798468a96121b67e9) |
+| `0xfC2e6F80bc7fA861043E90F93ebF712b379b30e9` | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x433b7694d9d8088072c9514e7a659ab26c6c86b6acdb5c311e8de075cc996f48) |
+| `0xfdc3E22f377496f607fCB9d8186064d0E39900df` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x762824d5d243bb928036dde6aa6d59ec7b88c7198cf8f7f991d230b5d808fdcb) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa2a5d1be5a0a89af3884ad9dc86b79e7ec0b6135a4fcfc12b3633934855c1fd8) |
+| @Aaron | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x9e0b1c7c89567a53b2773b565c904185254597e5c0b76e0ff51851c159a5daa0) |
+| @testtesla | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29cf8abb1a280e156753f43e87fff36ab737a00b0d651ac18a2de173e487f913) |
+| @ajbither | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafb0bfaad659e004586f5669d30bf250471338c206d2e052bdbabd21da8ccb89) |
+| @WaxEcstatic | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6dba2f6148dc30cacea8da75f9376fd0018f71b681e09523371da1c98c642d5c) |
+| @lrsportscards | L. James '03 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x7305b85e5b2a3e1593fbbf11a6cac271fb970ad9140c16d916125cba858df182) |
+| @MattMoon5280 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae62cc91737c51a4ee102c4908afa36727d15da1138528a1a45a3823f4f94dc2) |
+| @Cromslor | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f3ac7d00d7532f929202f165a7e20acacd2a6cff71722f57cd0c42cc8667ee4) |
+| @MEECH | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf887d7f1dd3bf16275a4a01a973a9cfab3fa2ce3a190d18133ce20f3e130969d) |
+| @Greatestjudas | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf06019058d3668119b66592acb0d5596ecaaaf8feeef2df43d92f35dc9484c0b) |
+| @bri637 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83cd8c765b870a534a9aa2acf92197272e5936e77cd7e7edd1144dc82816f7d6) |
+| @Liveitloveit | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf77b92294f531bc87501289544c54f6c249154646b3bf9e30bfd7d5638269a93) |
+| @Refsonic | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc271b1b12512232868ceb76b95c0ceca433bd59bc3f146fc238217c7b173be8) |
+| @Elvis31tx | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d531e565db39707cfa1c21ac7035c0efa3b7a0695385e8f75ff9460562f1ace) |
+| @Markjack23 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37971fea4b740e31d825bf151202743315f7aeb591f07c66c5cdd574f209aa65) |
+| @Packer1234 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5aa34a1d78a4020ed677222403ac05e6dec9e62404b99f4e734be479f35bbda) |
+| @dhuff1981 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8b6b83a3c2f6ec60b9e17bfff0f26e0de8c1aaa4e5a6b40cfa2be96fe839aa1) |
+| @USMC03VET | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3916f605149330258e072acdaac3df40e3002691900a79b42b209c98c6c306b) |
+| @ATOBTTR | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfb874136ee73a33710f3110b39eebc88bda9a6f3e3ae3bd3780407ae8c5cc32d) |
+| @Barefootstomp | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80832e2a20a25d6137b7b3b1cd43e617af618ca759e0c1d4f1767135ed8088df) |
+| @Blsteel14 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ce166f75baf182ee2a73707351e94cc33e1e647a27e6df6337067febe587e9b) |
+| @PeteyC | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa5a913ea8337db89848579cfd881bcc58b076014a2e25bfda89769c862d723c) |
+| @aWholeLottaBase | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59264ff057bcaa77935ac353f95adb2408b6cf3699197c97b0e3f582409c545c) |
+| @JMack1970 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7636b865b57be3f59c11609098e9178eec56752f0ad6774019913ba278c3429a) |
+| @Number1emt | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c273e66106144c4d841a82a7111a42489ad7a2ae8c72ef991b80e9708e7ac4a) |
+| @svance35 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb44df53c53d17b794f33ce5d7c4831ed2eabf04fda45b0569b14efd038c406b6) |
+| @Jawasta | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23e9e1dad364e61996f6480f444c8a3f467ce18d90ec4f010eca056b93a70832) |
+| @Zeroglobal | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5c14c18dbf1da1a405820c9be36cef3c5b933c50dfad18f53db8e287aeaf46e) |
+| @Gehrigc | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ee4d996a60d171f3c142d8fb30bffa7fc0edc54c7729f6e6413f7f02ad82f5e) |
+| @bighairyarab | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x215b4195ab7002e01116085151aa2011ab21669bb2f943d4f0ddd619d8f39661) |
+| @Dkussian | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc48d149ac809f437d0c098df8c7d9869713378eb465c81cf81d6fbaf08be6f6) |
+| @Richhog3274 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c23a77e1fe24705292a4f8b65ae3087558cd7bc19dc826834e30736800f757c) |
+| @Andy3de | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefda6c9ee7526178f608b4dec5092e658eb73118aa198e30df9a7f681e11f74b) |
+| @Shitsandwich | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa853d863bea48fe8402cd4b7d9a4c50e602284f499230768f9e1778fc21ba3f8) |
+| @Robb417 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e81b1106342dcd1ec7b28327ef508063d6790ec2b5b6dad64a704cd914cda45) |
+| @jsunwall | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c6f21ece26eb9078a758b23391a39576014c2b8d3fa0b1ecbd190df99f4d454) |
+| @RockAwsom | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf2b6c474bf16f35612ff5b60cfed80897e141ce3158261cd2acfb0136213ef9) |
+| @dgambill | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa869f281e79f8a92eaa79aaf84fb21c74f2292a5484c865f9bb1a1431659c29) |
+| @mekadon2020 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2a528cbc01b29c6bef81d8c0d565d0a87150e8c6df1e349f2853a3624a0b7bc) |
+| @Martykato | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb63c69f8b7db433742e02b8cea2910b84e2d422687d521b39438199bb5150fc2) |
+| @Dishdog40 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1af4ad929291e010e708b1b1f87eb3bb34176e7dbf33c607e0af7a66aa0017a) |
+| @Juglinesports | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c399d3b8fe89b67279416f99ed3b4144edd442993bbb6db8104df2307323817) |
+| @AdamDunivan | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe54afabe03123177b0081f9911f60e3220f7e950cfe6d036feddaf97952d51cd) |
+| @Bdanley | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cacb860042339c4aa6c787aac12597f02750ae2d02fb186227435a72ef6aef1) |
+| @two4qt | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7deaa8d9abce6e68a1810f1211650b0496a24c783d59bf24845b1bc2792b3daa) |
+| @Mister333 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13b5ae8a8550824bb13b32617707199a5551f3074e85a95cbce3896089747f74) |
+| @MadMak05300113 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x516401bb92399d93b47c05ffd984728ec82d627c31734db32c73d9f1609cadae) |
+| @badhigh14 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4321ecddb0958ebb029f6e3ec64083b62628f3411cd0aa40e1d163619bd85532) |
+| @DJRUFF1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f14166b84a2c19bd585e7f5556cf211aefcabc97c4f315c216d6147b4e35549) |
+| @Edjr3 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd047036fe88aa3fa9bb892e29fa1313d2f56bed618f306458a8d33bc67bbdf57) |
+| @Gradedflex | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf95bc06db367271b4f8b9d50d331dcee2d030fe226eebde7abaf3924e9ca49b) |
+| @truppe8 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbec373167cdf5814c8f10f364309c8ef8b5b6194f2e4351f00a0e44d3061e844) |
+| @jefft8378 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28d6f81330485aad595c1e16bba09a9dc739f06f7612b50971d13ea360f1f055) |
+| @EVANG | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x770164481075e2b14dadda1f55af27a5460a76740241ee3429e658c3f2fdebc5) |
+| @MJB51 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80b990d4fbb592463237b29970944d63e58cdc0d3172d3837cd460b82d58a165) |
+| @Oledoodles13 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb291651f3ed793389f1269f30eb202bcb42b71b3ed091e6c76dbc71c6d4b3295) |
+| @Berncardinal | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a3e0a90e32e72228c6ab5ed624f79951a48816c9dc886fb77a6b66682904d23) |
+| @Mikefocker | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91aa5d64b6b5e73a4f214252114c71e74ec46629689b2508ff4dde2cbaa4cd4d) |
+| @Jwheels24 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde71891249cd00c85dab12d746560056499499143a0fd873a7562f59b15eb09a) |
+| @Jeffjez13 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80c0c6ec66184d3a28df49f75d5e0b35b0cd34527a136d99bebded42874df89d) |
+| @TreyDee | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xabc3066e68db1922d95a9412c6726a266e1cb17eaf8513e4adc4246f42f20fce) |
+| @Kobayashi_82 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc83dde35cfe067c43fa32ca295518f45344bb43fb99c356d9bd8d662e3e3d40a) |
+| @cydor1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17cc8af79f88d643e6506ce7324eda9f6486be22bd5017d2da8dcd9732767bbd) |
+| @Dsilvanic | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66365e7b57d37ac8c6e1247d3f4a1560fdefd7bf419378cb2164157148f7225e) |
+| @DirtyJeeves | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee7af93a131bb59ce7514feed9f22976adf95fb03e748c4d8d478f778515d76d) |
+| @Enigma | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01705e60ac11493f4e48f05905c422949ddf0784a34814141eda805e3390c095) |
+| @Rdc0716 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe78515cb21c06a557a31f827ae18323c73e6f31b5acdb490b1201f6d01b80223) |
+| @Rj9568 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0644ad0fcc6e1a965b7502583d5843436e40386d2ea754b324331ac5c01c6cad) |
+| @SDYote | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfedc43e9b77d0cd1101f7f58a5cb7d5aa4e0e3a0f86b7fa8f4e2ffdd9ee5828) |
+| @Glimco | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf883e0c42b2c7bf3f46635683e809329c51038d3f4856f2b1df32cdeffbce1a3) |
+| @Farmdog5000 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x858453080fc24bfe7073e99bf5fa2a6dc723f65168358635195c34aedc392a3f) |
+| @Glennwilk | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67ba6efe96bda12806b7157fbf154c4789f794beac4650ac356473b0151ecac8) |
+| @Logainsta | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17c6fe53b4f8dd1852f2dd264bbdbe12a4175d73b454e4938f5ab65715809138) |
+| @ChiefChain | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3827ab703d893c841d6db48200c2e5c5e5ee9f9c6b4fa01c14491a39593082cd) |
+| @Pyggles | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82bea56a21ccbcf8187862fd0a9392d8f5e0753dc2eb9a35d00ca0f6f0afa198) |
+| @6_FITTY | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18e300d4e1cdacafe3c311c109bda4d60f7cf65fc15a84ddfb8a2891c35d7711) |
+| @Aileyn | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x467f4fc8a86043cb82c7e52c0a2942d3e7571f958e35bc8150dd7ff14a0119d1) |
+| @Razor11_11 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x201a53f12ea3ba1146dede7a9e87f4413abbf3d3f33974583cdfcd84bca1de14) |
+| @Dvn303 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60b2e75cc28f1c15bbac553886c948aa75572cf78aabf1b235cea3672b3a7c26) |
+| @Beltran5 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6512b4515a2682a865f77ba1bfaa04ae312721ac257fc8f26036a9f2b4de8a63) |
+| @Brobs | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3670d861475e077ce12caed8afadd1fe78188539b0461bd00c444c146cb51e15) |
+| @Mzoltek | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19c6e2ffc0fbf386a446098a990c29318f9153f0cac6f385dea3c67601b0495f) |
+| @Jasonw79 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f2f189d3bd26f9041b8d95ac27823f368875f3e27e50f578a89723b670a47ce) |
+| @Oshnapz4real | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf70ae7f49a5df43f93e3c6dc7ad5908aefa725dede51fe0cbf396f29609d2b03) |
+| @TwentyPeace | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1b09aa74b9c153d607600376d2008d6b8cf654f8e86f1dd0d9baedbf4708365) |
+| @woofy | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e8a4587b728074f1ae52f57f8bb66ab9e59c4e43b37268124e5dcfb6eec8239) |
+| @Thejop | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedc67925ee99f1cfc8f82db7163c375fc20c160d2891a5e6c0bfa6e67dc34222) |
+| @Memphocardman | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19bb038679456f620a39704ec10205cb493157b80b9c493a9b79d92838fc8318) |
+| @cmassey13 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa3a14f394d7e4b9472840e14646469ffaaf53401b3f0c5a506addd7a4684704) |
+| @William2879 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x915ba2720cf796b95a12f1d30f39d86d45d576215643a8cfd2c2ef524d826e3d) |
+| @Bertoarroyo87 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc51dc96df2b4f20c7dc729950b4fb57fa7bb6e7116675da7fccb9377e2c324d9) |
+| @Farrell1820 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52b15f41ca7361022941962b958b90aed335ce53f76ef8fe6e5e40df08853fe5) |
+| @sportscardgiants | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ef6fb4888e5d5bebb07e55ff04019a7baf691a3ceb4b66155cf5ac26bfde45c) |
+| @Marino13 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8d635c71ba82804892014c595d1f4429b8161b5e47257ca012954b70495ff78) |
+| @Dukefan1979 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84a89bfc33c28494e5b2648e5a653e2276850aeb308ce50dd43e10297ef43c1a) |
+| @Johnnyz77 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09b999083d4780f99453e6698b7469cd311a1df136913117eac8c287a706d77c) |
+| @RoseCity | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3358487db7cc3ba8a0aed09c07f0233b991dcd458e6dfca13c91fa716966adde) |
+| @Trig2022 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cd46c9d9dd9e7eb6d17cbe0322d2e97c6367c94e203e252e8014455669239dc) |
+| @NolaCollects | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55ece660dbc57b160a42b921d226690e2ada9dea3701f8683f7773254272d821) |
+| @drewbie903 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e49f5132df3807c82e9459ba4e049d10b17bdb87d89133a059437725fc717b6) |
+| @dfsjerk | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d8d0fe316413a6ab69b793e176b914fb60029089c5cf6e661b4892ec361eece) |
+| @Dak_33 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95c5d00b7d7a6783463f253ad3457671e9b2e27999713fce793f209eca0b3eed) |
+| @Odot | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcbd21c193f9199c38b138495da15b74a127534af546b95d76b00d049c7c5a7cc) |
+| @Da_Dude | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c109a685103c710960896dac0702efdf7740c734d944db220562f44600bb5f3) |
+| @Gutz719 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bf128668b610a7f225b60598120d105f011c64f1f77d887f88a86e682fa7f53) |
+| @Dupontgoer | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb09fb32286c52cc14a6bb511d226dab719402a2869dfdf59f795c6e8d26392f8) |
+| @Jachild | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64869171fd311b3bc6ee9a0894cf8da4f59d04eaca091bb80306c8d5e04a722e) |
+| @Wallyscardworld | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x451066e98d205bca76b69a1dee09b2daacc267325db0a6fc02b0c07c3239acd2) |
+| @Thedarkhand | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb11cfce3c00a7b9813b44be0050f851f57da1bf1667dd82142c41dff289b2b72) |
+| @Sailing904 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d1ed95aa92415558c9a3317b4c1533d85517a868e85df12b28f4431e12b7169) |
+| @eddiessportscards | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe02ebd0b794f6e20d38d6c54c4b501a5f30f63f603da684a25618c6469e7837) |
+| @Adapptiv | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6854b03378004fb1c592ab03926614dd54ed3434a13d89b0201eb640c909d50) |
+| @Bread | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec5c14cbe769f85fa7ad01128e92beda7838408471eec139dbf2c1ced3774b32) |
+| @Bem0 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55706e0b185e141bc5d3ababbb4f787d7c25b558ccd780b581414494ae3e0f95) |
+| @CompassCardsRedding | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb95225a77926b1d44595931ca5848bca14463f94bdbc03d0d6c91f95215424de) |
+| @Devg34 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb44f9f477331bdc88cd79f277e75728dd8266dd5a77aa3e6f2a396fa12eaab71) |
+| @NameGel | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b65aa792409104065f0e7d38d90c8dd280a80ece6e0aa983f02e5fe2ccf4095) |
+| @Providermusick | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f2dd9f6211dcca7375d296839246b44d74e6d9147405b67b61d8ba1da942519) |
+| @JohnnyRipz | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2041e156448900d7708fddf4d28b04c13a7d076bebac93dcd8abebc7b7fa933e) |
+| @dbox00 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38988bbd2dc409bb888e0da558d48eb694ddae3e442e0ba304d8bb5ea0e29675) |
+| @NLetra | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbece8836a4c1071b86c70119decfb291aaff4ee70b3e4463be82c841e9da97b3) |
+| @Keavenbrown | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab712207cd97010bdb6632c2df38210a76c3905d63dd965439df13656613b9e9) |
+| @Aftermidmusic | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93f9b0585c3eb8b5e05678aa990a19d75cf866ed02138c7e0e2f717de9b35f9e) |
+| @Tryan27 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fadfafb573f7b396970cbaab84dfa403dc153aa46bb353ace1c434f2d5f8ab5) |
+| @Ryamurph | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x315b88324b9168d62d630c54019ec92ce3bf00ca94fd2228ef6043d448723350) |
+| @Jmizzle224 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4215fda1ed7a6a1024abd47e5f0ad18af6c16976120a182eca00acfbdfe17a0b) |
+| @Kawshon | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9376e0bd8f8de90959f80db8d960e91226fa2f81ca88b08124694867e5b1e2a) |
+| @Chipperj1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6ce0173b84f04139dffea6e5876d1e2e55418b499f277caefdd042d5c4a1855) |
+| @capnnogood | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16a3ddbf9b644c8e92e0dee39c8e0d90e55e21fb62b50f6d740647a9198c8452) |
+| @Miggy2369 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c284014f13cac7792a3b668a0ce7d88202df1f70d7b9b60db6de754ecd13dc7) |
+| @Boosierock | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ebfbd832388392f8a3810b5be7f303c0860db3329e1d3f99b3be57f3a3213fb) |
+| @BreesGuyNWI | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24196da50e158f73900d67583a8476ce634e0729384bec677be95475c24fd794) |
+| @Bigballer8500 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe364bd307972268471c2fbe1495fff730d77c78e85700e552818135671dd87f3) |
+| @Anthony19 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2bbd629a1c69205abe0dfb4b1caa059f8819c28f45cfebf1ccc34086357a94d) |
+| @TheBigLeJOWski | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80892a879deb96e92a028c85eabee6417d2d72b985041f5e6e28ea82fff8c451) |
+| @Thebiz2973 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda1646f600177cc3abf5f40ee839719e13b74a05712d08b07f4062db0febb09d) |
+| @Nopressure | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x342d923267f79389e919c39cff3e0bfb6e96bc85b58a5f570ff84e249a904042) |
+| @Blwtarheelsfan | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb6c2f6c0d08fa72817495c050b9093b31df9321b4877f0d280c4d39510357d7) |
+| @dropEMoffdaSHORTedge | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70b09b3cbcf48b4e69dec0efb32b58eb95898b85bf2bdb918813f145e6aa748e) |
+| @1966biscayne | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80edc1d5889aaa182926030957a4356d345a3122064fb5ac99a5b6eb64e0fd4f) |
+| @Jayson1112 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa816d1880e3b0ccb5611752adbdfa26b640fd0b37979d8df1513c76ee65599e5) |
+| @cnksportscards | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x092cf51c67ca198fd7b76ca4f3b22df2e1b3385aa55b4abaea973a7bcc2d6add) |
+| @Bang | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07eca309fcd8b00fea096abb1d28acb1c3f881a7e58563ff5a061623fc59236a) |
+| @Jswiftt1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80cfd430abd612c314269d4ee3acb77e00534e6c473879ddae1b45702f434d8a) |
+| @Bacher22 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c1f62ed98a85a0d0f9ad8f11108f1ddbebbd03748e79dbfcbca2fe0b5e9a8fc) |
+| @Shaffer28 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x052235eec68d02983c30e305da88139dda9a46670812284c296df5d2b092bd61) |
+| @Himtami86 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb943d0eeb1c3d0768769f041768527e286107e2546981db4d36d498e1be61cc1) |
+| @Spiespies81 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a8b84135fb9d157fa3f1077983e0b2c8cb89422910998ce81a36a145a76bbb8) |
+| @brtennis01 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d66d204c43906ec2a9c099cc6eb030b4ad57ca4d235ddd70c3ce30041cc8f63) |
+| @BinaryLaserTaste | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5faf1137df87089994d6ed31a7cef55e3d665bd4822dc7909437c54709571a06) |
+| @Vonskully | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e0a6877e3071882866a2263c5be4eca2a82943e2e00a3d83d68b45be5f46008) |
+| @Dat_Cash | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2715f99664b92e874359ab33c5e2e06cadcc88890cd100a8eeae0795f1bacbca) |
+| @Hu7cH | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67cf137195117e70b3900fce807ad508bac3dff8730dedbfee0124258b046411) |
+| @Buddaspear | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e693a9d4591725260db1598fe778b8f5be901cbe9fe088aa4d2c6ac05178b29) |
+| @Mphoward | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2d5e6b5b310c63a87d7772d670337c8fd6d4316c94e7295c72a84dacba9cd6d4) |
+| @Stubitse | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7594ddd014568279467348dbf6b27db13778a39bea8c8db664dadf51dc036759) |
+| @Fritzo | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13077e9c0371b6f2df5b8476c46b0a286c4fec05aef1279e9055d33efc97dfed) |
+| @Thammock34 | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe764f0254a56dd4c06e0d3e56f2083d121272b02428350905c26becf90a18189) |
+| @LAMBTX | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x325a7885b579067f5846ac05b209c0ecb42e4860d3bddc5b0b6df68ca91f82cd) |
+| @Hoef01 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3850fb769029db5d3b2c20756f376f0b25242ec7a39cb768d3d60db30f6bba79) |
+| @JusBkoo | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8ae04ca570b1d7f3e828425438efe8e66b88aad4641c67357c572a634aae7065) |
+| @Tnmnjax1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f679498fb3de3b90af12432f1df0dca46db8f9bf7a0ba1d29545e417dec6b94) |
+| @Elijhawatkins | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd09f4386349844292e061efefc61db8944e4e4a20a78631a5576f44c4abe01ee) |
+| @Steveyballgame | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e9cb81eb6364643c0a1498c8cffa6a3af01453aba47497e041e1af4f56af8ab) |
+| @Phuff25 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0259eececfbd29f43c924be1ba8c98bf0294dde911c02029abe18b21fbf1e628) |
+| @TradeApprentice | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8164832dca0b91e82ba3c72006556ced44e8142a4911f7e25c8dcf0733128d8) |
+| @clearskyline | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4fe6f8724098bff259f42762c0dd257e6154311ef717a29b872f8d436939e4b) |
+| @Ikebark | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b4190f596403d31dffa38440221e9aea4044c956d5e9887fb54544bb7c77d21) |
+| @Noodlum31 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6a81b940ffa00a349a64d1125f167a38ec0a1462257102efa326e8e981b498f) |
+| @marcrap2006 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca178129fe27f19b226c3653988cd627e856171566678cace9e0bdeca30e632f) |
+| @Nitty229 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a3142ae53239e76a54a035e5a094a29700377d114174302121fb77517307c73) |
+| @Busterbeall | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5189b484ebd4562c57ca1fcc17edc42888629fa7f0e43bfaaec16f8856d8d522) |
+| @addictivecardboard | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6ab88f4343564a8e84fb906bc67fe17750cc462185668998432d46733f02a1e) |
+| @Xppfrosty | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fc432b12a739e9179af5ff5d5749ee8e9e3634947ff09824ed4a36eb4ddff39) |
+| @Freedom | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa947fe4cf794d510398bbf88a2d3062db88fc3a6045d74a7df43ad657c4cad0d) |
+| @yzsportscards | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa0481cb044a5bbd68cead5cdaeaceed6f2353a510db26d5c65a9f58099408499) |
+| @Novaxylion | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x499fd48159694d05604076da4410905200e66814a8129c9ba477bde672105974) |
+| @AaKP28638 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6cde4fbf66015bac371f5bf49305a59593090565bccf035e8a4348cc7bbcc708) |
+| @lbrecht1984 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49af7bc6142097ed17ec5a599e44cea236a58661cbe8d285e90628d6b95d08ab) |
+| @Rak1917 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa568611ef4b7a62647d3c708bd0260257e2ec2bb10a94490603388e7e7b6209a) |
+| @Crogers337 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa93e21bb6a7b0052fd148e184de4f4fe7b2c6f02ec4e8faa6290ea3c5e67cd87) |
+| @KILLJOY | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x810cf13b26cbed99a25f2a2626e6c0de36a808fdffa5383895b698261a1ea122) |
+| @Wolvenator48 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1a8847f61db374adfd4e972f6833e6d8a0e0545573b3acea4c9fec9ca7057fd) |
+| @caleb2k5 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bde0f3430913bea195cd27e8dc60d62c3f80561e832882cfe0bd801b788d9b8) |
+| @Michatak | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9b7a697bdece7f365c80f7bebeee5fce707926f6d025abc6a7a7a774b721508) |
+| @Babayaga913 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfe2e211265b18f53f9930eb83c57cea1111a21d92f9ed147bee721cf1194b71) |
+| @Mwalters7422 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3dd61ec3a7af007366448e022fa94749f342882449ee8e9f07cf282a7e0c9d81) |
+| @Btalley1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66fe3dbc56580094454b48d3f703f047a2632eae58bd7c5bf21ed6b412ab99c5) |
+| @oriolebrian | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x143e15dc35c77f4cb1b750f99ea4723c7091d73af316d5f377b77cc8a1e68812) |
+| @JungleIs101 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x634a54784be0d0f9c6d64538133f9658604daefc1d3857a5efa09a1ef64f60ad) |
+| @Shelbell3 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcde3e04add0e4afad823f1e3c14dd95e577dd4d6843c87af62f46616541887e2) |
+| @Phinox | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf987c3c97e3b880b72094adf8e442a533a95ef3d5a831369d46715002da4ab3) |
+| @JB74wesley | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfb5155cbb14307083bd0676aeb9fa614f9ecc72091177838aecd8805258f48e) |
+| @Stevielocs | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76a1bd347449cac4c1da4668a727e6c17a320d66b2282bb5d678a13b00b972b1) |
+| @Fost | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa640e7e43a27b711e0a8403fd89449d3f850e51dc6ea361a01af8bd3d65d6d6d) |
+| @Dudetubez | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41b377ff21c6e4c1cf870489d083b037993508435d78d97ee3431fffad24f49a) |
+| @rmrobbinsesq | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a4b567cf1ad2124528533364716306f498c39149f3520be23e6af17f558634a) |
+| @Iceman38714 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3aa5eb1bbf62ecc0ca6c3b412dafe58bf2dfbff4b316da80555283adb61cf01) |
+| @Leinhart | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa201ddf3449f08451109f32b803972c7b3d191392daff53eee3ecb027835d1f2) |
+| @GmaCrypt | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb69c10c3fb7ddadca6c753a6f19cfdfa8ca1567bb3f28541840dfa7a3a931a7) |
+| @Trucardaddict | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41a7814799d8b12e74ec38387e98262957772d30bc58f7ae7b096154acd909dd) |
+| @Ripweazel | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0dd5630e9c1cfde8989e03e7cabe6c008aba4c7cefc11aa0b4e4b4fdfa38af7) |
+| @Marleymagic | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd15a0fdcb40997e2610cdb65ad0b979169f7b7baa4143f0d742551ae1f317e20) |
+| @Yessamekim | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7b9c8fdf6cecedca0c24d3754a2910b2b9642fbf8a73886ac849b1cda8a1856) |
+| @Jtriolo7 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf07920c586737a3ab3c8f48927648c7deb5903bec4a4ed144ee3940d7235e7d) |
+| @KKspesh | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa02cb218664405540ed91a7cf0aa808ebfbab3fc166cf9b0ffc3bd5df6156a9e) |
+| @Hotsoup23 | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3916132d74aea50827a1701816706ebd27e84f075ebe0c72702f950a0397ed30) |
+| @Slinkkrodgers | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9073023524558b1b6d79d25a649001dacf045e8740f1b280ee1d285e1564640) |
+| @425sBesT | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x785b85760f141d36ebf1311df83f436677e7cdf33acf97a85bbc51f9172f3742) |
+| @Cburn1235 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x428d3c4e8ed0b360ee4cefc5ad1b731234a257957df2566814a12ee283ec73ef) |
+| @paultatad | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ad1f8270da381dd4064b6bc44385533b6676f53b440a376a5c0c3a03d903462) |
+| @bachness | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1668dcd1a73f872d5aad1e181298f880cdede492ba3654ebcb643ac22b9263d) |
+| @Brutus2021 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3db2ea90cb028f132dfe45988c8338e7a879f9637a1891c503751f9967616fb) |
+| @Jeepn08 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x790b0f3b1efb4a4b71ca4eaacf1ba05f11b39c54670b8e99ddb8853f8fcaa295) |
+| @wguidera | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x869ab1ced566fe08c511e94e3843360bf49ff6fe00bf60dc7bcbbdf90ccf5962) |
+| @Castoraj | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2a4d3f95d6f2cab5324b46bf639872f8a4ab6fd46f3d857f1d4dc1015b3f098) |
+| @Danarchy2006 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ff95ebe67691134887208a0dbe0193871e1e92b9d74e8375b21d3c7aa01ab70) |
+| @Richcard | L. James '03 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x652c45d9ac35e61f32135e23fea6063e7744128a2dcbd5e57f0cfee5cc0295fe) |
+| @Souder82 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0878b326f75a92810e7c8ead028592a687c8d07d28496e3019af0021fa82ee97) |
+| @auskelly | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x73d745f1863cd1caaf3216502f02deabb22d393b28fa084356e028b8ae0c5600) |
+| @Hrlmbtz | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcdab12b82eb39393a18838a42172e63f07bd2651690296c73dddb2dd6fc6ea5) |
+| @Flashy | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57a435ee7075da9a481c99f4eee2f453d6fac64c84e1304ad5b18004b8dc4e5b) |
+| @Twiztedninja | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd75434020e9c6a503d0f379a1ce8060b043090eab4834a64e72e34475228adeb) |
+| @WhovianDude | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59fa9431ef9deeee08c45592bd58cc8a7bb0743a04ee372677cc467f46b6af1e) |
+| @Toddzilla23 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c8e1c7bd782f43b512fbfc048d757a6be8f0b62be476e549280ad622a760e1d) |
+| @dbett82 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94a8aba658ec276fd7950ec95db1f06a12ab67cd4f519af4cce1a75c1f107c71) |
+| @H8er8814 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03ce29ff3325650cb7cf5a353885f85db8cce2810e037d40be0a77775ec94e67) |
+| @Lilray41 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e5323849ac7ab86d14d72dee6b030130cdc668d2a24bcf0f1912f27089f7fbe) |
+| @KyJFields | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01129a1c42a32ef32f295be899f8ea7fa760bc9ec4633c14f14ceac78d9c9a86) |
+| @amanes22 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76f707299c5c3ce1674fe1a2570f5796d4801c01c194c944a5ecb18584327747) |
+| @Jimworthy24 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc64eadc6840dc69dbb9b5ba6f0489708d4d16ee50cd698f6abfbbffd924f523e) |
+| @Rippax | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a9301b932cc19e1eae2999eb1f5d50db6d71c04ba9d56558c383fb60a797990) |
+| @Rheld2Chiefs | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79f378cb626e322a3c9a8d02a851875618708b74e3520f30474a3fcb20f61aea) |
+| @zhauger | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb73008feb37489820cb4c275a29a03a1231ae629fbed507f28a90650c94da299) |
+| @MarkCards | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb689524b5dda9b746e30557b835eaa40960986c95198da8680484f228a49cea) |
+| @Zdollak | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f99a4b7003823c882e50bce4cc24d11fde818dc10c631281af1b1e845e5320c) |
+| @Nyght1984 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b57801e0bd33c4d58d529c6a8dbee626b0428ed1facb5932fe629dfbe7e7a10) |
+| @Parzy | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18c7875bf8909b16bbc5e7d87acc8219deafc6f8f0ce9752bbb54cad46834bb4) |
+| @Bforrer444 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf65a5ac2148e78feed75e45aa6232d49587b3926c14ab7877d2299941769f086) |
+| @Kuig | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe726ad79774af76502f892bbde6bef18c80c5220dc4d95865e06ce782072b785) |
+| @ryandash55 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56d8cab5430e13a4eefef18156f9514294f75d68406e1e99993590c152ae83f9) |
+| @haroldo | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd41c262b14584a66759e948a91ceaa9c2cde9726db92535366c93d41a0a0c5c) |
+| @Jbalz97 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5aa586f786aced446baafa7dcb5c6be5f4f312bad79099c46999032655760b27) |
+| @Hopperdropper | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb3a6193fac3376f7482a587aa36ac1019260ee797cef7ea1c2bfa1ed17b7bb9) |
+| @Jrock6929 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82ddb8c50c7fc0045d05e9a365f9bfc364c36cb27ed59de04f44a0b8c37d116a) |
+| @Poppinfresh | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd60c7e0e45cff1f71716d33ed138b5b2a8353dca4e98111a9451f38a9bf536c3) |
+| @rldlsteele | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd51be21639e7315a2b619ff73fef80b6816df91032a9ced6cc1d1e0e817f2267) |
+| @Milou3478A | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6097769da584b98cc3734c32eb99c4201ca82d03806dd5f4204dbec590597324) |
+| @Ryanleebrasher | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f9d4fb5b5fe208f0374fd065d7cd53dbbbae3c4a58b98b0cbe309d5b192ce83) |
+| @JohnnyG41 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65930d6d8ad6eda9a5522c02eb281ee786fbdc47c5686a8a5086e485b431c501) |
+| @Ssvogel41 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0acb8b0e6295c14bc1919b6411774431ece0cb0643b64f2d94c2d76167860e2) |
+| @tcwalletsandmore | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f76971ff9f969272640c91f3bb662bb847019270e6e039671c8c8b86fcca423) |
+| @Thecomeback | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b23cedc07f1f34f57fc94fc9586d6432feb6842e958272951279f8f213deb04) |
+| @Farrisc | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce987cb4271f77e5500456a4c4646b69d81d511b0b32e259afa3fd3a7d58ad97) |
+| @KingKeylo808 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb563a6b93f1b7061bc57d27e664ff29666ac6e73c757329384285938415804fe) |
+| @Jdog | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d32bea95cfa61c9eb29090fc7ffd1e24e4bb976700890f9d5651b460751d018) |
+| @Jimmygh | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27d2833e9970617b7b2ef0358b44e1f2cb66a259f86f8a6f6309b954d5a2931c) |
+| @Nicolasj1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15b0d5fc63c5a2188491e240264704d672349fde7a104eea5fc70045e525cf83) |
+| @HurricaneJeff | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53feae3c76be0b11e44c70a8291741db9595538ab48039e6f4a7b4d0db173d3f) |
+| @Dougles123 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeebb557bf01af9328543cb0a24e0aff2c5706ef588dce8a3b7553045593033d1) |
+| @Hobomatt8 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70a97a9d1ef142fab18ea1b16421e5582176c406d386be1477061a59ca4068e5) |
+| @Vahe1993 | L. James '03 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6dc624c8922239059f0c1c329fe80e19823e7b04894d0b6a7108e477bbf98cc2) |
+| @Iggybigg | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bbde89cf796b1750f2bdae3562859fe77388d7155c6d3bea88e12749002bd07) |
+| @Junglecat | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x904a4098253b7bfab8034dcab76cd2895f928b8162f4bab6cf7c02b588a014fb) |
+| @TexasWheels2020 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xade3377bf7ca18c0eed1f5abd198e7d2c7bd6e2ecdc01bf6ed67db7b4ac68156) |
+| @Mikekamin | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc46928d916ed174296cf82c5713a3c6c0809ffd7a31775d7bfa767496617c66c) |
+| @Highlyflavored | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e5865c319bca31622466e030362b2e5f2d154b117cd15af77b97020fdb339d2) |
+| @Todo1111 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9662b9251099fb1ea559bd4af56a3915c3cb06e2b6200ec58b22f0855c0a117) |
+| @Suggested | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf16687040bdbfb552e15c347feed347419758d78d801782513ec6b6676fb99f) |
+| @JDM11 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fba5b0a7410cdd1326c57d46c7298524e2ec50dfa199fe3f81e01a644cd2568) |
+| @ginobili_fan | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4958b861ba236b2b0044dea6fb6b5948f8fbc885bf8fca2e0134c2b43dc2f85) |
+| @diddelyscott | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4c8c0178befc2a95a13032df657604e81159eadf66b711d757e8daa95ae40ce) |
+| @Edwardlowe77 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c4ee9e6086db28a7ec93fc6ba41c04e7ec199e7012d461dd72a0a3f454857ec) |
+| @duglasfresh | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5678ef9aa390a4ce4095a15c7653697c5ade8d283a1736ffa5f5bf7a651d756c) |
+| @Jaycook | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e459d6c917203c7109c184a657445792affc17177ceca26083a2c05b6e0fb44) |
+| @Mightybatmoose | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28d12534faf1d005d122f05db9bdc6794d65f10cc35d5d9ebddcd63757b34a39) |
+| @SphericonRex | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1168527432528d5670112c43c25ce4f6e3b055986f35918164baac65f457660c) |
+| @Brunolli23 | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf58142a03ef3ce6644df68f6765b9cd0dee105c05b9643a6eee8a9e50a879376) |
+| @jibonroy178 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6e7191e31ecdc6bce22706a98a5ea8bf802e6e71cda73d5fa899771b1ee9454) |
+| @Djaxn10 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb39642ad9820d41bd7c3d8d0089d23e34cd263ead4ab46fa314a416a88975f75) |
+| @Dsksports | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfec698ac3460d2221baad5a73e11820cf22bf4d47b6de303a26b17f3f589063) |
+| @A14U2NV | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1003701c23196eae1fc517988e8ad0df30a468dab2101246a04b7f43d3295b59) |
+| @supercopes171 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf5c3870bb8461bb917a379f1638d1c483a83d99690668186623d2480d16d685) |
+| @reedthriot14 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30479e29d2f078773c96ee5ce29081e2921669fba6251dfd7053081d5f643d06) |
+| @Maltballs | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe6c53234f2c159ee9a9b743c2afbd4da99cfe32eaefb6f19c8090b9ed842a91) |
+| @ItsTime | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5de4b05b49ed533489a74b4454f797f12850230db325fa3485b8b9752c34ea5a) |
+| @warrenthx | L. James '03 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde67ba56895580daac97affa970e8fc8a6e50d0631659f9d3ebc87ae98fe7e8f) |
+| @kcraig | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3d09eca4c8222a5ae1be404440c5533c0217c87f886efe00b2bd864759df47b) |
+| @Meghan | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafee1a7558dcc6ac7c5a6dc686ffa160a449787f163d454d7d6af03e48cd45b8) |
+| @cdavidson238 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54d51ef9fe39f8168ab5c97e556de9db2942111bd12d14aa434645b581bc5a29) |
+| @Beard_Boss | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc715efeb86c2e932f60d0f6a309b525a554100eea290bac8821bcd7d575a9b79) |
+| @cjs0 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62a36515c43ecd97e3dc6a03d46110c4da286a6892fad2b1ef7f39211c02aa1b) |
+| @Sexybaby | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29e9b83ed584473a8187e6b01bd942d6c3de40fece6c31d63a7f52db6b473573) |
+| @Silky_The_IV | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c33e76712ec6bf897fd2e98993a2a2b93374220bc7ad176ccf2f2f9ca67ebd9) |
+| @VPvanessa | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b6d2b30d6cfc0cb6ea27552524669070288a9f3a89cc7a9f39a10415eca0ef6) |
+| @Jbrown1310 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6143976ecb460af7e05b4dd5b21e13a53036bb2f59291fe1b39003a9f454e80e) |
+| @TerryCruise | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b3797656e5ddd39c719e02e30ca90df1bea5045578d45ae377e25d7f9f19fcc) |
+| @sonicmetro | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefa6502beb4bf70e558c0127d8dc25514925a83047d918db840f5569b8305d79) |
+| @Djl819 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01559a043a011dbb7fd0608dbc81062dc04851dba50bf1df09842e423f9babcc) |
+| @Twisty12 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d27b9de7e0dcd6369515c55b3dba760df56c9d56da51b6044f703a4fbb49c25) |
+| @kevrkin300 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb19ba88c22ccac8fef7c5f0092a03a1fae98d6f6f96a273b68a0c350b260786b) |
+| @Kinwan | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc59b9b294a970f77969f13c3c85e185ea5a98a6473a9dbb8158b7d01a5f2d3f8) |
+| @N3CEM_CARDS | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x037a27bdaf0fef2a853a58e5e44f59ebcb960be93570aee16a589c95cb14e6df) |
+| @jrod2014 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x417d9319d4932e6e3cf32adf1a48ab05bcb8f8c71b733df9d3639dd9611a6ed0) |
+| @JTGraham | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51585cd7db5bd10dc3d20bd5ed34d5b4fe3a3397922a3721bf466e91dcc9d70c) |
+| @naveed | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23d8acaa87c12a526e21a464d4d53fce5f4715cc88ae5119eabbb6718aab684c) |
+| @Tflippo1972 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe63ba1d4bed1a275107cd5589fbc177840ed249b29c683b3c2632200623e6a89) |
+| @Valpocat | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7073a8668b9ca6d0648030c82bd9d8f5574da502e35e9accadaf3bccf7e3bf4) |
+| @jesusjones | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x053d7f828ced3d842d5e00e9ea4ce4e6b098bfd8105a714c19da11210d196bfe) |
+| @jluisrojas | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf20aa28a8ac21707df8341fcc13538aae01ab73a61666c4eda26b6cab6b63656) |
+| @Rolzs | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60f72e8def8f6ef254156f7660f294724d37aba0470fd6670141e142745c483e) |
+| @JoeMerengues | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f51161f6845d33f15ec1eec67c2964e26dccc8258398aca8bc40a3f57f33dd0) |
+| @squiggle1120 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a2d927f72f8df6cfdeec8acee68d48a09686ba11623eabf333b24569a4e1bc9) |
+| @Schnapp985 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e6887dfd7e0e9e8db9f7abeb2e4f3b2c319975db787cb565b780bc68197f07e) |
+| @Jagray6973 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8831f1e41930bf742b6e5140ed6a9fada27fd9e30448536c26e1880cbb7efd2) |
+| @tucryamu | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd99607347d86b4b53647d8a20e5fc3b8a1bfc9efa4be75f336cc57b915a54a6d) |
+| @MasterXavier | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7312f3d1d3e6daaf30e648c6f93cba1668e40f2f632759bc81d0d67dba93e2dd) |
+| @raven1 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x902b4d4b05db7bc7ca9ba737108284beba5713912d7e7d04ebb92f8be9619b18) |
+| @Jinnabide | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x893208b065cab357ada5b7fb3201558a9a4f04a8e3a860dfa2a1c37b31dbce9b) |
+| @Cico123 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf80ca3a93fde0787751f6e1fe2f9f9182f597b01674e6e323beff96b20052376) |
+| @doclove5555 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa309f7ea09f3803942d381c072fe4d6b21228a621de4023b2c285217e2b4d50a) |
+| @Jdavis269 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b2bc8b72d05b02491bc03bf9548548d5cf6ee9ba4dcc4aea8fd3a5498ad170c) |
+| @TMHS92 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87642e3d00cedf5904471df9e8d206c9ec10568fcfc666ffec32ff0402b25de4) |
+| @Ctorres19946 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x276874433c98239c4e0ed806a22512aa8083553b43d976f2136feeac5231d480) |
+| @IzzyT21 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62642893d1384e4eba93de01942d96ea32894f88ec955cf9b1ed3516aff78d9a) |
+| @Kujo6969 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaaf584e68487ec011aa010dd959a89c4efb093a33c69517a11d1d7ed0a0e6ba2) |
+| @fownadeer | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcba9ebb51b29533f59e48b1f6c69a1dcfc73e2a6ab81d0543bb7b00ae4679cd8) |
+| @Mrtattoo | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x526221deca44449ac9c3884d60aa390238d74a38dde6e4fb46e80d0276dcca51) |
+| @Peaches21 | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b5488b8378d38c901d4e5efacf976fd142d99b587507fdcb07b352cbc0cf372) |
+| @nandresen | L. James '03 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8aeec2e5197160dd88094805c308bb0a935af9515ddae64e3efbaa9f18f0e7a9) |

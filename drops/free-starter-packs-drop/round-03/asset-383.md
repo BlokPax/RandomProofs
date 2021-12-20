@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | M. Jordan &#039;97 BGS 9.5 |
 | **Internal ID** | 383 |
 | **On-chain ID** | 117 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e80-4ff1-9b81-2f5f60854919/ef67391566579e20ffd104510ba63f2b6272250a5f94b11666083be790e1e8e8.jpg" height="200" alt="M. Jordan &#039;97 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,236 @@
 | 💀 | `509` | `0xb577Eb54D1a756dCA3c6eFDf2d17036Ecc309705` |
 |  | `510` | `0x1bF3Fded0AD76be439Ad6A4bF3E18E07EE6e7775` |
 | 💀 | `511` | `0x8c461ace48359414B8123019Cfc932D4b70950da` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe314d53f31f0e6edfd8c1e34992196e20acfd2386767e30d14381bf703ae8245) |
+| `0x00Feb034EB9472943c21138fa2c4E5cac6cFA34A` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbced0ab58f2c931692629e1911f497a41b0b01de3c178dc6a8d62953f33a0996) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa644ef4f8f8c340f3ecb6d50ffd8d00aae2ce269dbf9fa1488fe71b30f04e771) |
+| `0x022CD018224f93Fa9FD54c5e1E193855A756fEa4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88ac0217dcca8e69f13c72f0c070db0dd4175be53207491e837a22fa539a7744) |
+| `0x023bd7BaBe5204500Fa055d1E422F3338F6FB8b5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x032f239a69195c6c2c5bbd9acb7ac811533777576734c99e0da3b51d0057c24b) |
+| `0x0576fEB0a20Cf5879249bc62E812B7398A016B4c` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca7c21afea08e1aa534cec9bce05a1473da0169f50deefab5d6175ec58062af2) |
+| `0x05b1e9E26DEB29082B266a4C25d09342354c7bF5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc626c539b3c38ccde4d279e7ee8303109f5739d504aa046c2590c0cc145447cc) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d1477ed290b1ea7a46d5728c1d5c3fdd55aff61ef5c92fb3513f2b2710673da) |
+| `0x066571e52Ac487330e17Bec9ae977be4736ADc14` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x020f9f1b31505ea4dddc9f6f9f5040131d86a660bc569743d467484292c402c2) |
+| `0x079f20552965bbf2d49f7f0BC077078c32e96b7b` | M. Jordan '97 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3554b364c00c42a223f7ee9e1e2253b503cbff6034f0d55ba78b115e1b14e1eb) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd3639a1782a47e5c4f0e83eb9ac1a1b936cb21286d3b3ed6d57f1ad62305a283) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8718ad5e2233afa02e5190e40c872ce3d480873f4134f269a49aea8c473f2a8) |
+| `0x0Bc472d17964dF13946Eb1FaCC45f56a0c66e23e` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea95b7818a8b6b24131e08f95555156b1ea7de274b976fa733ef60e0c5d4f6c7) |
+| `0x0d925339b1fF2DF769A98b313dFE4171f0371e24` | M. Jordan '97 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5d10b9f5ee6788582bb857ec43c8d2ca4666605c2848fa5a715db27a36c52b9a) |
+| `0x0dc0c699F401c492f0119fB2415867babb7d9f81` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb48b68c8869a16838809722a63961cc1ea4dca9611fa8da8587b273eda4ea5b2) |
+| `0x10676b197c7Aa75c59Db8DA58dd1AA24Ad00C815` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x405cd2d5017bdb8597e5d9f9db4edb1e7bb5975f61b43efa763ad4bb8210589c) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15a828de21c7e311efb2a5c80eeaaebd98e7b4b84f21945f33c23e4bee995eb3) |
+| `0x12202C45aa472483ddaa4f5eb59CbA37d6464c36` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4eb5914d2aa9786049fe37a290a3d4a0606f2346d5676584e0b5638caaa99188) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x914fc3afbbf0f092b3d37d5f68aebed3a2ed81915d0d6f8ee683717d28d18837) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeede3e321ee9307d7d9182701f7cffd118f27810b824be0d965842e394dd80f9) |
+| `0x164783f3cF4E85cB2d0a1d421ADc62574750F08e` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d7c652e634a87f05a1c46a7e8a5ea82cff6360f2ab3cdf1467036cefed14877) |
+| `0x172a2ACCFB046c8EF4A838E94a726A676C76AEf1` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78c699d3a69dcc094194d7c9855634f28e19e8ca3d1118bc1848618bc924849f) |
+| `0x174Fdf23E60DA149e46cF62151DC8e65204B3baC` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6c3c030ac463fdbbca134811be8c3e56f3c2a10168158fd5eeda9081975232c) |
+| `0x17741B6D85e2731662f1041773099E4Fa4fEE7F5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x163067f80e65f5fe808587b996b2352af4c72acee684aa401314a9ad94932da4) |
+| `0x1A8AdCA08a081D7D58535d812ec1A04f77176813` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f3fa94dc91f6b5c0b919f3f20c54e5d0bb2113ed46c1839e5dadf7edfe261cc) |
+| `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb9b9d2b2064f94983a7d0578cb31da615ba7e9d1098da5f6d0e1789201d2f06) |
+| `0x1B6697f4817B9806063Fe0c4B04F6a2026EE5A97` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d8c467233e959a12fdaa4e44de7a7acdc41c402871f08eea9135412eab30737) |
+| `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70a5f6810526509c28d60bbc550b7a7b1664a1f87dcc1b8b171b7cfb42bd4fe1) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4458f9b5b80d3c358e7fdbca46e29d5b8272ef72c615555d96083c513c49bfe2) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74f601b9be59229dfeef75af99d51f363f5b6e1e566a225302735c03ba394a3e) |
+| `0x1Dfd521c830Ad788e9317755A801bD561aB468Aa` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cbc37b6cc71c9478320c10fd914c774b21715e260fc384ff8d808d4f29ef214) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10ec79a229ab1e93d7ab9deb36a35b17b64b4a265ee0c27f4461717a726e1a04) |
+| `0x205EFB76a9E41D81c3ae634F32BB5580Fe6Bde37` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaea37791a9cefcb941981b9eb3c3c67e8b921493a5ad1e4b74dc1fc3ab39bfdb) |
+| `0x216DcDA8203B86a5aC29b8A0c0E869E1140eCeF7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c4e00ae25406d73f08c2b4d0347b79ba1169e0e21fb515c164ea9517fbb900a) |
+| `0x22bcA2Fdad3BeEb25284860DcA8fa8f941DAC379` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26e9e9d3ac1c7f89b09fa49fceb6879f5b70c0730fcf1c995e86a4fe33c04722) |
+| `0x2320d66ce3Cb6B8d2d4d1828984F5cD257E926FE` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc54d3ca86e6e2057e1fd17f602cebdf85e1ffce59a121a98f9614156cef06d4a) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcc2f0dd386b03f7e1d0a44e6e1e888878e4dd6a247a9fb8753244d9ab51443e) |
+| `0x2559ebE5d9d2e46a2bcf2665c4Fa97FBcDa7cF8a` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d622031acd76ae925197b8c864941cac2e75c2f79b0be505db5b6ff40c77ba7) |
+| `0x257f0C9C72e6C20617746ED0D3fa1E61B9BcB5A9` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeec9cabd74773046e2f26d28d1cf688fa2353ca71f262816bd6a9fed379b21e7) |
+| `0x25af88396913419beD8e2F1d20263e58e0a5b0d2` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13eb955c447982a82424308eac4b750890cee4e2007fb2d0ba44569ed1037b05) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd1dcbe780fcd4f80c57bdc48d1ca911d77f807c281f0be0c1ff26700990e2bd) |
+| `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc408d4ad5f87e5db62563460ed9848d4299c8033881be63775f2e607e6fc5504) |
+| `0x2B3f82CCF4a956835f92C59bDFd782504E45EE72` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb993674ffcb74502ca0884b3157be8aba0b6800e17027478a5f8f8f45c65f441) |
+| `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa1921bfc5398a4034ed1ee8bf60333c6a905baf48bfc62bfaa5524a508f3112f) |
+| `0x2C880e6D33056945188b7b0eEEE2a16bea6fa025` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7955d5f0cab707a01cd32651d10d9845bbd2ab2185f6793ce57ff2d94d7f35fb) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3aa82c7588654481fe7b7d67a4a3c90aee0d196f18d88b7077621ff8f0e86a98) |
+| `0x2F46B892c32b25eb36c06A85475B69C2dffC37Bd` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff480e243a9a4794867fcff9bb89a1fad2d40f322006b20870d5ff3624afef49) |
+| `0x2Fc6f8A75c0A66E4F82F9c199008a52Ebcb89525` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6a5bf626a6bb0044025fd03183b9da466b98500d6c728d46f155c343ab45c1c) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7960498c5d2a09873d82001fca15d396d61b09a2708de7bf7d5b6c00c2f3ec7a) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61ad76f345647b537b0a0412445d7cca11ad0f21d9367de0c1256d5566747de6) |
+| `0x34934daf75B681796354086d3055B821FB3fa51d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7381242484070645eea438c8593f6b11efea46fd0c399aa14243b939d433a04) |
+| `0x3681eaCfBF429c10d84B92654dA58EF26b1af8D3` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f0b5393cbb9f0be2257314a090ac4ed4dbb50c232fa31d3745dd3cf2cdd0249) |
+| `0x375AE77Fbc522715dF7C284C3A949392Bd36fEF4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe58ee97b0a1f4d4dd9f74d297ec51b619cbcfdd5a3421de0299a8e5645c6c69) |
+| `0x386abdF0FD3995E01d7315c19fe2DA9eF4FdF0a0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51f4028da3c55e24c5403e2f38174ecf28fce0bee9c71e9e262f4627183d3abf) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda4c0d022b13eb9639ad223762413cf0d435d2f3b6ec56253d1f8d4640547569) |
+| `0x3aC20c3e693d25Bb2dC2dFB1c3b9c4acf190fa04` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4439ecbeb6e6c8afd9a1adcda5a8b458d1c1e2bb067b23ea3ff45e462779fbe) |
+| `0x3DF78b74f77987a9A8BceB546dB067BBeeF6B435` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x340d389be36707112759926370b1e4babf4b6c149b221ac41a44556bac83408f) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ac26f47ce2ea4b0a120e7f827a1ce2c05d56a8542d4db0602945a50c7f18a58) |
+| `0x3f04ca2e75487B644877d4c2Dd2e09B553eABA9D` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46a92a831aeeb57685b9a20131aea675b868c3bb1ba62c37d853f22a2ea501ef) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe5d925e6a5092cb07df272b91d1207b7dc9f3672cde82b31a31af8a46d6a57ea) |
+| `0x4141060A4bBB26523DD19BA6Ecd0e3e234e81434` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7edb3ce9f054222f5286c4b12dea1eb407326611599bca0d0db4c1c7ff2550a4) |
+| `0x42192F4490eF31136f0DD4d74C13e0baB78F0a21` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x989d7caf46912b31df69fc2f956dfb5d802fcdcee6cd4079364b7d6cc421aa36) |
+| `0x4357F04140584Ab475c93175BBBE596378D88ED0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc955d9752d8e7e8f60683c6546bf75e7d5c99b1208e502687b3e907331779fa) |
+| `0x44dfF3A96e348D8776BdFE9882305eB71232d8bd` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x918216cfb521a0bb3a0a1fd2b48e63d0ce7fcf998552e0aca2e3d4b48708d556) |
+| `0x477c4437802A36D357d849cee0120AD804d3b36E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bae742989a45f4c6b52ee6519b35b6e22e9b03d20f8227909ef8e4b830f418c) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdc71ee4939b351e4295620cb221d238ad87509f0969c3332f2d2971a614b4c5) |
+| `0x52F490dB7E7E74B08C1c61Cd9d53af5C39336679` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03038209fed096f5d7740882fd9612e8915b7bc9538115abf242d7a583f7e860) |
+| `0x53B68Edf4E3eB5eB13503CD08a08B072B880e3C2` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8ec962806d7000644ddc2abcf1c9b8c7e3050d9d0adbb0d31100caba945fba7) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf1e0866d1dff5a16e8239c8eec4b6b40efa314fc7e11705a71ec7748eed7a5c) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f4505e0ad0290d7ec7cca36dbeda33f13f29551dd212e91ebab046dfbc29de1) |
+| `0x568D929572569Adb90EE4Dfa9f165D2b9788938f` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x310657c1f81498b06c1f980beac606e0c83675e78d964e0692e7dde727a6151f) |
+| `0x57d1721F6223EB434e20F5b4A88e494008eA0542` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd973eafdef25f9462cd39a5993a466d82b8163badb31f7481c80b5b3295b996e) |
+| `0x5adeE73F4f866D02D96c68300c8CFa7cfA4D0408` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b7cc49d54f8454035005001c26871640a1bfa628bf0c7912c0392e37f24e235) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1af5658ae43b4922adaf8e5649e2234858e0334ef56d2bef353c8cb446811831) |
+| `0x5D9289da07011Da7C19A1bAEC53FE104778Ba93d` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7519a0655b2044fe2b68e993f88e893f48a7163d7b0e13cb1ad5a9fcfbc13456) |
+| `0x5E3D88A7A85419e462262a2FE1dF4B21f0c3356f` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3017df3a0e6cb607710ab37c0751da4965c8d192a632d57fb6615250d3eaa6c8) |
+| `0x5eCA43a41FDaC1447A1Ae9f68017ADC79a7e6925` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6b58957ae973bd71e585bc932950498f6b89aa84dc3db592f5dd10923d9de76) |
+| `0x602EF975AF646B3Eb8Dc52AEd73B8733853379f4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74c4f80ef1147e93e69b9a9b8198346eb61759034d2a461a86b97d0c900bc4f2) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3b191cca66433c09fb66f73d7ce9c86af4d5d26a57833c29fee20e0663ce7eb) |
+| `0x61299Cefe10F78710A909375193885F2266E9778` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e79df71ed83e50f8dc65a9393d16fcc2a338fed2939318daf01f62db18f9fa6) |
+| `0x62acB652CB80403Be7C24D2aa020ae3032603e2B` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35c0f541458c16e19d428a2ee7990180580d0a235ba78ad0ba3895f22648b642) |
+| `0x63eE9e25f1c57e1816dc53b041337e8F9D89e5B5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa04003c928d57aa390506a91eb93321180824748bc25322da2b664925ed1cec4) |
+| `0x64D57dEF47198D325Da304181772B843BeC61Cb2` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d046243c2542677c814bc7709457b1d7d1770d37c3f30b03c239cc95822796e) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | M. Jordan '97 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1b8625a0b189de9b02cd9ed3ebbe090d06819289b6c4fdb59709eb608584559a) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd6fc95f316c2fd12fc74ad047d25f6aefeb08f53fe205d4eccd592cf31808e6c) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbee64fe0e88702dd260b438a28e6b48ca0b6de13880ed4aee07dc8a8c0384475) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f7cdd2dc35cd1cb11d48296d3715b8d509cb8bf3475293e69f02d8b52ee31f) |
+| `0x68cbf2f4Ae4e22c8E2f959d6B3757Bc1A8a861a8` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1c9bd19cc4840a0671633274ff41ee26291e00b5ea45be004d867b58eca7c09) |
+| `0x6A9af06aCC9fea0d75382FdaD8DbBaa41BbFa62d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x838245a2ffa5148f58750cbec43eaa63d432c2eb3a2c25a339d104aa0cc7d5b4) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e8e3f7823b86878bd689ec15a051d441faf2e8044d9737668124ac8bf8baf25) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e45914bd3dca19914e724a20b4b1e10b319bc81fa36c476c36d30e911fd782e) |
+| `0x6B5679f3390e0b3Eeaea4D369eBb97687415BC38` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf76a336064bb1d68e4d089065311f170a495f6325700dbcf335969891c6167c1) |
+| `0x6B680fa6100Ea04D83F63485b7df0b650E2ac150` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdabaf5f5804d5319f9230ec31454c9eda5d68d77d89f6a1615142163ba45c55) |
+| `0x6e3b52cAFC9573D89F1565FBC54bb2f86941Eef9` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9c70319d4f7924dfafe214098ec52b90aa46f34d18011494f0f5f95fa8718d2) |
+| `0x73c20e35d48d62d755Db4F97d9b4008111647bF1` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02c031861fbc88e09615938dd3df605b8fe8ba80db88c161af31bdefead0dc9b) |
+| `0x7442A924e007839b518fa2A7542C39fD72705fB5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b9e85c5beac3e4ed92ab84536656b9c5edbbf5293679a5a6c65da736bc48119) |
+| `0x744cfDd907D6a75f5f4636edAfADc132720fe340` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89b09366851881f14958b264b516d46a9fcf1ffb93f1f681058b00730f538c05) |
+| `0x766dA6AEecA1fB71A28ddA53CD3A873822F74277` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x591b73bdbf17edf9535738d97731b5b4f46a57bd187708bf3d8f433cc33f053f) |
+| `0x77769abEB6e41D138Edb6bb3DCb5bA36b6ED140B` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03df849d498315748234105d3f65f7de6602f6af68da6359559ff77b0266a5cb) |
+| `0x7A9cB3768142CAacD21900a46b6FfC920512E925` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8e0257eef94177743ad6ea5fec4ba7992247bb0f18b9cef378f80a431260ace5) |
+| `0x7ae0DFB44b7c05507799c2beD06126fC3885aE78` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62a6e199e094666f31d2a181d666f513b0fe4242e3971b56d4e089c5bb12252f) |
+| `0x7B750FA7DEabB7Ed7b2a371e4E30Cb7facceCa1a` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c084b48bdb67208e3ebbdc6cc86e202c4346fb676587ab92f9d17f1534a09ca) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0f92f763f8026a70a7f4076f05d9104108bd627eea02dfafdc38ffb99172429) |
+| `0x7ea3DD9f9144f031d8B0C5652c4c2C1eea3Fa1bb` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa7b5b434d836a8d4ab10df5079453e61180a8d67d29af066e4beccb8d0f7c2e) |
+| `0x7EB8d87542E3948A1fCaD1Ed151c690B0b6D65d0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0fb107eed301d0a82af69b1b33a3c450ad59b9b94c08611fd679dbe9627a6e8) |
+| `0x7ecF7AcC37E072F8cf1bCDfBA7B8408f1069d8F6` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb478767f899366055ad5261d037ec626278c313485eee09ad34e4cc18a13d7fb) |
+| `0x827Dc293bea4281a0A79b9F3b37EE04dd1Ac5A1E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e28c461d7c65d7c6d3dd84af0071ba7d4d65fc3a25a74a5b8651eb7562c2604) |
+| `0x8367Dca82c210336185c7423cBEf325784F0d597` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d21b80d71510af761613d36c6c124ab53deec794505462f7395ec1f66d427a0) |
+| `0x84e1D14755F909976C90A8b0c0aADa1FAeE1d9D4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00abc20d4a0c53fb85e1b34270e2b9bb24fe63d30be9c99c46000c41b63081a2) |
+| `0x87d102A5B8D68A7711bD5D3a10FDa0211ae90EBb` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16b6f8cbbd1b16af67387d6d022de82b69058f7b05f96b080c75ab1b28e9e800) |
+| `0x8a149Ba620416e95247AAB54803CC4329a72696F` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cfbc433761d0491512d5836325d73d52a3d530683c9bed88edbcaccf696b64d) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd8bafda4f469e194e0aadc6810ac654e701fc7613bf7aa7f706dbf67fb15ded) |
+| `0x8AF07F2a2e473E23D9D302D68C02d4f1B8D8e758` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ec6d8932f87f2b9fc7ef9572cd1c6e909c4f5a727843dbfc9ae2394b3112828) |
+| `0x8c461ace48359414B8123019Cfc932D4b70950da` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dbeef625e933ee6b96018a328add1c50e58711f6aa13f8f5a69e1f7af37ddff) |
+| `0x8deC1dD8c7059aB36211DC334618416A1A21061d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbd8b7c1c8dcf1eaab16a39d8e0cdd3f90e92fc5c95309113b1b5f4373fe1501) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8857e08a87784ab7b7e852080719ad3ad9163082b1f67879430c04ef75250d12) |
+| `0x910939318EE472D89e2b507543838c6bB3a9A09e` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6e276506ef20b80372a6553a4b2d74e87aa1cc4fe625a2c8adabb4fc9b49387) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55f7c64fad7048df813a5e5fc9d657db9ef97970f3d9296ad3bcb92966558bfb) |
+| `0x9509ad3e011530ADD0d58b62647ee2D414A17D6d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65bc12b4a777f695212768826c3ce873f36eaa6f4048dcbbae1d19c2539d0618) |
+| `0x996E07290790E7432C9334Dd57185663D88fA8FA` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95b5c8bc117c48e10134a0438a55abaaba90a02d99636b145926309089f1e427) |
+| `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x990c23a9f35f6680e1fdc975e10478e2b17a432cc2c1eef563a9b566569d4f37) |
+| `0x9B4087386823d3C94b6Aad66145b9c5Cafa6d558` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x95479ad697b72d6f526ace6f67d6574d9a0bd3a060ea841da0d1b3c4e4ff3fba) |
+| `0x9c53007D9b680f48A5CCeD0041a1AEC53Cec35fA` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79befe0aad0591178ba39302e6aad25dc3640e2fa94cae9e119ea84affd9ad6c) |
+| `0x9C76E9Fd2A86BA7e90073Ef5d7f1aA3657069a9b` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d742093ff6b14847bc85616feeb05569285f10f8814dc1d5f698139c99e508d) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92a8353de61c199753d9b9fe5f60a53ee0dd006b650eb9e9ae60a5fb8a23a8a7) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f9de91e31d7a49347fab53252796c0b874ce1057fa04b26fa44ca2dc127c420) |
+| `0x9e973891efd3a4766C28E71CbDBA4Dabcdd16E43` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d2df5bd36a0e353a5926c0a4a4f5e799a7e2f68ed087b197d2e7e95181480cf) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb31b373da779288d300d1774910c3387c455a62814b24abe129f628d6fe1619b) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbaff837332029311ebd3e3357367c0ad4fbec1f6e5d413d0e51874e73dc948a7) |
+| `0xa001B23333C76A2e762509098FE3056A1Df2EAA2` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c9ed757bb4774bfc6e141f3a65d55379c0de812e87ce46e64318938c80d4a5e) |
+| `0xA11109beA46297386a58A8cA4eE911D37D52146E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23130884dab1b841cbf42f81f502971b93386babcd8c3259a5b70078fbf024af) |
+| `0xA35c759DE4030a13eE3Bd414909d8E5ca5C65606` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4114fcd7a1ed40b2ba8a4339a944df6abe09e818572962c4df30a00a51cabf9) |
+| `0xA447a54349Cf368eE31F0A30DADB7c18D9412182` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd895eb6ba82cd6dcca482a13fd492f073b0fdec2873f4c750b7205982f19be7) |
+| `0xa45b7e46cC61f00Fdaaee34558F83820BC7763A6` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x593eddd16040a568730ff251422f58dc885ac31626bfee90872d1fc0d0ae4c5f) |
+| `0xa5eE61Ccf4FC2F7190CE2dfAb0546946FaC671B5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x837b6df27317d721a2f5da6df057988810dfce05b97f329a0708d59cd516b88b) |
+| `0xa70191Dc169E75890B70fAfB3725F7840f12A699` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffa11fc2035ac4b4ae50513fce4d7f5ec4599b16f8b2991c701107f7704e61b1) |
+| `0xA7AD34335d7921aD068C0DF26bfA4EE4C6632Bd1` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x053f25b2a9ea165edd6c59beb3b06e863b477eac3777fa126892b925cf206413) |
+| `0xa93D3B5D86770F8aB2130E30556a880Be801a994` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa389942e5dffee857d3c1eec740be1601961289c0c68ffdce18caac2f2787585) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fcb451e1cd4cccb6289370a5265b9a35c3969cc2b757e012e5d3d65187e268a) |
+| `0xAA62Cd812Cd134EFB1d3A3389972739902D81Ff3` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1fdc6ce3675e46b01a089f3ecac5ed092a6ff7fc2dcda08287f9a242b9810b5) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3dcb5e141038497f4a25b65bd90f41305b284065e95c43f37856af5d9a4752e) |
+| `0xac441Eda1D9f86fbaA410f29C6874034AB8F7204` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8c46afb61858e26dbaa0997754634d462370a15be556a83b30e0d6a1d7f0f39) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b6a04ba1b2f2d53d8a4187231d385dd2003744b4071e3fe13c73700e674902e) |
+| `0xAD1E39dC62b096178065c28E9A2632Da5C71E89d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa18efbbfa0260295ec2801e801a5851adb5802bb2f8d374567b54471d81c1031) |
+| `0xAeBd66EA68a845DBf992421C4ee807361D61E5ac` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x931fb04855ab60e54ae1663d5a6d8fe16b7ae19e2a5689e91586164a02b81de6) |
+| `0xb00F3Ff15977535cCC5749FDeB733213C54f595e` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x228b9f227bd4a42a71585f7288de43822443cf5b51ca5e9f2930fcb2dc9c0799) |
+| `0xB04D69d355085FaF772758FcDeA020279Ed785a5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe50a16da964309f400db8ceeea5628095203c333e777f687d809847fe718e0bf) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ffc8ee65c063541d3a99d6b67b65c1682e5531215039a443fab7eaabc08bdeb) |
+| `0xb247c877E084436e5cb21e96e58999b76Bf32116` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dbb850e30c6da12a0abfc25fecb565d5f4d7a39a8881f7bbdedf9fc0f4e5f3d) |
+| `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe818e1de020fc80261954decb0a8cfc3ef324c41ea64dadcbb832e18d3c07349) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4cca2292989b26bf730076d02bc736ca7be29bfa9f2f19b4091edfcc9adedee) |
+| `0xb451069475880fcb5D8F471503e643799fDbA6fF` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6e9b78d750e1f1fed2729fffed5216d24e2ce1a3374e797d3a0d6f892cad61f) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78875b61fe73537cf8bdfedc564a3204fc8eb595afb0395d336aecf79d59e97c) |
+| `0xb577Eb54D1a756dCA3c6eFDf2d17036Ecc309705` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc607bd0e262501794ac47501cff2d0358c4dc65386866b448160638af872a5b4) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed096bd47c13bf0562aba8662eae645e3e06282bd9ae92a09d9c921105334ee9) |
+| `0xB83E2D7fe2F72363ba03A4d93bB7eD716D700Ac0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3faab9bfa658cdb6a76d31a0e3d4024a214e0a3ec09dc44d982aceb980227f6a) |
+| `0xb87f900bbCdbcF56e5BC57B61cD016fC708e970c` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b79339941453e53bad1f50a5b45b0fd576920f66476ee7e69b72f3de4b41ba6) |
+| `0xB94D42D67f36F01D8E2F3185aE78921C769CD501` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8bd2220b02c20e11798fdca215c092c01585d20a2ce517e14718a275c823899) |
+| `0xBA2d1F026498facA2FB04d65C77896AD1A8CaFD7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0c98c205dbd2ab2ba3d8b7866e112c34081ff59451475643952721f362dcc24) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1eb020b33987d8935d4e6b28a150b028b4b4e4f0aba7a86641accbd63d6f0cb8) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff83aab2941f7f73197714739dd269fdd2acf44302df8612c671c214f6450114) |
+| `0xbb2d41882390D40E718AF76d02c0B1a60aADc4d0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x129cc652bfd2c3480bf70d8e2fc99b30c49efadc8a4d1781f3a33294ca604822) |
+| `0xbDee41e8c03e1C3942413FdeC9C8b57B137248DC` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62525c464656b35e968c7c6330e8caaab84f4d9bb170113e8b4015be8f3b5848) |
+| `0xbE825D27E0DD2cfEba5d03Ba2144A957cA81afCe` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c5efc8ec03f9c34714231310f0ec4945cbee1254d653cf02373e366e8b1785a) |
+| `0xbE856d59902eF232DFe7dE1cb92C90Fc181Fc009` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a94563df8ea58ec25f407c189f67f27a62941ef2ae7374e3f4a2d77a1e8e686) |
+| `0xBFF057E58B97C1A238794CdC58C3f8F3ED35F822` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f269cd281b2e76070763987f1d9272d1cd2edcf7f47167f08fcef1fab8f94cc) |
+| `0xC1C5C135fc9eE7B4AB1E2A7B826f2F47F72EBa60` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbdb62976e5b59765fe6fed62100feddb48570af5e49d32bbd4255e759c452ae1) |
+| `0xc1Ea94338c0f66C4320b3d830836F10ecD88D0a8` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b46a2df4610fc3bc403e2f6f3ed447814cf1fa507371f31c912c189fbd9c37d) |
+| `0xc49d87408CF1b435533915f3b269DB41E7984904` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c8ec67d17e99f43d7a3c58bffa6f2b4f6e1e14a75358c5f430146cf3f1f9e6a) |
+| `0xC67Fb910ee6C2CEE2b020bDe3d8975A8B0313f7E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11b9de98560dd5a8e6f2a74fc22d48328cb265978155ca0ab90eeec446928180) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27cae34739fb0c3bee4cc39f9d4b0bbb224900d0ea2020c445ecb4588879a423) |
+| `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa410719d3be9b39220d09b81dc42718bdb3f0f2aef17f5ff95cd0142fae3477e) |
+| `0xC94531321acafE07D2a483785b95C0933f6938f5` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9395ab494fa0f8bcdd2db55cb12be18ac98977a4199f9abcb065467f413defde) |
+| `0xc94ce71F5076607926AF091f81c5a9B40E7385a8` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa892aa28a2dea4127ef72df02bccce3581751c7be4fe91741d1734ed2f5bb37f) |
+| `0xC99d9A8fF92000559edBbEc5a8353A46545DD9e7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x157fc82df623b9e8446a54ae4b654134301d6d26b2ea69318cbee6ba3ed23cc9) |
+| `0xCa48f3a4299f75C97472f99F60E163DcDe70c011` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b4bd876ac713bdc039fbd081857e9b520f4d797123a7ffbd95fda13c7c8e2f9) |
+| `0xCb02A1D86F19D059C2244a1Bf259f8ca926b376D` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7458f730ff5f240949798e60e3e39fb38daf43f32f43a616bc191b3a8a659a16) |
+| `0xcb1929e1d42c540973BE5FE3E4624c59b747182a` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6148096e682b33079ce9e4c39c525b357f8e7d293ce65e40fa68008a62430569) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61e11e70c36a1741da671966fb423d33c90147451bade578eb1e95692334048a) |
+| `0xCce669357967f586a429e3230aF2b8a54be082B4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x291272b9bed7575f0a2ae7f731e620df24a3e1dfd571743c1e7a9e8815eec38a) |
+| `0xcE64eEE55009B40Ffd3179A274Db34B88157A403` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc76dfc0bd63b516cb8adc1d83413a08006499bb1a2da1f1b6aca79954d240ed7) |
+| `0xCE92c8125bd08D04Bf9cDFA5df6DfdCC5fE57aef` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc99bbf5f49d6d05ae470224b39b74c049395d5fff765d2c46d4a4253f31da046) |
+| `0xCEA1D365346527Bc1EC73017c1847162F26a472C` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0393df3c092a1a79bd23f0e457c89688d6ce2de266837f58f0e1870aee11f5ef) |
+| `0xD0f6FDAD8207a5A42F21dD3f4Cced7d94477297a` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8437b0479b0bcff15740334a7004621a745825c4f4a972fa752dbe74fc8abeca) |
+| `0xd224d114B85F30F3CFEd04f91BceBd7C42a4c1fD` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x71e3a458dae767688694964a67a0a7c2cfef0c0a0da5490c9ebc1f7b2ce9c606) |
+| `0xd23Cd97CAD522eD496E1D2a143D363E748bc26Fe` | M. Jordan '97 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x92da913b92c1f0ab90bd7c99167a90336d2f0191c660772e95bc382f58265341) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd7859b6b4637895d7cbc72db04edd33eb67621e1600556e17c52fa18b0403d4) |
+| `0xd780bbec1A9446cF44c94D9B29dAc88855869483` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c0b575662fac1aee0337b419dab4d0718679decfcf05db54dab8de17f91a099) |
+| `0xD7B75354495F33319Ed14357ca13F91852c2Ff10` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcd423f8234a92f017df9e80fdd38d43a477e5cc0e262d6b793c3e55fa79a4621) |
+| `0xd8a27ef2427a3D98e7221B0A4F1e50560F8E3DE4` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3111e038cc90966bb4078d46af5f0adf86bf022c66a0ff50644f60aa8ffc7008) |
+| `0xda1D008ECC2883fEfCD3a5c52dD03fcE2744e9EE` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cf131a48f813b39337bdd25ee2da1d2246229b5f68787b15bf68dfa3e050de0) |
+| `0xDa9630cAd7124B9c2e9ED1458dFc9e0b1BA9AE20` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f61ff90094ba39082395a8cd95f6bc1e83653526f6e7e3d0abfeae0421d5505) |
+| `0xDB977847f66D5A4abC5AA9B30eC1c508305B4EEa` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x697aea56e9aeee68837530c22ec6272385f0122c0c7b058228d883169050640d) |
+| `0xDc717D0d8C05F7B35cdd586712AE90F0a9236086` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42ca8ace0e36082d155c830c82f81fdbc9d8291b2634ed695750dde488aa37cc) |
+| `0xdca3335c0808E2cd7CdBAd2273013b9778139d4A` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x766a7f1be9ad5f30853462f8a0f254e7a077c76373574ab0869b9cd52812ed91) |
+| `0xDd5227094CfE724082df24Eb8e05e208C461889E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc291e1e3d3f68c60247897219e3d85e09519bffba084470dd7c49aab1b1fec08) |
+| `0xdee545703A199A775968bd46a15472121e75c2d3` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b9dc521f81907a8fec7f2d29e52d9d05b1acce9cc5cd6f9d472951d20d365e6) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8f33f1fea58de15cf7f61e2d601869766c14698a410dafa758fe5f4a85e1a01) |
+| `0xe142f89F8b99673D2f3A15c48A2926e0008c87f0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bd04cc91a087800fd9ea470fffe5bea8ad2c55bb1ab13fffa3313dc40428a39) |
+| `0xE22eA84B0114FF6927952934c2143076cFB9457b` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c45334869b4f6b1783320411013b38dc9d8851864789657bef09fbbfc7d5500) |
+| `0xe2606941359e1f7403384D7D371aC298f6b915E4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20ae29448103f1d8c212db24a000fcae600294722db0d946dcce95965d3db547) |
+| `0xe295D4Cbd3bD8dDdEC81b324b69512918172609b` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1550b739fed4f0e148ffa85260860d18a2d98be4eafdc83d645f19236f0726d5) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5ba96f45b5a129ba501f7829c8a104179ebf8a5a6fd9c3d2fa8d688e487d880) |
+| `0xE3b25f4A92f23Bdc1F3F15860339aCf781a7413C` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a836abbc1900d10c931ee2612bb269f18a29012b08e0dce1c9c77e8e845cac0) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc12f59ef2e5f2678d8dce8b30d38c57c002645ef5409d1235bf81eb98aa08086) |
+| `0xE4E90423725ab86b037fBbDF503b6372F36Bf6a4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cb5d7dbc41eb6b638aac05b9ec58189c52975efefa793be429b9e434dd9a7bf) |
+| `0xE64A47C312D382FB51e4DF90FE6C5025B350e4cd` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dd12b8b34ee216506f7ef694163d97475d8506e94775da380b5754ef6a63932) |
+| `0xE7438cf325B58f3F4B2f5AcE864F33a966a6ADa4` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63ea075d3966397d975dc72e64f3265c31d3b1712ae330ad2667750f924ed0be) |
+| `0xE7f1097c1616584c61C6b4450cF5b1306058E83c` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaab81e76c89f7256a4d536da96ef29d451f1017b457ce500fd33465742681b17) |
+| `0xe9d60681b3F1aF79e13E86B7635302D8b5D77Ef6` | M. Jordan '97 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcef7c5ec8ff8d4471085741e70c9343f1d7b0ddf6f530f325939354b745aa8e8) |
+| `0xEA87284C5873dDD6B061B7aC0a9A16efE6456260` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f31493b3ae6281af263098423598973281f5a1c3cb3ff67988f5300ae6f3ef6) |
+| `0xEa9a1509F15A6Da0b1ad8ff3A01A7F3dF91B65Ad` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6b5e0034e6556bbd19b297cd6ca2a38da75f129452b3f1c7c3a9ca141de544e) |
+| `0xEB5397a3BC3057186d58cB4360D421f994B0a8A7` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44b5f903f024a85ac78656af21f47de496b2a28d806db2f847eb20e0ccc0ffd1) |
+| `0xEe5d5F895494b472402A52Bdc2481A6c5D027B9C` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9864d22ccae36d98a028ced992ead866c088576582b792ea23e07089c3be9840) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9769909ba66dc45daecd83c7e00ea522952425e17aa4d5e8c27645de7985f9b6) |
+| `0xf0c75a4309EBFA162B248BF2589740756D7Caa98` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc301d29da2a0b6240b280ede5c17dc5c9b0a4d6856f7f56cf2f14eebc4da9360) |
+| `0xF12b698f3b4DF0e2A34C2f6785d42BaB7De6E419` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1eb8974d5d73e76b74209014d8db178433ffbdea5fa9f5f075384e5c30059d3f) |
+| `0xf17A68A6Ab7636d198B8Ee2Ea854a48100Db5E6e` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2f04ba394e72b45d36057cdf6928f2f303528f0aab2d93d891e4ada1ba50a69) |
+| `0xF1BF4cb330ba475BDAcb406059c71be00B093aD6` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2917785a47ccb3df471fadc7d614b620c0aea3ba9715439dca32d023576245e8) |
+| `0xF1C7315a523E703d86a5EBCE571A7C2BFfa52475` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49bf3fcfa08dc143106dfed2208f3185e34db3a3d4cdacb6bc0f707e95e47b91) |
+| `0xf324a659eaE5516cE2c0E01b8067fE9F7889FD81` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf10d7276c2a56663092a4ede212e408cee459672f0fada4fc08a2ce86f89d04c) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10bb1b7437be975951ff26d78d88171bf6002c27fff6844df53b2a8f0c054812) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | M. Jordan '97 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcf8bff005e16633e2cd0779c270d750da32f74d59ec086fca5b79a7b28451c97) |
+| `0xF823C856EC17bE8E88915976F3efAC7Ce5A18369` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35e85ebe42d810682a6935ce0a2049d68b0109142be17936fb53b7cb296bbc90) |
+| `0xf9bdA682d3B5990937cb836Ab866172d9faCD92E` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37edad30af4e5a8a5c8a3c49938b3e0d8641a1226d94519c19b48f6c63c73722) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0563555e09f9c6801addb062735ebbe3d8c843e3dba822302416e8b4a09cc2db) |
+| `0xFE13f68E4Fd17AAD8BdD1DB24EcBA8b0DD2E0Fce` | M. Jordan '97 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b111669703b70f97748b42a8d89be57612d74f2ed4ce9a97ff86211257e6d35) |

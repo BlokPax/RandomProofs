@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | B. Roethlisberger &#039;04 PSA 7 |
 | **Internal ID** | 273 |
-| **On-chain ID** | 75 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc64-4203-b1d5-6e8ee9da947a/f4dcc3b0b7d308bf446b93c930bcc17e48f084a377cf578147ead0bd99b9fc3f.jpg" height="200" alt="B. Roethlisberger &#039;04 PSA 7" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,185 @@
 |  | `2045` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 |  | `2046` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
 |  | `2047` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b5cb45ca92af84358e2e847e33ef7312c65faef6d7eab97b43321befe71108b) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ff89f20845e971ec95df22636a5af511e7b5f7838d8edd017e4018244203a12) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55c1262a146dcbcd24d03d3a4d47182b17e9a6e0d1398b602ccbb7f22e9e4fbc) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7b1b8b503a978ca6a14d3658077ae81f97cdc749545ee7475ad07f8394fe2e1f) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x52a7c29ce9837e45c931ed7775769706d5a64f06c3d0c7bd0f7cad826ae1bbec) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x755bda80b8b7fea691994d1342aca3fb3ee38f0c9b6fceb60ad537961e5d06bb) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa1039a1c3b410d07302334d72e74f2cd48a1764dbe2afcbc2f45ea024ddf3e79) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x00af317be5efec00e6ee7dd23b96f0c0a403ea44d112b79e4533870dd35c0f75) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | B. Roethlisberger '04 PSA 7 | 16 | [Polygonscan](https://polygonscan.com/tx/0x590551ffbfb0a68ba90856310fb8335bec8585c61f26a2414a3a915cc74c41c0) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | B. Roethlisberger '04 PSA 7 | 6 | [Polygonscan](https://polygonscan.com/tx/0x98b3d607a3c5eb325a6ff421d42055a61f7fd6803de3af9d5066a7971ee773b6) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52ea16d6defa3feb1af9b5d8405fcf0fc5c59a940fc51dddefd649551784918b) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4020891036e021803553868b4158918b4dffad6d7843f4bcb2bc084f454a2e01) |
+| `0x1bb49dF9c09E1612134BD87264929E85F86Ac4D9` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xadfcfa20d0a4c8b8f3f53a8594452618de63add0d40f48f26c14b1a8ab69206c) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | B. Roethlisberger '04 PSA 7 | 9 | [Polygonscan](https://polygonscan.com/tx/0x2fe93127e85d93de299e522f37ff292d16e02673a4ef069d41188c0894729d6e) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xba10b71abe2d5769be9e083d4168a428fa0c883e7c10c084415c2d5258f5b149) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a01f519d3c100517118ec62234ba68aba7c268031f509c149bca905fe9087fb) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | B. Roethlisberger '04 PSA 7 | 12 | [Polygonscan](https://polygonscan.com/tx/0x95c02b1821b5bb4a31f580129abaa6c5dc5fbb444813a5aab0ea3242cb3843cc) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x7308fc2284cfd3ef138d9c2b12d03f7b3e8bac821284cace19771633dac23e76) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8c5afeaa2823722df0e745257bb551b882a10cc1324fad9a3c9556a6cb5f4f6b) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77d1f7132144522bede2d824861f5944aab9174e51c532c4d0beb5abd775ab4d) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdbf9d87c7de9726e86248420ec0bee87a99d89063362849141b1e49983489425) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb7ddf0c5a173f63b574f2c252104cbdfcd70d2a3f2eff9950cfa672d04f071ee) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe26956dd472b6c91c07b415fb58306830fb345331daf0fb005448b591dbf6a08) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8538dfc7242a03aae0529222988a7f6cc69b67be890367433c4e124cd92914fe) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc17d256af61af1667bab71bdca35f7892b35d2a3bc8be593477b5f29a0bc6dde) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x1d45ad698fcbecc96796499f5bb95c64b286aa2bfbe292ae7d7bb6b166708f8e) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f5a75d2d719cec7317f9b67af791d29e9a77299c6632ebed3a36202e9015fe0) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x38c63ac46b58c70d8d194970f2cdfce15c5773294cab5687b82f97064e3a2159) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e6186b7875b831d0ac9a1fa3103c34d972c99a1b5092be12e4f79969d07084f) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x43ec6d9983af94c0097abdd566e6c74ed156aa4fbb5f56690765f5c02f9d05a5) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | B. Roethlisberger '04 PSA 7 | 13 | [Polygonscan](https://polygonscan.com/tx/0x1c1bdf083d204d363023b4c17102afa1c98daa2263652394fe37f3082f17354c) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x002087cc73629a7d0471cbb27bd3a250ba2a0bf7e824f5851a5772ccda449d9e) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31d385da418da068c93386304715acc0e011c3ef03ca67df8cc7e761d1ba8aa3) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ddcbf75bf065cc0d604bd5cd57a35ceb17408398d88daa89dc73c3982c237a2) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf08cee363e70e79b2546fe62f0199e19fe0e27fc5be0de8bfff3331c22eee6cc) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e3838bf1ebbb50f4ea44b7a3b053423754e560b17a6d557b5a314492ff95f4f) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdedf05c0ace96057ec3757ef702e9dea9b355475dffffa751364c0183d461c4) |
+| `0x3b966979f6730Bec1A7411883D112fDa2bE996c3` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb625bb65b6de6fc7416c1afddd33a404b5916b817e512e2c0590e42abd9ae03a) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c86bfd66568cbfcc7c8ec6aef396d0cb7e5c425ef3f56969b694c072fa599ab) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1cb3b73d67a91a9b72cb4ed82501961e22a05bb741a1e85e2545fe5426d4da7b) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x916de278e62d22d1cb880f837ee888cd1fff3b010255c8230db612ae1d64fe27) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9c94af095c8eb6a064cfb344b6a2ab273eaf1ec28ec434165029734ca1a9b73c) |
+| `0x4551e5077534F459A9131b9Cb6b37be8DAa0a125` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x823fb6b304a47164f26cf46769c523e7d8aef4b9585c0de00a0e00ebac71ca56) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | B. Roethlisberger '04 PSA 7 | 13 | [Polygonscan](https://polygonscan.com/tx/0x49e6bb268fcdbe5446aa7e4a6ba511a596f760014e77bb59cd8ebf74cf1f0110) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe698e728118a647235567a1b443101586c7831628b5f7bd3d5cc0066d34f9146) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36639da7f6894c96d762fd31f85a49832a93ae7b526dee66ea7813659bf1bf49) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3d09353bbc0fc031001ad0c1b57bf423ec6b7d4cdbfe28c925c8ac2873b127e7) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0e76b54ca64ca0c0351680d93989e3ba6d60e9f995444e885f6301b4d6fb7cc) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5210ca796fbcf9cfa99a08224532a52db7e962b6bb47f6bd43c1e32e4c2d9b4) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4fd5c2bb11bc1a05b04bfa44be1a6549b1fa5abc510c10b4c1e979c45d5d955) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41704564009869b79f425f70bf3d005728367be526ac56416e818660c0ac1186) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3aac5c40c54c7482f98f80c1930b26305e3bfa94f9ceac0b30acba33f34989ee) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa21f57e261b51afff4adc391651714894db0b18a139626565bf757603aec2dbd) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44ccb97182a86ce2f517b926fa50e7941ea87c893c46fc53d8ba74a6e9adf725) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | B. Roethlisberger '04 PSA 7 | 8 | [Polygonscan](https://polygonscan.com/tx/0xbf6d9de70b528d715f610908e7b792998081b8406c37837c578bff1f38ff589d) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaf56f549e6f61ef5736c1bd6fb5d3ae37295dc50650e1aa619cdd386d5094ef) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b48f353d15a4383f94d257d517b806011a56589227cf2da72d48fe203972de6) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | B. Roethlisberger '04 PSA 7 | 10 | [Polygonscan](https://polygonscan.com/tx/0xc13f5c706c77ce20112eaf7ae0cbf98c3ed3b6d31f5898408d7f28400b58eb3a) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf15a3591c2d8809f2e66f3103e4e102cf591d897de6503bf0ce308bf7c5f2fe0) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe190801508747a7ffbcb806af1201d12177c35d5fc5bdbc56ad5f2cba2370741) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x25a2abc31a402694c935966a99951801859e0dac8e1087736530522a4d93b600) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe27440b533d361c4bf7fee98d77ad939f74648f4397b8657a06316a3520d680b) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf489b51cee3e806098336ab094834f95d9feaf2d89e5ee6de14e4407cb2f593) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcbee78182e9077dd4d56c361aeec6d65baf4cb70dce9166408f34bffe1feea8a) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc43acb1d5bfe4e8b8cb74405aa2ad2968cc02e750afed40714075a15de720aa5) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x887588ef6a3a33e337ec0e43c9292ada8ee599af2078b1a462982010ec82a1a2) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x32ffe0e57b2a09c343b542bc2d3ecb386d8994776ff54e33552447df94e35ebf) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x58161a93df37dd61f1196e583b4310a04669c2cfa8861c5e09a4a3ad4ab9832e) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | B. Roethlisberger '04 PSA 7 | 16 | [Polygonscan](https://polygonscan.com/tx/0x04e5cce47373155beb5975921737fd952a9d6b9aa9d1212cede1461ea606917d) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd02a7a74b76fc081c91bf74ec530d0ba4567def55b70454dcefb95c0a3a1b20b) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcee458fbcc27c674f9d8e87a35943601f6520e081e3e0a5e5558f24e31719776) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe50aeff1f1577ac43510325262f68aeec1109e76d111b555adeee249b0c703fe) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b1b82e4ee0fb3ddc4c385612bb472408d36e3195673c5f4dd5f78f529ccd937) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x61d2a6e1f87f06156f56af581fc528b1b3479bb28a508a053419952bac52caad) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad49a03b7635c87b2f27e9f85b371ccca08c5cc9883d7c6b253501c533cffffb) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | B. Roethlisberger '04 PSA 7 | 111 | [Polygonscan](https://polygonscan.com/tx/0xdf74bce617096818a654afdc37cef34df2e5dbd155b98a2a0f8b8b922791504c) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | B. Roethlisberger '04 PSA 7 | 14 | [Polygonscan](https://polygonscan.com/tx/0x09361dc631ebda788920518e31013e2fa5affd73a24118fe362bbe220663d077) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00aef782dab1b8178ae49d15f4b1c2df91cafb39527c81fe320064167fa3f1e7) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | B. Roethlisberger '04 PSA 7 | 18 | [Polygonscan](https://polygonscan.com/tx/0x02c1c6510b7cc1105c29b4a13670735886a6bed3bba208e30e364c1449486530) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf891b46690aca6fadd82e2736ef22ee30b92602130ae090b11bf96dd8a68c9b2) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf06ec1b91a802ae08d1d06bcc1290e067315ff8089943a759b0ea6ccaab78b6d) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83356c04ca36254fc47be7f2ac1e88a8919addbb0e97ce391d001be2a4c903b8) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc12b734a5870cb3ef19032cba3ddc6cde23065a761b1397c2181e47ed9497f46) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | B. Roethlisberger '04 PSA 7 | 8 | [Polygonscan](https://polygonscan.com/tx/0x065a55a1975990b0fc06b13c8fe2b8b58334e7459f0c972c8d0a7cca1b6c62f6) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ab279f90bbb201b8839df85429802f3aabf9349df79de13aef1a46bd22ed602) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc0600a8c261c4177a608b50f789e8a50c196f52456d5840b2fe9958df5898ddb) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fc7fdd8708f3e98eaae5a41cc4ff436b4b35abe127643dd858b0b96cbe39c3d) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbec962c84be73ab9cc1a98606bab3179787bfd595cfb97f4bfe3ae2e4f92ccc) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | B. Roethlisberger '04 PSA 7 | 22 | [Polygonscan](https://polygonscan.com/tx/0xe070c96114ccffd0aacd17f86eca0c9a83f159fb11d30730c5eb663e9626ce23) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0x164234acc29f2df68d6b8c1460a24a0954162625ed9d7eff15ad81e325f4a199) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2adc9f5b14ccc2d93fa85ae1cba44c1a7e97f493e3a13b3ad1e0a8a583896788) |
+| `0x7d0cf722Cf5467AD8dAB228692C8Cd52e51eDB64` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffe2d7858411a1e1d35480f0007d7c54266c81f44d092b72c0505fe03c5f35a5) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | B. Roethlisberger '04 PSA 7 | 24 | [Polygonscan](https://polygonscan.com/tx/0x11ef17f6e54aa74056e3deb1a80934275869182317f2dc4c7ec22434b0f0368f) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47dca1ef09ddee7a69f5d5493e5c3c3b3d06656b0455985038de2d1c876e5407) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | B. Roethlisberger '04 PSA 7 | 16 | [Polygonscan](https://polygonscan.com/tx/0xc35e7911c0fedaa10043347123859383d06b6f28c871bb3803549f44fc783399) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x11433cc95598519f720b382da5dd72c080e173d098fad0e77cbbf009928af5b8) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x543ad8d4f5d6fb8ca91e838797838d4cacebd8f09c3b28fea0c6c1324f462510) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6d1ac47439794876362383f6a2cd7b107d22488b7b5314adac6975d50a63404) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3188a402b3523d2f9b72e15df7185c50927728659887035ce7b1e07b417f3494) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9331de7fdd8de171a42951349ed9d6571776e535466ee59cbab58a4d9d61ba90) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6d082bffcd92a99ca48ba823cd2747576178f6c1887c7851353a2303a894ec9) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | B. Roethlisberger '04 PSA 7 | 379 | [Polygonscan](https://polygonscan.com/tx/0x4bf6ca56a76c9a73fefc8d16b9ddbb3f1f0fd4696a6bd9cf186f0c257dcc1104) |
+| `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67f5ab5f347575af7527a6c0638ea45a2e03c7e8bac654c49584b1eafb1de28c) |
+| `0x8Ee7E64F8Fbf4F8D3E58b64aE167a1177cdd9F3f` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb02f25619c60f9c489e5cd20cdc2e506e48620ae32e5d4b3410445c2d8937dd0) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4c75ce61c9f41b12422754970a1b4800132a1f014dc3f7c4500d894d117d9ad9) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1580b97cb2ec694e65d260ab36182fbd9fd85aa142f498d2cf4915cb27cf1441) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe76a54c79f7b312c2224aec7192260941b570a833da94a706652499087609b0a) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | B. Roethlisberger '04 PSA 7 | 8 | [Polygonscan](https://polygonscan.com/tx/0x4f2497b25d934ab651097a1059a3cff7071a0b3d63764e984a4899d5f7284a57) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2aa3158d38c5e9d34f8de1669a533cde5bde5f6754270bef3573996c277ab9d) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3d2b1a882b487b88169087ef3cf243090a489c6bed39736d6f97da01e4b92d55) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xde409def28496c50532ab2094ba79e0789501a6ede627d55f4e3dea5c9e7395d) |
+| `0xa0Bb2dC6d6ABeEF21f9311e8a030f9353176AEdb` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ea223e9afe79294f5a660d10c4b8dde7ebee1a47e10b67ada3663b8574b812f) |
+| `0xA5aeF44AD878ceB789C9cD77B3D1dAE984a5DC9F` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x515773a4131856c61c5fd353b5756f1a99516e8f072007a17874adadd68b82a6) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5f21cb88e01757f6574ab846efe2dc78dea80931b7d81bbb8d0cca386baa54a2) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x848f2956a5f2fb0f8fca9940edd2badf2beed74935bad275779fc7d37d2cce9c) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7e58e212c9ac83ffe0f242b5fb11d3927353db5d8dd60ca23add2820337e4c0b) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xab817fc8512324d8029a4f5ad97fb7ec4007f33327216fe51287f32a4aaab9ed) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77db8318d567a02d2a7b735c8159378283673d0dd025a84ae173ffc19aaa6521) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4285a32c55518593aacd33a50d31779204d0156019f025a590d9983d10dfcc7f) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x760597d8ef5bb7a112e0e675cc2d358e8f5ba4f24f42eff0e1d64c11cacbb615) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5a2ec35445c6fcd2f91dde5c57b4665b5e59fdde88b12ac5e09b28f85937677) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0xdec28e31f22c1ecd7c3d6969415419245da1a47b642500db7f9496ab093d28e1) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xfe0844af12a017b6ea4d8a415c7397804d83d464799b3f922221e2219a919164) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x80233dcaafd88b8d0c206da814cdc03a4772094ba0b4cb19ad8c4079ac112b75) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x40abe04c6e7de49440561362eb5da9ead16940af95b5edc38e896c04683995d9) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x544bbd182bf12a9dce776b501689faffec5f2b807d2dae9d2a7b602c6644951f) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | B. Roethlisberger '04 PSA 7 | 9 | [Polygonscan](https://polygonscan.com/tx/0x5d985a662388564dcac8305c7b770474a3416b6f098b8ac29623f45f56ba490a) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a324fd363b4650a62647c3522267df7f40df2247be3cc9aa47b4187727fd4b7) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab085314f40de97845c717771eb82ec1a3492f81c5e5ca261e1e547624e47784) |
+| `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaac4b19dc73e5a28d7e08feacb765659c0d120eea60721eb71f98e50f36d5f33) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc54abf1a8ca48bd6c10eff9906704f7e3e7a93c3acb74811e163923a003ee115) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd16d09cbd2ccb4181db4e305c5c6669f336b1f38124023c883f3b11c251167ca) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x464b70b767013b9b973da15b8329cc5f0369c180d44c9831a233c443c0962222) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x855d3444f74083cd7bbf94888c8859ab1b83cc8ee7acf5799d03e552c0ba7452) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59ef5684c44a96907ffdc387c2bbe30d50f3a38f126731b2839a136ee52028e0) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd0b2db9e5fba4d7b220e42f200026d1f7f4903ed675b043857c960be7e733dea) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d039092ca017788a06af2dfb72bf73b11ba26d3d5edce935128e1dc5f697a2b) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19e5ad730171762057f79ac0e75674b90947149b6ec257a104ae6aff5e710870) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x585777beb509c9cf8fff95d15f24a65395a1827ec48974442f65880a323d9f69) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x01379698219d7a6297e88124c00507ba529b6e14bd6cda41c21331469434abe4) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6fb8098f481847c2884121dcb04de53cdea59b12ac5d0f17dc674fc02f776a78) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdc2611b4d6a97d45f6a2882dd914865f53f87a1a5a7ac3e808aa52e3bfffb68b) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x051c473c710d4aeed115a630f932b0d77731fd7bfc42e4b5c627946a22f52a2d) |
+| `0xD261cf1721cf118b53453685782d13049d2411D9` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x211ea0d68e188312f8cf011b48d1c70dcd0a5b52b141598f939be5f8633cb94f) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x261475686f205474e982c553325b62e7686b7e48f39137d3c4e9ec19dee4e06c) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81fb8f1f7f91963c1e9e8e4b24ea203e3e6008f9311c8a3dffd2ed8ff7798921) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9d4b08e46ee625d40cba6e22339f935b5ab0db64b5058abe5386f1748914849) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28f7376ec94fdeb832d2452f9ee4d1c6fed10dc58c74bf2592196f9e13a0818f) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6e7700355170e22dcfce5760bd94ca51fb73430ab448b12952ea3e0178d00725) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3f342422f4aca2375b6a5447a654244e93a33c299e299cc45aadf4a5c4f9f1e) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1809e6b6ba3a3ad89c2f1047d475d9361b9f7a856d8d4ee9590b538e5baa7119) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a2961d22315289220400d33c68274324396a4145a9fed02d94dafe9685c8c2d) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7071e361bbc933a49f23895bb2f072aa2746f91f94b740b4dafd436986557443) |
+| `0xDb07B2a0eFFa11C8d2f522764442382735717323` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce8f9e10e9b5902bc243d500b9461caab9171197d1e85a6cce874adef4612fda) |
+| `0xDb450b2D8eA22D3f7D7F5C3551392a154698bEB0` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95c4e3bc8c9cfe751edd000565945837776456bc2897241d638c098caba4c0fb) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0ca67650a92dae46ad0fc63faf806730a52ba129d30847ad121fdb3ae0596ed) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5278f46b5cfaf8683503063228581218cb42e6cb95baef276e74ca85a15c21c) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65d14e923e5326119f91e9a83e0ff18d450ab98a6980844e81f933e73d702985) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x97029f1f5d7b20640c438a81484f19bb32ed0c8a136433330f0b6b4c30199b89) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6de02276cb4c1621d716c47fa548854b0abcd9c730530493b4f5c0bf03c79b3a) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x052336fa20c1cf233ce8fa8c457a4e738081cc7d44e5320b7914edc9b60cb514) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x68e57fd13cf2d4f2df884580b86e4f4541d7f345f2fe9e53ff1a0ae52f22b9c8) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xce16147344877338f58d77f2e7abcf91c0fda17fbe30c8d538a32374172b1abd) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | B. Roethlisberger '04 PSA 7 | 4 | [Polygonscan](https://polygonscan.com/tx/0x0f4e0572a6c23e5db48c6ac985e4d2110bbcf4f95ec0e8dbc95d29bd908a28d0) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3a5219a831bf8ffda02f207c4892be7a7a0ba52edf7f2b2296c2dfd25571ee1b) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6b899345f5a368bb5742e1116388811f24d6e30a17c5a140eeb99dfefed2ea28) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa3c53a1ed52c66266674e5fd83b664d2bf4eda8d0fc02012e23d565bcf20cfc) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x643d5acf473c1a1cb6a365675af4d594c142b28e06fa944e117473439fe15b9a) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0bdae9ae9c3eba12a9ed2c9f42115526939ce74b24b3e3f2142822ad4a5bcea0) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fd39fd4722aa4550e37cb3068d363bf91461e4c33128d8dbab7c79f3eb7d18c) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | B. Roethlisberger '04 PSA 7 | 5 | [Polygonscan](https://polygonscan.com/tx/0xd8d1e19621e0719457323e6af271b4ceaa2c9150f27809add256d24d3084b583) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x238907d7373c7f4ea1195e76447bbbd0d41ce4beb4c57c7d8cc15dacc61d6783) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | B. Roethlisberger '04 PSA 7 | 3 | [Polygonscan](https://polygonscan.com/tx/0x11b1ebcb85f0794214e152236542d378a507fecdd1ced5739e998b855f88255b) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | B. Roethlisberger '04 PSA 7 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3ef36d7c68ab46c08fb7c4a981e3c95341019b6a74500b9a359faaf9b8b4c4a) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2560b022a40453fa84938a4acfa25901133361682c76c2b9ee1825a4b459940) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | B. Roethlisberger '04 PSA 7 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a68c476ed584ad4f5081c1466ed07f47d8b70bc8c537aac9187bb4ffbced0a5) |

@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | B. Mayfield &#039;18 BGS 9.5 |
 | **Internal ID** | 284 |
-| **On-chain ID** | 74 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc47-470f-905e-31c5027d3c4d/12ac3f57b4cb8ea54450feca1c98b05f0a1eb578202b8e89104d3b9edd783059.jpg" height="200" alt="B. Mayfield &#039;18 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,42 @@
 | 💀 | `125` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 |  | `126` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
 | 💀 | `127` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c4dac3dd232ad640caf3753bc3ca934c1ecfe2020ff2fac09a716651bc50f10) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x220dd5ccdff75ba7508e75228c8226cffea12f0ded4d5a50a3cf41308d50472b) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | B. Mayfield '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe4a027154078354fa5af19f8cef08a75c4bb6ba27087a16a0bc1815beb5cb146) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | B. Mayfield '18 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xdfcb8f266ad4c6a983389d39f5b0b953f236e379aad4d24c3cbb1b98cfec2edd) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1308c9a4f667f54d9b9ad69fdda5606fd5d02b1cb1807933215f9f48863f90fc) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8ecbd1ab9914ea8ae237b8103ec03dd2ffb26198f2eddbc4b653d9e4cfe5b32e) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda501e6eae158bde62f3a1c3a7cba5f418ab8f17aff84c950ddb8936fbedeaa9) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x405b9fbfe3d09a1ff5ac98ace0dcc5be9f04f4230735fc9aa5f162ecd177b96b) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x215befcf37b4fae13cafe2336eca75a9a3edf583df653a36206b3aff0a75fcec) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | B. Mayfield '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa6ff984c8a5293e9a6db479c858df11a4e943a1646862161a0042ae76c7fe06c) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ad0c6c8c78f099734ba18056e1c5a3275f9d5a3a5585c570d4095a7691a3ad2) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x001f57044eb41fee2d28ca404a1025961f352e177c69e75ea381de288a727d6b) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1ec993413b0c60fee4d38e7bf2c4ad64ba4b68a57d0c95f0eba88207f7ed8b6) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x287a089e7dcc45c09857ab5ae5baea60435bce43eb71aa8c84baad10b3903bef) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x87474de6cc9be56d98b4a7906682bf51b8d0a2411be1e790500e6b607092d691) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ee62815a6df050241fc800f3562c4477aaac068e12d667f410bc1a20b672518) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xacc0d5c2a8b3b4598ae486455c5428edbf2510e65f3e74549d655e0893c6af7f) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | B. Mayfield '18 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0xae68040fdf588b59576e2c94a5e77b69f7d9c376b1dd0cb25cd1564f34d87e40) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xef925da3bb6e86c0917d097c86f7cf0e6c3d230c06d35029e8d4d19be2b39957) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x842470e18ad874f1621e31e78ca008d6f5a491bbe38bf517a06f453b260ce161) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | B. Mayfield '18 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69e9ca5683082d70b71972d4d1d91bfc5bf2d280adc95c50e88da8d23a01f3bd) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b285cecee157457c6a4b79f918758080ea42b26f90d501fcd6f760158a481c4) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1819dfc2be54161383825b31a974f471d6996c2de89b4594908fc4a511f859e8) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc12f4ae232ff269998ddd9780423f5376cbc18911e70946c7482b8058a07faf2) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc78edd59e1fafdc2c3c4c501b432a90afe152d98c8c6bf4b80d18e59982c7850) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x128a46c21e539257669829a69406c1ecb923da858e4ee9ce7b95eaba46691a15) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd714cf5284a64560ef8e7aa266ee951211c429d17fb226608028cb43e2a361a) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ff492daf0756865943953bbd30cb9613afe2678e153fa3accd4da1f1db88d93) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86400342394427cd61266ae432418b02ea522066353ee20ca17d6d8efdc4b4a4) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe5b17929c69d5f8d4d098cc069170590152953cd8a049803cb898a88750b92a) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x714d2371c5f2b38af3592ab647911b85a5da7ca49018aa219ab9ab5eb3a5b594) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | B. Mayfield '18 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13c318dee2b5390caac09ef41cb1164630a6077086f3a71d3b8db4b54b481b83) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | B. Mayfield '18 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4c200dc3be98d7d97855b5e224ff475da2b1272e5203c1c3202dcb5dbc35bc0e) |

@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | P. Manning &#039;98 BGS 9.5 |
 | **Internal ID** | 270 |
-| **On-chain ID** | 93 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc3a-456b-9dde-4b587cc3f6a0/1ee17ace59e1b978ee8e677be0743e64331b259784df7bb1bba11233b6c77f29.jpg" height="200" alt="P. Manning &#039;98 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,160 @@
 | 💀 | `1021` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
 |  | `1022` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
 | 💀 | `1023` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb79ba54c6ed3adb4c0983c1f270807caec6c92b10c89f4cf6fbf56231652e941) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2bb3788c66160bcc032737a4b388e3fd2e8154fdf54071189d6b5f39967a0d4b) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe74fdbbc309b4251272f33543f1f35d45307f2901492e9b9aacfeceaacc14116) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x578ef5e1e149ff14b84d6d3f25d79ca1366bda8e40de1e31969a7bc5d68b3f62) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b33e25ba4d540df08f0b327a48371de9b0019dfb59283b24e7a8e5c29721427) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x82059b4d176072414158c23e8bcd79d458de1589d185ae9455813c8418be6267) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | P. Manning '98 BGS 9.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0xdb39cfbcbec5f57bcb46536a117e967deb9ca147278eb9737dd5158875f6a7cf) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf085acce012bc73e98f78b2b4bd011ec98e600da8585d448cf95429cb2ca4204) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | P. Manning '98 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0xc69f62a8817f54226797a28d387223d669b7e96e2c30054cc537a6476f5c634d) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb8b868e0a954ca68de800effa60dc5b4c985374dd62425d7a5afa7cfc210f4a6) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07b9c2803caff60256e07f7a930ae395e43a80d8d4ac0d8c3ad2b11e50d811fd) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76231400e4858a18777b5bf6db5726c2f7385d224cd02a49e2a376e85d916f40) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | P. Manning '98 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x0c85bd438c6f9a81d77077effe42e5f224ce2e05c40ddaa80dbc3ba0cc0f9918) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4772cd8c4fb4ceea12c3ccd7132a3e7fef717de32bb9c412ee9f7fb34aed79c3) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | P. Manning '98 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0x69b4e5008566b5d703368d5365c3fd5738a49e9b62bf47c3aa9d95c95517a5d5) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37965bbb47f6f2f80cd7dce9dc05598632c355d4b06cd2ebef08e21556d3ef46) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x43c6decff8bc2a875f9110e77fb35c218958d1f96aa5cbd68cbd96c762396735) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xecb021761a78cfe8cd209c1159edadd516caeb0a488d1e0bb2c2643ab4267de9) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefef006c2483a443d9d8917284da46f85a64dd52cc7c1750a51ed5e306a38c55) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11594fa8971959c36a407f48dfc5cace2edb750709d517876ba9b43dcd64c6f6) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3565fea7d0e8456e3e5d82fa26d3ce1c1fd053b774a9fbf3dc0de2c6981274c0) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cdbe70808863efc97a8b759478ea1c278bacf00b5c15a11249d7c96ab5f9ce2) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xece0ccf331cd0ba186bf388dfc3a4b78087df1ba40d8862adfbe7460a3c308be) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc2eec549139099078e02f411d4db9bb3ff78eea55c6b83c390694d7963dd0816) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x482b67026317be2bdd4e12f217368a4542740103e481ae4e2f25642f0fae212c) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ddd8bfe11b1ffcaf53540993fcb2c31d94c66a72459e6f85386a7a86990ac29) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37832215aa1a8d7c7c8d26cc2f77c816a51457049f13bdfe728e92ccf33c8708) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xf08a0c70e8b003ece199605e12ef60b8353bb2e778903bbb509ca9679b0eaf60) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | P. Manning '98 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x60275552c062afee354d964216f9f130ec38f485bebcae7c1c03b92db6ef6111) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13a96f660175e3877b802bd632e00e696e46c40024d31f2a28142d681f7b67a2) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x479c5ca176326f1cde2d5ea37a6da5fb7052c3e730f9f3e0ac060887ba2f4a19) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc3578bdfbedbbc47f46cc5812e0d5d79ff132733082f421d619337b62a2296f) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x77e63c32bcce5131fa83b5ebcdee6c940aa7be2f71c73bee78d3ab83c493df56) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4ba2ae3cb3cf65456a7851634fd193305d0fdc29d4c92b6243a57ad675a8319) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x35207404f7de638e9c5fe74f9f8e5e9533b9699e6a136b15856d0b3af4ecda7a) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x775d1cf9c16bdb06505aa1ba3894eb87c6861bd8788cfaf5fda1a6724f8f2dcd) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x71b77d09033f56c17c233901b436074032cdb2e93cdd2a622c0f6a5ce60e19ed) |
+| `0x4551e5077534F459A9131b9Cb6b37be8DAa0a125` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9886cfd7e6dab2c3301e2ff0b52a0709682633c0cbec4aa313eec2644173b04) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x185a703e6e02333f45bf0895f5ea3dc281a8910b3b77ad4fe428b5c254725369) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x512dbbe73636c6b44a767ea425603e1f538b12782d415947e83d351b0ea18d1c) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | P. Manning '98 BGS 9.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0xe0bd7fd22a72da56293228ba589dc6c00467d606a9f20bdc8dfa5c5b71c10329) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x157040c290a97ce7dddac4e4194814406b6f4f7e7bd246e4aa58b068b03091b2) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf94a262ffdd145d3a1fdbd80f0b9deb02b4b42d449ed9e92a798058e8d716e06) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8acae99459391115c98c9ef66e4991268f98d61ab94f46b25ef4373dd7fb064) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd0ea17ae2bdcf2cfbed5380e679f70ee0431440dd1bbbd0f9141f3eb5236e54d) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2bc17e6b5e0fae0071e5c7b44fa5f091abd7cb4803fade24c496601dbd9a2cf8) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1055ec292ea0af412093566ed43d506d8df072c1533ddc72f06257b5e5850c4f) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3b8053f576fc07503c3f1018cbf63bbece42d68544d7514720a518aea309bb69) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3ec34b92c5c5a073be68ee2fee76971e056777f072afa13ed3baf07db8ced18) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xbb382cc16790488ea2c709324156e0c0b6294e2c978700bebb48e751c933cc89) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x4ffdb07f065fbfde7410f4477a8041cfbdccb7d3ef387af8ef3215bfce5e6ce6) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x14a0f5bd140e431fd402ed85f9e335a55076126253685353d413e850942400d3) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb92c941614c3cca01659baef3986845647ce90d0aa00ad553cceda1deac0b951) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x16ba4213285b9854260c20a99b845ea9560758a26830dfa0b807d6c8169bc93c) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06cb3cf3da42111a45c8b330f2ed54eaf39b75654884b0f9050c533d6ae9ef4e) |
+| `0x5DEC9e91fd09275D5A2340E2A7eE252d3ecbEF6C` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b3bd09fb9a426dd9f0d1a835feccd80344864c02e3b83d50177f7876824832b) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9e0478e6ca9ff007ddc50fa379ce59ed7c3c4a07e1ea0f212ac7969e98393994) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfe6b9a13bebbe122c25c03c0bc5ad7c0a36cc31cb5621d72b4e52289f9bbc17a) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbff5451a3b7d474491ea4538a86417b056b6509921e48b95cdc15d0614cee97d) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | P. Manning '98 BGS 9.5 | 16 | [Polygonscan](https://polygonscan.com/tx/0xff7a421b3a3a731175aa53908af4479ca48a889f3ee081c05469bd2b23ae16de) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0117e02a981d4a99efe752764a61a73b86db54181385ad9db8a9911c01711d54) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | P. Manning '98 BGS 9.5 | 23 | [Polygonscan](https://polygonscan.com/tx/0xf3bddad63112a9216707a6721c9e7eb6d7410ab5d80f7abe42a8081b7dd86cb3) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe12688b07310b98d1f50f31aaf843748c6bdb9c3609bd96a7f06eb8d236791af) |
+| `0x67d510B0526f36fe93B388662C21F8eBb45E3D6b` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22c40019ae44ffdc6b88580524709628cbc485b181dfe96c47f39ee99e794a19) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf422f25a8c7e1cd4e6a51b0c4bd7e6fb21ac1d1b88e88e3ad871a56cace17ff5) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc7ee216fe83003f1a1286ffa4d3b9c173305fe680272ef40e9b14dff78c2c48) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x59553eca9922562fff9a41c0dd63633fbb45207947e4ed7e2aac67d5c9eadc99) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x76c75351d8bbeaa229b1750abbd820dc565c4de7948cae6f315e5d37ee327b3f) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa36f77d4a49e83996fdbc38542ac3c156159d802eae5ca1eb217d6cbb7ab5fa) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | P. Manning '98 BGS 9.5 | 78 | [Polygonscan](https://polygonscan.com/tx/0x6c0c51b073bb81d3eb9497325b6d87965ccb4989ce3dc6c30b2e7e2dcab587e8) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | P. Manning '98 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x347cc97b7bcc214f4d0cc6c0fdda118414c6f7e08944702d3bc04192ce8c3bfe) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1e03261a6fc2d0400e9ae207bbfe63ddec3c186f03242bc9dc0ec9000b103f1e) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | P. Manning '98 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0x7a1e534f5a2c14f8ddf260aac1ffd2c16f081a77b9ba6237783389cc20b91700) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15a90a0ff10a6952338265a237cc331ca206896e28205bdc8b1444a6bf26e331) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xff0f6d622311b6c835d3fe6361030577e1b502d845f1468f91e04eccc23e0d34) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | P. Manning '98 BGS 9.5 | 8 | [Polygonscan](https://polygonscan.com/tx/0xa74c8c8abfc3941a172c5c42d6ced0437526c67418ae2cce76d375f78b54ca5a) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x44839f4a8f7f83b59bfa770581a2d25a0b73f00534b06fe4a41bc355a9e8e17c) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b9e4df274a8c37529a8fb9c7b8781f978b53b6df7227647251481d35425a200) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | P. Manning '98 BGS 9.5 | 14 | [Polygonscan](https://polygonscan.com/tx/0x41aa645ca76ef458643ff8a5408218849dcf0ed7c799f0631d7ba0072fcc9990) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | P. Manning '98 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0xa8b159b67aa6a55aa2537a96f3493ee9ba6bffd266e831ffdc6d238557a4fd82) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0ecd71e607dc7709327fdf2e43a0add28fe30ea13e3fc7a581a66df3c5bf41e1) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7fd43413ca1613fad4b1a9f636c2efd3ba24fcaae082032cc7e4de5ef317bada) |
+| `0x8701C3C5ac64C76c91bEB2849D22AA12Aff2A0D1` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfca950bdc8d14161bff3b27752be57101fcf2276355c8ac1d0838e302d9a684) |
+| `0x872aC961ACc634E0b3bFE555Fe91372Dc0642F94` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dd7fd7c197e733d54c668be61b02679724796a27a62ed359553a0140aba85a0) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1f2f7154a4cf864e473e125774d21d8d5a048005d7dadb7df204ef04910de5e7) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb7deadf0d66120ccb3212df9beed745b930ed2144f1e464212e65788a9a64c2b) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa336a4e568b63cb926046576396742bcd32d09e9115f010af0e1d5e45a033688) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cea9d3a4e70da649cf0191511429b43886791e96e12781b3696f8e86dfda368) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | P. Manning '98 BGS 9.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x6b5a98f9d34e21cb344f27341074e1ff64ad1567fd6b45954ba58b4b87e0b273) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52d81d97be01b227e8b39b9b4fb6508bc2d234b61be3d0f9a5c8998ac6235aa9) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6aa4969e2d852924112faa81f5fa53940e325a7d87735b7b2712f9645d7b9215) |
+| `0x9C25fE64af87DF63d6507732f537E8697cC8bf25` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x188da8d4baaf48d790953897e8a7e110ce24050d50fbc5988f0050a87c124dec) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3cc460558126ddb7acde485b45154ced79250ed1da19782326c0f660e3cd44d) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f9e6acb8cba713e7811cc7c49a15d1e98f195a2c22d995c1c7f966551bdd349) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47ff4cf2f72f2d553ce248d162dc568382cb12ad44a8215c9643fb0e38c03139) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5cff8d9586aab9259d0e531959ea141b577cda3b28b56785ba13ef11039982b6) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2afff5e9602a67386ede64005ba0d2d9917da74518ae4183523f6ee92127dc99) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e1db62ca405b7785790a8e95852113d710745ec45902947a10117acbcca0e02) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5681af1620d4a3ee08fe0f74e614b18a3b3dfa6d08bf3311816b00427efebee7) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80a11e0e4ce61a0d25f4684194709240c6b4cb25cff1c033773e4fd77020db9c) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc800bb1bbb4f4080e21f5f7fe2dd59d71f32110d56c153a88e82534b6b093d53) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc34ed01353d70e371ccd6bbd3c4a7c6312fca3529dc34edab95f966a65ced826) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x75ef49b9ad46f87fe8dc47ce9ea430666ccd016d6be7eebaebb97e530b942c72) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1fd5a301e4b92ffb6c47e688c672bc9224dfc423289668720e18440d09b566f) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7c854419f4a78ffc6623b1d62d91f9aa9fd16f253411fe6e87720894c41ca35c) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x5f8a7f2f216885ce68056414765fea145b52179cd25ff3e3f059ad3bcddf00ef) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x8e73c36308ba02c4c2b1d4d0f05fcc05dca31612b3a067a48a53fda368275275) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64a7659450ec3d654e349fe313b3d2b56a63b6e55591978ddb7e30dfb328f951) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31156efdaa6acdb7192eccd4a7b298462b2c134c94c3d73bc8d9bbe26f4b5107) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7bf6a257e2724703b3c85bd8cb670ca8a6ed59e78a7fc09691c8c1a7f773f9a6) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1726adfafa4e255c5367ddf1315adbda857d95d0ffe68c567675a2ad6fe9dd8c) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xeb8a4fbb95db402dc7441f33703423640293055923c2d6237d1252a4e3b8257c) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6b865e735e32d9f8b6c57a30143fef55a2aeba8f1143a3c7d7e91f5e75aa6216) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | P. Manning '98 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xdb6ddfc8164c361fcd6ea0e0058f0a9c9d1aa6f2ecf9ab269da98834ca53b208) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbc36320b594dc858a9754cf23661f1874ae9d37dfa77aeb06c51dd054d1a0c12) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x61d9e6856733f546ed8c518bd4b1acf04f15cbe6e333d5b054a9bda115b41359) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde4a9f7a3f217d122474ed0354814fe214e167bcaf7a5f79544204d39440749e) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | P. Manning '98 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0x44cdfb4e972aa22b6b9bbb19cfb12be7c0aedfa26b32400262a49208ea66ab17) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1022af5aeb208dfc877f58718d82c67fcd21e3d4fa32376cab1a039478e226f) |
+| `0xD261cf1721cf118b53453685782d13049d2411D9` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cd3c49ad5e325d44513f40e835701ebfd604b41bc292c88bb4b40eb66db271f) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4873e434708287e871c7a1b9f14aa95c5c72978931fb126450de6a7922619f57) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc393451508811966790f86abd90314a712447593cf6ea7d86c2ab123b4b4d4d9) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c481a8c84a7e883dcd91228aa8528da7df3bb05b4767a01459d6b785d975cfc) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | P. Manning '98 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0x16df69c48a2e71dc1ae52f0a348d35e3a41a6c1e5fbe71afee9e29412dae5cf2) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x31a906c631fa8825ce497efd175f7ac35bb3788e01a883b2cba5a0e4b8e13d36) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf80e7214e8d8dc242df8552effb39b7c8953e4b1650f6cad4c11333618df9b7d) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc371cba97c7e93238b212b4999eda46468654ff2e354dedfca7a47968ea49548) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0ce74131ab4dcb58f7a6725bf18be3224384f574ac17013f96f01fa4b11f0e09) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb21dd033343515e4f180c9ec559bad756e6d2e7233e32df873abc39127f73acd) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39cebb135d5de187dc79fb3e11680744e9472a0ea6ab4bd7ea56cad8f17d9481) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x62237d815fd734f9da81498c9c557ad7a86dbfaf841520c425aa3b3d1291d03c) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x433d54e38c0d2486c4b72822aeb548aca8b0335ef2b43913ec7015e47e866761) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3286a4d9606580ae3bcfef041e9d9638fb39af0b906fa434ef082596887f6688) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | P. Manning '98 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5b6089c430b35ea3e1dc4b53bddcea421ca999de8410ccbc943ca29d362b4c2a) |
+| `0xE58deEF4b6C17f614A12298F176DB39EC5E2a521` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x665850debe92e6bde6fe83dfc9ef4c14a8b3c5612cd55530f784c43a19880060) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc5c9cbc5527b2c1427ae3a4e1a79d92bfcd3c3a18cea6bf85d09eabf0459b40) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb599c2c52f2a8fb1b24ae5f1f4026c53f3788097c5e6d680aecd068c40e92b0) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | P. Manning '98 BGS 9.5 | 7 | [Polygonscan](https://polygonscan.com/tx/0xf80abb160a11a7bf44b0a13f01b05be5d116b377b419fca052552223518ef883) |
+| `0xe8A8cb3e243B06073b8398214887b87b303d7b85` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfab65aec9565ab0385260308c553113ae8e87ee914e708f809daf0dacf873da7) |
+| `0xe8FC2013e0b39A95f2fc5d696Ab91535D72A8e80` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5afec23b160455d5f91ffa1a0be9a2567d25b7e1fe2eb9d484b5529aa55b0181) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab1eaf30a4565d24761fb671b4bee4b4b6b7eb4749b862a3cadcef3b5aa8a557) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5ca3626438e0dc8fb70f8f6bc9dd99b95bb66a9502c7ca3c5432aba9c37214db) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e1dc1ec474a2445a61f14ddf22de14018f1b5b6060dd1502c7b8ebad095189e) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | P. Manning '98 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe92caffbbc9f2cbf7da561029bbd68542de62a62ad7109943d680172e1a0ddb6) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x913c47ba4ee5a95a0183dd1a45b5b083aeea0e6c73283c7ee01afb9eca3dace7) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa4c09e31b63589bfa6ce25a6cebb45ceaa09b307373bcccbdfce85db7702ea76) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x57b8fd614a53f4d3d13124bd8b939e5e35f5a3818403b98c5742f0ccaf4cc933) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | P. Manning '98 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x3e1e87f2c44d5605d23add062daddf16dad4b02e51175f0af572aec4c354ca1e) |
+| `0xF8bBD266e5292779aABB2A2c0B6f7EB9BBe45Bf6` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9be7ea7767e859a24f55e9451d071c943caf1c77fc8eafdf97bd7e48e3afaf58) |
+| `0xFDc4Eb19334558c2e1906445e00fC0e37aEd1793` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05282c643e714f9b109bf6bf26f51a7c9f14dadf1e02690566071a7e0c8e3279) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | P. Manning '98 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad93c1a15cc45142ea5a4326f8a9e46faeab0f4312595fe920cbf6718d49ee9c) |

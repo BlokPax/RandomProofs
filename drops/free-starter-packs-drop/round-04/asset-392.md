@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | A. Olajuwon &#039;86 PSA 9 |
 | **Internal ID** | 392 |
 | **On-chain ID** | 126 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e6e-459f-8126-4385437ade06/bd83ae73d4cbfd6ad4487e8ecfc770c8ea3fea6de87d83881bb7bc420cb0812c.jpg" height="200" alt="A. Olajuwon &#039;86 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,118 @@
 |  | `253` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
 | 💀 | `254` | `0xCb02A1D86F19D059C2244a1Bf259f8ca926b376D` |
 |  | `255` | `0xA9b05Cb88cbFB7cB53BD9Cac34Cd6e59B57D5BFb` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26cb1ca54c2df77eb232d178c177442e61d003eed8c6f68996817bfe223f0091) |
+| `0x00Feb034EB9472943c21138fa2c4E5cac6cFA34A` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x993cfa8c6e2f3ac96228689bfad82e022d08bda45fb15c04ece38cc077a5be73) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b6b142208bbdd8de9afa358b6eb4443f4bbe31ea0c56a6685ab1a16535965c2) |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa05da296841bf8b75a109d58106117ec130ba66c3ee6831eed7a1e963f81635a) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bde8e57155a50048a981cb37d98c151ca76377a68a289278c1cffdebd6d53b3) |
+| `0x066571e52Ac487330e17Bec9ae977be4736ADc14` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d72278961adb92ce0b67ab448e021375c252a89a1e330c3d1cf415c0fe02a39) |
+| `0x066ef0E56191d3469999fff343C672eFD75f94D6` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55c86cc5304f55acaff58bd16e91c9741011c3bd9e19b4e17448f903778ce9ca) |
+| `0x06C2d6b0aEa816bb85Cd41502a6E9c2438B45504` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf107a85b85a58a81820c2031042c83188df44ac857e93d676749ea84c25301cb) |
+| `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14f4220854ea0ec0deaa9cd2fec11af12ee0a4fcf01e563d4e0951db01398893) |
+| `0x1232F343EB433a5ae6F23D60fc39b1784Aa4b580` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22f33b8d8acac794ad885ffc7bdf9d26b446af8efc0c708b05831d7a1059d0f4) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc647f15e37cb7e571375c6dff7b5e5a87e8a65d95d0b2a2dcf6243e4c22e2738) |
+| `0x14c4a01aeF2F3dcC7994C2e3e3cC62787Ae67325` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20566e25c59d35a2c7bce08c4294637c611a9b0454ec0ad1a0a17ba1c26b7791) |
+| `0x172a2ACCFB046c8EF4A838E94a726A676C76AEf1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b7d27f7797f42edec2ab2b3702d64188307f6342919a4d30eeb42729c6cb854) |
+| `0x18b60EDeEDA1EF8aA0477CAFd645bB8BF9bD8caB` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e8f387ad76fcd08b4a4cf2cd200691004dfdfcd781c56d52b0245e815cd7d6f) |
+| `0x1De489664453556166157824D6B853DF73Cb4e8e` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd128b06a01968f80347374cc0e3d209c711560a778025bb0972532616d3bb6c) |
+| `0x1fcf447fb028c5B47974D723976913a964Fbcb11` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30ceb1c1f318ca33c7c0900b7f74b54d33b87b0b24e2a939d5223f05b1d71e5d) |
+| `0x23292deB0860C88df5c1C94d45104E6125D1c667` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x196871fa08ffc2d638e887f47a1f954baeafdb20c5d9a18038172210bd077ae8) |
+| `0x234aC0BD1205011Fa923B6fD18fB30e90505e8a0` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xceee510a3b2b2517326f2fde11cfc3b1e4eff633afa4852a43078929525265aa) |
+| `0x2b96c78B3D7Bade63789052D37A28B851E5C2540` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f1c8e9f9cacb77899ce6a841a4ac62aff9f9f5f21b495209ab37e5023d37afb) |
+| `0x2C880e6D33056945188b7b0eEEE2a16bea6fa025` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88374a9bfa145d6f45d2073c29e9e97d59f3ba904a5226c19111621203a30991) |
+| `0x2EdfeD157d43eeDBd923b19e79193f10b421E798` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x585519ecd51c73978ae7bed4bc08e62ee463eec3f94e5b92bbc1f48118ee9534) |
+| `0x34eE2c8097B04bF54bDc69D571b82a9fe5c164b0` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f64dc917e208403630185a90a37fe24db195f238f199e9d8fd20ebc2f7218da) |
+| `0x350ee0A8eCA9Ea0EF339cC8658624552DE675BC1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1df9762c8a90da7e1aa1678f8133348f091acd4ff533c047286867215814b886) |
+| `0x3a560f013A10b61c570bbD11069EaE84A707B960` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85d7094448f6665ba3f3b9aa4226756b6684ae4d20f03916424a3a00c12b70f9) |
+| `0x3d5A02d5Ed89a71F0A0902B81186F1d90Ad4f4d2` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4af198134966cfafc23414bcc65b87e084f547e5841240188ccaa278fbec84ac) |
+| `0x3DF78b74f77987a9A8BceB546dB067BBeeF6B435` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x438478b3aaffe39ee61c764b49d8b36fdd271041578ee0eb20e8fd0eb6c2d568) |
+| `0x466C97292bAC70Bb0221179a4421d99CE012b3AE` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab6cb2974f82672ecb6e666a1dc85b5ff96636a3ab680ae3a4dc0ac9365bd82b) |
+| `0x4766a42E4d7F850B93Fa1F082CF13724e084F2ce` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa96761b2d4a705091ae5e4d2b3cd6bdeb2c34d0aa084f96b7aca33f5c872e9be) |
+| `0x4A950AB3A4C5F5644Cf14800A147c09F049f3ed3` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddea8458d817532022c60e1ea58dfd4bc7f64d66da9437a0c80fab78a2d8fafa) |
+| `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x926978689a8ce214f4325d4abda832afc2e46c96d5d6e9dae15f42e78ae0c8f0) |
+| `0x4B3C2E23f35062D8D708eD874aEd464F3E25f3fF` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68e3fc00012dcd47605d172b3cb75790e7708b54ffec95a1abf7df2bdc636082) |
+| `0x4c4510046fE45dF69C545b8835f061b1eA22057f` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0df1b73b3ebd4a989b818a42a400542dd1438aefaffb7f17ab6f38a7b56a1fe4) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb94750c6575c998bd080314a92ecb1cd0bb1f9b65fb6b7cf38184b1a546ed5d0) |
+| `0x53B68Edf4E3eB5eB13503CD08a08B072B880e3C2` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94839eba4f48fa88e4c7f96640f9b0dc72a128addd2e1354fe3661b89fcef307) |
+| `0x55804354a73699251C15D3a2d1d6a76DD85730C4` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55292c66c637ab0e5c392f35a5788994448d9d2939d062faa663d700197f9ff8) |
+| `0x568D929572569Adb90EE4Dfa9f165D2b9788938f` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe115ca48289bcd179f9ac150165dd6fe7b2d371ad35c506600088e5d396f8930) |
+| `0x583d9Bb1Aa6CD0F98d239b1Bd1e5Caeaa7Ec34f5` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x959cdf6fe4abc766fd382ee01a7f83dd67d621fa9f013ebdbb5bb1fdf6162ad3) |
+| `0x59f0AbF8082DA26178070795130982b7b5e0D53C` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbeb9c8667af8963b56677c812fe149b853baea1fcd0f033055bd12a4c096b88f) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97d64949ee4ca7ba6301dd2ec87355e16aab09a9a2e3c2e7fbc840b85cb82617) |
+| `0x5D830F8B5fEf94a2661aD0cC44Feea8e6e2B0953` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x988a0079af13f355790ba6c6ece899783f821d29f6ec9174baf4804b8e842647) |
+| `0x5eCA43a41FDaC1447A1Ae9f68017ADC79a7e6925` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97ac4b6295a4eb8ece068e4dfb9bc1f8a9d418363cf44c9de02bd988d7670ad1) |
+| `0x68407710A2172dD5a5677f3674E081fa5425Ac20` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd73842d322d70d31393b6262276a902ec167a1088e9339db0b4e766fab3ef3c4) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x44c528333dbe8a590d68c498becb1654117324cf0e4fbe49a9d2d1c2efd7d9c2) |
+| `0x6A9af06aCC9fea0d75382FdaD8DbBaa41BbFa62d` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9144bc7abe3f00e19c690fd3f8e887e9aad395cd9814f911fe342c6ed46c2884) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dc520aac8c118b042b7f2f92de26f33b97f1113e2770777953be283f1585502) |
+| `0x6B5c3546F16Ff95196035B54489c33B6523cd9F3` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe62fbbae3ba8d0c683c3353d0fd58876e8a933ebfefe0474971190a75cbcdd22) |
+| `0x6C6544A576A037ee4CA9BEE3f40e55dE6D7d6dC2` | A. Olajuwon '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb980da5689ba52220d1aa2cc2b6c2340bf6381a988c2aa07cc7745c7522905aa) |
+| `0x72D5c805330d6857d6cb18C5EBb3b7833A4d82a1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2521eab6928c884a42cf59a4754e184dd1d20e4fcf21f9f44d4efab65d64175) |
+| `0x75CeaA6bea38B8BDe7Eb7ca2a33b85adBd104cCB` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6fa696f33117d58907a80745ce11aad9827cdfa9c36b7d98661342841cbf2c1c) |
+| `0x76243a022F48445849C65F3A69aB8D8D36475047` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8041611f94c3eb09fe28e7af17c7c0cb548e1cc6d5745fcb19c2017e148c85aa) |
+| `0x765c0C4Be76281821716f61f228d6788Df1ACF79` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80d25ed1c03498a4909f9c16e814f66ff0085582502b88cc4098e35d3b7635fb) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda6343722d0bdc37158d983379e3bb2bfa7e87f89e2577a53624d1b0144838ea) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | A. Olajuwon '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4474a1a9e760363702233898a32720c89f59616b83842c1d5d0cca17c83a5919) |
+| `0x79b7B1167CA09B440Dbc95F85bcF007a06B87B97` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf18bc382ea0e9f43e952f7003f890d05dcd28bbd0ab3134cd1257570de2eca73) |
+| `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd40667b7cf122e9a8f12d2a01fcd8e950be33b366c2ba9348df65386e230c10c) |
+| `0x7a01E394868d06Cb5F0d49B325f9eB5e0EDE0fe1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf33e155d32905cc2761658e9556b93200d6871de685bbcb2b551e5710de5239a) |
+| `0x7d2E7Bbe32AD263eb7252d578A6a70c15392fb7F` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9c259fe61378365ae917a8deb4919d763136f1a862393a0a449b5074b4c88be) |
+| `0x801A4e34595031fd5Cd107B1Bc76B6DbDFaD78e5` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b75fe3a948a150f66b33e666ac7a1dc240d5f41559b3545402b5fef7baafefd) |
+| `0x80391d400AD8169c4Dc47ed9767CEF238d0B42a6` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2c4d4de188ad700795fae5ab1d04e92b3c2c8cf4946feef4e79675060fdfbab) |
+| `0x8250e6bB259a45708FaAA1C6CDfD31faf4663BaE` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x677a8713f198b363db15bbcc15b64cc7363f0af1fa0291d47860c4038edf4569) |
+| `0x84f9F8De9a299DDe16c974DF224D52587dC08542` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfa8b657b54688fcdda1e4c81f4f3697350e3b50da92639c7adb2dcdfea069a5) |
+| `0x88748a7dAfCE7D4783D060D1f497b586cfDDab84` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81aef0fad86e29ec01dde611e8411d0d9b38be16e6baecd03248eff3a13ed964) |
+| `0x8d73F876a094FBE187323fC35dFeB275Da556C2B` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5471966378c4d7b8b25ce0b1acd255e54ee5928894d9859569226312276b7ccf) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ee610da9d88a2960f0514ab745051ddc25df34283fe4f9a3155c628a85a9a67) |
+| `0x978E45330f0A75c88785cB985A9D805cbe171A4D` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b69a0ffe509e11ac795470f3a50b0d278585bb55a1c9465001e436a5895de39) |
+| `0x996E07290790E7432C9334Dd57185663D88fA8FA` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd3749db8c75638e77e83807ba1a3ef9ee32bdb83691728335d08298c40061acc) |
+| `0x9a6e35813f7F09505c4048e2598D3f1Dcd2E84fD` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc993cdb0c5d8dbc57a3dcb63abc121cfc6f7fef766b766aa6530898be0e83a6e) |
+| `0x9B4087386823d3C94b6Aad66145b9c5Cafa6d558` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30ea0fb8ddc6e71b968e4c0812ff3a9ffdfec009bf146d7fdacd308e46820352) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63807e364783d14a7f8d588fd30aa647ca048c949d9f293bd4d91b5f9e97d1c2) |
+| `0x9c786953321FeA7D7477F5EC99a46cbA2e5F228d` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2c7a0fb829174cee0b41e0e0a231fcb32f35e795afbf224a5d71a3a0157ecb3) |
+| `0x9CEc58080bd570d0455Fc1987e1033B7f191da88` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7dfb8e216a44fedde4c789a5b9656d5b6f3c28b3e694677355569383fa262c75) |
+| `0xa5eE61Ccf4FC2F7190CE2dfAb0546946FaC671B5` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb77ab5f221bc8608f8f848af58f014893817b49ac5f3e639c6960d7933f09d9b) |
+| `0xa6730a6fCD285acCFe3f56222a3932C194A01bBE` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2cce2c090ef958084cb0efe3a77ac6feccd48b9e108b961cb6bbfaddb5c6f214) |
+| `0xa93D3B5D86770F8aB2130E30556a880Be801a994` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x423fbbd25d9493763d485440c2580f9c8f29fed1aa327427d8453d1292a761f9) |
+| `0xA9D6Ee80f06d7f36C5454672Bc72bA290F8cb16d` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13ff2f7fe41fad2d4b56838f27cd77f02bbff2ca702b8c9036f3513d8ec7d2dd) |
+| `0xac441Eda1D9f86fbaA410f29C6874034AB8F7204` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d002eb7a97e8a518f3dd67e377199acbad6dc6f35f9b5818abd6c862650ff1d) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x373bc335475f0646a20737683eed31e14e72f685699c09b66ae93eb84292d2e5) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b3cc502fb8476a1e10d40e0f7e0d46c92d638b39185e1aee54e7c6e94b71a18) |
+| `0xaF7bC9C393c27F83c4E52C801709623e4371ef71` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa25fa16b0242e19637ca995fb82065f6563457a2c2dd73a42e9d02d72c595a61) |
+| `0xb00F3Ff15977535cCC5749FDeB733213C54f595e` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ee094d8f4e09027e08ad5ea4e5d61c8191183f87c97098dffcdc08dc79e381e) |
+| `0xB04D69d355085FaF772758FcDeA020279Ed785a5` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe84da7b8709c523e6f0dee2bdff329713d15f0d2b61e9488bad931cab87a0123) |
+| `0xb2cF67826Dbc3FCb3a674eA252858fb9e9C653Aa` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70123f27c7f3d9edaf007d3d7a5105e1b83e0a0509494279b3c8096dfcc91bc9) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | A. Olajuwon '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x46eb1d6c1f7463648abd0b6e1d3aae8ad0338a19727c29c79f3a9b8a8e79c4f6) |
+| `0xB47832cA65E661b2b54dE39F24775C1d82C216f9` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bdd96dc6f860eb29e2bb66df014ef5f1df2482f14c85372760885849c2ca7f7) |
+| `0xb8799f0F9cA852cF591b59e5D5Cdb4035c6536B1` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc91a363867f91076aef71e6792224704c57d5deb946948ad8537eae17bc7e0c0) |
+| `0xb8a313c61e8C739e06A40Dd8DD48188820DD39Fd` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa038768bb0803c040010c681d444e5f3b70738fa655ab25c78650e471ab55570) |
+| `0xB8C88f24bFb132dD692799B6C1615e51ca57eba0` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad7021223fac058d28caa3c22d6d4ba2368839fbb5fbb4c0d531d17c25dbec81) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x234db8fd393a992d0f2c9e01bdccf1297078f688cd77237ea3666418101aa488) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e05de0170a9eb50d9e555cf8d188133325c49eccd47ae45b61ce34e6ba89bc8) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6817697bdfb5ac28cf3e93b3dabfba192514dd30b6dad064bc5ab89597067a5) |
+| `0xbE825D27E0DD2cfEba5d03Ba2144A957cA81afCe` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb871d9e54323f4a1c4be56d3ac537839e038512800726e9620d25f7d38033f48) |
+| `0xC88682834Ef9C8f3F9d48f0C375F28a010f1Ea16` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19c61af967763868f43de329a3102520987eeae5c591120203a4188abf992ba4) |
+| `0xC99d9A8fF92000559edBbEc5a8353A46545DD9e7` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc94fe0529d3d8e2b3495df0a35e4facbf8ec355b5d62c588193efe782675cf8f) |
+| `0xCb02A1D86F19D059C2244a1Bf259f8ca926b376D` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe301af84a7257ce53a5b1253efee45fd76b0899eaa809a94eec3bd75946ea9f8) |
+| `0xCc51A98c7393e36944fCBe49e69779B69698E5eA` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6cb18bba83de188590e7fec68f420c03617ffdefa2e4b9c9d544f3f00e3117f0) |
+| `0xcdd132d4606071759334b762bE98a8F5cf303B91` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd8780fb4cc973647b1ee6e17536649531e52f5dd5c39dbd53adc8e293c57dc5) |
+| `0xcf455664c3D50ac7649F1F0581Fc8C1E17449617` | A. Olajuwon '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6bfef2768544b5781c6f3db2253836d7f6ef800d2d3a9b8dab728a519228d887) |
+| `0xd1d8c0B4960Bf33805eb792523F6fB54bEF83d3f` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x015b444ca3a11a76b83d238e94b32e189406daf6a1f42de41d48a75cdffb1319) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab1cf7c50954d8c7f104e0552d595f1f6f26748e904a64581d0b548a9a753516) |
+| `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bfed9377511e0ca4e017c880be9d5545c2762881ae532aaa0cf45e5c548bc11) |
+| `0xD98772186824Fc7221999E40A4741423df6bc45a` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ce5b2f79bf0d57bbb0ff8e7eada182ab5112f532a48f01ac99f8200e9f93840) |
+| `0xdd1161dBBD4315672D66Ba74F3866f750C2b409D` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0f782cadb6fa88fe9b166eda6639c9b0ebf46630be0f2c9bda92ea69ccfb92e) |
+| `0xe2fD6956Fc0dD35E35965eD17cfbA41962f347BD` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0cc5d9786dc4616621150b2f9b721d5f230d7ac306330a20a419fc857da0b21) |
+| `0xE31bC4A71dfCCc46398BC334Ae485daeed861fCB` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56bc2ef765a705a4a088e6b96553d6ef44957fb531906828b18609ce7b9e30b1) |
+| `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c3610dcf09920cccec194a5f46d4720874c312b6485577a4db9991cad2bb5f3) |
+| `0xE9312076d97F4b6Cc629aE9Ea987aC42435aA9fB` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83888904aae2dca8c53da982d5d5fa3e9cfe89508ddd53cb79d84d744aca59af) |
+| `0xEd2430E1fFef85eD95F35D00cb172a675f3627bb` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x819f7816772418214fdd8f5f341bbbb003a465913ec2ebe6ce55600ac9d60951) |
+| `0xf0955C41CCA0b2440E32F952a05Dd6d7D697c3F0` | A. Olajuwon '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe34f2c08f80e1ff58086a2c9e9aa61efc97f1d7afbc888a9945bbd7a74957f48) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | A. Olajuwon '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc68a00b8fe011a47d34676a3848feee78bd68eee63087ae1c819fa0eb6ca268f) |

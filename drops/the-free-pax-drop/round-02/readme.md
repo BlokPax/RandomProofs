@@ -7,9 +7,9 @@
 | **Started** | October 21, 2021 4:00 PM EDT |
 | **Completed** | October 21, 2021 4:18 PM EDT |
 | **Tokens remaining before round** | 12,288 |
-| **➡️  Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 6,144 |
-| **➡️  Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 
 ## Assets
 
@@ -67,12 +67,12 @@
 
 ### 4. Determine whether we eliminate evens or odds.
   
-  - Our random number was **ODD**, so we eliminate tokens starting at index 1 (the second row of the ledger), then 3, then 5, and so on.
+  - Our random number was **EVEN**, so we eliminate tokens starting at index 0 (the first row of the ledger), then 2, then 4, and so on.
   
 ## 5. Mark tokens for elimination.
   - For each asset, step in order through each row of its ledger.
     - If the row is `UNOWNED`, mark it for elimination.
-    - If the row index is **ODD**, _and we haven't yet eliminated 512 tokens_, mark it for elimination.
+    - If the row index is **EVEN**, _and we haven't yet eliminated 512 tokens_, mark it for elimination.
     - Otherwise, this token makes it through!
 
 6. Eliminate tokens, burn them on-chain, and we're done!

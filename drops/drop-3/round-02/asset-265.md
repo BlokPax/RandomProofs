@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | M. Mantle &#039;58 PSA 6 |
 | **Internal ID** | 265 |
-| **On-chain ID** | 91 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc5b-4b43-adf8-582fa1f5e70d/23f4d9b3650b3dd07d1f0f77e6ae6edde1326ed15ce6825ce421a02fb03d1abe.jpg" height="200" alt="M. Mantle &#039;58 PSA 6" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,152 @@
 | 💀 | `1021` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
 |  | `1022` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
 | 💀 | `1023` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x01a55ae1446c260d5d87201051b9eb5ac19182ef387582fb666a7c3759a104df) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x851bd9e4af2e16aeab25c8ff3e6c97141cab3183eb5fd88ddaa3cbaa8cfaf3fa) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7f9abfc06bf6af63742b39dac5f7e4718ff9e069692d5be3fecf0766599fc06) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | M. Mantle '58 PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xac3ace0b4a9a1b2fba3739343b2c794fe16263699f9208ad99b39b042ff61887) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b1da5cff3835ed60d7eac70d2762154adcbe6d3a1be0abb03d7184e2ccf07ce) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xae0f45764377fe2169e32d7e6c4844a19231df10fc31d4f1d614e3382f9d3726) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2e8a65bba95b5add0365d2b14d6cdd8f8a5211c989f658822f3ee53cddbe594e) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x0873bc0a5450d6a6137a81bedae3d6b21e1263667367b40490e652c2f20b6dc2) |
+| `0x09b19DdE171fcc8E270742cc6f6b46c9A63b1f70` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63ea7a017de318bc044a66859e3b0c63edc1c1ba37fb3a41d6067dedef6ba748) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x49a049da0fc983653922a6d947835fcd548856ed52d53d284288a69dd5509c8c) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa844d929cc70fba1c09527965624a088356e771304d2d3400745b5e3d04a44e3) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03fa987248f08e7ee8985c89537790df3e6ca00100c52252b8b7651d88260894) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | M. Mantle '58 PSA 6 | 8 | [Polygonscan](https://polygonscan.com/tx/0x9dadd008001f96f9dfb50b463fcfa0f6cc3cd28a438ae6630ef82ffcc83140fe) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3fd4610fa0f84819e30fe7548084de9c6229c395752aae265cee79c26dd4e8e9) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31ceebf70b9ac8003fdb2250a4914409862ea92b36ed8d9bf74d2f7178a5b96d) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0340e46d89135e2a761af2d2db953f406b21060d0f06d1f2317319b08a750426) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | M. Mantle '58 PSA 6 | 11 | [Polygonscan](https://polygonscan.com/tx/0xa38ec2d45d12231bf83e05c6bff4e04b9686db1514899f42b337f2d0285b583a) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0c5b4b79e89173736e79bf433eda236f6de6879abbc33cb8db0524aaf9ab08be) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | M. Mantle '58 PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xe0a25cd77f474c6a86b206a7e558e87a834bfcf00695d7449f621dbe13481fd7) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2498be2aa6ff4c9262de7299a21af03d953010d2c093faaaac7eaab0c068c318) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd3ddc25b18bb8ec3e019004cb314e0383528b87b15b5045c3df3e4493ac19ede) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6b4ad78a08ab6305c9d31a7d44c4aeca417628082c3604d82649005c854063b0) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa13181e3c598f18bde71af05db8055ace440e840044cb4c627bc45e8712679b7) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9433968f83989397eec2d3466e461901ddfcc1a0ffea569839f4ebf0886cd9b2) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7806de88cb1fe2aa6bcec9d49405e47001be7153f05ad212105d921dde33632) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb4c1b96f10b8d95ae43da5ff1fadbb5969a3daf19bb9fb033618137fe269a35) |
+| `0x2D6E52C3d53D18931E6a63D51993a55EE443E612` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f47bf1ef991039aa7a59efffd27f241103fb3716591b93d065e5bd22f75299) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | M. Mantle '58 PSA 6 | 14 | [Polygonscan](https://polygonscan.com/tx/0x5e7ff835947d150a2a9a6b8628327125517ddfa017ed67e1ee1cc97feec9a159) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | M. Mantle '58 PSA 6 | 7 | [Polygonscan](https://polygonscan.com/tx/0x44da80581c82b9952352de2d4778513ae3f1b91a930198b8d5356283ae5fe0f9) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | M. Mantle '58 PSA 6 | 6 | [Polygonscan](https://polygonscan.com/tx/0x475b249402d50a2072b98253503984825c52fe0a80af731b94a4e171a45c271e) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x23723a263284bed07a2fb0ca4009014005d46acb0cdfbacaacacf08302938bb1) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5ff151ea52bcdc263edd31c521de96dda2d11dbda39779d3455c0a8bce070731) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x92e044afd1ca49d5505deed5ed89932999f4a8514fd5ae375f4b1b8628931be6) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd335f40408bc89985fbc3f73bed5437628ef7ba4077bd16534a9687e8489095f) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf877dd4b2b3dd4796446dc33f920c4f456b81b11fa0cda80f23e291b34b151b4) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x05b9f0aef685fdcfbf027f1656071dae3e017bfad18aae38368e34a9fc4b79e5) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3579e59f92e90e3aebd086cc106508df766dea58c7274937c0a2a1d9e1f606ed) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | M. Mantle '58 PSA 6 | 11 | [Polygonscan](https://polygonscan.com/tx/0xa050c65d66afe900df8d4feaf39fd3fd4261799d216482239604333282e22377) |
+| `0x4a5Fe6061A9F0c38fF1388F4CC1b77b6C60aFd2c` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x889e6b234f808fe770daa135123d4bb6bf8d194cc98aeb4b01c3728dd61a0c7b) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6eba91251bce7ea109b4d166a24d5f1665eb2fbc8ff9c3659751c6f92aacf709) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | M. Mantle '58 PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb3727bb6b304c06da742890f9f456a6feca7e6d709250908fb0e08cd6fdaf1be) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc417a411ffde2085ddf02f5524ebd24aca7ea5daa3984f0c3a2b1699d5f9c412) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x621d2f52f7af40ac86740e80c1af352882d08271ca06305d0f62f80f50b687b3) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfecfac7ce839281013284f8ff34b3942b12de5acbfb617740ae88bc6d2b1c7e4) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1ee4576a4b9fbc89b7f6ca7c598f9a18bbe3a406c5b767a58ff856ef8dd3241) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59fa7eec82e4a75f712f88cffd45ef250130f8b5c0b9675d7f24169ef04b463c) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8e105f090bb967791c157da64bec7fbdb584d9a968d3cb024415cdeaf7d2d4c) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07cedd096ebbd54c5e36e803a07725621add133c6fcd2d01a653a3e3759e03f3) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdba1816b39170737a2a3918d27dc3783613da5b11a172893e4699213d76f3c33) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6fa7f49fb1e61d668d5550391bc4b705675eb91847dcabc5a6a85b27045cfc4b) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf69b52d8e5df36043090a3a88e22ee3430ac310d5eb6ed87b53d5d2d47c6faa2) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfa41811e8a21847046f19e39a9b5cc1d3866408009c571683cdd6facb5f9174a) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | M. Mantle '58 PSA 6 | 10 | [Polygonscan](https://polygonscan.com/tx/0x33adf632fd1013142244abe1e0419e2aa788455d59be5d0adc046a07b7693dd7) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9ad207aa728a5b202b50a4aff27c7184311f20ca987fe06d5767d2a8504b048d) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | M. Mantle '58 PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xd73fc3f34ed76635316f611db3f4aae3a67925a2ed96d4edaf9160f9603faf32) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x23440eb4474c8fa3c3d427a2d3e8fb144e7da8a404c67c35af6d7421b19fae52) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa0b3afdba0dc7a242c06adc1175fc0a021122ecc59c09306b7b521aabbfbb3c4) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x64e454d33323f0660ab30e3b42071e40830baf6a305cd547c7874395ac7463fa) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7f5db401a88ec134fc6819e9a7787b068c276ea1ceb8c074a2a69eaa5748440d) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda957e93fca9073b00a1a6686bdb0231c76b9f7b2d1e140a079d9ffc2c65b869) |
+| `0x643523C2b0f4F01Ce2958e565E7AF5511c234D6c` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8ee9a7a1c2e805f9263b7b0b96e5dcf050a7e5025d4d219a041b5b3c806e7e3) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01687bb52f59b95c91e744fc120b44b83412a4c279f23542c98b3833f18ca1cf) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd2a27e5d5c6a670d6777209c967f5021c975bad9476ff0cc8c247e4f3dfb2d79) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | M. Mantle '58 PSA 6 | 18 | [Polygonscan](https://polygonscan.com/tx/0x223502bf2a91933e4950f84801803206b13c1215a3330cc1156190bf175290af) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0xa74c59ad727e28c0ef25aab25a279a57eb7a4ba4bb67afdb1ac4e2f320c35a89) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x59931388f2fc2bd9579d15022db76c1ecee717fe5236116580ef903440f63190) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9d34c2b7274ecfb7be6cfb0c0b5073cb6a1df59a7b8ad1e234706cafe6ad311) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8834a5d7e7009d4a6db0534be48bf2adf65b792bd99d73264f5b77d0ec5fbffb) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bf4d01e31f1f5cc2d0413201f31ddc09c928bf0555796fab3061a57096a4cca) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e5538c03bd6f121a8a39c2c25660e57a0c696fddf1c7b670ca133f21374e2ac) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | M. Mantle '58 PSA 6 | 7 | [Polygonscan](https://polygonscan.com/tx/0xf4fb0d9d0288b9c98b79434dc60c80adc4c206af23bb85553f8ca35ad9a6cfb0) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | M. Mantle '58 PSA 6 | 100 | [Polygonscan](https://polygonscan.com/tx/0x70183be7cd46e15790aa2b58e572cd8fc90677ddacf0f1700a0d8726885d413a) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x38caeab705e6442a59774c395fc90e0ed9376ba7f39ec65c5ccb65efe2f6522b) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | M. Mantle '58 PSA 6 | 12 | [Polygonscan](https://polygonscan.com/tx/0xa52575116ecd3ea41ef12c32c051fa51696d0391dce77854299b1926309379e9) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57b7e90a874578d7bf5327a0f015edee0989ae548b59dfd3f2ed58ce30583d0c) |
+| `0x74Ef275FCf2DFd40A0026B218c19449859604A80` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3053fe1ae9ce1d571f6240a062e137ef3a0f2929afcc096b70eb7cf851bc1be) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x573f126bd39b8150d572cecdb2e9301a4f9133cf0d880231e9e93e2d5ed50b91) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x704ecaf792aa37846d8648833926ab211e597e87a61b3d31dd04e11f6cb4329c) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | M. Mantle '58 PSA 6 | 9 | [Polygonscan](https://polygonscan.com/tx/0x4efc066f1893d06ef1c515c88e1d7c14a0d15a26bfc9e9da55a80940417d8778) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7923f831f9d9be6a30058eb73ce8548ef2807ea8c67d8e258013bd804acbacf6) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x37fcb871fa54a6364267019cdef655e4eedef51c7e86f3f6a685ec650020f98f) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x567ee478e38daf295e2ea76f378bb89836e00660a121d5afd018f7d6906dc45e) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | M. Mantle '58 PSA 6 | 14 | [Polygonscan](https://polygonscan.com/tx/0xab74164a4100f396cbbafb956818164110b092211fc4ee172bacb8abe76cdea6) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x271120794b7c689c817ca646a4f127d08db254f2138d725136ae640b3fefc482) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd71fcb98f537d65d1ec573506d6d025f47b4564a8636a0bcda309d4031fca994) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3a2ba94cdc6c69f6d0b07eb07606efaafdd46c424a5b657c241794a0cbac67b1) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0331b2e0d89e7b7d2a65e2d8c976ecfc52450bcbc2f938594204f9f2d8102ce8) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | M. Mantle '58 PSA 6 | 10 | [Polygonscan](https://polygonscan.com/tx/0x7bbf28586128f3e14a460f15cef4dc191facc254876b77d9a8ff91b0f24fb837) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | M. Mantle '58 PSA 6 | 7 | [Polygonscan](https://polygonscan.com/tx/0x988aef058245c1f5a6470f9f2096195d487e89841ba7a10ee03a12706572a5c5) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36d7f078c3c42ce998832ffded82c5f63404698290fc14537f9a6160804487eb) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0xe5a3529c15aeace07891c126668785e4ff9b0956d8a91e4457549bb815ccfe45) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x247baeea728e4313249060cdc3806482aa71b5c5134b671d8bcd515b0476fcc6) |
+| `0x8Ee7E64F8Fbf4F8D3E58b64aE167a1177cdd9F3f` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x483cdb4a52cdb0e0bb3ff8ccc15e1d5dc57158d47695d0761ce2b7a6c21e6d0d) |
+| `0x8F35E31E31A2475908881B063Be05eb15b7a2624` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a3248a1ad17d252063e6c244a4ac63162c6f66b66d2fc6971cae1bcf855ee3c) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8a540457c6514bc59b18a9c1ceb18fab6ec4b8d2e86e0227d91d7305afb2112) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | M. Mantle '58 PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x58ea44fa777821ef04b8d58abfeea50ab2c084cc7772966b0a3f9ea7c7004d89) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b896d8f20590d94fea2694b512b68e9baed8fa048705f59afba081afd12f00c) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf88cbd33c4637b77f7550348bf84321f03c1408c9aa546659c55210a10b9003) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | M. Mantle '58 PSA 6 | 20 | [Polygonscan](https://polygonscan.com/tx/0x98dfac609f3183941948fea9bbc146a52e23b431fdd858349131987555a72402) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5bb676219dc811cb6a21453a08dd3789d1c2812bef23601d6cbe105527d6352c) |
+| `0xA5aeF44AD878ceB789C9cD77B3D1dAE984a5DC9F` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa2c184a8c2086f2b8098c659942bc7c73f3b1e65214f93962b5d95b64894b9fc) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6ec0625e6af53281ddd8dd2a0aedd42707633f274815f075e3a68af299e577a) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49ac301e668cbf854e38be0eb0763e77cf5fe32ce04c7a9d429e574ef0e1ea94) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x015417d268621c320486a507acb345deb7903436b0ff86024154ea7c8ba8f312) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2630e06bf742d91ae88c67bdf8781cfe6dec30cf065388da0495d4e4f1005153) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e72fc1c4dc510ccaa6d43f761bf415320e68917114ab3e83dbb36ea3a732d95) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdeae7a039c04251630ff1101d962fe2e4f80fe9dcc3e4cf883c7b515f1ba6ce0) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3900921cc02286adcf4697ba71464f99407768811f83fdff5af57d10ae2bbf6a) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe1ae31d521aa377c52da93dc02c9e7b34145a14412a29c18adb00742d468692e) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc90012f9a0b0f8314aead303fa8a6cf2e3d6aee75b8effec5b4d70d3c38d3310) |
+| `0xbc8a6B785b5687f4E91aB609B7C952D51BdFF4bC` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54e0f8d474f0f1182bba7b4e1e8490dcc273ebe2433ea77a2d8fe92585c5d651) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4f968c4af0094c0cc7b16fe452e34b615b48410dbefd60523f956c5e3e6e1068) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64b04005fc34b2c5ab6fa8fad41346dbddf7ce3605242824b9d44fb728a23d9b) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdaaa6b9a5469eaf8272020e305ad06a476d699e7935afb312fd2c57d5cd951eb) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2361daac6103a9b8cc1e17ec6f236f5ecd145e1927f5a1773453b6aecc1fbf3) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7207e4eac0af10dbb4eacf355587bf28fa998d325bc3e7d0a217b9277a7aa467) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf649163c6ae5b3007d3e9f2d19c761b0abd2e6bc64b859607a82d494c415071) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x94d41f20c1458fe7b1347959960c415bb8841ada47e8fcb26ffd43b7e063261c) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0c649420a9787d09e4abcc2cd672109991fa38ea73ea513e95d39852ef6e0d24) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x77f17675943c480784b81da7695082d2802feeb28be2efb5685a2b6a44c34a76) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x897a6d1dff9a620d19bc1e4260b54998f5cfeca25c81d9aad75c9a70f1576a6b) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0b4d67945a7129128b1d68273fecdf1556c04d9d4ca770688a6adef9ff082b5) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd543d3d479704e40e08ea19ccf38f8e1890114925d576ab7312dccc5db37469a) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b357fdadd4903513475684fd65ea6b9261a0c2e94e7a85c132e76a43ce33b65) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x67b3c84980d452ed374169da28033cd50b0110a3ad4276c5ff7de9dafeb1abca) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x394b7ad5ac1df7c1eb0a1fa1c0b8bf9fcbd87d41eb5fb8d58bf52eb213b0b78f) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | M. Mantle '58 PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa3713b13711891233715e648c16c47ece9c3574f3d693f1d770bfc5e8e4b5abb) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf038621f4cb3db12d31d7544f3bd452babdd032695d5f02b0075755c29e69e4d) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x73ced5110f0b714cfe0876992c4af1aafbabf05102217ec2b3928e0d1c17a0ba) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | M. Mantle '58 PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x21d1d72bc6770736827c9d5b88788d6bf257521202ad301aa9be57fc50d76b7d) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffe8e5e249a2da033ed25818426709091d8edec680e02a9396d5e846c5077f1d) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x558c401c8f2459577f46f155537a6837304889ea48a3a3c51d9c0256a2a2a8af) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe5d06f84662227fba0fa8eb3fef0e21e3e2ffdf2f6efcc65b115f6cad79d448) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7367bef644a514ade940317cd4dbc2801d941c7a273dc8ee9f73635c9553d75e) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | M. Mantle '58 PSA 6 | 12 | [Polygonscan](https://polygonscan.com/tx/0xd2ecb3f17279ae3514a49cd719bd9d13be07d0b6bd30c732547a1225c55b8978) |
+| `0xE395ca7CF49aAd9D0C7f51Cd3243547f814217De` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9347efec1b680ee12ab9195d4a744feec83991f724c96ab0f0f3e4a95d493765) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7c96f56e83f1d9c479746096a10bf164c3f875a2ab895127f0d4af0143ea324f) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | M. Mantle '58 PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x964416562dd7342d055ff8b262df29111288c00b3e15da818d8343087aa76b3e) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x444f60b0a6b6710dcb0ee7a8c0ab86a4e8f0f2b95b69f63c48ad662c2e83b291) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85b439cf17966c141a61380eeb7cb4f2693cb22e0bd59467643401eaf8ec7201) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f887a1a0de3aeb49026c839e9ba50ee30d290cb52ffbe70852295d7158d62e4) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b90dd4f39749e0b5a49803179f541ec676a40d970833e1e71100fbbb08eeb24) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | M. Mantle '58 PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c1cd3f0f25f7e37c58334960461c7fe3d55b4668a7a890b884686d39a511c3f) |

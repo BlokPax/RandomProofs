@@ -7,15 +7,16 @@
 | **Started** | December 9, 2021 5:00 PM EST |
 | **Completed** | December 9, 2021 5:14 PM EST |
 | **Tokens remaining before round** | 12,800 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | B. Mayfield &#039;18 PSA 10 |
 | **Internal ID** | 371 |
 | **On-chain ID** | 105 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e6a-447f-a42e-87ddf3f2176a/565071234624ad89b9e8e027fccccf982117ab03b4cd1c59e251a16cc3b75b97.jpg" height="200" alt="B. Mayfield &#039;18 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,230 @@
 | 💀 | `509` | `0x7040163f5D5B9b33Ef9f64809c41A8E972E9C27d` |
 |  | `510` | `0x53B68Edf4E3eB5eB13503CD08a08B072B880e3C2` |
 | 💀 | `511` | `0xb87f900bbCdbcF56e5BC57B61cD016fC708e970c` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99c76cc6133b998b869430e106b7cbe597851837ee29516c1bc874f903d620f8) |
+| `0x023bd7BaBe5204500Fa055d1E422F3338F6FB8b5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcba927af140597c8a03c1c70d39261952e2209194ef6bc48012fbaa0b996eddc) |
+| `0x02fE13434dA155971139B1b0795297107963DDAF` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69fa5601ea10571cfd36d2d1c1a4dd54cba5d62dc09aad26caf4382b77fb2333) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d92f1f5afca4cbc428d1b9691e9b7135b0e180336cd84825e0ba2b5142aa09a) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x090f209dc8d28430e6c12333d471014edada5ed8cad34697c2eb2bbb9910b138) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4ae843f5954626d90edc4c527dd65b87d8e704b0bf75fbb6ba4f2928b66b8a3) |
+| `0x04BcAEf42d583108E7BfdDcD029ba7166ab3122c` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99bcde182a32bafd67eb2ee7fae496d47e94833776aba507017eddade374336c) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x54e255244a76848db133d1792094e47a8b31080834750a714ffa9f93134bc3b4) |
+| `0x066ef0E56191d3469999fff343C672eFD75f94D6` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b2e70846d7d09764368ee593ec13c7a06b7b4ff6bd12fcbde1ba7bc0b31da91) |
+| `0x06C2d6b0aEa816bb85Cd41502a6E9c2438B45504` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc7f3a375db66c7bd31cc475f35fb7025c6a184c081636614c348012d0d68494) |
+| `0x0730BAA929287cE3041d651F7C36Faa5B55E36d4` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb7b5a21a0e24a0423b960051757cfd4dc0852958ba5120855e2e07f9ec2cc8c3) |
+| `0x090D99E8c45969Dd5c493F87d659bBAEf29cEb84` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ac1952bfb5a4ae13605d2c2afcb428939eaa8feb22a1fe854b50ed459446e0e) |
+| `0x091f0e91dCd5713082d0f85085E5BBb3A34D42Cc` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95751156b8825a3adbd79be286aad69705ce46e9af8f2d186377d864afc61bd8) |
+| `0x0a9a893ed9e173b3298C8022E959eC6691673145` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x768ec17cd3effd5b35e1dc502ec0179bf4a9b57feb9b382b34c490787cc898b8) |
+| `0x0B764Ac3ae1d253EB438428103382dC1Ba8f0A25` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb0e4020afe5451b461971c0ff93d6e7249f57db0ef5d2823c568960a9797840d) |
+| `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa36ed9c6bae3d99751dd39d6416966638577d1951aa81f16b565f3d73dcc76c0) |
+| `0x10676b197c7Aa75c59Db8DA58dd1AA24Ad00C815` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7bbbe6ff29f5d65d8e19257020f25a489ab1a3b1f5c1307c0452d51d358212ed) |
+| `0x14c4a01aeF2F3dcC7994C2e3e3cC62787Ae67325` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca0f77542d1af67928d722d4061ebdf3e09bdeac70a8ec3ff0be36055764e5cd) |
+| `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x943b0961d84985aabc8f64190a151b8ccab620a83200af6a2da8fb65aa4ce254) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x721991e7e06fe6614ecd07620e4d7c022aaaa4fb724108045a85374cad0704b9) |
+| `0x184a4fD96273a649da89E169E37f0Fce67bD2c74` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95b17879d31a759191f4b49b826eadd3f7ad7e1f005a9ea45e491fdc04d3f51f) |
+| `0x18975F3C85EE57995180934b7515eD3792bA3c67` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf76161345e3f4b612618855e15137a7554de58abbb6b60b9f7dcf76e0cc81dad) |
+| `0x190788771665A532dBCd8e4E3e93f7ba41a16a59` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96d24127a4826632088e9551243f1e18741d84ab54f15ded31328870857dc3df) |
+| `0x1b304d3746861d5553b29D30B614F1Cc3621700d` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91d6b4d3cf7dcaec90e9eb601d375df7bb9f035b3436fd983149b260c8ab88c5) |
+| `0x1b64184231A17aeFdF2f76Ef89E9943447556D92` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64a055d56cfeb807c2ee774be2d3c9fbcbba409d078d95884ab25bba8911b341) |
+| `0x1B7357337692B4A34d4838da21347a7DAd2D5cEB` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4563cb4832dfa51682cd17c2ac0b8e48fedcf3678432fda86125a0e7725a0c3e) |
+| `0x1De489664453556166157824D6B853DF73Cb4e8e` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x918968e8ce40262b24e1c64c14707bba7d59cbb1807f3ea6bfa1ca3d125d41f6) |
+| `0x1E1BfF67638d4f5DA71a74fE1c278151FF3ca904` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb130a8c1fd5270ea5765a9136491a42c9b0988fd4a010adeb9bbf0adcfab5c89) |
+| `0x1e868E0F5948Fc94ed99DDe0d0AbA939E7677b47` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c4e97ce8d20ace2805eefb7a72142573ec4aae8974a2806f175589bf421cfcb) |
+| `0x1fcf447fb028c5B47974D723976913a964Fbcb11` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb450890104bba2ef0804f47d13d1de0a39077b3418e409019e2d193340bc52dc) |
+| `0x216DcDA8203B86a5aC29b8A0c0E869E1140eCeF7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b45c7ecbbd4557a9cfb11e46dfdeb103e1a37726311eaea759323236aa8255d) |
+| `0x222a0d64E056f0DA65e1f795518F414714fD11bC` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x933ee767326eaa35b9da283e79c4d0b38c4f86a0302b70ffe3bd6d625a452c34) |
+| `0x22bcA2Fdad3BeEb25284860DcA8fa8f941DAC379` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8401a083abfe843763fb5149f0f4cf3a5199cf97774e3ef7021f9e03c3ffbe7e) |
+| `0x23292deB0860C88df5c1C94d45104E6125D1c667` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x868b29eb3c8fc2e394a5ea4fbc02a336086bce4b975ce9a420e3aaa5e1ff1b24) |
+| `0x24A648D87bABcd6994aA4c42cf8e4B9Dc9a6C342` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcef9e5a38412069ffda86f17acb6e1a8dda691247fcb5a004c65cbd81da1503c) |
+| `0x255ba6E32fcE3e6cbC293b75768460255A8C4dd3` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf87e06292c23a7411fe2e5d4a533f75850f2007484a2d8aa1ed829a20bfc5b83) |
+| `0x25af88396913419beD8e2F1d20263e58e0a5b0d2` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8260c8394bba02f7d7f17a72355479d862e418d19cc20a44975843f5aa7b7f4c) |
+| `0x266DF11a20ff13572e915d9237aBB05089752604` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f146f9dfa486df85b1efc340aa6150fceaee3e318eb0a91edb747a2336b320b) |
+| `0x29265B3d5fe11a74fbCAF396c44eE28309d9a802` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60d843373b19d4e012cb11557ae634b7e5440e2805e112c1336aa114fb494419) |
+| `0x2C880e6D33056945188b7b0eEEE2a16bea6fa025` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa6b076a0f35fd7ba27430bf6fa973dd9e44032d0bf43d5f42d12f38682f62438) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe17c1d83807cac50aca9341360786fdf7f9badcb9078e72d6f983e17adb40d12) |
+| `0x2d68F788A66eAbbA347D269B40284515df5313C7` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x49b8e93338a4fb503fe687ff9a91e1a02d6bdb34a5481b438de2cfeb0f6279bd) |
+| `0x2EdfeD157d43eeDBd923b19e79193f10b421E798` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83c9b9c4b8ad3ef7278f417fc982e90da42a5aad2ea339d360fd67b842bf7d95) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34f16c2d4ca2496d6696a934843255920cd8a2bf53d6e00c01316a5f0b2aca15) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c3a73792f216ed95058891f0d515c1283030d28961894b83ea4f7cfcfda3650) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfc086cd88e7524f3faec981d34031d856b093c16f43c6a6e902b177ca7462a7d) |
+| `0x3364704f4094e8EB5349f8B01f4910eEE5F295Ba` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe2d80b9f09bcbdd5379c4686b03c5e95b08ced61a8f8733752c7b1127602f08) |
+| `0x356103515aa1BEd05B8d1350743e53EeEa6eDea1` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7a5bf1b80f6c77e8ccb722ead253e315afadc24838b05efc167a715668b827c) |
+| `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0229341ff527420478af95a27f50446d6333ec782df77bc6ecfa79f4848ddaf3) |
+| `0x3A26F75FA5421b237A88e7fc1Be6e7efd25c8792` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xece163bca17339e44dc8ba36524c2c259477cda0b20807ca6d7add7f048e3f3b) |
+| `0x416D279b22c69607A06CAc53c6E063229749b1ea` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed77b07f72617612fd779b2f267d41924c88c55c2e647cc444d11f81dab54050) |
+| `0x44769E0CB67cC87Fdb10F9f021107d084dd6aADc` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x114c49d580337da407602d6de97cb5db807ac0ffa7532720cbd7da4917517516) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1958176206f378e5751030b666ca50945e23a8d59a853e01ddb928be7154875) |
+| `0x45e023881182cC2937374f61bc601846Be4ED6FD` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2603537effa1cd359d0d6638c794d6286ba7a56e773d20f740621eb10a8f0e4e) |
+| `0x4a3F91B58E402A4738a2C509cE2709B74e4bEc12` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5386d14c4bbd1d23210263258962faa2a234a59a7682f05876f1a0843b471116) |
+| `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x676c881a36f188143615c9cd40592cba032fdd37b14a4233333d7365992b0f8a) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa122381911959dc9b76306da2b91d94a3b5f24547d95e3cdd597416eb4db3d03) |
+| `0x51052145D0c46fca3122C2f790a472a005afcc9B` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c40b51f792deccbef2e29b6bb11f9ccd3d9b50fa0121865525d76f52cadeb3b) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a6e962479b5f0aa9a92d753e72a1deac799bd76e4e8d64cb6e0ad00eae1e3a6) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3529bcc3ad7643d0622da10273a7d15a7711aa7e998a260f7868272866397e1) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4999d7f80110d43ec500a76cb99b56e2d4563393c5174650aaa7ce5425006b3a) |
+| `0x558382E7DA76e77102b493BcB9cc9e7D7502aCcC` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1ae36721fc9c3aced2808bbcad6239242a1cbfb57068756973a676c68d7ff6d) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe9317af088024615cff4887b17c05684ab4eb8abd04bac904892dade49a4f7f) |
+| `0x5645640A8466FfE2fb72e86E0513652d9D4cd02C` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5e27e192d583c621b491b9810d63f922d9d82105597865c1bb1f3322de4a9be7) |
+| `0x568D929572569Adb90EE4Dfa9f165D2b9788938f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7446b8523c5d2dd83eaa127281fbee45f8dc1c5ea2c5aebd895f8bad7ce6b6f) |
+| `0x56Bc21f03468C2128E17d7d85A11c481DA76aEfB` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xeeb750869fc9b4f3dca81641d886faac5e8bc6e07832207bfc7f4a4f9c71cd45) |
+| `0x585e79127516c8BF1087b1F856eDbBed096787dD` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f56af3d0c6dd25d2381bedbb508b78624ca3eee2b1b2a4b9e591762f3ff8135) |
+| `0x59dd3BD6AdECdF8a988b602818A54C1Dc1cC4A97` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0163fff40ba14c94c55e393c16dc1c3ab3eabbaec5030a59fcdb51936920535) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8deb394475a23ff15d796ca5d8b90699e8abc35ab97c58120711545f7ccc593) |
+| `0x5c783c53C8e3E8af11563f15AD26F5FC5c9B737E` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x027d8dae708771954021408460f3f4609eb507f4ccb5fcbee13c9c35ae9b5773) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13ba93599cd6eca8576a32c26d0ff7e006d7f3e2977b1b4de59f700a3a7ab104) |
+| `0x610432b6770DE4C8B2Ed2e530d3866509b4d8D02` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0ab14e3815a2c285bfd0178b291aecea2c5d7d2324be755c2d29e6b76e01770) |
+| `0x614d093f26560c60420735361b57Ed4A816A1DC5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf90100aaf45029cdf87aa3b3f160b712398359f00aa9a9a91488b7e26fed7894) |
+| `0x6294BBee17349710E310FD17640b623236DdC92f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69c2c7546fdf163e98731526e4dd9d3efbe4e0d35e815a9a841623a0da685cce) |
+| `0x65d17fd709Dd6F387f24eC046Ff4D0E9a8D295C6` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ccd635d42d536c84493175778b88313d14e72d16b202eee194b4ff620d4ba47) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ce34076fcbe9e5874ad40e4d6758401cf21b09a9495b24f2a7f590d7f5f7578) |
+| `0x69729d3bCca9fe30E3b0dE120aad11B764f1DdC7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6256fc12b0d167776dbce9b08cab4ac758e804d1fc0e7da275e31f4cdee32b2) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63b9a1b5dae7431f75c6527016cd6b0be942182407f788c36f309bb8f2302741) |
+| `0x6B5c3546F16Ff95196035B54489c33B6523cd9F3` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd055c7c8295426ebbcce6869edfee0e3816918838a19068d53a8848b03ace4cb) |
+| `0x6b7f53457E228f386b1E32287DA7f52F5670cf9e` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbc0bba88a0b87d13a95fbcc5941cf2c2b8c541e075354e84171825f3baf94ee1) |
+| `0x6c0001A7aD8149FF6d84d9a52E7478cd7335B6d5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3151f0f251bc7b3f82bf842ccdc59c4ce791ec7fbd034c62114186abe57a30e) |
+| `0x6Eb59146e2e0f088d3241995310f5fE29BD5BBa0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a90cf4477814b14531e8e5318087445742d28fdc2389c292634efa1961d1e8a) |
+| `0x701FC6C7C0494bb4831A4257Fb61E3fE93d1c8C8` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd504a57f591b5ad53ac4be0aa584cd27486ddc61bf3ff5f5df73b646020c6627) |
+| `0x7040163f5D5B9b33Ef9f64809c41A8E972E9C27d` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf14ae7a838426e64596958bf0c3fa00650110ebfe3e19f0e6c61b4d2a4f18d44) |
+| `0x73c20e35d48d62d755Db4F97d9b4008111647bF1` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf49f0d42df157442d34eaeab0b59fb888d3f411a95f1a2eeaa1de8b571f151c5) |
+| `0x7442A924e007839b518fa2A7542C39fD72705fB5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf29a94622e6d41b97d596e6140087820b5132fd97163856494ff2d9d29cb2a10) |
+| `0x7449A194d9398a7C91c5a53A002bE0ccC0369dcd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa00628d78f1b02582c6c0e1cadd17d1d6f2f266f1eccee67346edce31944a039) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ef399b85e5b323b90a1e056c5f587e8c0aa69b0810ece1f05b7a8b6745b87fb) |
+| `0x773e23F79e562d6219Cb6F2c0b74Ac7ccD71f81A` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x73a3c392bfe0eefbb1889d8a7f0caaa01779d01fa8ae423b38ba4f9ac9bad7f0) |
+| `0x77769abEB6e41D138Edb6bb3DCb5bA36b6ED140B` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb56da40a8e77adc240db49e48d78f41c84065af6bf07d87fc7b9d3592d7194f) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x724065053e12b561a4f9f41c2dd2513d833600a701e253bd27ef3c148afbeb7e) |
+| `0x7838d94F3Fd146611238d31bD9fB4254De423500` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c5077e4c4c5f7f6da1aef4a3f48cbdcfd4261d306558c6601c66139ba9599ab) |
+| `0x785Fe12C2E754f64347c1d76395968E200059328` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x683d0a6343d5d312d0856f701ce7ca364dd93e69a6b12e7270a5986c4e46d884) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73d13b676e28ffc3eadfaf1be8fb49b2724e5e45a7a25e86585f53b244ae8c91) |
+| `0x7BB9179950336e739aE7E046861E5de05375c3C9` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x61f78b6f96ca918d2a914b45433834615c9e0219cf91223a3d9b08ec6d59121f) |
+| `0x7Bd373d3d787bdf037f1f54631fa056b31076514` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x876c3bd5201fe9ddab80b2f7cb3d7351201c6068ff6a0a3593bf7cb772cc4bf7) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f66b985d202ee4167af07ce7040953a91ac266278bc961f788b06268d91fecf) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa45ab63704c0f987deeb53439d85945a12b502b7ce9195d6cc8528dc5384de2b) |
+| `0x7E9f0bc2fd8Bb5A23Fa808acD4e7D99ebe4425AE` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4671a0610ddd22c96514b9ee4ab766349dd846585fc9ef885f062b6f76c900b0) |
+| `0x7ecF7AcC37E072F8cf1bCDfBA7B8408f1069d8F6` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce28967d03829610e10b9cbfd4c3b1548423b87b95933dcbc92449f360d24b95) |
+| `0x7EE8fA0F4a383ec0c56267A97F64db7455ee6463` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc879374a2e1a0c3cf6824e0e36a51ab1734df147b7ce4563180b6b9662295ae3) |
+| `0x8250e6bB259a45708FaAA1C6CDfD31faf4663BaE` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4aab73a4c5bcb6637b77c2fd91acd5d9c8174299d542a960f7f4433c6220c7c9) |
+| `0x87d0ad6Af6630c3e34bd5FcC1Bc6990ADC1488C2` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90f2aad10144caebaec457ec224ba1dd55072b05cc6c267928342e54dff36314) |
+| `0x881Ba6Fe75134644d755395b7D693D069D4e7fE2` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51f8b699a6caef1836d5d35dc312b53d03be192fa315a357ae813e237b3c2978) |
+| `0x88748a7dAfCE7D4783D060D1f497b586cfDDab84` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcead31472966aad30ce5ab7df254e9c772225ead7e70a2478b56ea77fb1dc287) |
+| `0x88979C241c92f1222b4a3B419C12842be4c0efAE` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa541d4c4ae02076d05828f64bf1f8adfb0f84cbc9f645ec413fdc433a2dea830) |
+| `0x8955D5a0Fc102E70EB6876D52Ef0270054E25Fe5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dceb29e49d41bd207a229406ee29e5db05ae9e102e8778d27fdc7cc0c8048e5) |
+| `0x89686dBF5893159a3F4Dc11A50B0aaE6cB060ECF` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e1ad7bef5d6299fcccdd6ffc951b696cb011802a30845bd812d37ff6b8f5878) |
+| `0x89717179E010cb2855899ab2B47c27dB63906De6` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48f2088be899dd7b5f5ea888ef4da4e6f9f1988def00e5c3b95ee2941d542dfd) |
+| `0x8AF07F2a2e473E23D9D302D68C02d4f1B8D8e758` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68a68db1f72e440b0c0c835a89ce94fc0b56ae8f994077e0ee3e3d28721df261) |
+| `0x8c461ace48359414B8123019Cfc932D4b70950da` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3a17a129a4d3dc688f36cb52023235001fc0d0a15b89b84c1f6e0d8952e70e7) |
+| `0x8c63BD40D3ED706ca952643Dbf963a84f789b7aC` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff9dacbb21bc57e0e439b9f74c2e7da76b9c24491cd95069f5d4458338a94dec) |
+| `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2135a59626ee91f7558665f2d2997375ed98268dbf589297da0c16d1425f456) |
+| `0x90BeFb0DB243129e8DcC889e87132023713E03a5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b645d9903e77f85df77ef02ba6e565d5c9eac0afc037855ae4e18f8cd40a9df) |
+| `0x910939318EE472D89e2b507543838c6bB3a9A09e` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1186320bed2e832b37fcd756f97a6cf3f312f8df5277b7879bd028bb5af8d94) |
+| `0x91c75fc8a52F695D234Cc149A4584708270bda5D` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6fc9355cd415ec4c377731371ef58a22a3bead3bc15f0e5ab0b3bcd29b343f7) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a260fb796b089409b5f7c863275dae3bd9cbc8085bfd6dc1a4893be0b4dc0ce) |
+| `0x9444440FCA76825ae64a171eabdDcd9560A7701E` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa887bbb3bd6c4f66b46e5c5f769e089c0cc5c70e2a7f7398c64088a95177a9da) |
+| `0x94b201CCA8b7ab3828A8642660e3a8E29F105934` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0002e4a0b0770efa5498409e9924f7c60ec71c5a4c026f90967f5d97951e7898) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x47d7bd3739b6d77e5862d7c4948ea98455286329f08a9282d2d786b6d411479b) |
+| `0x975B256Da00De0eC8dA7BE73B9309145Dc1DDbfD` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4f9d2f9b1b23264b155c35da1142d13bdaf1a6cb2991078b72087daa2c45e18) |
+| `0x996E07290790E7432C9334Dd57185663D88fA8FA` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0daea5860d62f9465b0f5237862f981e8be5eb88c5fb842586642734a90c03be) |
+| `0x9a3a03939a1846D84491A76f57832d93199759a5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x108b859fe237fb49171a26d1a3dba3e4800cef49e7af65fcb71dbaf01c41d5cd) |
+| `0x9a6472d16ede13EEF333EE527d1B149cd5A324Dd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x902084b2436f5d552b54b6640982162bf6a7a0376a84c87e23e4665061f52083) |
+| `0x9b9A385cAbA4430d4295754eA2E1AbbCCd422877` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca24aae19c4aa6e3c70d43e9b89323db89b435b85dd4746a429e150721be854a) |
+| `0x9c53007D9b680f48A5CCeD0041a1AEC53Cec35fA` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80f299d0a8a11e64bc825d6ac7dde35f4636f2ef97f309c2c4b02d63b0441d75) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf4235cf75029db0bfd25b404893fd06120852f9382c330fe631b4cc6900014d4) |
+| `0x9CEc58080bd570d0455Fc1987e1033B7f191da88` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf00b55867580e3cd191370704ef2ea6dcd1632ece5cecd2e4dd8531905752d8b) |
+| `0x9d18Db56314b5839cdE947A8c78E3aC1D74C20D7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa13d2f801dab259b518b17a35a75b7b70b116954f4698b5cb2f87dc45e27d2f) |
+| `0x9D6587ec084EA82aDE9e734FD8A85f7EdF578D0b` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f14fdc264a923523583f5b569420665d5f1c021ac0526c7b207a985fb4bb6fb) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc00878e8868d68b9437f496fadcbb5366a6b0fe251b73ca67d74852738a40b02) |
+| `0xA25eCD8CEBc4A6A94d420c4DeF8454a5DC10d468` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5930221e59d1286e54b90e6e03c6dd4bb785ac7d6f7f4c2ff2854540f9d4211e) |
+| `0xA447a54349Cf368eE31F0A30DADB7c18D9412182` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7584bb4a901917c3c46a40138c33d4811e46103652bb265b5082cbff9d1a2f88) |
+| `0xA4da869B7eDDE202E9BF1E956A66073562192B82` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66afdf854dd82ca1cadac7ca1d5305398f2c48b13df21bdf250778371f166efd) |
+| `0xA7af43d6e8D2D6090eB8f03c73eea7AB7a4E5537` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x944aaf71ff6571136cf2e1ca706e7ac4bb53b2a1ec05dde6525c2fb6ecd11065) |
+| `0xa919f6034395534E9e28ABc68D0587d716847cb8` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b717f435c993f56a7f4fc0c712982b5c5402177d5972a587390bc81d403d12d) |
+| `0xa93D3B5D86770F8aB2130E30556a880Be801a994` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a8b29347888f822f0f367fc8df8035bebc39cbdf6f2e5d0e8460d5e51e12f4f) |
+| `0xA9b05Cb88cbFB7cB53BD9Cac34Cd6e59B57D5BFb` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x393ea6898804ecc7acbf4ffb61a03c521dfdd030586336860fe3111e37e4c993) |
+| `0xaa349F4ceB5d6aFf67c5c7274889357234Ed1543` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x668e088df13cd022410382ea0085539a986a98728e5c1e19f8d968b6aea998d6) |
+| `0xAA62Cd812Cd134EFB1d3A3389972739902D81Ff3` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e5b6b297db88e7bec8e8c4ba049b48617039355e7b65ad43171c4e30c803941) |
+| `0xAab5B93Ea5DEd79B9cb0f2ef5FE41d7db633F3e0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94712459ac6a1d40c1c020d45c149f4fc4c99890cfada9d63e16c8c5052219ee) |
+| `0xAb36d7Ca6F2cfe3C5AC1Ad5E5cABeEF192725CB4` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcf3a18b180411ba419aa4c4f15dc74e84a05e78a53a5d00328b2a8e1a3d876a) |
+| `0xac441Eda1D9f86fbaA410f29C6874034AB8F7204` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc78149f6aa960586349c89d01ef24a7e4cd4c2753571a8044aaa6bf90613417) |
+| `0xaC849912754ab845A6883448fA8133A808b4F71E` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6cc1ee44b7dfb00ffc91f7d7ca4445316b3c81efc469f033e32066b96f21ec97) |
+| `0xAD1E39dC62b096178065c28E9A2632Da5C71E89d` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x163c9c9584fae3022143e6aca48b3d6e1f3040d627bab39e0e80cae97d4d5f28) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92992ddfc12588601844488367120abc0e8022c04ed9c2e3db051f759256e766) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e9ed586caece7c93b6b4c37cd57db3b48a0b58051d9a8c3adaf4ee2703dddb9) |
+| `0xAf3BF11e5fd949bbf73Da9E02E50E6ae9C73cdf4` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ff29d063f3f22d6bcaa18c499ad7361934551b6fdfff7b348e63a7838ea64aa) |
+| `0xb24526D0607e9938a8c71eD6eB826DD035443968` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58f2096f064328bbf1a11c5484583543a032c9090abb4904efd1bb46c6d1a761) |
+| `0xb30307f5a60E70F63dD348aa5b37F8342dcb339c` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaf363602a78dae95584dc6aa40a2767486a3986d6ec114ccaadde3e8d72e4289) |
+| `0xb5dD3295ACa528CFbDeA1b5F0DaE5c4F1905a7d0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e88c6f1dc502f32c2b49c2d04be68fa2c1a9c3398fb6c697e72b639aa913a95) |
+| `0xb60C042aD42485b4E828E67dF011BD84DE566FC5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef07230e59e4574e1f7078aa0e3da8fa02542a67886b5cdff7165a100b0b71fb) |
+| `0xb694B781A41383967F5b85BB4D88D3893c1A861E` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdffa231d060b5ecc0968601b7d35e16780f400c80de841a8de0f7d231c8dd838) |
+| `0xb87f900bbCdbcF56e5BC57B61cD016fC708e970c` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31237e0862c0a82e504c398c2629807e5542be698dbbbc0f448bda7cd672cc71) |
+| `0xb8bb8de11dCd32AFaaF1458a6F05E8a26F041284` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x514b6920ab7b4040bd0a05f8e879f0066182b8fd561302b183a4a9802a2e6f4a) |
+| `0xB9D7899Bab59520A1079d141C01B774aD656cC3c` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8afb3437ad2928411d6e9f877a674ae68755faa5907077fecc4dd2eb48fc1ad1) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4683dc5b3186c9693f605b990a42cbf0b1b29ba4806eef0b182e8ff719c1d968) |
+| `0xBAB82cE6ba969CfFA03471E042ECC797EFa46BCf` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4496154e28b61322f5e86d66a36f2c9c02d1822dd00ff35950fd428103888d83) |
+| `0xbb2d41882390D40E718AF76d02c0B1a60aADc4d0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d03d46b179d41dc2ceb8927dc2d56ea9f180f78877b7c06e466abfda601a39e) |
+| `0xBC31eAD1182fB68E0079A38C28C72809fd066ce7` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13da7cfebf7e49fd2155161300ad7ac881c36c41e882a0d49b3550e1a560e431) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xad3b8f5e0fc4e37cf16d386f08c557e18fff4c75b6aa9594831c0ee67efc9dbf) |
+| `0xC1c451fD02100e0908ED1d9dDC5194514Fb883Cd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c1eee0500d6f1d0e62d8b419c879c1dee3dbf35732ba3dbc40c41d441ff559c) |
+| `0xC1C5C135fc9eE7B4AB1E2A7B826f2F47F72EBa60` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19cc2e38bfa68c1c21c4c32f12c666cafbea93717fec8917d59836bc7dd3300b) |
+| `0xc1Ea94338c0f66C4320b3d830836F10ecD88D0a8` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfc348a02c85f2cdbcaca696fad1c873eeee2293917a3a3ab8bb6089dce6d1d4) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9ef0e0be613023debaff989ff911266957cb28efaf3c9a32613024cc2643926) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4a531c8336e4a67620d335dcc2f583a0433c69e814d1ad8912dd8ae21778538) |
+| `0xc419e7E8a454f71fD1f1F650cdD8936Ad867A8C6` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b928f9e5f7ffe0bd6868189dd85c997b32a53b54f1b7bfad4751b985c6095ff) |
+| `0xC7DD52A913BC6D900a7146d39E8be5Aa588f8abB` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01cebf811b395213bdfc82ed5b414f01387a1d450d47449634d29fa38d5ec1f1) |
+| `0xc7e970455D0ca0225baa0FA959C55E6A5062Be74` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x218609f879fac801862eb37a9f68700d5b29bb35a525914deb3cee8e60704e1d) |
+| `0xc9FBd76359476BaEF34e521F03062aDEC5204a7F` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa34ec7c8b2826089719c57ceeba520bf93c5d53da53c1daf40ad310658a0a328) |
+| `0xc9FC356bf3EEa1b05B93c706975e800ea4D56110` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15e1bcb4401b51605eb0d650fb6372652b6c94978f9c65fc249cc75cb580000b) |
+| `0xcc5Af3E3A2f14AB064fb39d4D95D1e6F49685Be3` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5a7c1e9088bd745f5c6d32fe12fdbd48f1aa6b2cffbf4633cb94f490de94a34) |
+| `0xCf553a6C5C2cfb4728270050Ae05200747069f5f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0e909aae6dde523e5684a97f1e66386c25b95c306d4b623c8eed841d4d9ad9e) |
+| `0xd1d8c0B4960Bf33805eb792523F6fB54bEF83d3f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf80137c2adf779acb6c520a306c36b3185df2409647be588d064491d5f3c2ea) |
+| `0xD20Fe3D577BEEEb75A32376d1cC8D261668342Fc` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf84336b4cf2a6ca72fe1c2d04e0ee97ebb7e6e9e8de8691c1cd365cca07c254a) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fd36d813eb95d08b2b4bae4fdeaedf7b57baeed4c4d0d93439f63d8e9c16a79) |
+| `0xD4a1a94FA5cDb7A0e2bA3b445Bb86d1481b3c72f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8614e1b35e780d774ec759efbf71ae17535888da47452e7a53a44de11358d8bb) |
+| `0xD500ae7c21EF26FEe61B7c345aD1A47636843C14` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29cf1cc2e46a5075324950a75e7ccc4c5773746c2f9e6267ba34dcd051895c7b) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd91f2152f4a670a453772597ad5b2c1f6746ac9cd6a7bbbf3e0be8cb437deba1) |
+| `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x563ab514a3b32280749ca40d127203101eff027afc41cb70ffbb61ad9e0e04c3) |
+| `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb68e8499f361c49455ffb9c2bad365cd77e75bc1ee18b9195b907dee46390dd5) |
+| `0xDa9630cAd7124B9c2e9ED1458dFc9e0b1BA9AE20` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61c312cc0f3854bc01c612772b9210a05cdb9d0949e27f45d014fcfcdfb89d78) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01a84c704681e387b45e046f37853b583ef5dc3872a627867e07ae81247cc5d3) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x198d75e6ba4feab1824bee06a5973479b783215b7c062a1e2268295674b88bd7) |
+| `0xDC83544c2dC55a6B27795Bb48Aefa4934965bbFF` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87c8cc073857f0cae8cb1b0ea7033bed86e7eca6224b446f2acd3e1fdaffa225) |
+| `0xdd1161dBBD4315672D66Ba74F3866f750C2b409D` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95416ec80b7db266607afbf985a022c6d044943a46d08b34f5420762ff22befa) |
+| `0xDDb05F500E0b2FDA878Dc4c81C866AedE5DA4f3f` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fd0833e70a7999e5be1d3b3ddacca8af30b08fd36c1120c690e72bede671a62) |
+| `0xdee545703A199A775968bd46a15472121e75c2d3` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8573f009b3758c65f2e9003fb74aaf21c670f40dfca74c41793da73a388f6595) |
+| `0xDEf97AB83Bdd4Ad988E354d47dA072b704d9818d` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d9614ad587369c70c7fd5a3f135865adbc35378fff7cf5443196869e315e3a4) |
+| `0xE04eE36a2B1E017edf8D607dCA2a63c40E8921d5` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7080b6baa564de3d7e2112950614fe567221442e6dfcf16c5fea77443f33b244) |
+| `0xE0746c5C3a3E96AE53496aFdaaAC9d0c87Df9621` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55f29813f3585224f5551908374771592936c92c51369f2bfa5e4145ea0cf97b) |
+| `0xe141e027545dBC73fb42a98a1B91830b081f3307` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x829f3cc1e91fe6a71ed4c0d89aece25cb39a1257f4f2be679fd5e84ca2d95bfb) |
+| `0xe15Ab276ffe79809d4179dbDad50B6b66c502659` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb3b69c557fd15afc78205d2569a9b07a3772b5dda900711825a5be2ed394ba8) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x673414fe61ac33c9d87d66a552f5ecdcc5a3e7967272a3fb88e9e98ef46138b3) |
+| `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe96ef9720cdbe5baf09dabd3f6d5f26ec2d1a5092e8342ac794f6048928c9b55) |
+| `0xe2606941359e1f7403384D7D371aC298f6b915E4` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcc13ea19b4c637d322fe1bc4716a6a93fafdaf910e73bdc41af885e3a897101) |
+| `0xe2fD6956Fc0dD35E35965eD17cfbA41962f347BD` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90639aaebc61e576ae4be72e6b74486c1b181f98ea76e98b130741427ce9eb2e) |
+| `0xE3b25f4A92f23Bdc1F3F15860339aCf781a7413C` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54af101d781f2200ac73a9640e96f249bf79c159fbe927836d678a5e10e113c8) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x685207e0536855ff306870973242422b13d20245293f40f6a60205ad3060257e) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x192b03c5fcc0741d0b32de095350971667e5043937d9b5405c1bb53839aeebe9) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3690c34a53a51d60c27d300b6228fbda932e82f1e661739d0b4f046662d712b1) |
+| `0xE66151DA2E91158247fB84d7009100bACC8EcFbF` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2da9bb5dfd29f73f4d60218ae2999ba434d94c39f6761e3ae0ad717909a725b) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x407d6682e8c06d266125339ddf68b4f3850e77fe6dc9302da66916503b46660c) |
+| `0xE79c0eeCF2f1d306Dd454673869c28B306B37d83` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f6b0d3e5cbe133c63db741b85d9e02a6f30dcfc4530922c86aaab298dab5d01) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | B. Mayfield '18 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x51ce50c637320f8d8597cbd51c88ccf0c30dd3c7d3b87f9d66777bce68d765b6) |
+| `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61978ca659fd4339fcea27b4e5af3a119a90ebc258cbad596748534a209a37c8) |
+| `0xEd2430E1fFef85eD95F35D00cb172a675f3627bb` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10c399bd09a78512830eb66ce0486643c4913b184e1b5364925b54ab68f0696d) |
+| `0xed666CA78D25598032c5c0453dbACD927E2f1190` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a1a5012ef77deb3529f68219bb142735e2d34e50f04a51759f04b5f9e84c5ab) |
+| `0xeDaCacBDd6efE92dea1f5AF354eE73b44d58a85C` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc825dbe78ca829634615902efa89569a14f6930977f042712a7fa0f0550863b4) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f649b1501346e7d8f1d147521d5467d8576a384323139f564b7b5ccf90f06c8) |
+| `0xf0c75a4309EBFA162B248BF2589740756D7Caa98` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x513eaf4b336f15b9f63997bd98e52e5e75e43fdd67831e29601475e5d95bed4c) |
+| `0xF1BF4cb330ba475BDAcb406059c71be00B093aD6` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c602d1ac22817420784fc066c3ce27b0cd158edf8664b6cc6f52276e485cf95) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5b1f218b65b8fd88b2094b5776fbf449d01f75657ac26a665e64d3beb5e084e) |
+| `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f5c894e382df5e332822c20808f1911f15e15824d08c5720a434a4d4741f417) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | B. Mayfield '18 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe9fadf398bba0d53bed9e10a9341b4ab519f904ef258b026a8303c784f10583d) |
+| `0xF823C856EC17bE8E88915976F3efAC7Ce5A18369` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24b8d2e9ddd0775f934707e6d640085e95a63a157c85c250e218dff9d786f544) |
+| `0xFA6f0E9610D744E37cfBa60D6C638C0f545E0abb` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93f9ca9600b285f4e337f9ff246923f3cdacc486cc5d388bbec15a5563d82264) |
+| `0xFB994f976a2d2941B9a8aD901cf2Ec26dD839c85` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5494d3ef3687060a4ddaf8da5821c1cb4e5e1454e9f847bb7b1dc7df620a9d8) |
+| `0xFcCeD29A3EE3663354E67b71F45Fc17f1088af72` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ce01bf2f5d93da03605a81c0e23bbb6d7e69e0f6be8c21fb8fd6cd75e6d4e91) |
+| `0xFD125ab8900573f27f309129e9aFeBe64acCbDAA` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd644cb147cd9213d099865d41767ebcc2072409f10bc8948e28ce657916d5ae3) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | B. Mayfield '18 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96fe70b491fcfb661add98dc0d8706a96601a7a613fd7e5095d94f9c902c3285) |

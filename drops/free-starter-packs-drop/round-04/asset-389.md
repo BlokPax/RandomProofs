@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | Glurak &#039;99 PSA 8 |
 | **Internal ID** | 389 |
 | **On-chain ID** | 123 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e66-4ffd-8437-1b35fa7f821c/9a7dea486da88ad1def0d2dbd55ebbffc6fc4a0dca63c958a62a7a721b655363.jpg" height="200" alt="Glurak &#039;99 PSA 8" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,127 @@
 |  | `253` | `0x066571e52Ac487330e17Bec9ae977be4736ADc14` |
 | 💀 | `254` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
 |  | `255` | `0x89DA82F81619a7b0a96D0f370D902dB6f319A7fF` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00E3359e3c2Eaf7Fdc0ECA676C133261F425EF83` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd327978ee86a87f25e2ebae5080f6746484d4d1778e55469b66ebb5d784fd05) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefb1c742b3dfea393aec3e3e08b68adc2d7e49fd395addf8c1782f6a868683c2) |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7eff07170a4f3ad43ad7205cba19c41ccc8e62a809662d49ec7365eadb3916fa) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x882bd794314a4f4ede346bc6abdc1710b4fa52c4a42481c358f6b75548c708c3) |
+| `0x066571e52Ac487330e17Bec9ae977be4736ADc14` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4374e722c72bad3b6c2c6a7d0662d671bf7200dc27337faadfc5a2cb27c0837) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae2ae2ff3555ba186f2e884b293ddc3031a2c7991e4bbc4fb99c63f06b9c53b2) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f1641abfb9e0c04761dadcb80ee67bdff4c925daf0206bbd24b3e8b7df798bb) |
+| `0x0B764Ac3ae1d253EB438428103382dC1Ba8f0A25` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08db3306ec820335f16879b49e429b2e57703774beabaacb37d75751224c538c) |
+| `0x0c674ba9da52599CB4857B618bE6cF04b51e7EfC` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1e5e3d32021bc24265ed9029fac1661d1c7ad2bc7e83736b7654a473856f5f4) |
+| `0x11436EE79814f04b71594D651E8A23D16f0eA519` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7356b34080ccd79f126e862e4b2a5ff1d9459a4db49a3729147959ba515de7c) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd12379852b714954e3d593b8a1a969a168a69c54417efe978052e07c609f5fe) |
+| `0x14905045a31D76bc7E1ba26af02E86d0d8bC9ebD` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea1b810be7e727fb7d4de54c08f86b2232c970ad6c618401c28b5fe604eed231) |
+| `0x1500F40D62B52b11B2263B4109754df2BD8022E4` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x486924496e69bae415b2417fbedfeadeb4b60be2b092d6cd464b659840d1d869) |
+| `0x18975F3C85EE57995180934b7515eD3792bA3c67` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa98365ae1d8dff23ac81926e3e0fef86fa9173d062dc51df0ff8cbd3047bd9c7) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4375beaa3f58c023f4a988556275abe6d8aaa63a74d16e59c9f0641e519a8f64) |
+| `0x1C6C1DAfbE1F50C1932e4cb96fa166731bd69459` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69ba1b04031411368c451a66ebbdeec7417e2b1f2e5444ff8bf204065191ac62) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef755a1f49310affb6f5a940d205f380f67ea267374d93aca7c953b27b34628b) |
+| `0x1D5522626729349812A71d812D14AF8AF1F7AA26` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x677f7349a0e1d39f02ecf9e0bcc6d662b57508292da8d22f8a53f55b1731f731) |
+| `0x1De489664453556166157824D6B853DF73Cb4e8e` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c18b922071da77697de6d05b794458a0b327c1ea26336f1a0c7d8f2ef9e3dec) |
+| `0x1e868E0F5948Fc94ed99DDe0d0AbA939E7677b47` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5120cbe4efbc2e5316a7f6bc59d86090c456baf2e3a397aab861dbc9a178848) |
+| `0x1fcf447fb028c5B47974D723976913a964Fbcb11` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2db68aa7cbb8b21595639467643202457fb042fc51070b260a2031320e4e2623) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x197dd40bb8aed89744cf0f2eb9ff53945a0362c246bd1b7905b296babbbec75a) |
+| `0x23AfD8422D58A1583b5BB83Ea6624BBd3549fC80` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91ac26872c1b39d5237b751b57947a7634556c9e165d73e663d70ce0db17ea9b) |
+| `0x2539375a3c2aE0AbC9889a37527574820234ca25` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae9ef6152bb19b9171046b63da94b0b2a8e64515e9447c691f4dc6d8bed2e4fa) |
+| `0x25af88396913419beD8e2F1d20263e58e0a5b0d2` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91b9be83056482bcee3d8d997e859eb2eece5c347dc099654e95733ff26a78cd) |
+| `0x266f06cF6B78F27cE1d5691fFacbC704a955D8e9` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14febf1ef18b73e0879c786fc8dcb3ccb5ef5cf126d21922cd775efbeae7b057) |
+| `0x271779b1E3A19C0fB8832795428574f86fcDD83b` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ec05d1f5abc475cbaa3dce6c684818a0e74c64b89848ae20e22cfbf1be7391a) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7796fdbd078a425d08d19f71fcf99aed2220a59ecf6eb292933ffecc6a5c983c) |
+| `0x2B3f82CCF4a956835f92C59bDFd782504E45EE72` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5abf3a2a56f41da9eea5a615b5e56120d102b46090261cf112ddae3136fa6a1) |
+| `0x2B9865DD27EAB07c066912524C2845F8ECDB40A9` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe59b6376f6b519f86b7551e9cdfac448cb0707c2ab363c1fb8dde73a07ea3432) |
+| `0x2bB86f91F0742855DFC37D081C2d6851FFa3d15C` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59fb3551a5f12c6bf6f87791b26895814952c0f092f4f074ed07ba47ca433416) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf191e949644efbe8678a75cf61dcc37da17fe9832dc6128b0d39b6d2d9307af0) |
+| `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x151a57dd6e22c9836394823265745146e26c176e0667efc9f10b36e5efc7d278) |
+| `0x3a560f013A10b61c570bbD11069EaE84A707B960` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x353def6eab41f4663c1c7b2c7fe62e944480085dfbf78fb834762b3b96b43466) |
+| `0x4141060A4bBB26523DD19BA6Ecd0e3e234e81434` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96eb652d8014e8d911280052153836d93e4361a11c09e1aed97515f829331d78) |
+| `0x414A1FBb2957A42F91dB5C6f2eB28B24686aC199` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a7415dd88aa0eb7d1b76f637187e6583a5e29588ffe22aa3002640102185f65) |
+| `0x4357F04140584Ab475c93175BBBE596378D88ED0` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b161673633b4f48d6bbb19abbf283604047e866dfc221ac4f400e9476cc4fdb) |
+| `0x44016B8fb76Be8f627b0fCB82440c007B3E9e04E` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51256257ce6e691ed73c65eff9f08f5ba5699db54ffad2ab4e94c16e11a4bc4e) |
+| `0x44dfF3A96e348D8776BdFE9882305eB71232d8bd` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0192182037a0e8f779cfa7e03966e85b58f71a83499e23802869e98f318656aa) |
+| `0x4766a42E4d7F850B93Fa1F082CF13724e084F2ce` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31482b106fbe6c4233286ecbac6d60a77ea5177e8d34b27a28261c8fc8a481e5) |
+| `0x4a3F91B58E402A4738a2C509cE2709B74e4bEc12` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1baddeaacde210b852d4a21e4e8349899ec1fc389654bb6d80b078c3308fdf70) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8849a7c2ad5bd3daff02d9f229d64ec17973196ed594db36a29d08426583e71) |
+| `0x507b8D4a7A23a2A6d239f76Cf44E6912Fc3ac635` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2367a3c7250562f768e16ba0e76a6d6ddbe35331d51043a10db834e22ee01ee) |
+| `0x56Bc21f03468C2128E17d7d85A11c481DA76aEfB` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a1d1071345a11f6e7535fc3dd7f06fe23a620d646932829d133b6d5ef0e3c18) |
+| `0x57d1721F6223EB434e20F5b4A88e494008eA0542` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcad690b45abfe8c7af1dc37eabf2eece36fab40b4b345de877908a2f8d330bc9) |
+| `0x5c1C91508436d30Ba77f4a078f0186E1e4e90f80` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3da3bbb67fcab4892a86b227525ee454fa63dc6c34314090b75ae8f8717e6dc) |
+| `0x626E53a5C4c0470Cdcd2b63451cD6884f24f05f5` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0295d359d85bc7f5d9e8412aebfa74014c580b2f04a44e1e221fc333b43fadbe) |
+| `0x628790Ae8B993DA7009c4Bce023B3C2Ce631eF88` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82699a89b0de843c1090950256b27043cdd129b65aab1a9ee6662bafaef47991) |
+| `0x63eE9e25f1c57e1816dc53b041337e8F9D89e5B5` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63f99cab5c9243df624f581f5ec1c8967fc69b78f8325e28e9f44234b2bc8dfd) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a8565de676589bbc1613368b8b560d2438a6b0f86b46bf04dd664c0c4d2986d) |
+| `0x67A6f29A59a9B898e0DDC18c169Cd13e85e37B15` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4522d91f1c4fa13b62920276eae632e4a9721dacd828ab4b7743dbb1747aa98a) |
+| `0x6B5679f3390e0b3Eeaea4D369eBb97687415BC38` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52f776fe0c6900097eca6797348fa7948af050febc786304d98a644b72dae711) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6128f1b5acb9f8d614d38df07902420e7a59304aeae4170d33eb8345b242df53) |
+| `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8670094d6d7b04e0f2afe8260e28a9ab229d74328f8e468c20790a84a189f448) |
+| `0x765c0C4Be76281821716f61f228d6788Df1ACF79` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1efea486dd487b466a219c41a03c44be7094066014c21ccfb2df1c8d0faffa06) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c783c7472996125622abd09f9a6db28ee833f687c707d496b3e68c0c8c5519f) |
+| `0x7a6C457BAE10d9460982C2dA00d3736fD5Ab08Bb` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4bba508393f57be6f2c580e84f3f7982a56e1171e92950e9e6a5192e48d93159) |
+| `0x7B981fbB1DeE50335d0b4f7E036712E8E5D67FC4` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d27e81d43c1a0dd0af293df2796e339a3f930545a7dff25b619a2b8fa569b33) |
+| `0x7F2486FdCE10bE1D025c924b8D8419645e4D411D` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d3508c919da75bb93ef336ca3c6797713360e1d3855133fc373a77bb79c541c) |
+| `0x8367Dca82c210336185c7423cBEf325784F0d597` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6be2496169d23d25fe424a2bbb41f8bd26aafba11ea4970e2107e7db536739c) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebcc9a1894eb6e32aa5a398a952feea0a2ef1975e1a84c6bdb611a8043f16408) |
+| `0x8963f52904c4C63F2fe571240F6B2a9C3fDB5d25` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4d4977fe41f54047c47759393de89e51b50d2763d8a8683b322e6fd6dfd6edf) |
+| `0x8c461ace48359414B8123019Cfc932D4b70950da` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a0bfcbff9ea86b814024083288c275880c2921f918fdf19f44f172ba11bba25) |
+| `0x8d8CD23e621Ec7aDfDD9b8bcd55f8A49fAEabAeD` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5ee8135ea227b5763a8b466d52153d279d3953fd1485638601ab5e594628a17) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5982a8eed54e4a69f602a996b451b93dcba1cb73e06d5dd7f04f6502e85d5be9) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x485343294c932580cb80f96112408717cd9c006d04ded7edb19754ec20eaf654) |
+| `0x8e5B76eE245f188C23Db58998A4BCf7A3125f13A` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93f099399d39471d3854dd98541aa4f21e3b8a936cc7de7ad0da28885c33a834) |
+| `0x90BeFb0DB243129e8DcC889e87132023713E03a5` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce220a233e59d8bd4f8b030d495d2f998d00ed0d4a59fde66149cfb0726b4fe0) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x331d1583b7438b3440da1b9aa041dee84f0c6a3e4541ab727b6e66a608a6fb81) |
+| `0x98520425F95c77497b2CB9Ea3817A297999Dd653` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5a71bf43dba0f3765040a4829597f97e004843c1947371a3f2d96677e74d82b) |
+| `0x9aA143acC36BB1ac456d39EBE573760B70B3d56e` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee2756abae429752aabfaa8a06de2e57b9f0b9cd0286c86596f397b5f40a7188) |
+| `0x9AEA1278f7DbBe7AA14A6d85beF0dda86eEB94CC` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd182645775b0dfda0bf8ec73813fcd67f442c2146b252a66b1c682a4defb90c8) |
+| `0x9b39a6d8375873B71F333A50700FcC099ce5e058` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c396bf0123942ef924310771cf759a03f17b9ddea1a1ec60332ac0c9efefa9e) |
+| `0x9d18Db56314b5839cdE947A8c78E3aC1D74C20D7` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33ccaffef934f21dd44f790fbbfb95b61dc584ec46f04e4a6ae76f9c52f255ad) |
+| `0x9d3b24F40aB6bd89c3e545E896bc1B9174dB38e8` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x702dd676e6be87c660f2f1513fd1cf1ea242099f0bf4a326a67575d2600019eb) |
+| `0xA04fd94Bc3C5D261BCd8297564b3c6dEDFF0300c` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x40240dd81824cbf7550d87f0970ba418ad1a9edeafcabf991263c369662d5bad) |
+| `0xa0C0A68CcCdB606fC30E712a5616552C99B58B8d` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66fee099e682083b9124b184c8a6927413d7cdd365167f66ca942c136c282521) |
+| `0xa1a9f90297AD63bA9e493Ffc6033Fa5ed100E943` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c7b7c9b098535433d60124f7a727f89046515db49e318c280e9fc966a61d980) |
+| `0xA4da869B7eDDE202E9BF1E956A66073562192B82` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x870fb38d5784c085df3d084a14896c3fa866c58501aa87170febbfc2827a8ecc) |
+| `0xa93D3B5D86770F8aB2130E30556a880Be801a994` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0748ac837b5de2a33ab130463fe04e6765b82431ac015da7e4867a45f2ffebea) |
+| `0xAb36d7Ca6F2cfe3C5AC1Ad5E5cABeEF192725CB4` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7a5e3812a50c2a9623eb0dd01282115a448364b31b8bd2383922c85814807c4) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55716dd15fd9d1375b5e79a3c758ca9605f108eb3b82d63506f25334a78af491) |
+| `0xaeb7eF10863EB7d9f0be4c581922b3dA534B0504` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9711bf944e2a85ca5c9c237568cb2aa43737ca33dfca16936873ce9c19c7a395) |
+| `0xb29beE528682C2f66316eA09e2065B716757a88B` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x92a90fd757187cd1d81e637eac5ce871f5cec8d6cf8f894e9a06c50fc0fdd45d) |
+| `0xb2A71c24985FD098b45349Cc09829913da041Cfd` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d35be8806e9a0bc1d3328ad710dec3980e30668c09bf0b1583c3e6643e90b1e) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6876bb340b3dc415a92a8a26b9a57200153782215df543abb207a15718a26a20) |
+| `0xB59f4AB6f0E422244503707774Ad6968a6f758ba` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfec07d86af3bb896e9b420d196e36d46ccfbf05834e5dac71d05b53a1df7a024) |
+| `0xb8799f0F9cA852cF591b59e5D5Cdb4035c6536B1` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc5bcef89f2783e949fdd711726b8b62c0f20294ded2f18a9dbd4b4e5b56daa6) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf266ea86fa65d79b3d896737955c762beb0028e92299710916d69f9d2f8e6818) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaee732b42fffe949d3cbe6f9cd81300a9268139d9d2e8484aa60bc27a38373ea) |
+| `0xbDee41e8c03e1C3942413FdeC9C8b57B137248DC` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedc5017a6ae88eb34ccc1bbbdc0bcc4710137f0ec5e42195faab8236fed1c42c) |
+| `0xc6455619BA2Ac6b284Eb0a49E6AFC287AfaD2EBa` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5275f243d651e26522ac77651b2314e47b913c2485b0d26b3e70f955158e0233) |
+| `0xc7e970455D0ca0225baa0FA959C55E6A5062Be74` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa886665390952ccaeb1fce0c25fb4c61a60fa6463ea4ec787cdeb62dfc01e4dc) |
+| `0xc9FC356bf3EEa1b05B93c706975e800ea4D56110` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46739fc3452a71d3483ca41e7b7caa5f3e84a7ff52c133dedb3a1d9258aa8b26) |
+| `0xCac55076cf59Eaa9ce8e14c1a8404f53518cf936` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe037f5fefcdc4f56bdeaf0696d83e529197fa7dd42b3711deea5512040a4d37e) |
+| `0xcD315dCA6A12D34275F03e639e0c7F0239795F41` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x20ce0a64f9a8952fcd26f35fc8c98db2c19275064491c40038697a28c7af90c9) |
+| `0xCEA1D365346527Bc1EC73017c1847162F26a472C` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5de82fca5d838436ddd418252774c2611bb65208eee893da287926b709d556c) |
+| `0xD0f6FDAD8207a5A42F21dD3f4Cced7d94477297a` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b2156d1dd47fde014cebd27f0bbaa6be9a84a9da95f329990677aa10ef9acaf) |
+| `0xd1d8c0B4960Bf33805eb792523F6fB54bEF83d3f` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbabcd583349eef3951a9d06e87904b66b4df73f9081240e262a655b9ecc74d29) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x014093037ab8328854f39130934ff968f7509887363575ed73827ead2ef39313) |
+| `0xd4acbAedcbcb02aae2dc292cBd36672CF45b6E06` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8eb11e34ed319ec2d5bde2ad03de666f09cf8c01dd7cf0293950c88b751734bb) |
+| `0xD84A9B8627C0d8Cb86D8CD9f4791eC8609FDDDaF` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb006779256d01d7f0c5264340207639062215ee6b45c26abfb8416391148f02b) |
+| `0xD9BdB3B8bb3C47bdC0017C958c8708F1373e9eEF` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33162e3ff70b7a08df6096363281d30f4830f212cf124c3171756bd48fd523b6) |
+| `0xdaBB0F4EeD46B46f3D5e0cd76a86Aae7e250BfA9` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf4a23c4e75f28520ae2fc4704d8914f0ae6dc458d15be0bb8408918a6cad7fe) |
+| `0xdb770D07362c0D827e3e7ef79B9D1db8fEE619E3` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6d034a25bf7c34e2c4ccb98af7430450a39e788b58c3ce4c414bd9ff456ea14) |
+| `0xDCbCa257972b42843198FBA25bbD55180b2E1D85` | Glurak '99 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe3f6b5e5c4c7e559d72d0e941dbd9b288f428082abd540249aafb6ff415be316) |
+| `0xdd1161dBBD4315672D66Ba74F3866f750C2b409D` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e42877fee5972b2c8859a96d69745beab58185f43433384ff981eb67062b25f) |
+| `0xE31bC4A71dfCCc46398BC334Ae485daeed861fCB` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ab5d92851ce5be0e08c1d29196a101a9072c63d2e2a2d584d2fab77c4d7f042) |
+| `0xE3b25f4A92f23Bdc1F3F15860339aCf781a7413C` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf38e60161d3756e68a8c96a8145abcb7b4e4826b6f9a3a5ea3b4692525cba316) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x522a0e5bfb92bfcc6a6814eec4fa76b41ea04d49121873892f6d0c503efa3568) |
+| `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb03bfe4d7242cff5e2f1705618b9b14cb43f9887dea72d1586aecb57afd7c257) |
+| `0xF1C7315a523E703d86a5EBCE571A7C2BFfa52475` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x022dd89d708d306f298dfc1b4fa27b284275d4596c4166abbf07fed02fe61f9b) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6e927e52af35a07b76d9bc71a5c99aa8ff36eaa8cfe51895365bccfc5a23d5e) |
+| `0xF6397ba3e16Ea7FFe05ff5dA3Bc6170C38Ed29Ba` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd099888456a8e24599977f7bbc43306414e19f640e942288a6659c5d57c66d9f) |
+| `0xf8C65a887Ed61171A7aB2EEd74817f9FCA0Eeaff` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82a1b97386eedacdc290c89ee67b95de66967a592c57759f660a33bb5c7eb29c) |
+| `0xf931A65dFFe9DB5db52Ea6765210F3072909ee08` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd736422258923b9e80361ecc40afa241a4889ec52b4cbac90b72733a5121dc7b) |
+| `0xfC9b7301e3C2229F1d0b798Ff5B100c91d009faA` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4b09f6118fbd1c93709fe9930b161d6bb883f6c1bb18e0310f0d8503c501ab3) |
+| `0xfE952a86b834708A6117475C7bc3c84DE027b6b8` | Glurak '99 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd498cb139d1900de6e491baeb24763e85fd1064dcb7529321721efaa97a590b4) |

@@ -7,15 +7,16 @@
 | **Started** | October 25, 2021 10:00 AM EDT |
 | **Completed** | October 25, 2021 10:13 AM EDT |
 | **Tokens remaining before round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 1,536 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | M. Trout &#039;12 PSA 10 |
 | **Internal ID** | 246 |
-| **On-chain ID** | 68 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e3b-4700-a0aa-ad617567a755/6c0baf8cc02e1e48ed28e2f3e6674ecb0f9d21346e11a73eeb5a4e61326db0f4.jpg" height="200" alt="M. Trout &#039;12 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,119 @@
 | 💀 | `253` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
 |  | `254` | `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` |
 | 💀 | `255` | `0xd2a15c0f728f3a0856c3373F5C3BB83c7ce02Bd9` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0291485B514A1682f11643C08b5e183be32575F3` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1f27bcd366e5a776aea5d8fc96df02e073b7ab651911a57bf6131fd5bec27142) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59e7c5078f82f7fc62a0270c5c06de3ac140175f4c9de87106484c6a9bfe9594) |
+| `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd50d4b49c093469f5924415c33e16ee784b151f0a178bd630918b3d908f6cf16) |
+| `0x04705AC79e3C6A79347eb178cD4BC820ee402989` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbee701c6fd1939982885f8901050980ce12a74835206226bea27d35e57d11748) |
+| `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9f62fe7513031fe340fe7b1ffcc50d0d7fa08c17ee26fbee8e1bbba26dbdfcf) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b7ff0b36f3eecb8b0ac17e08046bab218f3594b789be3ba3edc90a88c673bc6) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xda4a1ec6c2227ad904d61049983b239449a18b23ad14052d266352a194b8c9d0) |
+| `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7b936c211c91e2eb4c0d7fb71fb124b4e29665c3aa90152fbe4ef9968902448) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2b1cf893375a310d303a8063fef546f68e3604faeb66b3b1aee7dc074e48532) |
+| `0x0dc0c699F401c492f0119fB2415867babb7d9f81` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69922f5c8c55d69f2b33f7790465f100d55c96ab02fdcf7d8b9c168c4e1b28d1) |
+| `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6afd0887de6b1a1f1b27ec0bc4efca74f5f96e76b8a6a88b75587361be9429f) |
+| `0x11e3f9C175432CFb9D7e8313Ee20b62923d9b298` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79b750951479e7efd17a249245e2c8bc83f14d605fd203d8c073e3a8ac181ad9) |
+| `0x12CDF1C4b7DD64aDff3E7B3D927b3Aa90272dE62` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8377545fa817940e8855117fc3047c24e86e14dabb83696dafe403b6401f56ab) |
+| `0x1359868D0Aca0C06c092e24741204B2Ee73d3f45` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab94afc3db151b1cb6a13785673e9d62b3d8f3f81ae3d13616d01a93b7cf04ad) |
+| `0x13E61B25B7d6B96D2DBaE1502294EaF9Ad09AD4a` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1fb4a093bc5c205d48a92d98c459bae12afc8cebbce1051488381030c2dce32) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12102d234fd3877ce867dd8a3c951476a7d71f0cfc1c04a7ce28309ae6d065b4) |
+| `0x1783De303Ca862DAf43F3A27daaA62B0A6394a0F` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4acf0d0a19e8dbc04a859e3489310f47d4dfdb30fcb5436610974a9f4f8da10) |
+| `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x957db82db6f4e5983e48ed02f226f50e7321b96bd47067799c63a3ed52ee2d78) |
+| `0x1e868E0F5948Fc94ed99DDe0d0AbA939E7677b47` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24d91107648869da6170f2aefd139989963ef11862c76cc7f6dbcfcfc816b846) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95fd03c65ec9465ec7a85ba9f529c94a8cbb86aec9b9abff14872194db28aefc) |
+| `0x1F67848e80FB9854cc0D16A184562467b0738BE5` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9bf5c157231edecfa2d5595f5bd8ea27616fab35d71f498c97d3c95fd372996c) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a488545fdf4d114c1e8b3b45dac4e30b5fb9ba99ff762be4c03242a6dcdc97b) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4784f90960e287aa00b656d94013756f6a02e39e4795431c1aa553ec4c5b2b2) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7cd7b73ccf69c313bc4a800bfd247556f7a44f51281b9690daa83a3d1a2b48ae) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x76bd2302d1dd776d059dcdeaa4bb51c9627371929db8b50b3f180b450e225049) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcf3b83138e16fcf8b96870a94ae5334cd02703dfe6edc18aaf3697afb6e004f) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea606c548c72fd1e18f2478aa04c69edf0be7b96595e9629d7b6fa417c43296c) |
+| `0x343a90534A893b671b8F69171fA13edA50Ed157F` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff216a355a06d9a357f3073ffdd3dbdf9c59572545910a15243b09cae4b0002f) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcbcf2e6e4408ebf8e2561cb97ce8f9766d6191073e7e2a73351551682844abad) |
+| `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x737bf11403d3c52b81bd2e0ef387809d6630e893c6008aace78ecbb7548673e4) |
+| `0x42d94C7F303A737223831984eF2329aA789dd5C5` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01b1a60d92bd8b10f6e7261d849d29a75652af33d65560c02ec7a05352c63463) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5ff632d05e40ffaab209013475fecc9c01684099587f9d66c29106e466f5d75) |
+| `0x457F14bAED146fBa11a3FcF0479D67Be020ba414` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd05561722063b807d16833b91140cc2771d79027db0899f90019bfa2ad9d6d2) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd98f7fa8253e9b73beeae2b6c635c327e146975ddedba4e8543dc87358cb61a0) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5293460e057b6e594e3e30b90c3a06452631cc6345153f52475f64bc3d492247) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7f7605729675e92ccd144685ce89dc3fea580e80e31c67d91be61e60174bf33) |
+| `0x55d00f90FF8DcC99096eEb2071B10Bd0a0Dc69C3` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x282966e0d4cde2db1dd7a92db212fd4048f287ef979fa7b19bc0da4a02f3ba42) |
+| `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82ddf8257aeef85d042f77ac6217aafbb099e87103a705df3d04eaa467af2a9b) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3920bc3374689ebdcc396b8460af1915b3e45a3601c41152a69b0aff4cd0e025) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78147db631b1940abac3fff64024b2bd12d9e280b66e383a25c9e3128657f0a5) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbe03a1aebc1f36e9f690a6338f886128fba0b40d955d53f24fcd26734604b95) |
+| `0x63BA63b8A357ABba1d1f144F7a2D3b0b128Bb80E` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x292da9182c46aa146d4591f574872021ae0be6fb00329fea43cfe5e220cf7d39) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a2a9b9abf8e9b1c6cbc9538b7094223b73ea002091c23b6b045a5c6071c051a) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | M. Trout '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xde265e910f711d44ce3b652283f09a5e4f92c2d5400aa7b05421c41afaaf0e89) |
+| `0x6683bC0e3fBecEB9c792Eb84FB76FFDEbDaD5A19` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e46c497c37453bc2f7aab91f88708ecc34e5b76b709261a75fa2c884e3536dc) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8e016f78c1fe4ad25cd6b5cadcef24eb53e35130aa724a0a39dd90538d7d310) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64c06ef283f90ad643ed89e334cbf46b172c3275337c6ba8be36d1a92b0ca584) |
+| `0x6b1b4Dfe26A82A4272b286B7408F86532CAAa30f` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87ede4f1ba7a8db8bfc369322dddc572868207ab8fbbb19299400b856e6baa5e) |
+| `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe55dabad8009990a56bbb3bcf378562f4dbb9b8e3d28e87a618a33d7c5644a81) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e8f33db69f4da55e1a8e457695c335607a46efeeb6186a8b020008d9d6cc076) |
+| `0x7004373D672BBE6Fa6550f66A431E78584a69D27` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f99e68763020ab37195b3cd095d307b9ac738af8a9c24e7c2131f2578f18111) |
+| `0x7407005bfa5422E5D3ff2912BCA590e7aaF2D5A5` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa735462ac8bf2cb37fcc514ec3300a9217fff2cb9c1cb716229dd47a04fabbea) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0579a62fb4f5c67c1c9cc95ffe77209edc66b9b4b369829ff30370665c6d3a20) |
+| `0x7957c7898144af52D57e00690598B645898eb623` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf0dce2e78e842b489b46ffde98ceac3bec6156cab07b1b9f454cfb692025aa6e) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3d48532ae53a8b8424fbd140d75860ecc7fa3de847da49a878135557205485b) |
+| `0x7F7C1F71C9487c15acD4a564F9C4BE5a28122018` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c445938229ea1907f727c3b6b618b19d4588d2d16daf4b2e78ec19a63425036) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd12e0b937a9e8fa1212891732b0de0dbeebf4ce6a4132c2f8cd7d33be9755a98) |
+| `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe487c3155694cace8e47d45df67b44783b830132245aae9940d0c2db79a2ef8d) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79f2f91547e6f2a7fc6ada7ee88764f8b47ee81d7e52ad973f162b1ace0e1e57) |
+| `0x8DB9875668A3e609BEEf552aDC3796B3DF496304` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b5e30a47e5990f364d3fa1274f5104a404acd9f3418ad5c626e7ec52383eb96) |
+| `0x93579278f379D2CCf20E3Ff02132C5adf0696665` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb2e3785398f8a1df1805fb285247c44b0a5572370255d4a655530c9610c58ea) |
+| `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01d1ea8b9016f8f6970c9c048030690f8f22d2ced324d63ae4d8876ea531a6ee) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x097a9f97e473700242209e8b3af26b33617869be8bbfb8723d894ebf1d2dcb7e) |
+| `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38c01e03569d26693634ed4ddfe372571fb4803fe1440fc133be9124aa68f089) |
+| `0x9F29B98818f9658f82003BbfAcF44ca81AF046bF` | M. Trout '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe66d5d147005db93802e10ed62db48032af31112028953df36fb70ca3a1626e0) |
+| `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8934c1cc1133b079ec8a4ca26d15ba4cb1853e0c818cdfa6b11ab138f4a72fcf) |
+| `0xa7C420Ba706fcCfdf6bc48994aC1706220Aa65bF` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5395145f0ce2849c050e944d8583007e9759a7b2d93655c3c0642e8258ae2739) |
+| `0xa807cb55c126F7B2766C3Ae5d9bCB2B4ffAB69cf` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x047510612a917d9cb110d65b5552368ad45f17634e1627b07b88944850ea9274) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a489e1860ebc2373b56789e1645c301c9cd12d30261f6b20a55b8c1a24c7268) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2cfdd4b97cadd134aff222ce28ca2cddcbd346d86124d28fa2182c1c5a5e429) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9e85e7ba07089c757e042ce0d62281840f6d9a0bc1755acdda8aca11226f221) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x709426658d12515bbb062b79758ea3c82259c49432c8c42390d308d9b4080da9) |
+| `0xAF6fb7F274fE18411c84765696d14359972d5Ef8` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x060783f72240fb515bee367d86db03d71f26443be00989f81087ee1d6c727a97) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c3139001f6ff3f0659efc74c9767e7bd509ac8ec8ec8c0f96869ba80a9b9d0d) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8a380534a30d78c17bce20a1b13fb40b4cf9be844357281bbaff23c98eb7711) |
+| `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5683c9ddf19f38160ec8bbf7177952d05ec0103f0c5c2ebb603abb1f7bb31379) |
+| `0xB725eD37938C4AA8750d3A5D9f67d0426B45379b` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x358abf3f14967fd2f4a7612f87b9f106815733589ddf8c33b94c119d542394fc) |
+| `0xBa5D3b63b61d37add2314a28823d1d9EE9915fC8` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b454514c6bafaa0a203cd41061cb786534312005bb456203a2a58f0a98d5a5f) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7734637d748a47cc9268ea2fa0b9c640145524c2d022dfc589f116e15c8fa23) |
+| `0xbAf592fE279F1864C617a1664083A5af35dee04e` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2af514471c7d0782f12ec9ca6a607db3b29506b85b04d715aa185235513216a6) |
+| `0xBD4f74937F4912cc9a91eB3d4372e8fAa5496c02` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0325c9167edc19808fed867612b07cbf4c2361742aa7f7e7e827afe25b77e39d) |
+| `0xBdE1b08071421AAB08BbB3133097A589891c25F5` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8546a58cdaa5fdb0e0444f8460e561cc3ff7d6c3312fc03ef3a8f1faa77fb33d) |
+| `0xbf184416CB1923F645A4735d7B86282544aF1D2F` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44dc54ddd96f04d27b46520102d423e62dfd8db5d12adff4906b3f9253298022) |
+| `0xBF856A838D25C2C3d6764d5626544898D75457F0` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa631e50718ff2220ee9196fa8e649380421a2462f50d78c4111f84424484ad0e) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69f080c54d5c8bc4cf5389f7ddcdbbe22e4b9b9ff4f92c2c1d95e515849e1190) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9eee78403374c3759826c83517a49858508374cfdb8ffd50940c1edeeed7a0f4) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c13d6b315ee573a0af93d061fae8fa0f512e565984002e3fe18849e6ff6496b) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99ef2978a44169abb6e5dae6493c8a47397f7e35b5889e62b45cebb3d547669c) |
+| `0xcA9451e7A18060710C10461Fb105146a9516642B` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b5047ca740ddf7b64444aae3457998dc155d31df366ecccea89f3a6720c47bb) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcefb45edf746ca9978ca06f1e8570e3cdbddd408750b7387d9072fcfe7012b16) |
+| `0xd2866c418E0F76cA69bFF8b46E028c147E268318` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bf351fa99718bea8ad1b94a7a78e9c5d8f576969f7fb27e06d809b6103dcc9a) |
+| `0xd2a15c0f728f3a0856c3373F5C3BB83c7ce02Bd9` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e47e40d36ddb0507735766520e5ac7a1db77531d6e0d0d280698e237d7020db) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4507cc75c11f76f51076f3ec6057a8fea08921bc6de89ddc122d8613a5f598b8) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfabc8b0f0c3f2149c82d3947fc883ad3058cb45287ba1a95e9c309bbc89bac13) |
+| `0xd585c8840ade66a0f314402c649215792433415B` | M. Trout '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2fab5709a2bc7f61ebda7c803f17ea33dcf0c93633e274188de02a855fcd4b78) |
+| `0xd797000176455865AfF99245399D375e266a788E` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ee3edf91d59272a068655df8bce5ff326e4508a87a9bfcc4103647ac0e31359) |
+| `0xDd4fCC98203f836242BBC19531Af345e17B3Fc98` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13743b58492d58a5e87dcf3260cf521e093748f4f3cffeb2f3867db32586be1a) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56c51524baf6e282e55f98633d90aa038bd0efd5d8d1f7d6def80b4d4d26e551) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | M. Trout '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa09c2235d238df699e502fe2f8baeab55ddbc3dc5d04859850f64eec53bfa630) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb368e483c03e86266cb39a7497de0a1a4592870bcd4480036e06bfaab4c47268) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d21482cc76ea90a719e54748e7a13bb394b78a658ca2a4f7d1fa13a5408204b) |
+| `0xEB3FE5406562e58220b1bC9c47419fD904e4b93c` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x206d4f83254ebb6c5503dadc8ae4c935213b53c2c822fab8858bc65346946f30) |
+| `0xED1F1Fdb51e040B9d3f0A9e2E1CfF52a8d0D4e3B` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaef59ba5db57a6c5cd5b6c9baff2282345ca23bbddb6c356e42c0efe02b0ef48) |
+| `0xF19aB47171D33b83dD28ba3e9e98778a92b19149` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0f3d984335f09c9b73954b40539c2c95f80a2377eed60d5db83d0e6c7329b73) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8f151fa74ed67c2133cee9ae15422f054a9fadae2beeff41976f5c9c21c2c6b) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x384d4ac0b627a798cac09f6735322c1c1001662b85221b279e9f5dc557b05701) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe87e30e74c0c49a7d93344551721395f4b21615da0c2261284281c05f5eba7cb) |
+| `0xF8c0Bb9e6ED8B4d81496F1e24101747A5c30233c` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb597ae38dba0ce76d652d4a24c57131c62725f402ed379c78631ba2220ba158) |
+| `0xfbc60dDca984558836c12098e7D858cEFDc0ED23` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0702ba499145c6fcce97afee9be1cc412975abe3492dc9bba560ca12443da9fd) |
+| `0xFDfB3279fa343Bcd59961eb56c07191A3e6BD815` | M. Trout '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8a57fc0b58b2159eb196005c0e4f29e9e2fce916c7ac112f16b812c558ceebe) |

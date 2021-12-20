@@ -7,9 +7,9 @@
 | **Started** | October 22, 2021 4:00 PM EDT |
 | **Completed** | October 22, 2021 4:14 PM EDT |
 | **Tokens remaining before round** | 6,144 |
-| **➡️  Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 3,072 |
-| **➡️  Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 
 ## Assets
 

@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | C. Johnson &#039;07 BGS 9.5 |
 | **Internal ID** | 377 |
 | **On-chain ID** | 111 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e7b-4bcb-8325-ac63ccab25ae/2bf309e93084b1dee20991ae61355600d7e4621a779eef48b3e6ee6d009e46ae.jpg" height="200" alt="C. Johnson &#039;07 BGS 9.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,127 @@
 |  | `253` | `0xC94636046e13877aF5361834a939A8389dc7F699` |
 | 💀 | `254` | `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` |
 |  | `255` | `0x6A8e23AB8934CdE344ddf38710f78Ac8326D816B` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00Ede7f9c07B38F5bd9CdDe4F5C3B181Ecb232dA` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf16b552563e0cfd8ef2a453d8c43761227144f11e23943e8866edd448dfe2dc6) |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde0ff29166fd1e0e264f21a451e2e94b7157fb6cee1aab165181a829dafa4cc8) |
+| `0x02fE13434dA155971139B1b0795297107963DDAF` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31c107dbe894107f384c2c1c9025fd36bc7a7344f21192c06add51cf9be4f752) |
+| `0x081A02bCE1aA7aF2bbD09128eC5e7e6877d53A3e` | C. Johnson '07 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0xd28734b0d6a72526a14e939ef42e8f5b57b022178888629b00cea3c7bfcb5258) |
+| `0x091f0e91dCd5713082d0f85085E5BBb3A34D42Cc` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54c0a49d301e8ad4dd1b03e831324a6a8abaf7e84847b4f9e3221634c43bc3e2) |
+| `0x0c2b4bfbBcA71c45b7A059cac413cD1A93E561f0` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeec93f651d48c96fc8fa268845bea8249929d6daaa0b427321b1c05e7e4e250a) |
+| `0x0F8f7AbD11425D954A659E0b94bcA8eCe7F31898` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93f2238b0a66d8cd6e214ba39bda64e712845696dcb046fab2bdb3e4ce289ddc) |
+| `0x12202C45aa472483ddaa4f5eb59CbA37d6464c36` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8dee5fb0de15e60757eac0d91e68ecc4443887204532aa7f2b3073595b9748a8) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x274bc8417b0f77a54c812bf3fce4201daaca6d53dcf2287edb89660c48112b67) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d59c5eb0834fdcc1450580283f0e8bf7bb50bf248d75733853ea0ec18e645ce) |
+| `0x17741B6D85e2731662f1041773099E4Fa4fEE7F5` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f291d66f5b7b4d3233bb29aead8b8f444325afd8cfb53f46844ab825f0cf2e6) |
+| `0x1774737C2687B79ff820A22312E5D179b1a2dC39` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95a9546decf59cc1778f926bbb9684ab4b66c269c7edad8b74082b4b5e70684e) |
+| `0x18b60EDeEDA1EF8aA0477CAFd645bB8BF9bD8caB` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ba3f79c074e629bdab3073537eb532eb1520d5a6c7838f08fe1e3ee304d6b9c) |
+| `0x1914FE180be3B7bf9C467cFd893b40Ff65446229` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccd53ef9109df1a07032104b0dc91868393855017e20264e1ef0a50a952e4260) |
+| `0x1b64184231A17aeFdF2f76Ef89E9943447556D92` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45ea93e9d9843cbebdcb18a04582711c6c9935d70c8582b53353c9504b1d1f71) |
+| `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a72190da99c5f3fa4d8f90aca697f36408593caffb2429d2b882c873325b010) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfe67a0828d6222f8a8bb5137884528b4880ee1049373c3da129f6f6e40149bf) |
+| `0x1C6C1DAfbE1F50C1932e4cb96fa166731bd69459` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x698a308559c968e9f070f14e931d2a34c820042bab69e4bd1dd49f18be25a9be) |
+| `0x1e868E0F5948Fc94ed99DDe0d0AbA939E7677b47` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb79f84a03124c5cad02097c6bf1b35d10e095c2bcc2df0da5330cc8c42e61e6) |
+| `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcda2ab0987b21841e590b2c045b01a5591dce56a4f1d139e2e34fc2b76cb9847) |
+| `0x205EFB76a9E41D81c3ae634F32BB5580Fe6Bde37` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe149ac3a381d61ab4e9a32eccf5ce408031d2c25bd07a377fe2d92c739afd770) |
+| `0x2181685df3983F1542e2f966A047840cB2E1379f` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe624e8a8dd07b60c3a97733702040a469a7ce66f4d208c62992b30d025364213) |
+| `0x234aC0BD1205011Fa923B6fD18fB30e90505e8a0` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x724a07ca92fd7d4291986f499c6f2a8a4bc77017f8ade797857513221f79d967) |
+| `0x266f06cF6B78F27cE1d5691fFacbC704a955D8e9` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x745590fd4cf86787872cd43e487c0e8fa37b6aae5750d6278d102680e1e3335e) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d3a3f6dc69535f6867f84bafa7f97f01ed21ee5644e81ec6e094a9d0e48aac3) |
+| `0x2b70e740F960883E56fdfB1b7015C2E820bB375d` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4861224c625df3570a659b6855723f4bc6ea214ee4a3cd135e6c9a2cd2d9a609) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5768465de8e6f318c2557416a55140835ad7023676e45682a2061fe989e0c441) |
+| `0x2d68F788A66eAbbA347D269B40284515df5313C7` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2603346ffa401ee6589da038ed61550acf4231e0109e711215b87133180a808) |
+| `0x2f160Bd2faE4416E7BB3CaFfed931D31BA327C52` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bffaf6ea301b2aecda0cf999e85abdbbe53152ecb7a9481e673e11445df8a87) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68e2b77a81b0be74777edf4b1cf818eb87e237eb0c79740fbd439c670cfd4835) |
+| `0x36eb38aDE9aD82eEE68E63b2B200B552f8E97813` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6044e262293c9db272f1228ab33cfdec63f74c7851562c7af260807017146901) |
+| `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3ffbef6a59b2f85e2bd183baff7d5e24485a99898e8898be8466357ad1e1db2) |
+| `0x373047D8ac5133839C05EE1d897CEe165d083e15` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7be20ff1c432a9b99c547ea35ca030d774ec6eac55e664d842f0493bbffa045d) |
+| `0x379E1a1e1890DFD5b31c9Ec65EA08255b5A89a69` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94667a7edd8285b054f47a7739968ef3f76f68bd61ef0222179fbebbc9d39666) |
+| `0x3C2999dEede7EaCD312827E40a5F0D6E7B3eDAe6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d5816a4427d32ce110a8f917861c368c19148a47ace80a345cdac9d691edc1d) |
+| `0x3c895De1C74B87A38AB76576d297427B29eA4F58` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf9c8dd720fbecb8c374b2675b76b866b672e433ba314049412b8e3cb759c275) |
+| `0x3d5A02d5Ed89a71F0A0902B81186F1d90Ad4f4d2` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x177a73bb99b7928d8c3c3ea5160f727bd18396b1f09031c237b105c74de66af4) |
+| `0x42BBf55B5d4FCd42397424bEf2174D4c59a06DCb` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf38e96122e935471d217f1c20f10df76b56a276d33fd6b5bc704fc992c13290) |
+| `0x43f8ab6a94187826F1614295C13AC6EE7C83Ef42` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb11dd7221f113df4a3ed7f7e984349631d2d0f73688dbee0c3ad882d7a926c07) |
+| `0x45e023881182cC2937374f61bc601846Be4ED6FD` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8821e2067368111012ffa89c0f8d4726eb2284ce3025942d3879de1bc526100) |
+| `0x466C97292bAC70Bb0221179a4421d99CE012b3AE` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c2f465ca4add5a0540f87eb1d95504617ec1992553ac74cf3ea7e712e30e6ce) |
+| `0x4bFa1F720bF0CB5a88567826768FF70f051Ecb5d` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e2105b30ffbfbcab272fafec3ee9003dfb7a32623f6de91fe91c94657fc1421) |
+| `0x55804354a73699251C15D3a2d1d6a76DD85730C4` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7683d4458377a12a14b5d14ee2b7e4d80a4d198e16cee56997260b67b0f2035f) |
+| `0x558382E7DA76e77102b493BcB9cc9e7D7502aCcC` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59222dfac3a881d86b8b2850dff131435aacfbc2df3574b2a0426f21eaf1c8a4) |
+| `0x562c49273d454c23572126051b310ad73bAA0ffc` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd8a69736ae6f6284f849986a02c8b6ce30bfee21b31c08c1c208854d772f412) |
+| `0x565e230b6b983e6C59D619f976B3B9dCE10E960E` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xadb7f7a0c670a06a63ab4076a0476da410ce6009eed1fb8a0cf8bb2c5587fd58) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8224d13408a7435a8380bfcf7ca9c3990acab7b5ced752153217a5cd9e80fa54) |
+| `0x64bB2FF0BFDe5E2690A70cAA31FADDfB24328354` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a87344119130666080a4bd9e4425e09b760a7c28e5403b485f4858ab25a90ad) |
+| `0x6520648915B912b7abc5320d5A8997139Dc94F1e` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe60b161cdcf2cc33d427353d58fa80b423702097b2ae8472a9944e91bb05a652) |
+| `0x65d5906B1951251995967db84DCCb1d7B1718d5E` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd95db7a7e284fa6d523a7a3adbefcd71d778d070fac4a7ed3475056b78c640d4) |
+| `0x6A9af06aCC9fea0d75382FdaD8DbBaa41BbFa62d` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3ebd8c44b0b894792a58913be903c4c753e12c5ab468b7e010614a7269e3adf) |
+| `0x6Caa401bd5c1313795306FE834068ce06e4CA816` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50f7e9dfa315c0b36ed65c466d12d4fd92ab2e98a9f39076e5d3fc863005bebd) |
+| `0x6D8BD17f0b11B82f130A5e6168FEbB7fA47cA17c` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f3dab85c5f28f849a1022210bcaea3df1028a74c12d33396236262ba672c2fc) |
+| `0x7004373D672BBE6Fa6550f66A431E78584a69D27` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6db376d409f12fbdb5e6588c60f96e504acf4faa4b35c41770b3b527c938db8) |
+| `0x7449A194d9398a7C91c5a53A002bE0ccC0369dcd` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9115e4826c81acab55d81ddc5f62d38bdf0f4d103f37c29bb044020bbffb30e8) |
+| `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc67e9b2ac22e9cd255ae4a8fad9a109ae97ac11f0f372f6214416d58cd2edb5b) |
+| `0x75CeaA6bea38B8BDe7Eb7ca2a33b85adBd104cCB` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf93df10cc5d05585f20e28b3fe45ed36242f2a6bf9950de2c8f6a7d960285820) |
+| `0x765c0C4Be76281821716f61f228d6788Df1ACF79` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf850177b711ae86940e734843fff95034c731e8fd9bd523ab01f45d91aa3e34d) |
+| `0x7a01E394868d06Cb5F0d49B325f9eB5e0EDE0fe1` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b4af2a28425edbd3de70e4e93ff117045894536f1623302bb14b54f680b7792) |
+| `0x7c2039fCf9a3242d92068EaA6fA871709A7b0DB3` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5384038036f183e410919f97a9c7d826f0a5f5b87aef64c5c3616f731c794d75) |
+| `0x7c86188b99dee924C58292936034D62269838B1b` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1eb29201ace0884304ee588d9d03d7539b676717c56ca03855324c446627f85b) |
+| `0x7CC12C833b5844846e5C9d95d8F61AF8E96Eb184` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29883ca83184718cbd604d5b4f2f30b53ae5bb02bd9f5639b6d60c6b9999d10f) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3dd7d36253eebd213915c542443ac79b41490de6a4277e0159583223c602943c) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb5be6c939646e81315c53277ff2c81a9ed0f8fba207bfc639cfd47ff4d28f62) |
+| `0x7DD7bDeA9A74BdcFe632B41e0609d354E56Fa0b6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe71e496ab7497e868f52d8b3092b2d355bd3fae1d705930d0b6c939c033e913) |
+| `0x7f7E177d173d0aB220f3725A3C0692581e9EC5d6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb584b74a5985c6e061432308249ec00e5d420de8086beb17d4e9a4b59ff6faa7) |
+| `0x86f6bc5044f2D25772546c0738bf189d74535d6C` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb92e90ce6be76ac5b2c9d431bb5ad6adebaa8ed1073c693bb03dc1559b3cc535) |
+| `0x87d0ad6Af6630c3e34bd5FcC1Bc6990ADC1488C2` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe30e0020df35399054dae3543a8da5804e25dbfd34f758bbe785cf2583486299) |
+| `0x88748a7dAfCE7D4783D060D1f497b586cfDDab84` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bbbbf6017ab48e840370c8ae82e1f202dac2c976bd3a0af02c47e5204cc5dae) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58a492ee7e5b9231e4405fd6be9595d2652ea39b7bb1bb94a4490b46e5e2707e) |
+| `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x936e23d811c0c760b2977d6e2d21f16765342e86fc88ecaad297c2ec23d9d695) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb710ebdd1581bfc735fa91cf4b05da448c220c23aa649cfe062b4fb65cdca777) |
+| `0x910939318EE472D89e2b507543838c6bB3a9A09e` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4523d8fee6fc844d29166be4cd5f9f2e9853744217effc5687d290a9754abcfd) |
+| `0x912213C27D858ad757b94980dC9C3Bf94250656F` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45b9a9472ee236776d41ca05f5c75ec88bd34d84517e53ad14ed626901e73144) |
+| `0x92A048eEB665eB47ee75B973Dd94A71056859b1C` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5158cea617f8c9569babd76232fbf88713567341c0210535ecc7703b6d33822) |
+| `0x92B2B5Aa35690831443fb8411f1CEe8b60294B51` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x673d616af570558010451a56ccaa32e1f7c146b0264fb14e0ae98d55e6021d22) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8747ae2699519253c2d717f0a1ad096fac085c72a3e38880e12b86e41799a597) |
+| `0x98AF66e7E7349519f232eCa3812bEAbF02889Fb5` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd861d47130fe3a169ef9f48e0387630d3dcd7f42b29d8b0682427c2e0439a56c) |
+| `0x99fE935F6CB5F938F54eED2198AE0b8D97B0bd6b` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf92e90ccf9161c0bd0b1e555aebb6bde3d14e8d247389f0e0db8cb6dd158694) |
+| `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09bdccae12e36a5460e2591f1e0d50022c2b5fab5a40d1d0ca36d6725e145c9f) |
+| `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2851b3ca67cb42d91c68178d0ed7c8b4283e62b40ec27b3c1db75dccd9e06358) |
+| `0x9a3a03939a1846D84491A76f57832d93199759a5` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cbec519beec4c7d53da74ea9af7e32ce27fb1924786cd7438bd99cbd2441a70) |
+| `0x9F4080F3D4F56456ffF89e937725772974601Bac` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ab6cef162b368d20b4799a01519e286ddb305935ef4fb4f697407d54f98a3d5) |
+| `0xA442dDf27063320789B59A8fdcA5b849Cd2CDeAC` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x571ca662727116e4c204ce7f75b1c760a5f4d140411ea88a87b0912cc082dbcd) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc5795268f1c8df2dfacc8e1682d39e934b1815ca17e7cd7f7d0247732522d89) |
+| `0xA8b876FC9EB38dDDd4FC0966557a870c8D94aD7B` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f4eec107edba0a8f2a72a6c881a132918860afc31f081fe5dfbbfccb381b634) |
+| `0xAA62Cd812Cd134EFB1d3A3389972739902D81Ff3` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5a525ce3f7ef0992bfeccd1f46f22048271b749cea93fe7cf545ebf040943ff5) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ff8f49606ebaa87d1d3d1f194c22844f34bf9cbb2ba805907d148fe9396112e) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38fa1b62f6b92a650b24ff0f2fc2b77a9537b6cda2d487cb130c12a6e40cf930) |
+| `0xb451069475880fcb5D8F471503e643799fDbA6fF` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67a05f602aafc64f9abb2e547f0c4a381dccff796dbc237d8477e51ed4ac7731) |
+| `0xB559E105769F684b8806129911721aB44043E9Ef` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdfe86a960b4d03ed217d8992c034f11258b2420c2345b24b3e8117c20123c960) |
+| `0xb8bb8de11dCd32AFaaF1458a6F05E8a26F041284` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3090527f5385edf2480b6adda14f9046ebec2ef331386e335838172f9a5d250) |
+| `0xbC5e9383a53A8Da375A1032251DE69BF56C2Ad0c` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x298831b922431ee6afc351e40182d5454feb631a92a517e4de2cba23eaf0c491) |
+| `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90316add40a8a22bdf2f3e7647455b2a86c210e3bb166522485498322f55a7bc) |
+| `0xBFF057E58B97C1A238794CdC58C3f8F3ED35F822` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x195df20296c0ae381f02062318c968fdc0a8829d5f9206f5b1274192af7dbe4c) |
+| `0xC2F32612992e336a452Ea2d1266c512fca87E9b6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cedadacf756736e92c76b9ace515e654d382568d41b493fbec4a3f9e37e57f3) |
+| `0xc3669Cacba53a96cfEe64Db832f704469f326C13` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x148ceea3c9466fcf28860fcda2115485d6ba584d6a975e7bf557266a9640ed39) |
+| `0xc74946fb774225eA9f6c593F7cfA249648761a34` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40a94eccec4b17c0653947fe16514114af2c367e2c10b20d422d71698885cc8c) |
+| `0xD0f6FDAD8207a5A42F21dD3f4Cced7d94477297a` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd896e663400400913c9843caa1f41977986d8284e1f4a706d4b8f5d3801fed42) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xade77201f05ee858e38dc3bcc55092c4ae5da6993c9fd48f68d0789756f26997) |
+| `0xd387d4ad2FbF257860a320837F98472c7B4e2792` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ddf16f627cbdef059ad0f695632dc1db9bfcef629f491baf19de1dcedb12b95) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef31a22be09e89a5ce1f31c2a1f770b271e57170200b69da67b48917295220b2) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x768bb77725a5299cdf90b871a33fa324a6391a69902265208187f1eaed3537ee) |
+| `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc76954d66dceb196eee1d0b17ba7dc05b76de9b8e6e3f440ba7d6c3667825b06) |
+| `0xDDb05F500E0b2FDA878Dc4c81C866AedE5DA4f3f` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdba23f03fe03b5b13b62b7562f04970d8dd28cd8ebbe76272a82eae1a155f876) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b8154ce6e455835229d34b66a05773df6fc1d3a48533f4cdf2714a31e3bcdf0) |
+| `0xe0B0A6C004F7833918a898D303Ee686B886D8144` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0009451730e52fbe0521ffae081f8033a15150cee432097940e2badbd1e111f5) |
+| `0xE2416008F80c575DcA8281E3e600016023C5c105` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a01c7a368264c3baf1b7eaa97273c7119d0100085d64978402c5f89b48d370f) |
+| `0xe2606941359e1f7403384D7D371aC298f6b915E4` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe81926ceb022dd70480fa75a75a5b180bf48d9d687b4b7ac9d1758ea1c9cdba6) |
+| `0xe9d60681b3F1aF79e13E86B7635302D8b5D77Ef6` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e043387838a343b54998bc07c3340c4a2f38ea943d923c789363dd133239130) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x611b2bd2a6db75330239591b56dd23bd568ed34712018acba03c2b05b98820a5) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9120894b65dae32d8a17ea7dce26ce5ff530ecd913fdd59f7ef1235686c41af6) |
+| `0xf054a780cAffB6e2e3d82461916371DDdB52B6DB` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23fc9d15b1680640e5d98c9ba3cd4d89caa6eee693b1b037e2d50fa8e05e2f73) |
+| `0xF4277A4C0844dab2c5124CAF1727F35e00d02D05` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3355f0a7cd2e9c3765a575060147b1b4760a4fc7914d9ce2b31ac4e90512a882) |
+| `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd59165a36c649c78a55cd03550bb58021dfe13a750d4f81f9f96cb92fa381cc) |
+| `0xf9e3FE3B5A228A2636d089Ace64AbF4A3C308262` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x419a2b9b09d26216a8177069e6a231dee15eda9cf0c73ced8616255dfcfe2928) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | C. Johnson '07 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a18895458dfdff7683c45294d6e0df22018284b6b2f5060859f33116eaa7fd6) |
+| `0xfC755ee65D0213AcEBB545E18ebD27A9879ddF7e` | C. Johnson '07 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaa268c7bd36be819529814901ddebcc6d341e81253d7ed099d6c810b649604c2) |

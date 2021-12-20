@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | J. Herbert &#039;20 PSA 10 |
 | **Internal ID** | 271 |
-| **On-chain ID** | 78 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc62-4c73-a8f7-c7f5f73a001b/6f344f393021c22059a758e96cca041377a70fed5bd683f652a93f905bbbc579.jpg" height="200" alt="J. Herbert &#039;20 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,48 @@
 | 💀 | `125` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
 |  | `126` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 | 💀 | `127` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | J. Herbert '20 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x04e5c18da497caa22519d1a53b253b544ee86396986581779fee6982c7b9c84b) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b7be96f7d439a4b325c686d741851dbafd71857cc63b88a65437930f3cd2ef8) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | J. Herbert '20 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd03fb9c61023c74d57074a1de6f839f711d272118d9968fade049fd22e848206) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5626a354d171d5c1cf983d7e9a7260b17324692227bcec01af9cae1cf7e942f9) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06c939bee095333afd66fd087fa02e07c57fc060f354074a63fb000efeba0109) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c73dd518d663ecb9c6b48da4199b10895c223ab655d3c086957191ba72c2d17) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc865b6a519031fcf8e512338a638ccc5c4aedd2eefbe1d649876d9569f7d182) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec6fdb4b4923b2d7424f349342a8f89e9b0bb6340c647e263148f52ccaff1ccb) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | J. Herbert '20 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x0518a8c6041a590ede64b3b7275b48c674cd90cd2c1d12dbfe4c78160e018d2a) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b681a50b713da7d8cda0fc6fe18d459ce3a3726549a48d99f5f10b8d58ca0d6) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x718363c80a9eb186b1bf784da95d6ee9a5b29da1e4a9c1a054f3490473bc4734) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x411bd43dc4ac1caf0bb8c37e4911f4ac92383d1612f8525987b799604097ff11) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe08d3c1aada1ee8ab992de99d7c13ff4c6062c05eef04632f92d183350af4458) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | J. Herbert '20 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5dc42e8cff28bf012e6fb74713ad2a56380edf9664a96e1988c4e626d4644a3b) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | J. Herbert '20 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x4bc6760ff219b408a2fa802685b4073b66ae07fd4791cb1c7e474f2751e0865e) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f9fa28d1c132dcb0de368f1238b82bdc2c3d50bf82af8eb779817cd2df097ed) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd2072f8ebd2ac1372e178235e218bc29420ba112451a297bb13d7e816a6534a) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | J. Herbert '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x14e88067101117e2988911d6849fe1e332c544170a04bcf24c487046717fb7ee) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ce1d44a1c5b096c48119679d20700ed15267dfd5180af9cef85e0106455a023) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdebe9d93a66f6f794799f48248f655d99897de79018c6c9182c61b57c4521143) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6454c5414268d714bd7a68491d0166a61ac030044f59768f21745a311c4ff521) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | J. Herbert '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f8e9b0497ec65ae87dd22b9b6f2f7a4bac7858a659da27a3b9b35d05da4f2fc) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a499654638298c98b701257e7acfe1bd1848fba9539445341d2ade8921c6ccf) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | J. Herbert '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd149ee4eaff2eee053ca61a0bf35a3bad06f63608b8c270176f3a5aa706fff99) |
+| `0x9C25fE64af87DF63d6507732f537E8697cC8bf25` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82fc4a810e0596d76fdb93959db49aaf82bd4780370f93cabead0a434adf1605) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb13b6cc64cc7520f234cbcfe27f528deeb914c3993e1a3401aeebdcbe35222b4) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x621573aae10db4537bfd2ad7013249249bb3b5b192f5b9b61a953999562953bf) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4652d484bbc08537bb0ed437c25ac801fe1046691682f313f942eecc302b2134) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f08ae2ae1bf4ccdc2ac9f2ec10ceaf1364f96153a4082c7d7aaa032bb5ff21c) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5dd9b7ad4d78c11970e43161b378d0dbb42439822273e13ff09e75b9fe79251) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | J. Herbert '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x98b3bd5eedbfeab2044994f0a1fac736bf746f8797f16b233e06693a8788bb02) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b0d86d0da0f9ab9888000a6257d288d8bbafa236aaf26e0a8dfae7b8823c57e) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa469ac92dc7bdc74bed259e20fcf660f3ae94c1df8d61578180781a7243a3e87) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f0a421bd42cf4679031722620d54a9eb20ec9ad0200df506efd39320a825d0a) |
+| `0xd912fE8cf58C7270033f1b135d221c13693886b3` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7868b7b38a667625147bda4ec22f1604d2c40fd63b570b1ecc587fa58448f57) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32df707373dcffd439bb4615d7ceda4019c18f0cd0dba1e95e46177026285466) |
+| `0xE395ca7CF49aAd9D0C7f51Cd3243547f814217De` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d786b1c944b4e6222c5f52b56e62e76e83a453838b31e90fd3bd05d0442b3b5) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | J. Herbert '20 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20e2a341cdce21215e583723e637b52e23e0d9e72ed08789b4b58fbad4ed7aaf) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | J. Herbert '20 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d413362dbd6a56dbc06ce7041f5023ce60f4fad2af0d177a4f745262ed01e2b) |

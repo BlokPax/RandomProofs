@@ -7,15 +7,16 @@
 | **Started** | October 22, 2021 4:00 PM EDT |
 | **Completed** | October 22, 2021 4:14 PM EDT |
 | **Tokens remaining before round** | 6,144 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | C. Charizard &#039;16 PSA 9 |
 | **Internal ID** | 253 |
-| **On-chain ID** | 69 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e3e-4347-abfc-7e2c2acef43a/0d7f37394c035e2040735e659c5e3aa4b410ce483282454f0238733451c69077.jpg" height="200" alt="C. Charizard &#039;16 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,199 @@
 | 💀 | `509` | `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` |
 |  | `510` | `0xBF856A838D25C2C3d6764d5626544898D75457F0` |
 | 💀 | `511` | `0xBd23Ba386BAF796b6526e1670D9dDdF1f7b15Ebb` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf910864dbcc2afd92ec20c796b60a6c0bc2fc116b5c5228f68a348129b31a077) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7e82f363c640b99bfede5e76e804a7ac792dc3df11bea07b9b031047a85504ed) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9aece4b89ad05d17f166840f33985a324560822bdd1c6be47d5a791970450d69) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7958ce40e0a8ddad25fbd1bf580719dc2334063e43b28f68175cf7a6177b06ce) |
+| `0x078D2D9442c5236a3EEC9267f7b5D9849a33Db5F` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d623835955df9f5cfe3568e846fa783aaa871f2cd8a01c29210c251f5a97553) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7bea87a9f87fc8bd9d854f51f3caa56ad4b1c3b5a9e0358c2b542b6e02f40ced) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x77c70e4642e0e963a537e34c8ffbc71e0d642d1ea8d3c5959c4012fd3e8ed71a) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x545f00a5544cf6c22cc5f4e3bbf2169ebb4e577e3e960a684a091001ca21faa9) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x317009a18b0d4aa1367bd0431db7d7dfdcc4d249c574b161cdcfc5ae06e31a2d) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52e6fed54283c6c9b830415b787c53d37b04dbfff903f6eaf3b710e8d0cbcad9) |
+| `0x0C40c84a27561B8Ebc4d1d1f7318B3d0AF6c6588` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0c0bcc8482204fdc0a22a50dad92cebfea7a4757f59bbf63922b23b45fe1cc82) |
+| `0x0d118D4B52133bdb7b500B1D8079f2481Fe2fcF1` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x153f653897c02751193ac4d1cb8a03e1730c826d03cd1fbdbed04cd16f5e3b6d) |
+| `0x0dc0c699F401c492f0119fB2415867babb7d9f81` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x812de9cc7821a444f1fcb2472bd16a1e2345b6df827e07b4fe79b13b7e17fd4d) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20601e991167836f878917bd31d2a93904f231c1fb527d7d878d74b3d46ddb80) |
+| `0x11e3f9C175432CFb9D7e8313Ee20b62923d9b298` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc1cc0faacf833230c4e0df05da907151ac6baa88fa2fb9d0b9614b0b6f7858aa) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf511037c81e5a7e71af9847452dc9ffafc751772d3f8b856dda5c3aedaa64460) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x469a200d8af317ddb8655122c4423e6b8e730cf5c738f11cf9da806cb64334a4) |
+| `0x1783De303Ca862DAf43F3A27daaA62B0A6394a0F` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecdcb2a8f3a173ed40d29efff177105ac40be6af59eef1e51febba96818efc34) |
+| `0x181E63F9c0ab25001949E3c8F7FD4783CC03B9FA` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03f0d1ad6f11cfb7ffadc5acd7ef4cbe7898b0379f98fd4c997d9ac8016dfda7) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7fbc950a07973a581a0c243917510a3585c41dc69055d9855316212cb25cd182) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x195092d9518ed7e5857e04090b95132639eeae27851fa90b4e27d941f07d8cdd) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | C. Charizard '16 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0xd757e52f209119176dc95e5825adaa246ecc9d43838bba3db115c30e3f081132) |
+| `0x20Bb1aF413c0b8adc26297255448eB1F782895FE` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3fb5ba06bb7621be851fc9959b293ae8fc93028d3e6c585bd14df67cfcf2bb72) |
+| `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dcfe42cd262efc06ac889e09bf40573023312f967a657bd24cd2803072a0f14) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdb54a6ef2513395689c5b6c3b678cc7ad9910d16f105f85bc85bb88b38d326d6) |
+| `0x23997f06B187B5C5Bdc767499A2358F4F5C5EA02` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa03f415937a3e0eb49b43bc1a0bd58fd651cf9a9cb8dd34b92fc698f00d60e69) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91981af23196b7e708f645da895f6afe7c7c94f8fddcb8efa0d44f2597d8e0b0) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec1ec25ca456488c8b5fa6547fd5a6e523a6540171fd24e6df8dd2b9a2060609) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8d56f952927217e54faae3d544381beaefd5c4b408b0e16e3814357c8ab385c) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90a69158bb5627e168f0ff662975d5d04656d5b521fa763448889482983fc402) |
+| `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56d16c69380590237f7398451d91863df75f3f53b4800bc9cb9e5423e54779d0) |
+| `0x2F500de3Df1d0e05E3b84f978efaCE39A07C8193` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x92415094e78e2bffd28ed075272a0273724c67898df96e684bdc97bf670c0dc0) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe304bd18af55b13589fed72766fae278d454b1d19569c76b2a8d7f60305232ca) |
+| `0x309046489B36908c8Ab78ff43FcB963158330BE8` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9a01c123d5c9b5202ea4553b278c3b49572379d4d37aae3728635d0af70c8bd2) |
+| `0x33CDB2BEaD7799D508Ea9fb9004AaAd80620B79c` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcdf3de77d9c96a58e9350bda42e083044ffb0e52acfe4ca4a46c338f414674e) |
+| `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54d25304309f72f27b7045591c9123b4e015455ea55c8357d4ae93ce8c906e37) |
+| `0x343a90534A893b671b8F69171fA13edA50Ed157F` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x427b6337c18b4ae3313d88e0e4dd9f610da5112c6336623c02ce0129d18a0511) |
+| `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd704493713147716c59c6aaab8971ddfb24301588fc4a75da896ca13dc43833c) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf3860e9933f70aaaa07927c5de73e82e6fb8756fa3ce9ea509e09aa87f71fef6) |
+| `0x3687Cf9428324aEf72B1839a45a953D37aAD3f31` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29df8bba146798cb046b4c8999bca9d145620bd1a07f8f7d3ef8bc22c0722c38) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x13f7d8535ea493f187ce32266510dd02e0015e92af8bb94966bd27d8f76c09fe) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x003d252671231a44ac174350fab88ff78d51d3c6da0990f6f22cf64487d46737) |
+| `0x3b966979f6730Bec1A7411883D112fDa2bE996c3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61f89d5e0ed915cba3fdeb2145949325dffde661583d9f4e03f1bcff040e3f13) |
+| `0x3D5f1ad033C4E7C6A6d433d50d694c488dcAebCF` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe61290549fe53c14f9bacac3ad6da1d4b842e4fc0d1bb5b6af293d5fe34d71b1) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd4fac9684af496d3cf25702da64df6437b18ee769837dfe125169368af16f97) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e7af3a2be7253e6de32b842e49490270dc6a2b88936ce5c8ceae37c55775ada) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39dc2e9da48af2f00ab6dd2d1b291d1ad3cf7d5716b552ffaa7da491ed6113a5) |
+| `0x40722604E09F70E9D13c3cf057929CbC009b546f` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09bcdae18bcb7fa85c9428980bf88964aaf5a21b77d5634d4fc8c8a8292b7440) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x779f680139cf544fbc250a4be9d231540bd13cc309990a81c897ec502e6813d9) |
+| `0x4221E209640b90901c4932129bfaD744e5A7DadE` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe78e3f6d4ae3e9d4338960f63349b2c30530865258250e8ffe3243fbb7ca2fbd) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d2788736b417bc7b0e7fd64474ab6c702bbd9549f29459d7e77ffd4779f8d82) |
+| `0x45fc619a3B4001C03036a53dA56665e27fad9f57` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2643ea3ef0258d2a01bb1045f84ea41678fa4dd61c5243822e7917aae79d1dd6) |
+| `0x4F2E89f75a116ac15dF48C5BEabf8F431C4755B2` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79967bb975552c2682ac15abf2e2f2bf57ced9a5400be15dca0e574405f892e8) |
+| `0x500fE6e8209BA6A8fFEbe30fd4CCa369Ce5537aC` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9357aeb0a43558387db98d2e3241e3f628ed5e790196dd25ad32fb43a1059b3d) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2f039a615907e3e5029a82047902fd4627f8f6ee1a533396bc10037570a031d) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd0e1057cff6610d478bad30829f7c16c0a4f29f418184cfd82bcfd46225ae55) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c3dafbaa9488ae8f48c06a8cc62f7f20281b3dd0e2bb2eb0c35a952e9614a5f) |
+| `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` | C. Charizard '16 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0x8104ab88097d9baeff2e24dec266f12a9f02668388f78ea23c2ef5454ac2e132) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33b6fcc40469c92afa94f7f7da2efe3681b61469b27fc5ca7c4808cb2acf8ece) |
+| `0x57f35Cd6035d9A6a87245f7cf79E8981a065EF79` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13010f5063649230ecfc13b66b4ee3aec531befa357c0aab6ae5e70fd541f132) |
+| `0x59768b06b66f105Bc0424816704E216a15780fcd` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68975779414bf4786ea3e0fffb06a1589a729e6d6044ac89bc8b43587c531dd7) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb27b6acc3dcae2ba726902c04f6cb3ee1887e53760c5ba5d2c51af9423e60b38) |
+| `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7dbe082ce9e560d0667912c4d71fc4a3f9d524ebc05f1d19b7853ceb86df6791) |
+| `0x601c115F74eb4cE709E7ef1B8a9Df159078e82a6` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc24f98c7ccdbbed637db88fa984d8c769dad57006b555a2fb734105ebf08a1f6) |
+| `0x619E651be1aEd197d9e1942209bfFBfb1CB2b476` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b141ff250fb55f10a8f409f9f2af4a714ccd87d9da2cdb0f2fc4d224711ed91) |
+| `0x665B9742659B59Fd9F8d4988DE84B4E011b8a305` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85300a8b783e54bb9de632f8d7522b1a6ee7f5dbc47d265d517bca22d4f0a231) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ace16b492971cab1503fa30f8089c9c2901c39dd50ddfa6558f9a2622723439) |
+| `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xeecb4ebbbffb16617cd5d0bac7d33a5af98d229b766ac3ac663accbbc739d304) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16002c8cd84834c691d7a4d309fc84564534d36dd4d6bba53e20d531dcc25f62) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe33724320ed0eadd3d1430410766c778a179375995aeaffee8ddb51ace9d2cc2) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x904a4ed9f9de776062748022f04ba43d8531bd1d64b57d966cebfa36e5ab9e76) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x394b8c7c99361069f2f5de4b878990f7be95188ca56758ba42a5dad946ccb516) |
+| `0x7004373D672BBE6Fa6550f66A431E78584a69D27` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d413ac516f90d6ef534a1aa19381d19f21b47b6dfbf31e1b6357a1a7c407c27) |
+| `0x70cED66c135024b9e3696cc8B2E22247E9C822d3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23e01ef30b2f03f18d3794854d3e7f7574355e9b9f74ec1c9d4e4647a7ca2726) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x208e08166fb9e142a45d93e38f984a9ce0be38f6c4b03948f6b6de76d0cad1eb) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9e8ba0bc4d6f6b10e765765d4477a5e57167645b4d1d08013aa5ac1d0db89e5) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0384560995fdfaee6c821cfee7a95e66614a15a8ca6e47105a48e008ab588f19) |
+| `0x7407005bfa5422E5D3ff2912BCA590e7aaF2D5A5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21438f92d7c43f28beb83129dcfdb9b486e298353a9a05662804358e8b6e4c01) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee065b5c7e2de1935be6d77988c658162e448c9f18e44b89c33d5cda43641b8c) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | C. Charizard '16 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0x76d7f4004e8d401cd4537fcfd80a2f5c8d8c830000db5103fd65d50da99bac45) |
+| `0x75f5239E80526936257dA2eba1dF069bFD32f524` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e6d04725a5f2fed42dbb4986aef6d0f3ef07bf3d73b8f459025400ed161a639) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9a718b2d768a7e543c380dca637e23aa3f4ba27e6804432b33b0584a2d8a497) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5a56fac6b4948db15f4269f1e5ff25f14a2fd55f2ff2fbcc4ca950dce258775) |
+| `0x7B7631d250da508FA1c4bDA09Cfe68E6aB01c719` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f7c5c67663712c5dea216821a5f1b9257c30c5cd79e977b433dbcc1715b5223) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x526e02821cf1d7d7ff8e4d744d7a7792a37ffc1f7f00e3962f8350757ede397d) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd0fc26966c24f4acef762ef45b6cbf65be3c621116afca2bc73f5a5caeee3be) |
+| `0x7dC8f81789A82E308053B6104D34Fb2fA513396a` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdd0fa80347d932aeac415594f27d3c571aed716cf0f01c1fdcf5e66e09e8a1b) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8560e1a4ac008fe1f720c1c6a675515e991de2dc60af35eac95dc18acb24e324) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a2abf46235a56cd39ec3df8f0ffb296f8123d1f18e169866152d4f53a42da3f) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ee53c66f11b844ba8c82d5c1da2e1dad8234e92535d21f9295876edaea42a75) |
+| `0x7F7C1F71C9487c15acD4a564F9C4BE5a28122018` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4d831c1a02a9fa2384f6e42bf19e7bb930e4fc10838261510ee0ef937eca223) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfe935015fa024de6c3ec49fb8d5edf9f83c3de89f61774a8287e9e689882a825) |
+| `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaef53efb67577e39afca71f348de9e588bdad20f14178d52da7e4b73c7074d7b) |
+| `0x86176F968eF30C85C0321425B4e9C16B5A1A4B49` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0b8476e815f6bed5fb2f0e8050ffccf89dcdb81c219d4a4707fa9e5c313bfaf) |
+| `0x8695D020bB5ae019788b829F4ab0c9A98198803C` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf6f3f97a289cf3819d128c06393f824586ae8154d04e124dba2394053c2f3c6c) |
+| `0x87B12BDEb178Bfc4c01a3ABdc6184040dA677992` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc21dfd8f14b7bacb1f6bf102c695893337049cb332ae19472c8e91a82e43b330) |
+| `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x936fc65ee10d20a1c5d1508844c83749b274c05aeccfa37ea1459184a906405b) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa10e969b7ef0b30e241851aebcce8311d2995ba36eee00ad1e72bf25090682d5) |
+| `0x8E1EC86Da7845306aAF08781D13127A8d398EF81` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0697c782b1e5a2259d7af60ef77056644359a4052e7ded4768ad0b89bc0b509c) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70c0563337735be5de20c931a772767d50905825230c26b5c65face5f4aa1e97) |
+| `0x91836dd71A4DA65eBd8758a0148158dDc4E83C6b` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf8be9315ce3c44b1c2dd0404b1d9b7e47f3c835c67a895515f15830b38e65d2) |
+| `0x919d36A5E485915269834C5453b736F3DB108d6f` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36b6f147b48d90bad1a82e9620c7a8e087cf1a51c11e0b54aa86f13c248f6dba) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x929841a07ad79b2d1bd01a540c1affc8b5b8a0ad323b1055d645919867571c69) |
+| `0x93579278f379D2CCf20E3Ff02132C5adf0696665` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x889f12be0b778db85a3e6f57ee6e8e68aa721f3d96aa6034d0c9e131118b06b2) |
+| `0x9397a1323ABe46E743B42856642942B3795ae9a0` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x011a89bd8fe7a5339e0e9eb02395cdd05605ccae61a7c1b6d142692c34cbc08b) |
+| `0x94b2bC88F1d6976F3683294d47BA0D2d9F8de9a5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x017a913a747017586fbc645338544db59825675526dae1857ade8ea806e3881a) |
+| `0x94B35159efe773D0dF8ebCF475113884e7B8F2e6` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68573c16fe6a29ad03538b8f65d963b8b7f34f817be9ad7afc84fad2922ddc97) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35db94e4936d0f4dd119e3530110b8ff1c7c20e9e9f6f151aacd229b8f1170e2) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b9ece305924fb557b7209a9f850b1b89ea2a0528b27f17843ce1f6e78844922) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61d4886a8024f23d77a3b92644ddfb45fd5c936b4959848441bfb08c5be0b6a4) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae7aa405d88ad6bbade9b12af8bdfc88c104c381130de1df09e0ee75d659ba43) |
+| `0x9c6E4f5536E4992E4D5E75AA39d6c2A1aDA7f6Cf` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcfc136c44e17d06cbdd2e4284884456978999d34e0b745337f4166903fd4fa6) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdf79ffcdfe80024e912c172bfc09c12150b05324e4c88b2ddc6cb6b33ee5ecdb) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb633d809ab6a7890b7a0a41d1eaad8d465b9881498ad112ab277a813ec9ce95) |
+| `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb25f71f4079e14fb8d4d36a24b672ab9303353808069be6cb65e19d6ac7b8437) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3eb2a39aa32906bd8c1e02e5b3075e786c813a3d014f156edb70c160bb2811a4) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x087c29de5185a553e615dfd221e01973297b0891bf5bc23fb7e28687cb1d0b0a) |
+| `0xa0Bb2dC6d6ABeEF21f9311e8a030f9353176AEdb` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac1b9de7a54b90fa6f83fb21d1c1099bc1a1406aa40797a3096215f4cb8fee82) |
+| `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd2eb349e4d6c8621323f738a977fddc9cbb0d2421d8db0c1d733a028e60852c) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | C. Charizard '16 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0xdc82a603ee21437e5d083497ec22d0a138bea92b7be5a00dba8ab4b4c82bb7f8) |
+| `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7fce34a3aafe9233e0f12a6c311494431cb6902af76f19130c2c9c4687096310) |
+| `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9c8cb569b24886b59de37181dd1d2a2defb6d517afbaf156b9c7e0a3fae7759) |
+| `0xa807cb55c126F7B2766C3Ae5d9bCB2B4ffAB69cf` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc8e93de598adbead9a94be32b6499d7b220712a999f1ed578b58b34bda2d757) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2936a7ae9710d6da56471287a86ebf5cad13cdb1a7728998bbf6c991d78a1c32) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb8b5e2e54b025c977f6a5a0787f9070593606aad53f88a38682676783dffaee6) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1093df7da9e6d495ef2a19759c5548d21d8504527fb04c4ff98b5d01cb345df0) |
+| `0xAF6fb7F274fE18411c84765696d14359972d5Ef8` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x05be5aea9334b90c08c9c6c900c5f8f477d6f170c6a9bcda0fa7e7a44cf3a95b) |
+| `0xB0175ee089e5a27e9FBA8EEDF4b81C2Af12471cF` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9834e54a2634c92242196b5aff5aefe64c2390ba847c602ffaeb92e8056d0227) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8459b5ca97743213a3cd32feafad1fb49c0957cf9d0adfa32fd3fe738d0ee89b) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddd86b873dc821af63a68abd0d0354a4b9de14b1be65eb2bea0144ba542891d7) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64352e1bdb8fc31248ac7cf5441d2607b59b8753904ff0e922e73b29bff71042) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78160f3e45edef573ef59c36307708161d8c57543892aa1aa9122d95225559e0) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab03d47ff7939904c1651cd3c45602f7f2cc1a12a0e62a21dc155026d7f7e759) |
+| `0xbAf592fE279F1864C617a1664083A5af35dee04e` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fc1d4f708f5e628dc983c41f11d791ca968a8f677ffddfbbe2b66d30d19d404) |
+| `0xBAFC617BE702371a1EC9dbf5d688013fbBB91fB3` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0abacdfc51f3815d915ba309034eebab62290dd37bc514fc707c4a682041e4ef) |
+| `0xbb2d41882390D40E718AF76d02c0B1a60aADc4d0` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cfd6dc18ac714d9550ed95f11df9191983d0b9ff8ede9d49014f1bd6b434d9f) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3b61d198d15d547d4f2069ccd3970f6849e5c7ec41994031a6ff3112b78a3fe1) |
+| `0xBd23Ba386BAF796b6526e1670D9dDdF1f7b15Ebb` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x60c6373a604bd1db7bd8023a169bb5ea12f532786071801ed037486cca4106a2) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf3074e1aed2621a8c1eec87302c59a6344d4a9a792e1ed1f6927648d6774f51) |
+| `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce3d763724ceeac3997ffd04e010a3c93f0bff91daed56344ca049f9f538d6c8) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd4f469acc8427676df3d41c1c4387bf67d2a2a576770c0b79817401cd048696) |
+| `0xC378424Ba8D7A47B0Cbd5e41c3b63F13d910e751` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x426028bd1c0c16bcbea4ababf162ef32bd007ba8da405269485370d6e190bd96) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x273de2fba2ded985965fb8a3839c8e958cc851101d3380200d3327e5ebcd4066) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf00e7f0c2d0d67f90af9a969e2a9932facf7598b1a307d146467a7d63fd59236) |
+| `0xCA0257756a468A595e420Ecf8d3ba3fD360Cc252` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1c1dfb21d56011528a10bd3bade73c539452c3907a733aac74d914a48dca352) |
+| `0xcA9451e7A18060710C10461Fb105146a9516642B` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2aecc53bcc7bc1a255d889a2d1abf7f8fa3af8d65a6a9a667f6945d1095ea40e) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4f8fb1896868678a559c33e37a8e9c819e1fbdd212ca7700fa06684be6d11f3) |
+| `0xCB744B66c1CD4cb936047413E6C5e73a2b4A7daF` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72c7d9ab08f559ef13e23620c0bb65147633cc37294efe2a761e58287dc8b195) |
+| `0xCbc427B68Af2991b0690b6C8374600BD5376876c` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75f56387a2ceb8b0c084e374a358d5fd8b1e932ae3b002da78aeb98568d25efd) |
+| `0xCE96350052e5085874d67154f388C064b4B34869` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x64ff4bf08eba0150fb65bbce2c4c1ba7168d1821f4a85ddabf60971c1cccd0ff) |
+| `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x049fd746aa358b34dd6e20724319d8fce3f7f1b8eb6ec1790fd360e078576fd6) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b5129ec91e907ca92e9d16af021ca11c333f06bf63cf68bbdc48766c789fdee) |
+| `0xD14FBa57D63108B00D73182edcB6fc112b3d2D17` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf35406bbaa80ef9c6e91b02ce523ee4c59132fc5814138b8fae89f459ba61896) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7408f2ab952cdb3700049d8bd380aaaabd48916c2e70bb89bb6c22fb042e3dc4) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3a710a0a9ba988b95e9f504f369da7a69fcd4bca19a83a508003f77a9a5a734e) |
+| `0xd2866c418E0F76cA69bFF8b46E028c147E268318` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67828410d91cd54e13f2deb08c0b286332ab23d7fcec5efc33ca7c8f557df3f1) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6fae8a1fa3c5df46627df36ba0a8a7abe6a67b0c4446479a7dfa8b7c2aca528) |
+| `0xd585c8840ade66a0f314402c649215792433415B` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77340658c294b68d12ba7f4f8ac4addcd5112f01c5e3abcfa15b5efff6b17582) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x19f5d3ca1d099cd96657609d6db0aabfc5056dc4de56f930e64fc8c3fbee37cc) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc9702b10db622d23451bb9cbe9ba959651c2a334093825888f524ee372348888) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4582c48fb450cd44aaa5e818c097315fcf700ebfd46bbb185e718eace8bfd848) |
+| `0xD8027CDAEFd40dBBCC49026d611C547bE7B78C9d` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5c7bd3236032c359b96a004940232f4cbfdcd7b66536b38f85e2f772a0ccf280) |
+| `0xD8B1883527a0e755876018be98b68bB37bc367b1` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x241b37f6dbbfa0f91ca1a61bdfd18b70500b00bf47e654e348160ad827aba6b2) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3407517728c55c622c37fb6dcd34846c9abf047be918573f38455dc4052dd4e) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe740fe22abaab40151a560cdb6d85b693bc223126aa68179edbe6f4e5e392d52) |
+| `0xDD37fde3e8D21F7Ad869a93D0c9F9CFF7D8A126b` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7d449429c435fb2c505fd99cdee5556e6fcb27fcd0c8ab486a74d04f29e73dd) |
+| `0xdf441fea96cB5b26618C6990aEf7048348146735` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc1a951a352cbb90ea8897cb6e13ab531a5b6007d81c833b78b18331796d4241e) |
+| `0xe25C97ed5D0f98A50a1bfdbe0ff681932FA2D1dD` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17ef2e46c511564b96ac0dea0be31bd0cbc7d069f682da9e0d2ffc3caa278c73) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8204d20c50fa86a1138eeb490b2d1b9f132457279da5e5a81a47e389c3687a1) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa914912cdd9a2f8a254af75f5bbe1da21e8222f2b2a13ec61309959ce16c1451) |
+| `0xe592E0111a280C48efB5f5476cf286d1459F6FeD` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7db9c2c1779aff63bf4d28d13a3cd6c518449e1cad17118602897c76b72fbb1e) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd63afbde04e7e2b6990d5b75bca554ee6b09c4f7d0db93efa7514e29eac83dd) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d6bec5c592c6e777a4169dbca420040726838aa3f33f428bfba31159657984a) |
+| `0xEB3FE5406562e58220b1bC9c47419fD904e4b93c` | C. Charizard '16 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6ab782135fa7005453f54f7f43a20d4057ae43ac1d5403aeefd5fb4eb784769) |
+| `0xeDdF7015A35B93F2429D50a5c754a8193C6d2338` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31bc4f877eb9134ac32599082ab061fb825cfbc3a3982b6c309e4f3ac6448606) |
+| `0xeeB48F50F8880481B037a94EE51e6044fcABc6CB` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4952bc2a2b7a813f30003d82fe68a3d34aacf2465a83abbec3b80e1acafa3c4) |
+| `0xEEfBb6649fcbD30f9F9A99055e2F0Fff651A000f` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecd0a2b53721a6c56958de2d71a025b840d9a61f40f76f553262233bbe61f58e) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27a1cdcb69dea4683e4a364869458fe19bf8f9a8e6426bc6c8b11b24bc6a9a3e) |
+| `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbea5eccb80ac37470e9a3603f2bfae822dacfdec9e91ec2e48439889671fe710) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8127964149880becb809c989a20cf071d49e5567c842d17010e28bce3a5eb664) |
+| `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x452dd04406643c2227fbbd11c6dbd2e2a606e8c10915a6ce314e6eb003519080) |
+| `0xF0dDf63af2D313eaCd023C40634a7e5Fd94c54A0` | C. Charizard '16 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5b162e15d49049f67b6a51fc37a21ccf79140f2ffbf21d8a8572e34309f487c3) |
+| `0xF19aB47171D33b83dD28ba3e9e98778a92b19149` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9204b8c0017e60606e9791e8e571de62376d8ceac27aefaedb0aeb9131aec00f) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d889e52bc5b90921ea4e73d0b45ceaece7b31d8edbb49b3d398b853ac60d744) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09b829f7a8e99eb9d6d2400f81fd87ce69a87e544ccf380744f357e5db6b1299) |
+| `0xf54f8ccA72163B94b6628755F1Fc6026228130De` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec164f4706b9bd2e75f391d858224beab2cec6210b05ad92874ade6df2c2a193) |
+| `0xf775615a4a2Eb5e0cD6968674E97f1BEA86DAAc5` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35c8832b1e76a26468e7fc46fab0585e24f94e0ef62ee82c76c588f08c4fdd7b) |
+| `0xfaB829C88CBe5Aa62EafD06f6cac8280037977da` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab285cef04a391ea1cd4f9dc714e2a049db359ff5c423023e326364eb1e5ecb6) |
+| `0xfD8b6B9C954B887802203824AcD88818e37F5608` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8e4ace5a8fdcd56225060c7d4b4d63070d1106e5423c2dc19484ac884185326) |
+| `0xfF543C84CAbA16285d7b4195a735890756713c5e` | C. Charizard '16 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad25020dfa7720a2585f42a304e2b827e9f684e95218102b9a11ee5f7348d4ef) |

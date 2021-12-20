@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | K. Murray &#039;19 PSA 10 |
 | **Internal ID** | 274 |
-| **On-chain ID** | 84 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc3f-452d-be1d-e61c60f60c94/fa02fa8d859f00eaca0f2b0d63389581f6d6fc3851c6385af56ea875e989cc97.jpg" height="200" alt="K. Murray &#039;19 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,47 @@
 | 💀 | `125` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
 |  | `126` | `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` |
 | 💀 | `127` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c551961db4433ad87405c8d308e63a76ea7f584b6155d34289e903c03b27800) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfdf6fb1340a137890a4915ea7b22baf986eb21dd18f50dd06fbb3b72f3acdfa1) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc46de96f3448115695b4adb5055ed103386258a524a92183140f31a653655145) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa294f2c6066d6fd850710568bb34de2cd3df6065573b2d6f2e735658f936013) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0ed4cca5250759d4053cb914e44fb45d90cfaef94f24b7b52ceb20fc2d7dc985) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7dc5e77c89cc3de63d7c274b8e87264b5faae7d04b9c4c2e4b271391a2ffdac) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x086145d33d966a6e7f3d3a65c471140f89554599bed5f128bc2e85fc89c8ce53) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ab21473549c40dbceaeb12eef2628e610df6117f47ea90176b36deee5cde051) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x999eb69bba80618d22e62ec2d656312c19aa0107d7da1a85c26c46427da0eed8) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2c62dddbc42900fe611180c656dd453021da807fe723b9e8f076a8a2828d02f) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb2bfbcdac72cc1808363c6992d8dbc39ded1532c09342aec4eeb65f90cbe26e) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | K. Murray '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe385565ce98afc983fba856462331b29cfd532c546ab5321bf64d14fbcaa0320) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94870ecbf5db1db0358794a6d58bd9d8a4dc02bdcdf2599752d4e161e6728269) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32900ae3c56c6b968488b8c584c388933170e84dbf720880c4cdf36018888f95) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x340dea16ee7658e29954cec769a3d75dca3f8291716433ce2ecdae121fa3a8a1) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | K. Murray '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1e6b22defb24d8dd525a51315e848b3384d1b9a44500440c413a66a9e97caebe) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | K. Murray '19 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x881084d773a2e0bb042874c900208a7061f9bdd59b97449a6d740091673cf0a0) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | K. Murray '19 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x868e38e764bc415c909495bfb8c5f6d5e176c09fd8ab74cfe4cf3e449d244998) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x394d65e0607dab98da53893d97246d72ee2f140a72d6908d8c92f77cb16de75c) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc65e6b1bce53d98c6ef8ae74db4d2bf02147646b297392f001ac9e7b018336f) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4552b23545135f37a06971191bf2876c4be3af848a5616c4eed51393aea13c30) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x27920298dff3679d1d232031532b750afe49027c04fa581a946957655812be94) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7b6feb08b75492d60cb90ac3682829eae91436c787a35d2379e2ddf3998daef) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | K. Murray '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd207670099a1c27103726624d3fbf38e6814e020a2b92c3ec6282c93b9d249bc) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x177e29cb96eb36cbc5c245484511403ef5bbab6bd461e041625421eb0d1f14ea) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcec51cfb338de0343ef9593575cf795f5ad448cc30ed480d4fb909eea12fa4a6) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed313c6216de0d55fed817756e297a7927e3765fa66649714622bbb06f0f386e) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8d36d35800c556068affee9090ce44e6167c3fbd63d2394fbf1be1c95a5c6ba) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2b839ee664f0743103c5403a74c6dfadb734eece586bb6a4e033d541a1c94ec) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xed34af720f542f21082fdf42ed8adfc1b10654410102dd4f9fb8afc2e79ac574) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x589159436561eadc8e2665f6ab8a866ce92952c193f8ccfa409415a394baf840) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcec0fce8202e9c9cfa86eacf38803174efb989c9714c4225f53a5ae1214ac592) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5498e51232494d67df47e9eb525c81d1d0545e08377ebe2158d2de81fe35c16e) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x599715bc1df945dd6a320bcce5195c1d65a969adfef06409c2171d951206fe83) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | K. Murray '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xebc7edad08cf8347e8a40a992823f75da983cc2c4522069e8e435ee66e451da4) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36ba347864041d3df5bdbd14987bd8329fe2b537a65500d180de601d006f1b73) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd312d104b88a8938e10056bbce88ea66b5e024b49efe0c1995ccd0d2345fe2ca) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | K. Murray '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaecd6603cc26ecb7dd92bc1035da45cde025bef9b99a8483761559a9e41a8e40) |

@@ -7,15 +7,16 @@
 | **Started** | October 22, 2021 4:00 PM EDT |
 | **Completed** | October 22, 2021 4:14 PM EDT |
 | **Tokens remaining before round** | 6,144 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | W. Gretzky &#039;79 PSA 5 |
 | **Internal ID** | 250 |
-| **On-chain ID** | 60 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2d40-4f09-b8ea-2fb968d72d30/3f124a402ae88c36e10e01765dd82f3a0644088a2a5eecba6b51ee81c0871c97.jpg" height="200" alt="W. Gretzky &#039;79 PSA 5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,196 @@
 | 💀 | `509` | `0x73d5de71c22a1DCf5eE6cf95e25C2046B0fB2D64` |
 |  | `510` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
 | 💀 | `511` | `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x414973db79515aad587dc07d3055fecb926fe3907558b43656dfd056a8a7f435) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x709f3d119c759a04a5730d872929c1183c20933a381de7be1a0ee5466ce2f161) |
+| `0x03AC0e64e90A113c99a25A73c00Db898deE0164A` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xeac68b2e2ab8e4d126ec08b4502941e959e12408340a1b8b4fe5882a82fe5cdb) |
+| `0x058047A4C899c5E7c2bE3D08AD198C5A4161248a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ad01bcbbe98340804cbd7f83d664d81b25d4451d157ac6be6b1b960b928c780) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x757ffd4b5cbbbb1cab6ab6bb10994b5acd334af80df3755a5cbe79970b818732) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | W. Gretzky '79 PSA 5 | 20 | [Polygonscan](https://polygonscan.com/tx/0xd83ce64efa918198c4874c2326c0eb76433db5980e8ac37bd59de673bcc5f9f1) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7f2c5731a07b82ca3aced710379d02a0388a023c0db28e19b6efee933f5bd6e9) |
+| `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5813e7acf785a620c1122c66aca0afaaaaf22af6a292cd223c79002aaafbac06) |
+| `0x09b19DdE171fcc8E270742cc6f6b46c9A63b1f70` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9725b6556d2f8327bdb16d30fad63572fd2866c75402de82e9a31889e1cae108) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47d615823ce9ca687ed08cbd0af7d892bb5335e3287d7110afffa5d4a14f5ab3) |
+| `0x0C40c84a27561B8Ebc4d1d1f7318B3d0AF6c6588` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6041da03d95a59007bd3000d2f328f1ad956b5e5042ce3d1a6bb7d0d33181db6) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6d29a2eb4db5f7c32584072942bf82f2f6adfc2c23eb0fc73c551295631f6d5) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5e716fa4440d3d8d175a6d27e5c987fba0b940197469421cbcf21acef60a59a) |
+| `0x138810A0E026E7fc88De524d6e229777a09Ddb82` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe4194bd4f2bdb78263f6fbe136ffc52b78ed4b7e7dd5879544b7e222246dfbbb) |
+| `0x17B31a13650257F4050071fff10de860606B43Af` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6254926ef57861aa553e028f1040dac7f5d483ea93d02ce62f2ff7f657ce0862) |
+| `0x17E411390B57D6f6bA8952A77E40eefC2969C851` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84f4b89ba29c213f6d49f2ce1f8d66de9d790f29f6a5c8721066aeda941b4d37) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22edc1cd58edf9253a31cc553b41b8169f555eff000044c1a4b49d5b1ab8fbc4) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99fbb971da8fc972a9af22e7e2c901d3c418fc870ac3754baafb234cc6276ad0) |
+| `0x1C67a68B4BcF49A263eAd348B2d897F083921EF1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c27c80ae3191331cec46c185fc06038f102cadaa3c69d7183d95558cf306a91) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdf01b6a6075e8593e507aeec8a95411bbd57197d318cb0134553765cb36a8cb) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20a4412b03e7b2d871c9c94e90623b607edbfae982756da1b423685f71ab28d8) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2fa9c6519914c44960d02ba31e4e3c787f54d7edd77875c400989df8d6f996a7) |
+| `0x1F67848e80FB9854cc0D16A184562467b0738BE5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb713f794f9ed76294a67c3ec65d4d9c61451679b34408a026020eabf79c57746) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce7768289e5a589d63f0b67125d5561b76c7bfe9cdbef9e77bb996025021dc7c) |
+| `0x20Bb1aF413c0b8adc26297255448eB1F782895FE` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6701a8fc69ad9664dc8435e9930447b3014a972fc9f4e34a1fd796c1c02e08f1) |
+| `0x22Fb3C5C4AE7De520477d1E329a04E020679c37a` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3ffc6479f2471a807af23d4de27fb4b3b18d4665b7d1116d865e6619cc97ce6) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x083e0937dc4f712f74d50bfaddfb4dd927ade423ec0cfbdc4b6330c33dd9d2ca) |
+| `0x280dF9E3BCCdc5a0f68E35C7728860Ad3d7091B5` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb61e818b3a4bd5894b62ae9e6b81fabc63f90aae476ee3ec7c0ed6bab7f893fc) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f9a8ecd79fffb2587ee7ff492232b4f88b0e6e346f728196ff9a0f120d76e11) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x802371a0d96c95651047ea8399a034dc8628a6feb60917ccc1570983f3cd4cd2) |
+| `0x2A9F34E2387F8e586C6FEdec4E633d210011d118` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a22136027e19c730c028094baaae74a0f9fe5269d89b8e56a3a55f160a79e0d) |
+| `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x375c9db1774fec11d711af3287ce26f0c99e187fd17f6e456420b76bf3d00af3) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea1d3059af2bfc41d64d978e0cae26259a52e6e0fadceee74b4a93b9f099857e) |
+| `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6992fe0dd84c35f41733872dd1fa7fc6bfd857b5ee9f857960f0692fdac72d85) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17f5f3450a80c3af79676274fe729b6685fb2305ef153735175e5bc1821543ea) |
+| `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x080637710f012c12743709668f575246b22c272ce25087a3d3388df35561fd3a) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c8c5c99f3a0e70341cfc69dcfb1c765641cd7e97c1aa19fa0a0c464d663c624) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x270948730e553cedf316648ee48b6fab04b0fcff51fbc51d06e4947361b57775) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfaa98bec3c941c2d142a11ec6604ddd3fa27420b8d9e75723c525d746faacdcd) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdea7aa362be44ae72ea4b2b7bd8ce8edbf39320c54dbc1f27525fa3875da4e9c) |
+| `0x343a90534A893b671b8F69171fA13edA50Ed157F` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb578ce8151dfee88cc42cb1eba5262094b959cc23cf2887610cfd4cd9b5d51ee) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04f76550e410a285bf688a2eaec953f1311440e6f3272d87837e67c70fd78d93) |
+| `0x35aD407dD11C3cE74f6167E407f7FD597DE6627f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bafc644738b855251a38df3237386fd6eee85d1f769b8a3ec84555608229fc9) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc4625b120e00e2f1c2799417d7d9afc65aaee2d1b72541cf7e87cd7698dd19c6) |
+| `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5ca674bd2c0ac0234da04262b667b42de842f82ff45619adca8cd80cd164a04) |
+| `0x3B9fEA7eCBa85A7083435A08b0C43D6E27d7958a` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x474042d88d34364b6ef49d50f866bc2ae3db4b5a78c644da6a76aa7d3f4a2d2c) |
+| `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2fae6c0819b2a2b8eefdc5d9f851b6c7ad33da8f1eb38403d8f2231bf6f9cf2) |
+| `0x3fBb620dD84f81Dca27AFca4087d179ae377D8Df` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf4c92f5a2d48f84f19ccc93767fb0082d9ec3aec78bdca686fb42a2593ba767) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a056c8c4abeb74166ac7ef3924edf70e66ff0f255286932fcd3a8dadc4eead9) |
+| `0x40722604E09F70E9D13c3cf057929CbC009b546f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xede39275b999a41f152089a40414cabe62a2e5c4494d99cc6ee8bd28c51bacd3) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcceb4ce7a79a80cdb5e02f17688b818e561fcd4d709d474e4152cd9152a5b8d2) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12ed490e99c5f7c38770ebf9a29c146b1ade35b1bdd9679f53e945e19b0b4efe) |
+| `0x423e8A637e95ea31f6a3fAC672fd92dF119478b9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf25c6a08efbe0eebfd66240627bfcd4edfd4358af02a1e67e10616b4a15edd37) |
+| `0x457F14bAED146fBa11a3FcF0479D67Be020ba414` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5057059d3e8c2a5df73d690bf3410b020c7d82d6bc53866b631afe28a2cd762f) |
+| `0x49133557ABd97c3A8baB46FaBb9053073bDa35f5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56fbfa27d2bb0452eb35b9a1c4419f6dadf1e1c838cb82d597545754eae0e9a1) |
+| `0x498c68a16D5072Ca43f22aE5Dda49354c7555180` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbac606b8202fa93033c9e1915621748a7b358d95f49caeafc3b7b0058d464ccd) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa8e744e51bc59eb445c52e0ca938db6426afcdacc83cb3203567fde08fdf1699) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b74b50f53d168ce83e2210c3506987f5f75e52ae502e1d713c8d5cd840c46c0) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74bd17f51f003de5db333240ef38a1783b31e6def3f6920408125d79b7b70801) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96ae660629e9b5ffab4193cd0301ccd1611259f88b1294817dbe6a079994c32f) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31592e7345a644de15ac589ef4428c7e0d0a5340d5bf55c5db57ba97fe2df82d) |
+| `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x450e859f9792de18639d97702d2da2dff82303a09692e30bd163f8ede1feccd5) |
+| `0x5682659c51DE85A16F8a27f69339C01E61f9Adee` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x469d38da70adb78a572339e2a7c9a1ba3192b61393b2b1858d5be176808055a1) |
+| `0x570AF359d7350aB92781efc88156dE91175751C1` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8fda3ed6b9ddb8c945565bf8af592b951591b8be24103e225914b47b758038de) |
+| `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb513d6acadd4ab53c5644c68353ca04bf430f2571bb7f1fb4ab07a48d38bb31a) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b9deb1f3b85389e331a291b83deb9f8050f5c705666c15472f7b4a54fcaa2a1) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x455cce80fccbfe78a5ea538975cb746a9ecb59ed95b1e3ab4b418cb315fa5196) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x931587b351ca36d3d0c8e1f2eb383a5abe8d0f6fa930e7bc52e8b9afc1512e6a) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57bfbfabee22a3bc67e35a26a6184ce5fe9651e807928520ccbce43931fe4c43) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1aefa09abc7081237ca02e98007a4eab6de5d1ed8e490fef933f56a4d61db21d) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x988d1d848ee170cb6d1489e516baed7d756c7ba6112bf17aa73d9f4d3b7ad3cf) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6f4605c637139fe4bba2a80311b539691841eb5588a793f40b3d165c93bae41f) |
+| `0x665B9742659B59Fd9F8d4988DE84B4E011b8a305` | W. Gretzky '79 PSA 5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x15cfc95aa0b29520b7b5e44a6801162c5ffec7532ded6537ceaaf782bca5f65c) |
+| `0x6683bC0e3fBecEB9c792Eb84FB76FFDEbDaD5A19` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63f642d666f9c724cabbde9a1622e8b5af2611a42530e430f6fd5ea82aed3c7c) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca144c16467db1de6db0c99da2702c02de1b4731bc5403edb10994303d94b201) |
+| `0x67BE56FD6CE9703D2A3F24dB6B9b5F1fbd1e4386` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x162d532fafbe06c5c410c1960c9d3fd76585316c5cd1e8d542c1f134b2718ba4) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5df4534cf8b6c3e1f78a19f03f5525ce597f9375fdb81df70f0960f89d8b6f01) |
+| `0x691574D073F52957850cfd7369cC1271407eE426` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08b9b9a742787cfe64f6bcef379a12d182b83c42bcbe76c2c39feba9af841614) |
+| `0x6b1b4Dfe26A82A4272b286B7408F86532CAAa30f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c25890233e16cdb236e1e7d9ab7a4923df1fb7a17cbdf3225969d31d90d9c65) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9bd185444bf76d8e9f7ba48a8f0dfeef370f66b059111c839655a3269c30c06) |
+| `0x6D8602f5cebcAc33A89b98718AB6460a6FA8a9a3` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbdf6f03b51f4d5c7f99d2d25c7f771d0416fbbd4d646afdd84e4bb1ef1eee76) |
+| `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9146ea8fbc73b4740252ddb9f2e5ca9afdd0511c82a23a01100ad4930450435c) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2ead5b027c447b62f57cfa7c491ee14be8dd9cb80010768bee7561be4948ed0) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1606f084508ae30904bb67bdad6c3b2bc54eae54258830219944c924d6903dc4) |
+| `0x73d5de71c22a1DCf5eE6cf95e25C2046B0fB2D64` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfb479dac9a2ac9288a2469eb38f005e7f67b08bbe031d3ce6ffabf66913efcc) |
+| `0x7407005bfa5422E5D3ff2912BCA590e7aaF2D5A5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa9aaaec78149cc62239d2cb3d71ead6380e319b8451b063ff4acf946ed03a31) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfcab3129d54183be45285207ec0ffa975377eb8549f18241e4919e6b71fbc56b) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc546b784c21aacd24ff747e8156ddb4b4c19c04198d137795966deca75476123) |
+| `0x75f5239E80526936257dA2eba1dF069bFD32f524` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa8b537bddaa98230b130c2c319bbd725ab306f11e196ab63dfa54d8c310104a3) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc0c5f6be4159b38856701751ca07701e9a7c6fcd00cab76c9c3488597480699) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac84b815910d06e2b131c2df88f88713f375a95b749599a7dd822b413f5aac9a) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x870b049d462302556aea34928c73d2686c02c16b915aa8a3bc646bcc751b8bb9) |
+| `0x7Cb9D02a7f3c6629Ca47bd890Bc5E9E9386Ec30d` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa5667523361980557f29d64beceb2052302db56298b0dcff5146dbd867501e50) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x025662d8a140cbfc8ee9c5f242ce9d333f55e71406d266b58e8ed4d94bd85a3a) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc4d0fcdb0b629a991df3906c66ce269518ad544b0919272008e6c5aade1eca4) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9a0f30db14f27c47543f1d44abc183172e311d506576240ab3b8f1e30056fcd7) |
+| `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a680d82c2773cd234443a322df56ad082ca1a722dd156c4f334124db044b386) |
+| `0x84f9F8De9a299DDe16c974DF224D52587dC08542` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa78b965887b29513c6c42b941b456cff42815d7a318ade66e0c6a7e0f645032b) |
+| `0x852177fBe3c67DF48b875E655687983fF9a4244B` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47f8227e6bd25ea0df206a1995402d9201b6be7d4e56fa4f666e500602d72da4) |
+| `0x86176F968eF30C85C0321425B4e9C16B5A1A4B49` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a17ba16782e4a3f33e2f0be0be3eb022b66cd1400d71b6f677a0c8a6ef3ba68) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9822225a073b9827754c0389e1d64e617d94d2e90107c36d52cfb379303f6f2) |
+| `0x87B12BDEb178Bfc4c01a3ABdc6184040dA677992` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x044eb6559f6670e84c2a8b8d11df8099efa12124d475af29d2295e64ffab2270) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa227555edeb2f1efab8924a50e99be53caa3e6aedceadc3d333d4904e346c7b6) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x785bb0b9663a35418cad76e416c6fad6617054d2024d222d3e1d9367fb18020f) |
+| `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc92c2868b06f62d0eb20d122ecd2fa31b1a02ce9a342e24fad694ef15af2108) |
+| `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfef61b8a96c303b7cf40177f35148d0f70ec38c6b9f468a9c2d7cbdd85299b3) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca4b9086bf1f41aa5560593a759a5232bbe4ba91835eac81eb5cdc4915584817) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f4fdd469ecd6a33abb4e7f062890430798652c80294332051f3888d08646583) |
+| `0x91E6e5d7E0735eB5435e192A280Cc94AA7Dc7472` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36a15c1c0b4d4f41f5da4355f019b722821ee3288cb8887f704184bab6497d32) |
+| `0x94b2bC88F1d6976F3683294d47BA0D2d9F8de9a5` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6cd2f3e7c4294e96a9ec2bc695931a8701c8d29b717f14ab0cdd2788d602540) |
+| `0x94B35159efe773D0dF8ebCF475113884e7B8F2e6` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x97623684a0e192eadb5b12c8ce8054ab67cee04076d10c9c08277bde42c50515) |
+| `0x9616661Cb428970920EcA949685b60c387f9911D` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1ca80b05b4e9d027126934796256d12db458468485e1ac593a66ea3e0525733) |
+| `0x9700629EfF6a647FF54B7A30C0587012a9B6c6DC` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b9a7fa2704077aa95bf152f278c642a74d759ddf3655d26096c459a1c9530ee) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf47634f0cbe4f45eecf3f4ac29a39430bb8197702b1f577552a6d8eea5ada86) |
+| `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x562e738c053b4ff8e87a30970b5c6afaa9208f492bf2d16162263f224e722f53) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x797e6568bef38649fe795798255eb8b5fb5596b9839263948efb7e5406750e51) |
+| `0x9b7226eE6e4E1C37CfC7EA04A6eCa20e614a6f46` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb17e638f36a54a7badc9b19c4aaf3e64f420044dfb3dcf7e59bd2d326072b7ae) |
+| `0x9C3c75c9D269aa8282BDE7BE3352D81CC91C2b6A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b0d82ff75bfa8803918babf6874531c6c0881ac4daf4a162f217bcc5fabde99) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4535c3bd310c864f3ecfa26a2ed84625d6a64e51ab3a43e8ea09a86986a24464) |
+| `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde7c3edee4f6e2b994e7e494283f340f873e234e7a79a4ca58e6c6dd26286d15) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60a26231bd6beb0818aa33ff5be28c9b83418bee253d0fe7ac75faa7d9d710ab) |
+| `0xa2116eB15F9DA56190d5Ac7f500101558b707968` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9186d8c1795a1ac8736e5cb96a6e077e3532b52146a74ec5b292870981510c49) |
+| `0xa34d20d8981fb47eae9354AdA5bA0C12C967c4f8` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80427d5ca2691a9703ffa2a4af9337ed73b3f107b0321e99582f9a946a68a44c) |
+| `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50d18b5de8c61e504ef7bde2e6e48b8f85c4a3308022f651fd28c73dd5d8369f) |
+| `0xA5B768CeDA1f19144646E84354A0F825b144BC00` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa626172141ec074811a7ceab8fc20f854a91b3356fbe5507b589bf19f7a0096) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcff22c08f3d59bb79729f72b8f92b2364988c22f550fd8acac54e5d3726a7338) |
+| `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f2b23fddf393072fc26bfcecece77918f006026284513f1b311ebb9854ebdb3) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6880111f625945a50bc76e5818ab874b74f71aa9f2495c792daa161424e193c) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0610c5c7ce8dd2bd1d5c4d75c955d9a09b13e1268da9ec3f396fa94c8a242172) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccd80d7c89dda81e96419f4b90d16ce92da302ff6430df4f799fc0a73beb60e6) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x180ec4cec2d6231aaed30305431d6ac99a2211c429cd3f9afd931870dfda9d39) |
+| `0xb4E5A70053b086525aD46A10014586474200E897` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b7fc9cda0fc5ec59cfdcf4efc5578cf3735d9acf93aa567d6b14bf3edb92d15) |
+| `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd74164bb8a78884865754e3790ed16ee5e49cdcfc7a329c8d789c8bf37906cd9) |
+| `0xB8AD1b5807FCa2be190Bdbd1AcDA33Da55773a70` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b09077e4bcce5137aee29804befa162afb1539eac8aa08a8abf78c04a97e03a) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeda4abcb9ada7c1168900ebfd0fdf5f6f87d3f941abca7f7df488a1f914189b9) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x146a3aef30df845eb393d6fbc97d93d0362a478d8227ccdf03c83b25042e86bb) |
+| `0xbf184416CB1923F645A4735d7B86282544aF1D2F` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bf21cec4df68a9256e09a27c1cc0c7653adc995e8d4a75a8b7c782f267ad060) |
+| `0xBF856A838D25C2C3d6764d5626544898D75457F0` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc13b2880c88a8ec678b246460b278f62a75f2ced85c78ec292f8e39f074c5d43) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb31a29aff0b154d9b44edd862dcf9fc80e186dd227c21a34addec6b7dca91887) |
+| `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbe93c71ab460216be2654664200fb6881c4ba75c85fee926f9a6591bee6bbb3e) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25351a517cae516f1117b5f8fc9bbd3b3256ce0ee97acbdf56eb55c2205bbbd0) |
+| `0xC05020D499ae910a5374745C5f5863D8fb06BC29` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4cff8b6d795f1c30a7585d82009d482217027f72591f8d2c45d28c94a914ef8) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7494ed31ec979342ac31c6e9b38ecfedc4b1dc76371ad03fbf705a7876268bf6) |
+| `0xC61Ecc09913Be00F9872Ef5Ae9F411dadb90519C` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb54d5278f716d8fe9ec1f91ef3330a57fafffb584ae524530bff9de1341ebcd) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x656b9816ea993e4ba0d545f8ae48949e9efb39f86128f92fe9b4a23a5e9212d4) |
+| `0xc74946fb774225eA9f6c593F7cfA249648761a34` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc54ad4cdc86d720ea9fba0310e28ca85a834e2ba6eedf0f832eba70a9ea06176) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3be6aee2d3515a5549e629f1f65c2a553491a6cc32395578944c324b7ef4f48) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x108aeeca91fb00d7c11f492270aebeb8c3a2631cc2693c1c406ba3942ea3b269) |
+| `0xCB744B66c1CD4cb936047413E6C5e73a2b4A7daF` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c446a849a9dde654a09b5dcd0fd4f158a03eb1c0ecdcedb75f851a38e95d875) |
+| `0xCbc427B68Af2991b0690b6C8374600BD5376876c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1699100c4968bc98eb71e953bc7760bae7992d01d4d7487fd3f8d62bdaf8167) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc28d3f7e590c8493d3a6a655cb9686dc90f54cd4ca1e62caed08e5eeef9f9354) |
+| `0xCE96350052e5085874d67154f388C064b4B34869` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x020178ca3af59bec988828f0d60c911cb770898349b2eecac189ad99694430c1) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fdde5079e501a2ae52c2a22b910cae00ae02a1e83e1a5c2d72da85a0f247f06) |
+| `0xD14FBa57D63108B00D73182edcB6fc112b3d2D17` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3da18cb4615c97d33a6e976dc4172549e2ab5ce80e6a4380be40548dc10009ac) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dcf6ca082bcdc53b2d56fafd1df53c58df8b01c45fc416bfe3fb4c2044a4d9d) |
+| `0xd27c5Ab7433FBE1bF40e779916889E5288d8DF42` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bc4caf78f7fcbc79760eaac3ccf653868315b6d6c8843e5d3a76fd2362b3883) |
+| `0xd2a15c0f728f3a0856c3373F5C3BB83c7ce02Bd9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ac0f0a7ea63eb820ba25946045323f60de8f7dbe5b4e624ce3c7b413586cd8c) |
+| `0xd33e35425B6B3BA7622b6427F4A656d32736239D` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fcc8c71b062ea830200c3c584d079ead30085921c3f5ca0e2c749609ac883dc) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bf0433da544b3c14eacf9b776736b9751e5f5c6c62d7feebf186a9a43d5c9f6) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xedc89b2b29dc0b914258584117857f3f716eac3cc9c36229a17e6a41c1cc05f9) |
+| `0xD505670aD549629A67be2C20c12e930599345366` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb4e61c2bd4839a11d5dca696a52a9695508bba55b0d7983f5014ef172e357876) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4abd67e1fa855954e6b2dc8b4144c3b4b3ed4f969de8929d80bfd758d4c5416) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x12d8e9fc6cdb3eeb95c4f03529cdcebf549a7c7afadc57f92e658f4787b7f75f) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x99a22fcabd49d852c6128b1dc94a6ae09395b3d364081801320b1aa23a155991) |
+| `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf15fc1cdf358e8a237207f553409b82452d8a84f033f1c9eaf9b7e151d24e676) |
+| `0xd797000176455865AfF99245399D375e266a788E` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x780836017b1bc659b2aab6334c7c7ee14bbdfd19a11892d09edb7e9bc1e538a1) |
+| `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99e9b83385e02a6e61a905017a40d7be268851107f077c664574a2396c12615e) |
+| `0xdad1d0700271716774D5C08357321221B0b03682` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86b2fcf29c1f6e4d44892cf2d7ddc8c8c227c47905a0f66cfe68cb9136b59132) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xba2a80a1ae263b72c006156c1bd9e2a8a4d2bf9f05b8a61ab40b3889156b8b94) |
+| `0xDD37fde3e8D21F7Ad869a93D0c9F9CFF7D8A126b` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf453055db0bf162cab62b49be7f04e0f3d6a240e3a178316bbae6faa6dceff3a) |
+| `0xdf441fea96cB5b26618C6990aEf7048348146735` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefb7d1b237ac63d6658ebfb0c2ea8eb6ec5c46198b021c4669c2b7b24eb33018) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe53efa362df91ff1558824dc930234c91549ec047afa8ef94758a182b8b15623) |
+| `0xe52fB5Ca83fd467A6ff07923B7907118D34F9018` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c9acbcf18bec12307981d365fcfd7428e2215ac9445d9f5c0b859cfe1a2890f) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd57bd02e80f15478ab08acee3298f4ecd70f00977483f242c5acaef9820730c6) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd231267223cbe55e67d15e7bba1771a0bde8649e5f32c1570cf1922b7daa93c2) |
+| `0xEB3FE5406562e58220b1bC9c47419fD904e4b93c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72a25c2a7d4b43c4daa8f15055cb01f080dfaa60e6de1ed23c79555abca4a625) |
+| `0xeDdF7015A35B93F2429D50a5c754a8193C6d2338` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c0181f16abf1257d40dd0a73a256c11ee60c585a68000c93daf6c0c7d22131f) |
+| `0xeeB48F50F8880481B037a94EE51e6044fcABc6CB` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x34ae317f6e458c955fff46d802693c4b7dcedf4e141fc3d280b310d3972f8dae) |
+| `0xf3Fd3FBB9b9F591c6ED57b415b67aC16df33BC75` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd83829145bfd476a15df0b327870febbf8d4bd5c806053c769e97b5001bbdb75) |
+| `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c09b1419e2cba38828fa986219587e8beafbe27703c6db09fa434595b11a470) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a1567e8dd77551d7617d622a50c120ee41e7c65a3a611f09515d71545861b42) |
+| `0xF59EfA3e6c800071C59D961eD60a61043698EF30` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x116d321695428b6b8cdbec8285b0a9183ebeba670059aec2e1862bee875f4fb0) |
+| `0xf775615a4a2Eb5e0cD6968674E97f1BEA86DAAc5` | W. Gretzky '79 PSA 5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd5a57881e875f187fc68bce5bcaf4cb82ea2d9339a0e48c2b82e1ee541a8fda7) |
+| `0xf86Dff577E923bB206C85Db74b00dFB18b8bC4f2` | W. Gretzky '79 PSA 5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x81811c0d413e09cdbb5787901dfcfd7eef24bb90448975b60355c9e66130660d) |
+| `0xF8c0Bb9e6ED8B4d81496F1e24101747A5c30233c` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60e2326e4a519e6717b1fb0832c04aadb345358eb103aff0217e54ef01f0b4a2) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa026e5912d579c0013a93f3f0d8c7f68300cd0119cb2c808cd7de6e21009073f) |
+| `0xFDfB3279fa343Bcd59961eb56c07191A3e6BD815` | W. Gretzky '79 PSA 5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x626fcb53a7cbb7a75913f067f1446323bf9d2ac7579b0fa8b8f9b8872f5c8003) |

@@ -7,15 +7,16 @@
 | **Started** | November 18, 2021 5:00 PM EST |
 | **Completed** | November 18, 2021 5:09 PM EST |
 | **Tokens remaining before round** | 480 |
-| **➡️ Per Asset** | 16 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 16 |
 | **Tokens remaining after round** | 240 |
-| **➡️ Per Asset** | 8 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 8 |
 | | |
 | **Asset** | L. Bird &#039;86 PSA 9 |
 | **Internal ID** | 286 |
-| **On-chain ID** | 85 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc67-4992-8e23-c953cea68779/81b4a115c170129150787944ba52af0b0120580534fc1998ccd09332d9c38ccf.jpg" height="200" alt="L. Bird &#039;86 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -35,3 +36,17 @@
 | 💀 | `13` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
 |  | `14` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
 | 💀 | `15` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3876972d139ddf68fec87ffc4166a728ff84360afd8c27ad766aa515a6d11689) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba9e46e9e4a4253f02a15884d921e7181794e0a0aa06880165496406df0a8f75) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x333cbfd45dbf387ac8413f2f3f6da6d0e7a33799c21b19f38b6d999151baaaf6) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78912d467998a1c3ae9823755267729ddd0fca027ea3276fd50089b776fe0cf3) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7a29a22634ebc349f5f9ad5cb003c9e47ad44248871ca1a44a4c8f26a626fb8) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24483a545e8edf33f224ee2b2a7e1137331e720098ca895bd703c829a789162f) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x466b77a6b592a31e14d92dc8d9bf517e9d6c5daa4edb883bf5791634c6b9d97c) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4541569416490f16d11ba73b6850940ae311eb65551c81688b67c746a0ba4235) |

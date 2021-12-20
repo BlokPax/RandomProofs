@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | A. Ovechkin &#039;05 PSA 10 |
 | **Internal ID** | 282 |
-| **On-chain ID** | 73 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc36-4b60-8c4d-5e825f80b0b2/0cf5dc8031ba8fbbec55ab2547fd26e07170adf25681302ab93d37a11a345d0c.jpg" height="200" alt="A. Ovechkin &#039;05 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,42 @@
 | 💀 | `125` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
 |  | `126` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 | 💀 | `127` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49dba73120242e74df0d535ea88088e9f55d4661de1165a0d576905303c17240) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8387f54d31337e8abd68a8ace727bc32cb999b5e9762d8512fcaceef224e7621) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa06e70d46144deb95e0cdeff116307e2bc3319c3eec609937959389bbb4bf53e) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88ecaea5eae6c35f132be0682b582f713238bc283b771348f512945c77018f49) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23b11a496b15211a08e77920b5a42e25614cbbe45755c5d950c9db7fd4feba63) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0ba43f112f57729a9799339dd9a501786ebbe6e2e98f3f27489f56691bb7b02) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7fd7ca35d155251dcf569ea88734c2e7fb45c88857fd42597cb76db0298e658) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7512c8de359c7914d6a0f7e3b54190d119aa2d8f229570c954033ccf321bd677) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2f6d967628c3ea994b9d8e2403e0fcf72559bd394bf4e1182767d42885f7f97) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1dc484d06daff986bd5d2119085ebce576590c568bdbfc4602ac69cca34b2199) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69dfb5af33d237a45fc47931674690dfcbcf5cceb99f3a1ab8bc63de1d075d62) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43b24c2fb4b21947da13b8852b9705a4843b91adfbcaed947fb596f3816a404b) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c8837b80b7f0f7dd236d91cc6576c66668a3b1f234255a08fc1a99b29798add) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc30ffdea28a6ced8ca3f9bc4a3aa3e62c776b95e54fea99e1bf07486edb32e91) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | A. Ovechkin '05 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0d93aac3ec1c06e30bb5e7295429990cbe0c5d6daff09a992a9fdebcc0456551) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9af4f25cdd0e0bff377f8d2540f3d08e5b8d4c23f95a45ed7cf91ec5cd9315e2) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e6d8cd22cea00c4206ad73e43c305d0da134262ca8a4d6f6579e4bcc5af2f4b) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | A. Ovechkin '05 PSA 10 | 17 | [Polygonscan](https://polygonscan.com/tx/0x1d846530cf5c11e8c35fa59425860eb1834dc1c0eb2b7bd33aa80c490bd1c4f6) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x034523c654d756af0df8c40af61cfeb2f8f0b027b6ee5159378a5b0416bad08d) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | A. Ovechkin '05 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1e05a6f9c96de6403a5a93d86a42b6d29a8c7d88e7b4169fe34940d4b40bd29f) |
+| `0x8F35E31E31A2475908881B063Be05eb15b7a2624` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x272d633d44c03cfb13789a321a318cc84b05a8f93804765ef3715fd9c05830b4) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1ef8f2d05fe16aa74afbcb0f4da21f4281a2b889f42b10957daf214fe58e7d73) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3cb50cfaf61232439e1e7f206b79e89a49d1c188c519fbfd9f709c449b846fe) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ca275a8bc58746e962df673675999413006d386c8aadce31adbdb0d68c18e77) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0e9223f69c80abb92a6d393e3c27431f88b33268dbebf12b13e6df6a069a886) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | A. Ovechkin '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x568b20650cb1faea696ef1af1b013100d863df7ff10f948519a4f7f5c7afaa4e) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ec3dd908a118a908521864f1f1c62b740cb434b3e1fb2eb2be66632ba6cd9e5) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x392f31b454e573fa43fdc7f938265152dd65eeaf06c13c20efcb6557e7c67540) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8827b834a91359185a7f7f68fc1a882c787f25f22589f107b525470cda63da4) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | A. Ovechkin '05 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x3470627d5408364311575edea831ca4575ac76b30df8fb447d4ff12294213a4b) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x044dc953b52904677cdd8a4011743c9d19b06bafb1d78ac7118d1efbf2f0a93f) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd071fd324e8a28244d5111a2bdef1e7338ce00f11b3b3fe9b350b495344f2814) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | A. Ovechkin '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde5cbfea42b09dc0d95dcf820e3cc080e4fc48e44ea3f5787c7678f69ade6559) |

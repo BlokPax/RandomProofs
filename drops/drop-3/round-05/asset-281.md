@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | L. Dončić &#039;18 BGS 8.5 |
 | **Internal ID** | 281 |
-| **On-chain ID** | 86 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc2a-4296-aee4-c874e92cbf74/01074105ac8ca1e1732e037074838332d07e12aa3309e5015da839141b9782fe.jpg" height="200" alt="L. Dončić &#039;18 BGS 8.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,46 @@
 | 💀 | `125` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
 |  | `126` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
 | 💀 | `127` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x09a1b17d37eb1a45b0d513f99631e7d5bb4c0d0e721a33ec6e51f0dbacfb2305) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | L. Dončić '18 BGS 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb96cec30a970dd2207fb00cf0862efe93ce207f39264b0de53b0b551a58a5763) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4a8df3c07273fc79805e5f695c71e319102ba78ab9e31b64444260661e1537e) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d4effa8af439dd728128a51f0640110bfefc5115ca0ab377bbabe22c513a3ea) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1c5f3de1b69467ee1afce32718c3754f430140937f38659da9ceaf849407107) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3dc2704582f1ec09942ff7f61028ba8addd25e484ade40363e0448a6f42f63f3) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe09c57b74886c3f04c543209c973a2b56e96b02c9732b90c25e66af2eaa49747) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4aa21dbbd3545219e6f75babc9924c987dd37be7c9337a746bcb6e00194aec0) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e56b5f60ab0443ccfe751aa843cbb07d7c0cdefbc52d48d7e3a94a914e94fe6) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4063c5aa5a94b5221de4ee931523abec9ea0d09b89801592b4dbc0355ebda8d5) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | L. Dončić '18 BGS 8.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7d55121f12b439315fcafa1b14a52d0303426ed1b539cd050462860d12b953d4) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b80a635ea17bebb6c4a5057d21e73a3cec5e08185b3cc73428380dea84dabd5) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | L. Dončić '18 BGS 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x83e8eab115f9404c987eecf46230cf7a3d352c719bb62017d64a3dfcccbb2c08) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | L. Dončić '18 BGS 8.5 | 9 | [Polygonscan](https://polygonscan.com/tx/0x5218760724b4208180db733cbc8302ffa39cda821bd025eea331ca4338db4b70) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f5c3b4166996fa8e5e254d4df931bba32c432c577678176f488cccfb6f25293) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | L. Dončić '18 BGS 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x56e1ce448d0ca4139d4403e74158ac7fb0f20ce232634de1c8c37afec385e799) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b723fbe547d57a9488cb68ac80763d5acfaa52105de9fb7cd4572cdee611afe) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | L. Dončić '18 BGS 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x36d590a45aba636abb26b324272be6ea31194697223ee55ee1fc2eebb516072f) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x069ab6928d214672b065abfdbb348d955ae3fe74e4cccaf5615da33c8cdb4e26) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | L. Dončić '18 BGS 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x294672619c4df1099d04f832e2643f21c603f15513c0ade5aa20b9b422469de5) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfb78ec87b116b55bd432603ee6af3424fa5e52e160e62532537059f0273ba401) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b967b1f34b9d268cd53de06f26efb6415003d73ecacf0898e0f2a900045b02c) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0390814740f993efde1c2b4985c06fbf09c3cfeb43e5fe4b4132464fed944554) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc33abcba85e998de91fd948f8f5ca5a1e6b03a4dde022bf4b9bab90c7ad36ae1) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb435f68b028974a84388da8dd59465afac3a96ffe47c001611727e592f8702a7) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd1ce8cf1175632ff8720358d7ac19173264affd4ffc94d0428b604791a610f2) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc76c447016829c42b597eb4d3421cf0d3cbae0b08ab225f2f30eef84b9e7453c) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x507cd5bba7b198b4199dbdddc0b9a5c338f3287302ac852807ad9631c2c9d3f8) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x379471254516d9b6610f56818ff9e842c4e470a22e6e8251863d2a0603e3d376) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53c1356e2c0a586e048ebf7221349c01503adcd7192ad337e9030f82ed6dfa87) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x066a28d9771f3fa2f4e09b4769d6bd9d23abf295d878d8613a7de16270a968e3) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6cb9fdb110e661e9b4f01cfa3954dd091d8aab832bd21c5557649f68428f639) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1b492435693eb3af82f414c65cd9afb8f5a6030862fb174f235256051900d375) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fa00fe73b899be5dee6dd0aa90d172c2fd36465cdd0c128defcb5cd3daf962d) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xda600ea00b3e2f02b30c527ef2cb4e886e6ca8f2df58aedbd4b8559a4d576a7a) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | L. Dončić '18 BGS 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x875c5771cfd726195e5417f312b2d7aefafc4a4b95895bba64b64033eea02cda) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | L. Dončić '18 BGS 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x48099a809f480af2aae5dcfb1cfb68ab010425b9f181230f4595f90d3a8c5310) |

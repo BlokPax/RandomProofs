@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | P. Mahomes II &#039;17 PSA 10 |
 | **Internal ID** | 275 |
-| **On-chain ID** | 92 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc3c-4597-a538-6caf8d01ad49/f6235d901e87e9d7f6139e23649dd580c0dd651f78fc6921dd967778d796ddeb.jpg" height="200" alt="P. Mahomes II &#039;17 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,161 @@
 | 💀 | `1021` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
 |  | `1022` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
 | 💀 | `1023` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x630331f3c893591ee2a162d515592b943bd187c9cd571ea025c21ac4833fee4d) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbae80563efbab0206cf52a29176c625142680b656a0ce66979311f85646b2d05) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c277984cc6550a5bf3a5cc3ccdcb941edac16ca02fc107446fc341f0cc8a0bb) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x50993b4bd63cc1b5e08e96e14de13c554bb2fe91c444ec51dd8b198eb4c577f6) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfad2416230472c81a8fb1c53067f3f9b55f613c4f97ba02661567554fc0714a6) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | P. Mahomes II '17 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x7fa9939b9aaebd24c2800209c67b5b403cddfbd1ab791c1488b096e6e4ce1039) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4d541587be8febfe425c2842bd472b749c9754d26cd59a0eccdb1a4fd053ea48) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63f67a7446922a07842b91dd46712ca48829c18395176f31861dc06b2dbcb375) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | P. Mahomes II '17 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0x58e3bdf90073970384d9fffa1e00ac357c6eba3a4fb780fb337d257013bb1a9f) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | P. Mahomes II '17 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xc68e24014a54ac439b041f6e9dff2891c666c7094d24fece834d10e08d75fed4) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | P. Mahomes II '17 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x5c36ed52ec34ca5a1e86591532e9f256a08655fa533fe88b0678abc71e97c566) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b04257095753db85101774d452a5bc9a6b648f5d7ce856d91dc36eb796063f8) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | P. Mahomes II '17 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0xde9980d16fcf33acfb620e4e24ca1a24331edcb1db7c31f1dca7e5fa05bdcdbf) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf1ecc4340b6ae47873b6c671e6ed55cdc80a2ff6fe783ab56fbbfef8a426c810) |
+| `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a96599cefa02b7c14df0f98457c1aff199eb30b0be6aecbaafb37351adf440d) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64e5bae731bfd7752da0cd0cf67e43e54ea2953f06c87d48ada2a8d23835415a) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | P. Mahomes II '17 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x48d68d0eb4a8dd154bfbf8c8de5daef2b812dd158cd17fdb584d9ef61b7682c4) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x38b4f6ebc999c32fb1bcbe3198bc2afa7f45e75d8211e6e746800eb12e363374) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c285b3eb39914aac119e2f0a5b5544d15ef461bf56728dd1d8e0606883e848a) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa7894b3a219f18c50003aa1b6c213940e43a4168f753bebf0f93d7f80026ffba) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e7fddc2defa36bee4559d56f3ca8a7c9c32891f88291ecfb56016ad5eeb3347) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01419c00c5c8063a231a26a2403ec014c92728199110940e201a6bab192a132b) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e527e7d09f040e14304b7ad7e9cb93f4b1a0b1bfb9d517b4f156ebb9deb81a5) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa8ada744875da347256e196181ff99db111bb91479f4238b31e9570d7fdef768) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | P. Mahomes II '17 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xeece9a6403e09a9ce68c902abd8c96a853690197f3ee469a85d5b81e1e5feee3) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd2e49e578322dfbde375ce5637389882f1380b7276910472669241bda5cc595c) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2e501765d84defbeb18cffb896a241148acc373bfa669f5204fd3276c40c1e13) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88b1ab6d944f334970e61148e54ed85d0c2dac0acfe68c2b0ac6d11ddf24a310) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1a9708e06571fb1722cd393850e85715c84978709b2fa01f456ba69dfe73dd0b) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x312cc69b01fe0f2e7f1ac8c2245bee201d4c8e463736e7e0dd2b39c4968195b4) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdafd70e3be3959a76caba9da3278e8ff48b097de8b86f0504d85d6ea642e89d5) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x072053289bd05628991b7b31ff09d9d0e925d800837c272eaf88649a3b69bffb) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb944c95e53ee0ca72dfd49fed5a0484c4929f33752d236b090fb351122174c67) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8345c5cd3b85310bb4815464f8136fbd2d627fc4bf912b161cbea8dbeda754df) |
+| `0x4318cC449b1cbE6d64dd82E16abE58C79E076C2B` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35f53e32e34c4494126a3f5bbfb8d2347f74cefc856a5bfe5db25f268548150b) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x694fe8c576c686ed38bee373a0416d7f1c64e1350474d21af4a68f26116272cf) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdb36870c642d0129580bf73ad5166aadee683d81ae4ca57bb87b3ed654086e4) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9045a911e3370cff3623a072232950f60ec89e5456c9679a04ed48020f6290b2) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2d4c164785b056e9811733f7ed11f8dc897f9b40b85e2b9aac36af54c470dde4) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9c2595f936a4d547fd4b0589bd4ced5a7fc07f990ee2eac315e7696af35169a4) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1977cbcb095a3fd173de22dccd7a4ea32f37a7d8c3c3f58b2256be5d046351b) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf20071e4a57458b1e788e60305e172f0480c55c285201208e328717fec1b32e8) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8fc70b51da316ee49604cdb6a57e5b03fb90d317bfaa16a32ed09d8094e35eb) |
+| `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa29a91971e1f7b780aeb07a68da1d4cb2f97acb674bb47fcf3bf51509d9921f5) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b7d8467281ea433fc8a7062deefd123b3ca07ac1b21cdd4dddc16aa1a44df67) |
+| `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe1ff45add59fd920ec6259da0a5b5e5a0cc9df435975f9ded52a34aef196d2a4) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x479ba69ebd3894914abfac876aa3766cbc34586b9248a9b733a8fed3304d45c4) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x355ebe2021e38c44f6551d01e2fd893129e807a07f8c9af1d7ed3f038c83c4f1) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | P. Mahomes II '17 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xadb19227322bb66342ea25964ed62990f98e5c59956e5fcd8a6aaccc02c1d8bd) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc68facd418835e4dc26ec558f5f44b77b7f72e7afb3640fa28965ce4defa24a4) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe8223fc77d141042246f12327b0a4712cdeb15d5beb08c22569717338fe61172) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xacf7494c5ecfa6f4dbc08b640d085cc0d4d97d47adba55ba9b8aabf50e5f6bfe) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0520976e4cea973046c7f9d019218efe002e8e7f885bb95bea87821b22d1bbfc) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0a3a81b041b36b01fd876010646dfc7801ab99ee361eca8a77c6be149aa0147d) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | P. Mahomes II '17 PSA 10 | 18 | [Polygonscan](https://polygonscan.com/tx/0x84a497bb5020100faa9bca2b9fe902da94555e7a94d66b2246f72efba2d88ce6) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22c27bf8d49a16c3a0e1d94a467e8e49216eee7b2efefa9e137c707802bea376) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xcd308704ec7c296e0b174780ef6a6a396f00c166690b5034a74d37d5485df300) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe54e7945639c994a2a904ae6ae9ac404954981c39cf781226c19214209ca8350) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa70b3bdc4ae591a0340486058b29f003c787fc8b4b8ecf563597a982261ff356) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | P. Mahomes II '17 PSA 10 | 86 | [Polygonscan](https://polygonscan.com/tx/0x29b4e1866fa50e43e0d925b798d6693fc0db464599fad462e1ed030a63369ddb) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9f2491be0de62a126e150684f6885d38c20f566eab184dc880329292970df74) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x281d5eaa83c2512529a3607e5cec924f021f670bf57d9ee563c68c8b7a6b3884) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | P. Mahomes II '17 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0x0613b8317b85ff7f4dcb28e1e3c0be7f6063f469ded137e26524b8bac763e367) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d472e28f0311b0d4bdb4eedf150b9d8401a0db9d288e2f25c5fbf6a021b86ea) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | P. Mahomes II '17 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x32699a7e9c6e562c4639604b39a4f8cdc8b5a4652efd9d15866c623007d04490) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3b55e8a61941422cf519c2958fa4bed36b5cdf41bdd861c2a850410ad163bf7) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x859989ac0054efab001ffb8d5be9b398554f0074e7573fdb4ad3134b41412b8d) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | P. Mahomes II '17 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xb09065936e676a731e164db2e3737046f51e778852b038cda24346febc42da8c) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x15d1cb75867a1e672bd120785b4e20dfd8fa6a01118a560256372a0f2e9f6d1c) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1931b6f06ccd91eabdb21a9e1b050765e5732e5bec1f528dc4972b4f047c195a) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | P. Mahomes II '17 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x1fd42d187a3952095c583db817dc215efc32cc4a257aacdc34bc387893a238bc) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x316855ec25a1c5b61c69bb266183c28307a9aeae5874cb18eaa08f28748ea89b) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd57dcd53411abb911a31d4cb3980effd69362cacf83886e3437d87e9530bb60d) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | P. Mahomes II '17 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0xce508778bce1f63438c02e802b3e973729919c89104d176a709e58d8e800e7c0) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce0a5e20fec2b7dce9ab31c1039f1976ba4d6a334b250a717ef74b32cbf0b698) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5edd0c9e8b0a975c1ba0e9e437fedab0e9c60854f6b251ad5a9cf226eb498a1c) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | P. Mahomes II '17 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xdf54550533e53417396abbef116902a2e4ab42852f774df5fd03f5f922fb3ee4) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7016f406736e7921841d6204e0e638293aed585ab8ba88c6d6f7175df66a2f07) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | P. Mahomes II '17 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x11a55be591f2fbfd6517ad3d730d070ce663106daf42745ca53ddcf37f2792d9) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x215665c543a2155fd61cadc9e772ec516013528b1371447dec387f8d132ead4f) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff182c48ee6bcd1682952c3387ac8c69dc19bab50da9d7fe241c32cc60797161) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52bf6632843c6281cbc02e0f66fc9e9240f1887704a4439844a576d23fefcc44) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ccd65f57fa260adb497acef26ac0faedc3f5a713374c7f3c26a46b1a1d3eef1) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc62e7aef713ad80ef511e264f28ceabd3a6246467939655f0cbe565e58b47bd2) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a1a2ee69f0be8f02186f5ea7daa9f9c16de7cf45dc3e1d94f76b182878fdf97) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8611e5a4348599775c97c3ca437dd256363de118dc7d218188bdefcca6c85d24) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc47a40084de4408beb5d7879d29e3d13e2878aaa27cb054ed3d9ce03a19c9cd7) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x60329c98486ade54abce29854e8a2c5bbfc4d8e30c12a84b87e1f50b783767a2) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd64131c827e4be5e44b2f0605b06d025767b79a24d99a8db5f11022764870de9) |
+| `0x959785493ba8a4bED788E62b4F5b690fA7824152` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c4bd1339e03300ff4657be746c61916a1665fd157f60d26400b35dcad9dc71c) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | P. Mahomes II '17 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0x3633054dadd0774f03a5ab6ef85721805de76b53caf5ac64b946985fd44b73e3) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd85665b914cc7fe9bdbda651d1e381a278fccd1207fa9f53b60b19b03d66be19) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | P. Mahomes II '17 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x35a545700ff74391694635eb7869a5a5db1f7e573d207de2c33c7e8faf55040b) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x89c7e78982edfe3f7c6075ff0e182b9a9c9389f6d117eb2289c1bc5b9edf05a4) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b8a0c0a16ee8a5029909e34fd9b786b81ae4ba50de017bedb7645c5f17ffc84) |
+| `0x9C25fE64af87DF63d6507732f537E8697cC8bf25` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae4ff2b624ccc6940641a21d53e11c49e20b75b22c55910f9cba2f3a7da46654) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xce9d27cfc97b5b5203bc60ca52fae2eee6636ac37b80908cdd3fe3a069f7b5a0) |
+| `0xA2E117E91696A9E08bb73BDAa52A8baB46a6394D` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86ed94913ec7b4d413c07e7b081cd439dee73d18d58adbf6e18795abdc35bc5b) |
+| `0xA5B768CeDA1f19144646E84354A0F825b144BC00` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45cc75bd07ffe2d84009b841c7ad0df5ec59f6fcf5b3c95d4fd71ade2d3368f1) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x406a2b06fedce02470c67f2cd19c2e748ccb16cb269a309dc4f68542617c7044) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | P. Mahomes II '17 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xbf486f6b78fa5eb4ebcd86b7e194eb7575e959bb869c22f61c75b8754ed38e31) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdbf801eafa1632430dc2dee8c1ff8ad0061125c25a5a008e7982f1eba03be581) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfced404f4ff998d1f81a0d9be218296fd4ce0ce57f2c5c4356d6f2ff2c67b301) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x85a9d3121fe8580a1b20e21648cfd0fef2b701fade481e85d3dc14b99089d403) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc43bf475b5986aa3e79119d9dd8056fbef3316f77c0117c6389cec1534df5d2f) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8c9f46ca98936c67837db2a15348a54d88ed9f4bd54e852f00c1b0d129bf8c41) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9e7a873181c92d7cb6d443bf580755f253d1c10e64707a9cd7463d469699f88c) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x434c9467d6232af3047149e1acf4cd2f74373c96fa9ff254b0a5279f34260e8b) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb6f5fcfa99ef78c9dfbddea7dad39cc2f5953851db066090d8d0ed613607765e) |
+| `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8acb88619187e976c2373b30e0937f62d7f17c95a0579062dd598020178bbd84) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd63d72fcefa2a101d980b3d07fcc1980a24eefb2f8a58906235aa75b64aebf7b) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc237cc8667132edce3f097c0f6ca4b413d4b2e16f5e74f8869a0bed1871800e2) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb3e2521ceaad6e7cd87d29b3910faaff3d537d4e086c8884dfd5709b9f0dbd0d) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | P. Mahomes II '17 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xbfbe4ccb8ae2d638da82d97aed06204e9adba2e4b5b0b5ee3d74b006cafb60c6) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6487c72bcf9f92db605fca5d45d2b3c7dae39c0fb343023d2b41dc6571efa9d) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6192f7dae9c19001a973689c74a9552dbc46e98d24f7d756b0ed5120c2b2aa1) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7bab9760c7a4e856fd8c58f894cea7119b7ee4a801e7460c94e4602718df10b) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x55cd07386c58fcb1035c58c77cda29707be2e374c231e3f2625d2325341bbedf) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xeedf6fa69c61a619c27863f1b89600e0c1524c4bd8523f54302c900ef275e838) |
+| `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d82732cdd18437576f90524ff3f5aa782541ca0b7b753f9637b967d8a01aa7e) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5762efa663a31c2a03cd9fcdc9eee5422166e54d156ebf1073510a835ed1238e) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2a51fd75e3fee4657d4590681555f53b1c1b247a2712c4294494760c1ff4c0e7) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x747ee00369a48a40fe077cfc810161af56e64dc8b20257d6260f226842db31f7) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc7aaeffbff07d5ba52762a943518e02264ac61230692eb8db08319b2c03c9f3) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x092e9ada041dc5711033eb643f6410e50c15a3091a3b1ab88c47c72f950c8ee3) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1f8b5fcd22d17e086e31cfe8aeb571dffd62ccc05b01b8aa79fb0cedab8287b7) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6e7e2020fd12b51eb4f8f3e0909d5a7584673ef754a9509c84af2b4ad95d7288) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7054d18857533a1729f393ff46288bc30620dd22072ad6c239f11e266c1fb3f4) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5869631f0ba105a95b489cb00e80c987ba5556a7ea3389ffe6150742da268917) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf48058519ebb31da558629ee956c68c73c7c92409b3acf029839f522df12e7f4) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf65f19c9cbcb6dff2bc46581703c58eb3a57603b323b380be9f947a4a5a8a0e9) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x24f5f84da58dc6414dc9272da053bc0a573ecfa8a3c545e7f79e15e1f71b2e44) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x420c6afac6b41caca1a03d917a750d1a4e6362adc43e5ad424006f5b348f90de) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x713080aa6a44d7809f0862bd12b295affe7d078c246a2f0e30531ff037513187) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb7afef8bff2c1e19481002ef26276274d5bac44f2a3242223e67871d512b7fd) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x780bfba75f69f03c7764616d09f2b5ca3499f9ef733e02dd6226acf7a1b21ad2) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb574de46fda37e08486759caf05d37c19af4745b684d12d36e3b1e73371865bb) |
+| `0xE395ca7CF49aAd9D0C7f51Cd3243547f814217De` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf167b1afb7a00658ed5ddc528667b6dd488e6f42e3ce9aa27ad7fa0db40a32b) |
+| `0xE3B2109B9cfe5Ab54b48940dFE05BEe147780c49` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14e4610da0c70aa44e993f05fe83fce813d880c0597b51af2c15243e841ebaf7) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb51e37abac0bc9ebb136bf095f39bdd1204d64c5647d5c2c463476d070c8d34e) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xff7ed1e45f20cb1ffc6f841f4f3be4c2a5c75159ac0e893b43abd4312b069d55) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x38143b2ddc0d3b956673ea6d6c71ca8f954c1d40f8c469df0f28c795d6519068) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | P. Mahomes II '17 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xabe2aa5ad2133f5a8625adf91b1e44bc2320a55074f95f80e0e5dba6db35c41c) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xac4fcea70141a741c873b51bbd78c8db42d9d8a8d98bfaf862b526a8a708e12c) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78d17c0ef527a21203ff7f78daa747bb649a6ec56f37292d99ed175ae07e2af7) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8402ebc0a0ddde6e113d76801ab3ee4f44ee4f1764324bcea6c2b0fec05b18a4) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | P. Mahomes II '17 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x93406f5dfdc64c287a57d88c6bbde343a6bfb2c5667e9395192a8ab88677c107) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | P. Mahomes II '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xefc4683d3b0323a83e2445203cb13129dffcbc17e1b92907c2f624acd2b9faff) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcc027244b795f3547a7dd6e80b8924f0af9280d19c446505960bb571664460ec) |
+| `0xF9126A46c36A0588f08B13383Ec1993168c56f51` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x420be2a9f489c7d968064d2f56c676addf546336c0202e0f9f7c83900f773294) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | P. Mahomes II '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x220b82673bbba7d03b93b718178ffbef30139fc43d65aa2f3162ef84f528a6b1) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | P. Mahomes II '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51084fde3ecdcfe6e8d455e9b6c5e4b2afdd39cdf9b5fc4b3f8ad20c8e26e63d) |

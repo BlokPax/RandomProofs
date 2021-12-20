@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | D. Jeter &#039;96 SGC 10 |
 | **Internal ID** | 283 |
-| **On-chain ID** | 77 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc45-47a7-8c53-9fdc29b6bc38/e29443718ef62630fcf3576712534823d3ad91f9186e3b6bbc9d891054dfeb2d.jpg" height="200" alt="D. Jeter &#039;96 SGC 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,45 @@
 | 💀 | `125` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 |  | `126` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
 | 💀 | `127` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c37a34ff1bcc7435c564f2ac9e2548731a4eb7a2d26a255568f4d51806ef122) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x787d15924719b0f4f4b38e7d7573e6c9678700fc5fd6b08d007e91960c314716) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe08fcba6ecb6639c9a41a5fcb72e8c419b2b4561ea809c1fd933df8f6802ff01) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2297900d33de4e46bdf7dc13508b19ea3e2ea8cc347e1db370eaca7b346340e1) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f4f3e263c38a18e575283534c1ac3fc0543e8f65abc47ab78f8c37d5c44c876) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf3b138a2c4a0cbe63b7ac6a5ea0203737bb45abaed973e82882a44a12bd50993) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d25328cc416885a7424ddf73490c056bdaa064b3ca7577aeeedebc65195e4b9) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc453f727017915a081e0ab5ab7366c30d3ed058f1fb90cda1b9ce28215b31da5) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11a301e08f2809bd40460d69b19475f1644c8cd34034da956f14a76fde762ce1) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd38b3c6f07ae25733a6df246f78cea83d5a7b0012c024c89e83b3955ca2e98cb) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2203804ac45f74adf48e97f3a5980a79d30e6c0152b0538c4aa604e8421ab527) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1e7b40e3dd22e5f70dd6a0acc6874da911652d67ca8f7d8857662e2644da9eb) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8570ebc45deccf5821ed0b41a0612609244edc0a4c7712c5fa98e871df49b207) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xff6af49fc27292be8ab34f4974b443ff98c00333947d8c77bb9f94a77c0f8c62) |
+| `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x694075d1bacbd1ce44431fb3a0f7c7aff51ab968c6a05800dae20c51dc63440b) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | D. Jeter '96 SGC 10 | 14 | [Polygonscan](https://polygonscan.com/tx/0x7816f83a7501be67a24ce2c9db69f4a36da9201c44ba3b0753c70ca0d05f86ed) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e46f51abe20c23939f3e5fafffd7b30d7ab7e0b280379c4602b21dbcbf968b2) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3b1e156316d8c338ec7820dfe7fa0f692049b4165380b7e3b05f29c1596fafe) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4092e8b33f4bfa10dd28746c364189e8f6f2912f276c8af6c8e92e3be1c4e636) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a4907181bc53b19cda50a1cf380a16edb133146e67243da5821778bc11ca903) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe7d1266413a451cfa502fbfa2e986b2879fd8337d0dbaa36db3d7aa9380d80dd) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3850376b20a6ddbfa417bbb90b688c73a5a202dbf199cbe36b80047baacdcac2) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3db4ea53ef0731cf816aa61a0fae2d7f2a0edec05fe8b69f9adc2ff0a0520f3) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbacaa463e4c24296ad481323d6d223e9b98e7f4c31cd75648a98f911ecbd61a4) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | D. Jeter '96 SGC 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc31d640c8db7c7a26103e68ec8aab2d59f5c4fcf07a32e44f0b6f235941c5973) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | D. Jeter '96 SGC 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xc587e0ad51525be55b1fc3dc06d586c3c7891d4481be75bb870b8f51365955e1) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f5a94bc9058fda9ac0bc4bd0bdba1cda582e5038547fa7a20b5911c9ab6db2b) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8aab5a3911e859ad90b3b510a00b34bde6aa3e36f447c84d0d93673dde88db6c) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x990d3c1aad9091aa12d69879eb9f5f9b6ed64798f8bc1ef50c862db5243c9bc5) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbba5fa0eccc0a7bf9602f8c7b08786046037732d5bcf5d5a97a4e76ec9351f7) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9652c4f2cabe565a73adc35b3bcbe9fe159e6fcb3cf41e205f4916cd58a95784) |
+| `0xCd90119B7Ce86b6774976BFF6B66092e8d41a315` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bb9923690220bdfac986f43cfb4950582da7baf387dbf27b86d2f71e0ff4b66) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9bdbcedb724d114dddda6adf9046c903771fe2030fa11d0220f0522457dd16c) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0febc1e80b39c6499f1a4f99a53680c5f99ce3840473b4dd2ee711d0e2894468) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | D. Jeter '96 SGC 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3972f1bae76b4369edf7baa5a5da69369d992743a26ef944b52907c41bd2c97) |
+| `0xFDc4Eb19334558c2e1906445e00fC0e37aEd1793` | D. Jeter '96 SGC 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa807937a06986232cd8cdc222f43035b5add81bee69dec55653fa321737ed7e9) |

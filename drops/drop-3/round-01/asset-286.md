@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 10:00 AM EST |
 | **Completed** | November 15, 2021 10:19 AM EST |
 | **Tokens remaining before round** | 61,440 |
-| **➡️ Per Asset** | 2,048 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
 | **Tokens remaining after round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | | |
 | **Asset** | L. Bird &#039;86 PSA 9 |
 | **Internal ID** | 286 |
-| **On-chain ID** | 85 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc67-4992-8e23-c953cea68779/81b4a115c170129150787944ba52af0b0120580534fc1998ccd09332d9c38ccf.jpg" height="200" alt="L. Bird &#039;86 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -2067,3 +2068,179 @@
 |  | `2045` | `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` |
 |  | `2046` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
 |  | `2047` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x30409fb3774cb3229cabaca1d2b9bb5baac9ffd3227c48b33394aceef71fce51) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4002f4ed5aa9edad02fd4c929112ad06eb992b8fca801c745e4cb4b930312449) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaf9b0c10ba1a0eca2c7d371038cb5b1b211f63a1802fa726b29eb41a07c04bbb) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | L. Bird '86 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0x239b1d4d8f040ce6969de50fd90d3a8223b50d507dee5b42863fc229d0700e8f) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x007e8cec8ae13cd6c5893ddee745ed47f8b9cd3d2a55fbec70ba2ebafeb57cd7) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe064b9feaabf656c610e6072ae822a030767b5ec5b102cd43c4c698179fa0a2f) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb88e52522666b82069914a7b63bba0f72b2947a4a6ee18eaa748dd0fb5b695c5) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9397a31327124db4bae4ca5dd4969299169a5a090cb9e9268b0f5e3cd108def) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd54304e7260269dd5380576c916e43ebe068fe8c5189eec6965acda839d4910f) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | L. Bird '86 PSA 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0xc1d2d45ab6ee7c59ffff221b8f074777ad7279ac8b15259afbb2032281808b54) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2f1ee8ca62c813082a8f6e3ba0c9a4747f612df6408063417c202e0c649862a6) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f81a624491f075acbe691ce8b670f7156d5719fade01eb2316032f7a3b18309) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x46745088cb823182fe8b0668bf9af075a3a24de7433dd99cc20cdc4096b216ef) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd85e9a4740ae27453b5fd331a6399cfbd1a9d103e5e8c9fff25f46411c4e99fe) |
+| `0x1bb49dF9c09E1612134BD87264929E85F86Ac4D9` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f6a79cd4f6e54da63a0933b4dd59087ea7218f10b1964fa06d6ed1d9bc2a705) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | L. Bird '86 PSA 9 | 8 | [Polygonscan](https://polygonscan.com/tx/0x60420a0c165324ac39eb69a6033320c84468b656bbdf62f49e686f8d9088a1a3) |
+| `0x1c0adf1f864339D8a5055472F0693cC3Ac04A5b3` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15353d517e0d23f491adab7a345728963c4a9867281f600cd145d9ab28691b0e) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4392cf8096ecd28bc5fb758ac7d21b2966096d8123bafdb064dc4b5811193a96) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75fc1ee406081adf5629ba0c049ce8f1d367134b5365329cebab9de2991a2c9e) |
+| `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ac1ac56acf3daa740cbc71a6052852863630cbaa2b0107eb6be1823fd4fedbc) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | L. Bird '86 PSA 9 | 14 | [Polygonscan](https://polygonscan.com/tx/0xf690bb4be3e29236d6d8bc7087bece2fc896c2078d11fa060be199bc6a386947) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0078be9be461f0da155b39b34727d481934f7628412fd5a6aadad7e8bc0a1413) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9c1a1425832a761c744c855aea464fd975f39f178ad613231927c20dcdb1d63d) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe37451dda59e2a66c4e359901cbe903d0e9016ba0bea47f97326db946cf9fd69) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3ebd4c837e7e59dc6e1e7cb7305d5ab4a1a48f58f8e91f2d84d00a4704cbfe69) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d11770a8f0a98f4a0eb21d397b8e9bdcd6b7dad4af5aa615845d4be52060904) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x234bb6004ba47af8d476ffd77e2c7ad2a3918bb1c4af1506878af1a4c82dc548) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa261e70d836fa985c6b916aa8ffbf32dea76ef639537d4c56280715981c70eaf) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3f1c1ad8e326e3a865cb67f66b7afada5c3bba5b8994ec3814293fa71853401) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xff6d3a8750aec6886c8d16b562e4f9b60548175201c305d8ba4ba10e6bd6a51d) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd77e493a8a7db031729ea12af594cd9219caa753fd8abcbf522566ccd0075c53) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x950115b66224ccefdf2214a27fad29ee9fb383197a4dfe3ddfa7cc1d8f16036e) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56d2246f7fc7d8241f4a41e743a4972c1788637deb68df15a15aee6ab22d5c5c) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3b1fa4a218a5fbf78bd1d97849f48e9da81d97a98234bcb81b289daf3e5c7287) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | L. Bird '86 PSA 9 | 13 | [Polygonscan](https://polygonscan.com/tx/0x85cb499f854034cdb064fa0b2078da60c12d4286d2fa559fb68decea6d0d5e53) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1473bb3b6e13e52dd23bf26381f49ec3c1e341b6bcea534b850c5b8449e070e0) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x697d90b8fd35999ccf1d4f76fb3ebf39b36273346d2f101a5d9ac395cfceb01e) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd6d883cc5f95c83de3cc45c95ff02a58b8132908bcc5809dec8a51f3695f122b) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x611579e3db870382740f373499db45dd4b9b7a11c02fb6bbf8ba7a331826117c) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5d3de5957287c5cc86507db0f838723581e7e1e16b278315e7912ae229112d99) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1f318522256997df0c3fc81548d05ae2a7674991357d9f8a3b9627d78bcf0e51) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2ebcf11f648da893516821cdaa5fd8ee2294617a96a977bd0bc079019afdb03c) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ef3a8a1ce73405cc1b23f01005660c504bb054bcde4b74afe57c994195c33c0) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f7bc464458fb2a864348256ae4a662d0912fe5481e1360ed74099518e409990) |
+| `0x42C205Acf582e42BA29c4f0f302a68B1A2aC014e` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cbad89580632f94205f3bbcff23358c07f7219601244890dd4a0d98f6d2dd39) |
+| `0x4318cC449b1cbE6d64dd82E16abE58C79E076C2B` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd593cca2f455ec5fab729edd71360a34187fa951a5f47f73e7f262a16d8431c) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x773b2f3c20c73b0ae61a81760497163850b76ec91f40b16bc5fa7a6666449495) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46606e4c8b64293dd97670429666763e5c6caa8e979d84209bb94fa3331dfe84) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe090ca41b739c7aba01fefaa192df57b812cc9e51141bc2667361421f43c2184) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbc1b7f1fb4d159f89f5c1d93edb9dd7523e841872ce895a1c35049efda30f00c) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | L. Bird '86 PSA 9 | 13 | [Polygonscan](https://polygonscan.com/tx/0xaecd889e39acc5ee259c6e4a71d73ddd36772fad0a9d5070cff353dbc688122d) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea313bbcfbba0f102f7dc5335232627539fa6880476b5e7b41b563ee894e320a) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x125d5a4e2b6601a5cdfa455dfbea78f05d834bc05901d91a7d7f20a7c54f6b38) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f50e6ec4b7cdc8ba76a0817f629923bf66132af4cb425fc955f4d4c321d711f) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0d7f9b6988b82c1bb2ae6c7f64a295849919650fa675e7a58fc611f8d263ac45) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf72c77b2e200d5edc7a29a795ec37a9b4b97e43ffb9a0d3d38458da2dfb28748) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x658ef6de80afd50c5f6f262a15fd3e6adfefddc2d56b7ab7a848a27851140e53) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc11b12ced5072c010cba1ee7ff4ad50091759b482b85ee5a092ac776145fc3b) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3ebcd15d2e86a6b6f508420929a6d0608eb1472e7fba375d479a326beb1ede68) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb11f78b5b3f3e78e2949267b3fb329758ee777db426a541fb004fb955168e078) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9079624ff572399210655e2f08a1b1f2f9579e03a95d27fb541b1a2f8eec5c3d) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4540cb5b3cefd2832aa0ab173bce0bff17fcbb0e30d3d939922f69ed7069e8a) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb293c371172fa22faa6e0d29039ee419c8bd7ac2b22d613b901b208a2d9e9392) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | L. Bird '86 PSA 9 | 11 | [Polygonscan](https://polygonscan.com/tx/0x9b90a9b27e50d972a2672403cf95ab1b2eeeabdb4c34dc2deaf5a7e936119a6b) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x85ee4e9dd9b939eead18413b3803de9f7932fd7a0b93a74176a88271c53fbeb1) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bb1c85935671063baf03f30576d9f729708804743e5646dbf69916020371722) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x4f3d43ad8b85bfc771a1adfec5049a9fe65c6a62080bad6373f706c1e0c9e245) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ba30a1b23437191a2b5feeb974ed4040ed46a8764ee6261c75b195cb250a021) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff4a9a89431fba3d0c4f8b00a12e015b0fa80cb49bcdeae26e045f78b88a713b) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4b0a413bc8af259b90e8b03049d26ea81dc0b6bee18cd5446f48de7087d216ad) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd081324e315d90ef7daac5f9151aa571b5240e26cd66163fd3c7dae412d6f972) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x08fcb9ddd81b98c06d71707d6a4d3a143a62ae93f9373a46c90eb8f2aee39f36) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88a2c0412de83e2e72bae8b90b503da4768288fbac2f23ff6eb4c4b3b7a04ddc) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | L. Bird '86 PSA 9 | 19 | [Polygonscan](https://polygonscan.com/tx/0x772c7708f332ca6d8f8a397eac40f9ef0f0bfcdb612590c75af30c35b575d001) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | L. Bird '86 PSA 9 | 14 | [Polygonscan](https://polygonscan.com/tx/0x29c81cc175e671a3b5d4fa254e5638636cda6af3f5517867a45ae5bacfd8dfd3) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88bdd06e56fe7c3d065f2046789a2ed8629d549c11feaac306cbda1085b83410) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2c8483a37e9768e6d28512014e6535e59d1178e9a2cad1a9876332d23994a51b) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9446da766f3c851cba8fe3e7cdda435dd599b4e65f777bd2b65810c40b798587) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0c0038842f1e806dc2e5a391320fea7ad75ffddadc8f94e2c8d63bd10695ae24) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | L. Bird '86 PSA 9 | 130 | [Polygonscan](https://polygonscan.com/tx/0x0a76de4e44247dc935821fca956adc0837a13ea64278a1730a802c9996ecda22) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4306e02bd1c6b4f42fb641737fa3aea634381ed6c61dd9b10c8b1ad389ccf44e) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | L. Bird '86 PSA 9 | 17 | [Polygonscan](https://polygonscan.com/tx/0x316ca888b0f79acc46212ffc7d09f29d18364d953eeb322b0643effdfe3c0446) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e0f326a23ca42bf20fdeab21a1d25a100bb6f94ae93a768e17bc6e0a96aea7d) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73bc71f06f1f16c97d5245d4ee72232b282232e63a53a1d007e0df80e3071819) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | L. Bird '86 PSA 9 | 6 | [Polygonscan](https://polygonscan.com/tx/0x27845c2d9717e8175307bff5ac51b7a2513cd4aa2f4fd8857413413e79015778) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe269555141794f08c99d1ec56a05cd8f0fa15303348998a62f37016aeb0ece54) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xffa941af9ce2289d96c3ed1a336dc28bc36229772aa103dc333b640980361d62) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5b30880c2800b9a3391e0eb2dbd7bcda951ac7e27fc36b3a9a2cf8072a8d2de) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | L. Bird '86 PSA 9 | 13 | [Polygonscan](https://polygonscan.com/tx/0x4c282d35a25a231f76c0ddbfb062ac8db5aa2c7283282b74b943e8ae70da602f) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9caa82b0758d1fbd88ad5f84f127250c4d1745dbc7c31e48fcc7b3baa71425d9) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x532d88233d056303533ae77266f9e2e386cc1ecc554a18d15a40391a78ce0b3d) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x056d104d2d7d33da7f744fc7609a87f223bc2837d639001e1d6382b2de2fb103) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | L. Bird '86 PSA 9 | 15 | [Polygonscan](https://polygonscan.com/tx/0x6ea53fd43cd4cc9ecc37726d891c1a0387c8d99779e30a213adb5df9a34729c6) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18ecd7c6eb4c3a16bef43a88932b17a9a581cb589f72e36738fcd781b19dfa44) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x305ab0a7854d9b7f0d6cacdcbfbc537e4eef5d2de88c1df05f803d661989cfe7) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb4692b7270a91a0161e50c233c7c113b922bf1e79d31a5238e2b45dc2265125d) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | L. Bird '86 PSA 9 | 10 | [Polygonscan](https://polygonscan.com/tx/0xef2d60f0879d237f707de1c54e929c15c747dfaea59c3176da1c181c65990a0c) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | L. Bird '86 PSA 9 | 13 | [Polygonscan](https://polygonscan.com/tx/0x07c70b29e22b7c5b8922602e6b6364e469515162da1ea103aa6847abf59632cd) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82dd0eeb22e58745237ee90885922680f34991218d3cff68a4027bf37eb95f8a) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x235ed148351d197a2e6d2e2a423d38e42a8cdec45ddb4ac343d498dbb1d7e261) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbba2c0c0df092cdedcfe8934999717c0b13f93703c08c4c9762322e820851a5c) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | L. Bird '86 PSA 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0x20e1a4704a118cb8f4f0686113f419f372bc04a6db8356702fb55ce831a7fd33) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48dc3e78a83ec0020dfb4930fd4fd1819c40f29130fb1e291f3b17a8b530dd17) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | L. Bird '86 PSA 9 | 379 | [Polygonscan](https://polygonscan.com/tx/0x6f9c0e02e5cd8125a35fede7001601c7a11158e6e6e665c71d54d6cb96e34ca9) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b1bde587fcc741fc0dc3f205ef921d8c04bafb6c498a5d360dde16a823daa75) |
+| `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69136b4d801a30197531c2cb37f87ae01cd3466e4cb3590b046e6a1c72362b9c) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffbfaf803d56c0d2f0798ff37e5a597f712b47108f27e88ce293857897f599e7) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b572ef66b3b3881740a29f72d36e2817818bdad9c0da7c8bac458e03d9ab0ee) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x06216a276ce911508224dc3a5cb0fae0d9f524b171bd88a7103b53340c0261c9) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x63771c74e6f05e68945a2e07de32b3fdbf2829c6c42288a0de18f15281b8ddd8) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe514b5d07e12ab8bd645799ce21f0a55bdb7d1f0a9e2fe0a44ae16d2ab69cb24) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | L. Bird '86 PSA 9 | 14 | [Polygonscan](https://polygonscan.com/tx/0x4a96ccf7f5cf058b972967e2af36ecfe8ebe4d797cb4ab8826c2ddd2dafd9a57) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | L. Bird '86 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2d00dedb9247329b849c8bce81c4bc9aee35dad897986792be453e02cb3a78e1) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | L. Bird '86 PSA 9 | 16 | [Polygonscan](https://polygonscan.com/tx/0x7296fa9577575835a5ddb423be75037506288906efaf44e983c099a8209728f9) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97afccaf3b02bb64b8cf9ea26f1d7d77d222070cdb2c31154ff07f74a4d69e56) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3484536ba83190b3cf457439b5a26008ada082d97a80fcbf6f0cec0da4932f31) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c6c36807b5e83cb097378874698b8ccb6d24af017963c036c957766b1328246) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd9ec90228163184787a2871ea357911c51a2ef5b92a3616e382490c183bbde6) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xde41a73ae5176f8287b648b1c0fdee70b0e1d35348f414c1d0677cff283fafeb) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7e14cfcbcae8a78e4a7dbf338e52089fb04d4a7e9f1c6102222aec277c4ba96d) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x164609b311403e63193726da360ddfcc522269c1e838d932a505b78b97a4d604) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x94115f1de2b6957b314ad49ba91f354606d5eb6539012daf28866d63d0734565) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1e205ebcae20e54b544dd91b2a990d0527dfc1f24b3786868e222e124f954cd) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8205720006ff3e1ce36d726e8f63eea188e8622d84a9334123c9f8a86973158f) |
+| `0xBc0b37300cd2C9Cdaf5238782dF06A7Fc9540db1` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa2fbbd666dcbf1384964085048d3417b9e920e592d39478748c0262ffb48bce2) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae4e3742e85b9ffbf18bc10c2105fb01e276c57d52f5f2e312cd981936e0637f) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd2fae533f23d5fe348539519832862c97ccab7d099c648bf2e5479ce39b6091f) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4be34b3002dd02bfbfa040397097feb5015c4730427b9aaf79967b8f1534707b) |
+| `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d6d70270659a3bcfd462b6561a538c548e349b78896b1fcba75541901c6d3d6) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5408b36ba7d7715aa7f67055d2ef0c73923554ee9508c4e295412765c00930c) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9351774f7b382b976185c15fb8e46dcce235b0981e40e2db665efa98c8e2b842) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda0c591e61007f9f8f9727a4aed03fe75296887c5921f682d2f7d1adff506a0b) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xa0e42ec2fb72bc71d53ba2c0cf0079c6b8b93fcb20db851b67411196b276abe3) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb45c61f22726cd27533c494ccdca1e47b28ae6b99a28961ce0fa27049e507d34) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x65be1b4906889fdbb893b8ead9c3d1f4698ed11f87aca9199e8e032cfaf1043c) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2989e6954ac31b1f49747e45256f5fb30c655d6c93d6ca637740482ec84b5b7e) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | L. Bird '86 PSA 9 | 6 | [Polygonscan](https://polygonscan.com/tx/0x88d71716e7686ac58d2b10229b7023a0dccbd984b83a7d18c9e7d36020112e19) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8a35c70f854951b71dab55d48f652ad97042afaab6ebaf8348d8fcba4b718530) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc97ac1f064641a6854b1d3a937b3732b7d746b0fe92f473b5c3fbc7a6dc44dd9) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3fb1f7ac9b7388098afea55ab646f7b03d1d74f74866888a077e79bcf18eff1) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73919b064cf75df487818a02d85fd56c382c3333200b028e16e2521264264c05) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x20cceb224526959ca1832dd2e9f472357612788899cd568f74f888777d547504) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf4eb1fd04067d263c685347f5b0eec95374e82b80d112181347424442cc32af9) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94f70d142f5f2cf99ac388d8f06abdfa5df4b1b30f2f449319feddb905ce104b) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3ab46630971890154289b0feca67a51d9fc4afeb2a74209bb38956ddf7748069) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x505060251423138c6a3f6c1980e671f4477773a8f7050dae030fea5b400fab14) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xab28d0a12f6c02606d47d78b47c2aecd20de63eeb9786ad629f4b5f787f27bfc) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf741cbf70180aaaf41e0b89e011d0c37751e5a13841636f6f5d7c61a2694e78a) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x68ae3d7f0f8713122ac2f4e0c254d045ea60d26074634443a8f51cc71b731622) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa0fcd2540c0cecbc99d1cf505ec09228dafc791905c5527a0174ad132f55fb2e) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0cf4f8eaa6411ac953684a8e48799e3930a4e342cc6def79e28359a4b17e2350) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36ed4d4df889ca7679d88f8058f12834cc8d8e8fc196a66297f8034eabfb3334) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe595833984669be9e0db777036faf3863694246414533b91b60c56bf2bce4901) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x486979d241c78c06cead019f73e951c5db0cca4f66730963bad354c0e62ba97b) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcfccbc115580d55fdf09e19313ec31adee58962a231fdf32bf89f114ff90cefb) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7dc4ec4638a2b36290529781e84d65470ba7160337776b0ac3231795b6d457a8) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe4532d0462441595480c2cdc9245b94b8fe7289ac66ecd6774292e71853248fb) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | L. Bird '86 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x54d2457ae0954841376a2522c8cc022f523534f2f7502c1bc20a2bc1f4fc3a89) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | L. Bird '86 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x022f2634027ad6e273124972604bc48285d643e371252e73f8a38e9b74b98c04) |
+| `0xE976204DaC0a4411173B4E19778B073D5630277a` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa9404cce4d0f6492f810643627b4e57b685126e2e10f9a7032d4d95bec06e887) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4db70f5d9d4874c210a3df3db4f841c7455dde4fe98b09bcfd11fe4aafbee78a) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0efa00445d7aac7b5aaad5cac1e6acc23c51e6aec0f2b92d2d3751c472ba7076) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x069abc40f7791aacc48d0df5e92644ecc7bc1c6a58cda2a43774f88d36d7ede7) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7173fda6c87080f972f074eb25abdecbddfc3d14eca262d94fb2e29407e16f52) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | L. Bird '86 PSA 9 | 5 | [Polygonscan](https://polygonscan.com/tx/0xb96d028e2da4b573f0c542bf64bbbc15c5e989e18948780c94479371076ae80d) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2361604dccf066a45c5640854de840c5dbf7aad00f0e3753e87af5aa1aca78d9) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc0b75deb102adce0ab7f6eeb6fb122b7519d8dc8e8fbf8a781b67bc1dae34ec5) |
+| `0xF8bBD266e5292779aABB2A2c0B6f7EB9BBe45Bf6` | L. Bird '86 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd2218789404d9c9dfc51c0d335646ba172bf3d6b164c492db63296449b01adae) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08fde0050b33b4f5e63e0c25f8b37c45d7e184561495912ad95512343fae089d) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | L. Bird '86 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0348bf6c9628e7f90aa69d199eb231716cd6f13e9238bb8810eb22cb0faaa954) |

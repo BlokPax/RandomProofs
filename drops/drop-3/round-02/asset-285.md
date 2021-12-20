@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | T. Cobb &#039;09-11 PSA 4 |
 | **Internal ID** | 285 |
-| **On-chain ID** | 97 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc2e-4ab3-b78c-dd046cdeaf50/68ae1ef563cb4601d888a7a3c8c02239a911a2247853ff4e3a87b80311001724.jpg" height="200" alt="T. Cobb &#039;09-11 PSA 4" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,159 @@
 | 💀 | `1021` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
 |  | `1022` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
 | 💀 | `1023` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bb2d8ec7236157c3efa512a9f2eea85aa9362d8c79d9c0e635e44a38b13cade) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee8002b46ab793d9acd7d57b8c5a7f4ea292524a09950431e46d735b31c92502) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4ef0cff03baca90107c3899bdc79c6771b9d49bd477cda9daeada37c754072e5) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc03ddc0c7f424c931c4380933cb9d84a9f681817efa599fe19d099d292f87e31) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3644da6f0141c39a583361a05cc565b405701b4fcc85dec93a44440fcd54943c) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcb1cb91cc8894334703db466772b1cc51f09a71104a17f3836d3000c88792c43) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8d266288620d197f09a3fc39310698bd32627267b2bedcd7f8a899a5737c494b) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd7806e6053cf5f7a0c14132c6d8fc31f55c0df72a7bd9ae979e18048de08149f) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x06ce2239448989cbde68db6494d4d38932c6e9c91e914da65601316d9507da98) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78224833bd62e41e049ea10a29ceb15f50240322d7c4f94e21bf682dab5c76fc) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xac717f39e4aa03b774e789c70797deb9f67175b0c717de4ec71f385ee5286eb3) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6cf4a16ddcf72a38286548b68b48ffa925ead8e5173df531a39b3c396b56392f) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | T. Cobb '09-11 PSA 4 | 9 | [Polygonscan](https://polygonscan.com/tx/0xfdedb14eea88d0e74cf1d650d7c8ec14e78e515841063cd0d1a69b6c4e9d599b) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6456ec4e9d39e6fd6e3fe87c0958f9125f95a7f3319d7d4de21cda5a8a80a329) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5da8223c6a04e0deeede2e87047a43e174c85d393b9b4e4691b21ec95144abd5) |
+| `0x11979858D6559bEb4E607D7A2BEe95943cb0cdBb` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa697515a232e6c6392bbd9ed60a9c9f19cdf2991012a360292f82cb5d8c9a302) |
+| `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa36ab9b010adacbd4062f5edcaf3856f5a9964bd1565d363950a642f8be05d68) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4bb062cd320152496eba40abb71a5703f47f86373c70a15fd54839e8982fb0c) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | T. Cobb '09-11 PSA 4 | 7 | [Polygonscan](https://polygonscan.com/tx/0x34d0576807459ec77aeb183376c0cfcb610e866c665cd577c06e2d169a4ec296) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x641e50c477407dbea52b910115ad879d87eb8bf5cc5e5019674bba7cc87973fa) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x07546ea27035e7ea8ff99074168bd18ad3480e9f085082c3b041ef0e68f55709) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | T. Cobb '09-11 PSA 4 | 5 | [Polygonscan](https://polygonscan.com/tx/0x77fa553bee402f41cfddb1360e854224562e9627daddd3fd9a771a14514387f0) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc3a785ce6709bb41795f1501858d556d1deaf857e8f6b19cb7c07f372bd428ea) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa940a45f379dce5d71b1e6eed27cf1d3c4fd85c55c1474cff01996ff4c87ea27) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x535363f726adb8c0e341e065a8398fd65068734e8316afbbc58263fa78eeec3d) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78cf52259e525b566ab16438985c260f4dc7dd291348a1b8b8fde6c49d09cb1e) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x60d5ec247188dc09096f653521279d51db7812d96db56fcf8b45f6355727af02) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc0eea681bc34420d5b2ceeaf6f31f173ee5fe2b6a852d6b9b9b204f93c18a7e7) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x090ad550aaf26db5a672413c1d01a7662d2e236a95884f5196e84270f17eae21) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb90ba44bcd0d1ceea1cee6c72b80a791cc629e9e6297528df7d7ce2cf8757aa4) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x47a190fea3fdce94539287c718f212971587657d8220acbcf1d0a025bdac3662) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1167c6c75cda7619fb00ac309cc2a872d81b024c1bde9d068190f7990bb8bac2) |
+| `0x2B5112B2FAEEBA3b49F72C1a7BE440E812939427` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x43520f6b00a20b82e024c8d274f8be176c0c96896672c6b2377b1c8fa8d6edb3) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x81086c503a39c94c101d522564a27e474c2c6797de4be7d4b4b8c077b2795497) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | T. Cobb '09-11 PSA 4 | 10 | [Polygonscan](https://polygonscan.com/tx/0x38ea03ee871599d78d1d25ca50e6eae37a2bda68c1edb7fb58184bcf587b7743) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbcbc7f498b79c1619f6b6b4a75c2319ea8e0b5590016ff264bb3aac1e8d4a83) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe2a16672522dd1922b50b3e32d8d0ec18596474967f22d03f939ae5866b3f145) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x362b94fe7238840f139224f5445c99bf12e6f61388de417fb7cf657878acfdc2) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x21b25135c93577479880ff7620bc715077146c2f3294c56d67462baa95946371) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xaf69e097d0cc03fa2906432acee1fc38efb5068793bb590d1c688ccb81bcef8b) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc622d0471bf5f0ff66720cc50f1529e96ef88771f4faa5114208689deecccda1) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | T. Cobb '09-11 PSA 4 | 6 | [Polygonscan](https://polygonscan.com/tx/0xc787e4a2fc38c38357cd479a2a1840acdb4f6ecc40cae8a89183c92153246ed8) |
+| `0x42BBf55B5d4FCd42397424bEf2174D4c59a06DCb` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa7ae7313bd827c897573bef14654181f71e529147563164899a31bad260809d) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01eb5bb6de37de17029f7db447bb08f80cafe75b8d5e74ab6348d842c6609dc4) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x734ad223f564a96056a2462df22daeadc29e77395901484bbc9cfbd365df899a) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33661b2e1657e76a5b16d76cb066bd1494b45028f3c263f5354594f4754a6a31) |
+| `0x486FEB19679908b3D4b79506581b55d355c12f4b` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd00c150ab66e34d289c52849753f18fe42c972e415e06b2792f89ab0979f3f97) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | T. Cobb '09-11 PSA 4 | 19 | [Polygonscan](https://polygonscan.com/tx/0x143d8e53057528979ca98b9cf6b517bb48c176f2c108837ee11f391564145f7b) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad768383bb283e70e7cdf0747702c81569bb02701e0ec8d3d0d3c70ea04e37ec) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe6bc21b4f52a99191d0d92dd76576254da3794de6c33e5e99c1dd1552535a06e) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe9478b32ddb0b639322f2a9b609d4e888845ea4a7cf61c2a00aa21c1e858e136) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x003f3fa93b78d50ace1a92fb2cf197d4a213f7111094ea1af685973c19663b1a) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x87ae805614e686ac57829dc93dcca1131b3061d5e65a36c1239d23f82c001f26) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b346a9deb9cc3e6aa191498feefe6f6c8b2bace43828e0f78bbcf7dcd6b23f4) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a824867737329154147d47a972da39daf01cfce2a1836097b88bdc792c7510b) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | T. Cobb '09-11 PSA 4 | 9 | [Polygonscan](https://polygonscan.com/tx/0xde925d9a10784e3df5e9a4ec9cd8a35500c0a1c8d7f2734c010d8994963a3c43) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x75f5cb60429682b4409b8fc5c76812b072a07ba5a6c3af3b0ee522c36cfe146f) |
+| `0x563C946Ad597BBE777A480D69e770D537F9C69De` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf9edfb5c768f18a180a571297dade4a489485aac860a875924fdc9247bd4bb4) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x461ccf5650e539d840ec695d4f82f4e1d736597086999e03818901f04afa113d) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | T. Cobb '09-11 PSA 4 | 17 | [Polygonscan](https://polygonscan.com/tx/0xdd5718152b2b33c1b7bb5d5fa6e87db0234d982ce494282f5f5a895c630c0a89) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x16a22d4f526ba222efc5f32bfa475bed8fe0e1589d3775d05f02b571f3da99d0) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3dfd8b5440f6f76cceaa5427fa4c2e7ab2441be5cb51b3a6a58d391d1a43bc1e) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15bcd50138eb3978d3c6e462afb358147e35c6a9c524ea1079b8d37307fe3047) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0x89429b6e109dcad789f788218723a2156d11c857c05bb77df9e954fedffd95f5) |
+| `0x643523C2b0f4F01Ce2958e565E7AF5511c234D6c` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ff7187d7de7c7edeffb74c9fc6212e6ba595cc03194e140ab4b05284ba91e53) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c6d979c6f9f1b32e43d23bc125190ef5d5764f875f9fb60accfa6752d23a7dd) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | T. Cobb '09-11 PSA 4 | 21 | [Polygonscan](https://polygonscan.com/tx/0x5d6d3af6101155201ccf3577d9c14f42632d287e9463af21e806e22c394b39a8) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6465fa0a3afe256aeaf81d440f115e10ad37093c465fe08ee7a41f4f34a623e7) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xee3a17f0e86de59981cc068acfe6ced0816d8978dc4730dcf99f5b664f2ad274) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0765e5f9797641ff2578ccaaa2a23ca51113460e38d8ad4dea82d14f878af4e7) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc9e061705ef6bfc438a70669ff30960d42fbf7fd40725b140bd01507156aaa4c) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8386017426334cb65890e6857a0e0a0085f380b4312cfb762e0ff5bc33b12fd4) |
+| `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` | T. Cobb '09-11 PSA 4 | 12 | [Polygonscan](https://polygonscan.com/tx/0x4cc7ceb28389fe3d7d68a9de15dc2bb627a0234203dfbdd9a51ea7c3ee2e16ca) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc46fed86bbe8fd1b6cece567c9a504ad4aa25389ac22bdf5d892933bc98fc12) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | T. Cobb '09-11 PSA 4 | 88 | [Polygonscan](https://polygonscan.com/tx/0xbc59fa429a30d5efc7f73468c2f493f089397882a7e3081a23976657bfdfbe52) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x98415b92073c16053b7e4bbfa7223655590817e0853e1d1c0cd44a41774c1242) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1828979fc5455853f95f440001fa7226befd0a3a93b063a70dc75a9f2e8712a) |
+| `0x6Ffd294aaB36A1070E3A0defd2d3e7Cdf9EE146c` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf02af5c40c0e7d8dfad04973cbdc61a6aa5da1ba23e638d029006308cb45fea) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | T. Cobb '09-11 PSA 4 | 6 | [Polygonscan](https://polygonscan.com/tx/0x7e8381a548d31011f4247779789078d18dff3cc7eaef2fe08cb69da515bf0f81) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72f08ccdb1794d066df6b683eeef1d87e59fdf3d4f74e4c8529343769b348ef4) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | T. Cobb '09-11 PSA 4 | 10 | [Polygonscan](https://polygonscan.com/tx/0x7a68abf50ae15a080ca0c2fa97b9fcf0a1e72421a6de86b1fdbfe072285ed903) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x09a5b51ca2c4fffe213b6e14921e8eb84d88101f8529682c11529007137e88f9) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0x58b9a8d23df789f5042f15a82bf46142ce4f813f0901188002f7b3ef4ba472ca) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3c3765d95deff99b144723e84a28b383d6ee5e5ffb606b0376de815b140c02a) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | T. Cobb '09-11 PSA 4 | 12 | [Polygonscan](https://polygonscan.com/tx/0x94c3e4516b982952d5786c92942982b8ff64435889f946eb34b09fad65a5c14c) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14b3a114f417de8bb0f1a20017d1847a56e89cdf7f7dd90e9c72d2ed87808ac5) |
+| `0x7d0cf722Cf5467AD8dAB228692C8Cd52e51eDB64` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dc7742e4b084e1efd03b201ad6bbd45d3df0f38dfcf88208cab4618459ef30f) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | T. Cobb '09-11 PSA 4 | 13 | [Polygonscan](https://polygonscan.com/tx/0x833ca508186026188b05a6fc431c6783c8e100c7ce3b8edcd41af4c39f3d3a53) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | T. Cobb '09-11 PSA 4 | 8 | [Polygonscan](https://polygonscan.com/tx/0x4264f108d1cb2aeb736452d6b6e48fec9d184cce72b0c3e1fd209b894ca001f8) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe9b7712d9c50115075eb78d937084aed27c4048f5b6299ec0ec06aaad8951a5f) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xd396583c6ee9edb10ec4ed96b9bcfca8aafecd3d04001c500958d2a5c76e98a2) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88e292df2cee64677297f9b1c5248190178d65178794ba2a44851115a181f69a) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2ec9a2644fba6843562ee7edb59ec4c247e21c7ca2200e33a780438ffea80606) |
+| `0x93171109dccB003E477620B7b4d7C84E1feB351f` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf9ce89ee61f83b06e1a72a0ce8985620a3fd0e087d0dacce57b1a7b91d8b6855) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa95e7b0d5cacd383c72e0c7cb8f9c60951c885d9d978cd310d6eb297bbc2b077) |
+| `0x959785493ba8a4bED788E62b4F5b690fA7824152` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3784b478b584c13d03e9da660b67a98fcfcf56fbfab7fce1af4e7c138f0775f3) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | T. Cobb '09-11 PSA 4 | 13 | [Polygonscan](https://polygonscan.com/tx/0x311d00ee637ae2ae6b585587557c1fbdd301f16057b6f135b9b71e3f75b28a83) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09d0a36c3386f0207c33ed79859d986bdb69a4d9114873ef69a7666e17b87261) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | T. Cobb '09-11 PSA 4 | 9 | [Polygonscan](https://polygonscan.com/tx/0x31bd1bd392e2cf9d7f12ffe05120fa660548ef2b9042127b3c81c7aba76b9ff6) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xdd49327cb6dc34b18393a7865128a776f1545f9d3814da6a34b1f10111e48a55) |
+| `0x98ffa0549B7bE17BCB5Be793Cd03fcd017E38653` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xadf19aa36d9342c15b67b0eb3e84cbb96e87860c42832a957ef6faada62e9fc7) |
+| `0x9a99E275D75D609a2fbD38AD1CEc76b9d5638357` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dcad0869fe80c0738d440a1c747f1cb5a3e6660507a362c027568c15010572c) |
+| `0x9c89Ad13319E5D71e628Fdac8C13A5d905F19F74` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f5d01da0bbfa2a24cefe03949615237acc47031861c26f8331ba6043136096b) |
+| `0xa0Bb2dC6d6ABeEF21f9311e8a030f9353176AEdb` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb811eb0186f606b2dd0ec069e4f658688fc76b6d680689b8aba87bbf2bc58432) |
+| `0xa1CC1e396ae17F8685BE4a387f5914527877F720` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc6f01ecc5dd349581f6529ad9b753204e36aad69e9c1008a3f6077893615682) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc6dd6742d56ef343d68c36309f6af898e24be0265e6b3d7fb71bae561795bbe5) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa86b286516ad3a1003fde4f48a2774ac00fd91818ee0e3808616b4c2c44a4246) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8cf3bee35ebb6e82b21272f5cac890dbc5dcf44f71f0bccf69e39e92eddb5e15) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7636e7324b02b5ff0c6391c06a8bd33c0fd6be93cb057030a0f2dcd88f87c8fe) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xad2e8f14a8cbbd961ecd5b097f2abd92bdbcfd240d2382430bb80f38b91e4a46) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe1b7c27dc59126d09a9f609a284d7da655ec47707b2fd031be5970bbfea46092) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5d31a1d83417920c04ef501ae20a04c50fa49d151d53250d5ce4fcb6639d9490) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3faba1d484f28ddf459a00b448c25d62a74ae1c2357a90e51161eb0818c6ca88) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b5a33bca37d417bd1004bc533b89bfea310b09e79cbb5364b796240c5f8eadd) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f4f48875b11e8e02353ebdd455c956ca6dbc0a5627a28f6442cc6d6f42af78c) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x240a1d26ead3bf2d0a14f6a6f1fdddf270846cb21bc4f0e49f415200fe183071) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x95982424753714a68541bfc5e77e40ad2f6c099365fecfd4c40f58d750d0cf27) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9f701ea2754d686cff43841da2bb7fb26b15cd04e6ec230e65ac68c868dd4222) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xdf468afe3e671fa78757778ac74e8ac824a7cb6ea978e8506406a7653143cd5e) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf7ca8c17fc77d6a3dc131f21df1b3f46bae4d5758da17e9235b8d663a2757fd) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc68ef35861b32c796715ef76f7fad9a0a4f6327b232896f2be021f4e2663e842) |
+| `0xC8e93EAEdBDCA697DE84249632261c8Ae4a187bE` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1606171cce652d9d08351a93e81f0e0532ca45355e100e1dda0eb2760bca9452) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | T. Cobb '09-11 PSA 4 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2ba1581a3ca07747b385e141febc43fe53ea026d170b0c021856b63474dd383d) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcbae6d4ca10d41ef1264515f6a2a7761b9594d00e1f2ccd2555a0fef01121744) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x009bf60b3fd9f45ac279efc88b3e1c76c2a4d12baa453c3260df71f76f016f59) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x683c657a2925b49095d3719f5abf274c882fbc574b65ea30bbfa84063e255ee7) |
+| `0xD261cf1721cf118b53453685782d13049d2411D9` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x956b1ef1488e9d657568f134243467f2551043a8770aef40016a6a2ab2744f0f) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a519b0a29d2fb2636dabc2d358d4fc35c77c9478cfbdb3da8b6398bae072df7) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a57776db1786b93c4a8e14dd911e43df92a1591723f01e05cbc20395d04d067) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a46d3f2af988cdaf13978a488e562835f9b6abea09fc9a838e413f154f60e6e) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38091a77eb011df8c59715065575aa59dc9fc4d3c725cd4dedd21da8fc9aa8ef) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06462d3d78efef33d0a14150c99da4f7469b1cb626a24999ef3f18f70ed4c818) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x041342701d5e50cb7b1d511623722641725b3bb4977b8767cc58c23973032edb) |
+| `0xd912fE8cf58C7270033f1b135d221c13693886b3` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf56b0930e4292844b5d435e6196be5dadbe4f5f9fede60cf94e16967b5f872c) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xefaeb62596f2cdaea3ebcd58a85d05ae1ddfd04293a9c7458e45392ff64ef5c8) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa4209d88e85586fdbda41e7947be878939197388169e923dbd10044dc81168e8) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf1e63c3a875ddcf56e794a8953ecad426cbb0f5bb61b4c1b6e93bb22db79f734) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5be15270b7866b68d74ad0a46c141c455e61e75a9b4498ce0a8947694d60c4df) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac73236411c9167f5c3363aa741df514e73f1cf8df65b9abcc2816dfbc1ddb03) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | T. Cobb '09-11 PSA 4 | 3 | [Polygonscan](https://polygonscan.com/tx/0x97fbbc4cba198ea04d5713e98ff67d305f57b8f4a96dbfb285fb99e593752a88) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x54638153f0f7a21f7eba574c398b52dec8a48adbaf22cffd25c51ae18416ee2b) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0x12aab380946d3a1b33a002ac8c47f770c5ceb3565a06b050076be0fc3982a8b3) |
+| `0xe8FC2013e0b39A95f2fc5d696Ab91535D72A8e80` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a606b9f78a2da91e0e3f9d412ce401da285e04bd8a5a4adbae2197593d68dce) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd5f4f039788de35880a8b8790da96d59b1a872525872677b67a3579ce820db22) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2ec3e5d24bd9dc1355768195c56eeda946b7ca1802483e409cb4c3b100be9e6) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd5b68e69395ad951c17b9b688f2c6712087fbf6e362c586eb77035b6554f5196) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dfabaed53f229777cf1b3eedd6fcf2775368fd8eb35d68877243b5facbb9642) |
+| `0xFc11b4e316AE2C74dCa90F9F6A03AC623A1538B4` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8be3437ba2a71107f220c715bc36e10ac78ed87f5d7f3f37d5b147b7cae9cf6) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | T. Cobb '09-11 PSA 4 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc78c06ce1e55c0a52d54f9e356e90d4b7779146a7fad05b90ca8b368271d2736) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | T. Cobb '09-11 PSA 4 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc588e2593549639e4e15cc3b4318929afc01446c3cd8f34611504d27e8265736) |

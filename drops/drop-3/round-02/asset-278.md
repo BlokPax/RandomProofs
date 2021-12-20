@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | W. McKennie &#039;18 PSA 8 |
 | **Internal ID** | 278 |
-| **On-chain ID** | 100 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc38-4092-922d-f418ca88d6a7/1763ec042548bba499f1579342ea431953d4d8846822b2926524d66d3583d90f.jpg" height="200" alt="W. McKennie &#039;18 PSA 8" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,157 @@
 | 💀 | `1021` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 |  | `1022` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 | 💀 | `1023` | `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9f5d6bcbc0e12d30b8bbf8a2b20eb080295ed596b1a4bf877e49c103e911b595) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9336f232e78a2316e1fa73273d61771314d91b6c3a34bc1405207731ceebb12a) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9094706d97666bad5ac66b0ed33ed1df4622dc7935d77587a5fa286d0bed64a7) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfe307e9145044e9efc804e78b997c0c1637d54ef1cabe4b6e70f9b88aa119a16) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3ef80f6763169d09c4dc10d7f16df6abc8a7a9f767f6cb5a9c00abb3147fa223) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46196a0194d2d5e828428aa3317a49626f706e002eb869d8d8760281723090a5) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x62b232437e9e7ed77b30e1b99799520f02da91ff12b3e1d80d2a5a6b99542d22) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5bb83b9857ecd9f8077d620417c71a599323f2b756a72a0666e61053f60dc1f) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | W. McKennie '18 PSA 8 | 18 | [Polygonscan](https://polygonscan.com/tx/0x87e8acfbecf2270dd4d38e08b734e088ab8410ab2bbd39c4a739aa856926a531) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff4aea79c7c3d6756abf23fcb31c68c71d8fb6cc48eb96b26aedb30fc551c87b) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7d26059ba1f168d4b2634ed17ef64109adae025aba00c2b0ccc7164a66936289) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d989d656bbfb80e5eab698807332812cfb7e4c005ab17e6d7fc1d54d58adc8a) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf9768607c053bf3df12a5a11ec790453525f0381ccfef7e6b4338b24116aef4e) |
+| `0x1bb49dF9c09E1612134BD87264929E85F86Ac4D9` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xafbbf1885a09622ba19bf111de391395d5490f4ed7e07db58460ebd0f02acd97) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | W. McKennie '18 PSA 8 | 7 | [Polygonscan](https://polygonscan.com/tx/0xedd72898fba905b52616dc58c177a4c3d2bfc3955b524b69bba30d933b824b80) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | W. McKennie '18 PSA 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0xcb59d48dede7de9a68556cbe9337718b732f9deb6eea95a9787feaa4f1c1699c) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | W. McKennie '18 PSA 8 | 13 | [Polygonscan](https://polygonscan.com/tx/0xb19fadf9d5b3fd8526f831080fc424abbd57ac9969b3d647e05e594bdd120d7b) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd174ecbf3a52d587c359a53b5d227274dc2f67302ba24308ee779e4bf444267d) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbef05f8137871dc8896b85cf3151061796b2fa78579fa3a3283e4ec98862f052) |
+| `0x20BB9231090c013e2bE9373371d2c889c90172cc` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x991e3966a44a921a870868f2e7b8d53745530d606c1c930fbd5c44bf0be011a3) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16fc00ba4238b6273e5c1fb171ca893b1c4473a098e831bfad48c21709629115) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe137c8db77a289326417c795f8535074b55bb196024a56257928ed47dfe9f5e7) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27dbb0bcab0472ea6caba375f95450d4d08608e9da5ad5ea1cbf4d35efe859a4) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa00a8a32272865ffc13a0ffaa85bfee9b045a8060c750a7ff49d5122591413cd) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf679a8d9030daf6c79a5e29943b27b4d311cb077eb5da01e8dac0d5cd8e636f0) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1a849400b11f4f759e48fa17d5de3484555e9e11622621190f16fe694e0c3cd7) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1cbddc927e2c4937e3fdb93505103433157dd55eb9f2222c92fc0b98aaeae964) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83a1ca3d9d9892db6e7a567a9ebbeb4000fc71a5c9bb26db3f1bacde74889893) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | W. McKennie '18 PSA 8 | 17 | [Polygonscan](https://polygonscan.com/tx/0x1713d5c3cd6dd8d64355ad7b7a388c8e60d6f9aa8a3c312c544c66c2d9e791e4) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfff0df5e17af6ba94b0b793ffcafb12f17b5edef177d1fdc0e532dd68557063b) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf02f0379ef21db9ef10d25c0e34da43597e2fcabc9e1069828b09a2c49cb4918) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xafd9530d6102f351aa3296f7710c2be9a596206597b2e571e5c862fb435bbe19) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | W. McKennie '18 PSA 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x58098cbf4febdadd9f60e96d5fc4e1139b7e4d6523f735790662d81bb5e3b8e6) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | W. McKennie '18 PSA 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x30cb449048e9a0526e9c4aac901c71ea854c034003204de97ed464dafba5147a) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x375ab5cf2502a9aa961efc38c170aedfede51adb34e01c5669e5299efe9bb556) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x453b3e5a344c3fd5a3c1c00fdd58cce9c891c2c524337130d8d62e5007d15df7) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75b1db28628dd86369073b039559e96a0a002b9acebb3baf898871c071ccc043) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7da6d65241311c715d7e178d6a577cdf8227225b982310adf5d03fe1dc8601ed) |
+| `0x4551e5077534F459A9131b9Cb6b37be8DAa0a125` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd809f96c20222ebbb42c51094ef08c674d9fbfd89316377940e117a12de7812) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7e3f425700fd688b3fcbfcca02595b96ec2f64154168754d767f78e00aa60322) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa5acc12464217749abb49b869c17f07b2717f234e78c26990719915296be0ff) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | W. McKennie '18 PSA 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2c00d8bf9449c04de7fb3ca4a511ae15e7a344ad113d5e3dc0292359475b4d0f) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8d8a5caeba42fe9fdf210a5408fb8e6f074e31922b2db0906a3abe0e8f38f928) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb5ddc0af6c81ee5d9bd850f7d1d407f1055f9b16198f6b79b8012848396fb1f) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfef3ad9706f3b40d493791f2036c203e1ef07afb0b31392630bbb6a24a9ca091) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56abcac86a5384b8647d7b82422b7bb7068fff265c352ace4f85d29e5f0c7011) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | W. McKennie '18 PSA 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc156d1715d4dae3c11c8444bfcc4452b189af7f6c5f9c31a624eb584ba5cd5f9) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5fe1cb41f875575406d60f3299503ba8d0a824af08309e5af0e7766573efb31) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x48fdbcc49429022ebb5891252e74bf8db4afa1ec4a4283acce213bcb86eca038) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64a72141cdf8b6bd911b06de757cce3c313bb3984c3ec110c6870c2d08f11595) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5a66a8a4e2656e484a91e1076492c779b4251a9597566634f830cee8afa0d2be) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xad5e4dc389cd939f57f2925359cd49d0aa1a6dfa938211e4e4e4db8bd69df6f8) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f1f2e58ddca83154db871af1a4c54311f16d588f5ae0e10a1dd8d287f25471a) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | W. McKennie '18 PSA 8 | 11 | [Polygonscan](https://polygonscan.com/tx/0xaeede35f6e0fdc1077f0bc81f787d559b80f3c68fc46a35beeb537de1fffc205) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x959da3331844a96b38df9fef987333858f0b7ca074fb0b8dbd7dece97dcecaa1) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d3da550cbc460e14f2a0411039de67d9d884854fd09c8fa2db4be971a541a71) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd305aad167aea1b737f4fbea6477de811e1ab3b1bb381156bb0e6811f426a1c5) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x98fa8ab4df1b8facbbf768436f3a346c5d5a62cdbb8a8e0abcbf5c59b0b734f5) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69a6101d4f281f98403a261de7cab601f356102460afa8db1db74094dfafea0e) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | W. McKennie '18 PSA 8 | 7 | [Polygonscan](https://polygonscan.com/tx/0x246985c9ae5cc87862bd2105905f9ba6c88d0e69076bbf5981d8f24d9e2ce814) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | W. McKennie '18 PSA 8 | 8 | [Polygonscan](https://polygonscan.com/tx/0xfebfb926ad0ba76b04744c49d9daab5b4cae1d793dbbc6223fa8a290421befb2) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x930c4cba90452100f0114cd7aec8f05a040dc4e0ba7f88d30741ee0e576ae7cf) |
+| `0x6637395681603FeE320296Aa25B12A682Cc72aCE` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa205f3d26440e5e2d88946eb852624c7980cf7c7d7df88334d62dae7d1c5c92a) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | W. McKennie '18 PSA 8 | 19 | [Polygonscan](https://polygonscan.com/tx/0x04619f76fa68d0d607e661dab0c23bad3864efd77bb9e57d0570d6f3fed23db9) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7facfb6d6528d7d67231ad024cc7202bb1474a328e9b5b706bd2f219426f81f8) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x491cdd99fe5f196fcb7766f8a658b0a78ccf3d7e4083ce0e0aa000503c8a509d) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4df1e6a3c98194736417cd0f0b42d3d0cb62e6c0b5764a81a17b2c02748e7bb) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | W. McKennie '18 PSA 8 | 88 | [Polygonscan](https://polygonscan.com/tx/0x1041e5f3eb49fba2247ed3a3be89fcda1af573cbd727dc47fcd8755d7df7db61) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaaead1ece52e727bca9d92b5d4f92d22d6937fa1b25fc7256f0a0101b8078136) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1f9c8357da5906331888a839a7e50f2b2bd03ca153ae20964a3ade9bb8e00c8) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8659af983676a3a2f951af5e07888341e56db533b2be91305fec1b39ceb26de5) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | W. McKennie '18 PSA 8 | 10 | [Polygonscan](https://polygonscan.com/tx/0xc56c276dedd1422b240dfb0641e87fb84aa3fd00c8212ae05aacb0e9d4c130a2) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7559bea694bfb8e45e17a2fc72c60121ff623891caf432933ed4f2a6f868ac02) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7ed80ab62d47297676bd110c605e4e839f60887e491e136f141ef1599f87088c) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | W. McKennie '18 PSA 8 | 11 | [Polygonscan](https://polygonscan.com/tx/0x0d444d8fda81c77d08c8a47421f6a1bac3657abffd355cb3329aaffb1fd89d4b) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x634ab85c40ca9ce81d511f5cb055cd549e0dd8d1b173c9666fe7b4c8cd260330) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a30f2802d650dd40fa3950adf38c88c07e9d3bbb238a08bd64f3101fdbae937) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x623d4e0effc5c448048d4c42325ef72c52ecb6e6a71b35689e54ec08b4c5bce9) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | W. McKennie '18 PSA 8 | 7 | [Polygonscan](https://polygonscan.com/tx/0x95c6e15e16b0d10867113d84a4119d1a267c56c0371ce0c635dc4a1d4676e537) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b1eeab3960af6274142dad31ebdc3b86841357363aa7c6648a2a7681ccc64ee) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9e37e84d4258717a61d6c1f2d96101430f439165f8254bcdcea7de8650ca5b5) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a69d528adc3fd7d902ee6f2fc50cd91a9cc280782e98642f69339af62b17feb) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | W. McKennie '18 PSA 8 | 14 | [Polygonscan](https://polygonscan.com/tx/0xed34444d6e1e700939a9652f5d58d64c1c619c756c5be88e5508ccf33e9a9482) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20931f591d9c52349eecd03b10018f75811a8927830406d58219ed7f9830a724) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | W. McKennie '18 PSA 8 | 12 | [Polygonscan](https://polygonscan.com/tx/0xe52143af8ad55d0ad08b53fa20d728cc9c7491525177d943363dd7f8bc983be1) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87ae38b0401717ad85293e2d2e70b0e0fb806dcb81c16ceb9411f604b9760872) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x822af68c535dd37063fc48f65cd68b6c36a8be118980663ceb90381d02ad22b3) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b78ec0910dc35e3c6fee5df08751d8cda921bc7e2588246ee8269a039257ad6) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0f8d85097315bc5b6b09cfbb52a2e2eba31429750fc6fd402b1229770a939b11) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9052c9d0d824d0a361565643a34e62033289c6380e35f639818de50ab5a7a0a7) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5df4a2945ac9d09ccdaae011a3b919607cad8e462e358664b78ec67a38e7f08) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d3bc970a271f3384a38626a65d9eb65157a4d361d41301721aaca1ecf84ed5c) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x602c0690dc02fbb4ae83aaa08c6a8f286c0422c44cad4fbae7ce6e9e7c9ce887) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | W. McKennie '18 PSA 8 | 8 | [Polygonscan](https://polygonscan.com/tx/0xeb7ff8aef471011e139d9c848e044a4835e91700b0a7a9f2a0065b419c2cc453) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86aa96fde8f4dfe59a9ec0bf7f90e6f69bffb7729b58f670da12273e8c7ed14d) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | W. McKennie '18 PSA 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x6b9a85f88e3136eed26409a645dc1b33fa01e5df70d33bdacc8722e01b779cc6) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8f3472642ba301afea816c8849b8b12db5cec948fd9eabb6c554c03990ad2ba3) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x053d8d3a2d1febd0389febc6617e767e9a115ecc4acfd73feac978944d0a009d) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xc70b492d0f67a39bee8f78bda6db366e8cbac9f171dc7f9dac8e511c3de94c42) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe85c96d2929a4b5fe835b1ee25e2aed9e08eb9ebff07799568e0767c725042c1) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xda774d5321ccd4a6f5aa1cb9888b6051a74a5d7b1c1d571af23f277247749f40) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b54a7a0966400246431b9df2c8ae8889f72ce70a0c20601b40edc3d2d32fe10) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3b3a496ffffdd35cbf35b98c6daed5a1409e25f65794cce1bde339f142c08118) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | W. McKennie '18 PSA 8 | 7 | [Polygonscan](https://polygonscan.com/tx/0x6b8a26335ce212452897debbbece650b3782202e5720652bda0b260b8d14a4d9) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x51f74d7bffa55c4108ad47cc09b99543dad2942732f9a7472fcb1278f1efd28d) |
+| `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a51c83ac950e401ec0d85daeb3200f3e1cf5806f55863b2ec3bc3538bb4a3ec) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb30eab7aff06475bdf098dd00f36e9f328a7c44d0ee38e4a5dd189d47f0004f) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd0c867b62de0924fbc4a0fa861f3fb5227243c957480d7d1eb86a876381ae94) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc032681a170511c335186a49d49dc9428e752e1c42f2ddf89c22a2e711b5005b) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ea90b2f0cd374f2dec63d9217bb94d1d1a7ddb1df135a18f4e82e6f8b7695f8) |
+| `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2559f0e4fb1ed92c54e1946214dede087a183b57114c1eb4b02c62246b65c849) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x19e09ab184bac3290fe68936d12c721359cc003ced5d02b293aaebc3e6c9185c) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe05808879b086f76b93812e62b43d5baaf4d04935a864f093372fca109873a5c) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4047cdcc00c71f28fccbcdf8f52676dd0129f70d38635da28ab6f9d8bbcf0a84) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85cb35eecaa20722a840701ab4da5ea0c0a56fb03f7924b7a991a446c966ac3b) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd4c15828de98f7e2557629a6f92fcca0fb313ef2191859cfe95cdc77eb7199ac) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8c6a0f1e275cbb835c8d72762f9fc8d7b019f2e6611234ec5114921dad967812) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb676029fb81b0733b2be2db773aa0967cc77843159377ca5736f747d193b230b) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf674cbcb1fd97c50f9b2d2eaf3480b0928fbe9f081ab06345a5b67fd32d16e34) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b1339c58d0e5459b76f0c2cbd351b71d5e39ce2a808b5de9d9f8b23f11d096c) |
+| `0xcf455664c3D50ac7649F1F0581Fc8C1E17449617` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0772f605de6b9750f8ac674727f52a34250ee117ec5aaed605705af76fb2803d) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | W. McKennie '18 PSA 8 | 11 | [Polygonscan](https://polygonscan.com/tx/0x20dd36a657ed1f83d60c1e40c6ebc21dda25e2594f71c39f807d8b647780e7da) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32bf1905d98068348d74545fa8aa1140247f2e1b7a06ffc171ed19c152d780c8) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc355b4f0dc7064671fc5311ba76a134744b982cd84f3ee1e49e627fdb317e75f) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | W. McKennie '18 PSA 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0x44649e689c186d1c93c06c51bc23860438cf0d434806a75907322a5ab316dac4) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | W. McKennie '18 PSA 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x6f190c827dc014d644a3d19feece080ccf6f277455ef083691758edc98301f51) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x205d40839e507f23b10d8f8bee14ad42629a33a3fd8903dcd12b878f1911df1f) |
+| `0xd912fE8cf58C7270033f1b135d221c13693886b3` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc595b8814ac83d20e2dd07b44f5f6fba0171bed41ce247703cf9b0669a61a78b) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | W. McKennie '18 PSA 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x2b6cc6dc6cb15edf3a6139aabcccc4da327571249c1875156bcf39a1048cf7a1) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | W. McKennie '18 PSA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x144147ad0c436b48df70518da9a5f1b17fcd66484d40ed1dd3f095b6ba6a6920) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31c2c0bc6475b50e4069d0d516b358a117ac82c0b2612491403d13013420ac12) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x110722e91aec2fd1db23c69d9a3873055dc130da7d327b9a76148bedfbcf1db1) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd95701ec2d09bc54b3460c089b170ef233df6575d9a233789493d534ac7ac4b1) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e9440ce7aeab4342f191d9ca78065d1fcf6556cf2bd1ab8a7b89a009b280641) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeae58359547e809bb33dec0cd17d07e3210c334709703a17a33ce586c0e59551) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a2552cd731e6f2e3b882e0ed82a220b07b560f2a17889010212e265b38ed814) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | W. McKennie '18 PSA 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xf58332e7858fe3c27b8ae2e04ba46a90ed7392518c1d8d70fe03589d55d01cfc) |
+| `0xe8FC2013e0b39A95f2fc5d696Ab91535D72A8e80` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc44096f7afc59acdcebe587d98bbae3696e685afe872fdc906a99af511b3ddf8) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa23d7379069a77a551ecbda1d89167dbdaf325096a0fd3da62f5a3ae8bb3cde) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | W. McKennie '18 PSA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8b08207884b3dc6046b943a6909819efcf27f2c4634c7719e3b71495545a758e) |
+| `0xf31Bfdc4f6Bc1C0ecDBf6D45b8FA1Dc1ff399Ed6` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13a24e1c65e6dd057853be1d379eba506ecde7aabc642d51af0cd840ede4bd22) |
+| `0xf58eaaE7a6280BDA1F13a67683Bc15351145177a` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d868d9512ff77dfa42461a04b0e7a2cc3ef6d6590231c01117719a4b2965d81) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfccb819ba782d944e9aa45102d5c45082c45e14cd25d567b9b67be50fcb3f07e) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f7407aec60e9b0552a0edf1a4add4d19fcb367018ba8976b2f72835c563bd2b) |
+| `0xF8bBD266e5292779aABB2A2c0B6f7EB9BBe45Bf6` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58ade575dc7ed8b350ce391d50bb1b1c19e45151eaff76aeecb6e469e665ebb3) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | W. McKennie '18 PSA 8 | 5 | [Polygonscan](https://polygonscan.com/tx/0xcae4a044c0290a06c4f6b1a4ce5d48e8d86cb3ee966d84ffa50c208804d2d61a) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12b2c878f349c72d84713a7206ca64f1fa0dcb94403c8a9aa2d4abfdd6700f81) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | W. McKennie '18 PSA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fb4a6496670100ea2e79973cb9443b0ba040c2f8b05c38e92491ba4c80070b0) |

@@ -7,15 +7,16 @@
 | **Started** | October 22, 2021 4:00 PM EDT |
 | **Completed** | October 22, 2021 4:14 PM EDT |
 | **Tokens remaining before round** | 6,144 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | J. Elway &#039;84 PSA 9 |
 | **Internal ID** | 245 |
-| **On-chain ID** | 70 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e41-4f53-83e4-e76da2415ad9/2e55524dc2260adac0aa601fbd636c4098fbf2dc8093af38d37a94a930ff68fc.jpg" height="200" alt="J. Elway &#039;84 PSA 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,196 @@
 | 💀 | `509` | `0x6F4EF6a2Fe95C1a9D01742622a84c723a3EF8375` |
 |  | `510` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
 | 💀 | `511` | `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65eccf88322c0114e1294bf8a9dd63d29b3324841fafe4dbcdce061528578337) |
+| `0x0291485B514A1682f11643C08b5e183be32575F3` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92a367beab15540d8aa330cca3e65edae479525dd25665c2d75c367fb873935b) |
+| `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75f2511f90398b2029a68396a71bf6c278a4cbab28ad6209dd4a80c1555a4c2a) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89dd6369eae1b73e8ea54508149966e554ad3e8e9f1590968e45250495caa009) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2cd4b8d0cc440324ce8de07adc216190ec8eeb859f55342330af9e448e21f9d2) |
+| `0x04D79601229A81B7dB0625Ba0D25a6b81891992A` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x521e4dbb5243500bf993900533a9745b8770ffad976e3f50e65e729d220891b1) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x042c06c41bb4c8e7e578e4120e8220e4bc46a2090f690bda8bd0272655628997) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | J. Elway '84 PSA 9 | 8 | [Polygonscan](https://polygonscan.com/tx/0x8013a3c87a5111846869d590e894f9917b3b4c827da943f36a8317a3ce849699) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x27d7fd1d9a9768d8939a028712aa3177cbf929ffe63107b420530c4f61dfb3e8) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x400d7e79014d419f8629f7a0b72fec4684d2c1d471459e09e0e72e084765b7a5) |
+| `0x0C40c84a27561B8Ebc4d1d1f7318B3d0AF6c6588` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e2623de445be8460d6543734e143b8f0c680bdd1cba04a7516edcb00e3bec54) |
+| `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe21086f7be8cd86bb899803eaa18450422448dcbb95c6fbcbef2379c85459244) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf3bd80426ef282427f08e16153a0b518e8f30e4feb04a2ee755244a158dda35) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1f4b2e05a10b7a7a22f9ca064ae042fb5355734c82b4ebc7afda880ff61359e9) |
+| `0x0ee726F1B6C4bf0FE7f2C94CF1e305732e2F5b8D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a8af4248fa76bd0c12c4c06c1b09c27101b2e9bfc91864be2f73004aff66aec) |
+| `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1eef1c89957b6b5350c04ac1a91dbf058de2d0e5a18c0a0384a00b667bc76617) |
+| `0x15Def6e5Ed8E092b2482900C67491f5B4380fbD5` | J. Elway '84 PSA 9 | 11 | [Polygonscan](https://polygonscan.com/tx/0x4a45aa8c81466897300f846d2627017d519fe662ec80f7140972c07cad0d0bff) |
+| `0x16d7b3463D719be7245CB0ad741f6AD2846671f6` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefb5220f244ba96b5fb6eb2b859c557fa3fc9f36957c8cfe1789537aa28637f1) |
+| `0x1783De303Ca862DAf43F3A27daaA62B0A6394a0F` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7463ab8aab18743affc6d45ba9d4e9cfd6f4ae88cf1ef64987c751b653e99f22) |
+| `0x17E411390B57D6f6bA8952A77E40eefC2969C851` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe14558ce65caedf9e485e42fce2ce14a686b9926d5539975afc4131ec1f3cd39) |
+| `0x17EE5BCDB5184B12e0a6D3F2EB2f4EEB7990bEeC` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6cc43d665bd5a6ff30efab1f8c7fd6913ecbe3178bfeb7b3e585a2757b0a71e5) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfb63f84ac91a2c85d955ba267094616ca25d3849610d60bb8882f74d53c671f4) |
+| `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b724bde25159589b0dbba86ef3ed80f24be7b359ec2ecc63317f511a2dbc2ee) |
+| `0x1B22DFE9229ed2B253F7cb87a168328307caB5e0` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf6062cb61bfc971d5f1032241ff7eb807acbc354435444657e6b4e61aa7982ae) |
+| `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf72b7199ecf9fab6c55cf456b0769e983b8e05118b6909907e2dd11fe0bc1c01) |
+| `0x1d38493De105e1f2c01989A18CD8b1c78214157a` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eaddd98e033c1d906c9a9abb0d203a08ccb94249c648cf9296032221956c44a) |
+| `0x1eA55CfDB6Bbc8eca209Efdcb899E14173D62BB3` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96823ffffb5f7944f204dbfafcdfaa37ed60fa73b5e3c66b0d8fb35e894670ce) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbfa3fc7c41ce3a32002f1df83cbb0ab423d2403c878dd4c15349a8016c71650a) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | J. Elway '84 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe883576e249d32bdbf31ee3c13b549e10d4616ad16e610ff1d8ae144ae6d538a) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3cceb8cc13c7e83f86bdc62fe9cd7e0e83ea0352a03f661b3232ba7c68319270) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75a40e3b25994251aff4d2ab16ada544ceabff48a9ac09394e873b4334f5b711) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52544c57dea74f86bca00b7d3d22a8283a30f33cdbeba256ab04a8549b9a39b9) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x790e4c1c575cc1db0ee27f08dc8031e923479180b6e593cbeb4db4356ffa970f) |
+| `0x280dF9E3BCCdc5a0f68E35C7728860Ad3d7091B5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07a0bef9cbbf4bfe458fc352c81c803c61efb832cbd1addb70aeb5b6d703b5ce) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37535ae9f1a750464707de2ee42519a8584ce434eed5565e2098d8a1edd69bd6) |
+| `0x2A9F34E2387F8e586C6FEdec4E633d210011d118` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce2644af81fb7a52e27cd6be1de528a9b24f67cef0548c3138f1c0881e198934) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc784b786d1f942cfd47360c9a56d52ad3028955d7b2259c1810301b94101cf07) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee8750e9d9f8783ec98d2836ad7ee8d3f2c8db5c7c49ccf23b886f81550ac363) |
+| `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6458daf665a1231bacaeb67dce1fd6d1d188db10b27a5b4033ef46b7c8da962b) |
+| `0x310e4adf4318caB4BFb66d11D4D88e3465A684c4` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41039827e2d2dc5e05b20300ae1910957bc756651459cab1f20235af2a763274) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc151b1742d0135c14641a3ad7f9024a6ba3cb2970df25fa800eb537b4ff14d4f) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x985f0612a39fe822c193e710ee336bf321090cbc3b922f11f72b44dc83be4ee0) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4961f166c028f1f5affa77b449f3aeb3615c7f9aace1f50a5e0e242329a324b) |
+| `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67cfea244a58cc7d09bc68512e4e4b043b29064e159455411e66849c489185ca) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x297d57e33f93b37918df0906097252ae97c4f773715d29bc0e87472d1c05b7bd) |
+| `0x35aD407dD11C3cE74f6167E407f7FD597DE6627f` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4a1e51aaa49e6aa0d6a9aa5d6ba6fa5c7ed45de21cb9614a7895ace69fd9ee8c) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28d155a883ecddc4d28dc8ce420bb3691f73156b43234c81e104889198ba728d) |
+| `0x38D3C36BF3e8D35d058E655c760E17384619F877` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cfa02225d2bca6c77f12b16f16da03a0859ba3123f2411ab262a9e2286777db) |
+| `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7cb7a9ad6214707a9a33f2281e912d6a8aaa30faba6093cb422e733a92d60c7) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb9478e60ce1d1f763858b80818059f9af47a2bf79541f72ea34bbcead7447b7) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13629df861bb9f9ae122530572c4bc85eaa0bf8355c66987dde7cd9b4e6508d5) |
+| `0x3F3728aDf5cc1BD8CcC57aa34125866c74353018` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9cdd09ffd847e92bf30e1264a580c4067733efc76533c955c1323d70c171793) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40d0fe38c1ea5a5f4fd6891f97cd23559b028d417c05b8e165a4a0a897312574) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdb58b95323847750a43295df1c2b2a3523320797a1af337a4fc64c36c454e2e0) |
+| `0x423e8A637e95ea31f6a3fAC672fd92dF119478b9` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x49436b643407c65ff4a1d0cf25004878429bed9302314daed550992ce4cd1472) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x277c836cdd398d4f1b699f1fe6ff0ddd34c31ed0633de67591f791e540a1efc1) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bb19859c3e287ca7c4bdda946aee5673af8b6ba045319fc21df621defb13521) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x52673914e9d51111fcc5109be33293033c9ecfbc85b07be24b2d3a04287e0f5e) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3e3f29a5fadf4cabfd5d9241c0d19b81c29a51b37f3ef49e6ba67ad82add3a04) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x227f8380894c4a34ad53e89ea167a7eaa5e341126d6079ba14d897766344aa16) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x351edf5728c101aa830180cd85f50407331b39297ba4bfb47d328cbfa6d6486d) |
+| `0x570AF359d7350aB92781efc88156dE91175751C1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47849dc291511fe7b5373ba138f81232ae34c8d04e7cddac0bee4b8a5817e794) |
+| `0x5b437Be80c2031559Ed507F900Ca3176FF346fE2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6ba3039ce4c2c906c04adbd29d0faf801e8aa8e7a394e9d20501a6e2af710ec) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88a13bcdb77b166157aa49519aa0d2a8fe9202dd4f762df51a697a5dc487aa68) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | J. Elway '84 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x302292ad105c2b618ece9def510639c74225ed0aed4f6cacb2dca638f248725a) |
+| `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ee90af319ce47ecfccf1983c7111764f1f9d3897c28bb909f5181a83ad3758d) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | J. Elway '84 PSA 9 | 6 | [Polygonscan](https://polygonscan.com/tx/0xf77e36191eacaa0d1c1c9f9240c6cac0b407ef4670a0c0798010fdc56c37b373) |
+| `0x68cb66baECA7a5F305fbF4ed24aA1b48ab4ac508` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbc72abbd59313a79d624d9e74c4c4fc9f047959885ddc086fc2dc2c19d82224) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7e9f3e984c8cea802b0926f320df73a6a98465536a6cd3569e7d4ed5d4e53af) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82cc198a5d51b1e82ef5e6e6cf45844faf4bf802f67a270cee96070a2065fb53) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfef9341b1078710ca505d946fa3bb74200b8c193fba789206be140ec8aa78255) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94270b3900df70073ea68980fca77a3072e22746276840aa17d7684f39ad2322) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52b5b5133bb38a75e38a0edad48672b0d25574eb3ead7800f5f40bc422b3b543) |
+| `0x6F4EF6a2Fe95C1a9D01742622a84c723a3EF8375` | J. Elway '84 PSA 9 | 6 | [Polygonscan](https://polygonscan.com/tx/0x4207f7ad1042d561041703447cd6ca6bef17901e539028ea46a2296239aa8103) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c319d0c21dbb469838f4a2b48dd2ddcd80a75f9229f39d19e188258302d69a1) |
+| `0x73eB1aac02d0CA30b24F8b174C84C9632d03813a` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9682960e1810b1c74c0ac52c2c88134be39f47da72b117b917b090f74b26731) |
+| `0x7407005bfa5422E5D3ff2912BCA590e7aaF2D5A5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56be3a9b38b8e4b8522e930655073ed98158198b0edf67873b43fc626ee74f3a) |
+| `0x74Ef275FCf2DFd40A0026B218c19449859604A80` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cb5f619fbae6fd52c9dbff7d523fc6d558d959795c2684d6685418e61e1a435) |
+| `0x751728c00B0F671BC2b6A1Dd60FdBb76AdfE8D99` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5faa89ac4c20331c82e317596503109eede6235b4e1d7d89b9634854e27301b8) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x608b359cf5098418fb24a8b19fdc7b530a7bc0a890648e42f16ce6addadfebe7) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x204ba4b9e7b74b82cb5e326cc088ef41393cac5ff7cce6fab5b5bd23cfa00232) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dfe26adbecaa887047c574ab73870d36273ecff26cfb2024626a0857b8bbe70) |
+| `0x7A0BfC1d76d7F643E3Ff653867d3E51d596E3D5A` | J. Elway '84 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaecb5ea03c686ee8cee946d6f1f2e9f12e01596a891192bb9928f2eb6d478426) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10cb31e1b44ba57a926d94186d1cdbb588dfea44b4aa2910511a14b4559103eb) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa69053340d97442d614951d162800ba2b253b22e604989545f0c54da35f006c4) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f8b52ddae6655db7c6dafddf529eab41ce2ddf03bb27a2d30c77f214ef62ed5) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf66bb137ce4e226a97d05a774a147619a7508a85506deb6f87b8ff41a0b21adb) |
+| `0x7F7C1F71C9487c15acD4a564F9C4BE5a28122018` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x16bb154cb9751437b7f9f6d6f83c82228a2c8ebc5668d4a9a597cadc65bd29e7) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53cd33064a79bdbbf26dd170de324fcf205467ab203e7c8b3b31b0f4c7c96f30) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x998f5797840adf52a1a40feffc037bacbdd22b24206068dad07bcb2483170ddf) |
+| `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0862445f1958dc72a20d045571c88659629b271b8bec3d77d7ce7110e3a9cf9) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e12ec16d1541454f30155dd2b1bfd9f5bdc770f03ea3ada7c81aea5f1cd83ea) |
+| `0x84f9F8De9a299DDe16c974DF224D52587dC08542` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd71614136ce208776e685b5c342d0d3e586d5c6298de955749ed620d5f1de69e) |
+| `0x852177fBe3c67DF48b875E655687983fF9a4244B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9599483bcd99ed9fe6e4557dfca2a7937a0f04c02702d4b7b4a78c13f138299) |
+| `0x86176F968eF30C85C0321425B4e9C16B5A1A4B49` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f1407af0ce4af2f2e5676c3bfbe14475d1a3814f102fc3d9db1db5c05dfa1bd) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea16f90aa126b8ae35e510658050d0a81194e5bf000d6071c15f18525e6e2ed8) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf09aa24f944a2a661cd8ef81baeda9663feb6e693c1872bd3548b91a6c181bf) |
+| `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b90449dad254e96990204ecaf93bd71bbc9b38b8db890e8116532b4a14062de) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaf8d46d9be0e320c7ede290a442f10d24d1c13413b5fa8d59be93b2ce140363) |
+| `0x8d4c580dc4757DAB5f3258105C95092d01a2Dd74` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f1a553910a517822d84908a694861c49a96869319f0a66df322411d4d088c5a) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89ec0997ccf0f8bf9ca900b014831c431bf87f5b44ebac6d7b53182f03e7cf13) |
+| `0x8DB9875668A3e609BEEf552aDC3796B3DF496304` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92031c51f6ee9924e588b1ecdf91122bc97d6fd1232290a61587c363b3479ada) |
+| `0x8FA869f4Fa4A56BEB9ECA936cDCE31C8A3f5Ed85` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5691dd1a6b9e6b78eb33ea8be56f65b79faa947ea68aa5297eba52d601985082) |
+| `0x919d36A5E485915269834C5453b736F3DB108d6f` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a8976314eb9d83fdfbcdfaca922d289641bcc750ce7e8b6a69b59edbcf2ba8b) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe94b2a842812064a502b071ad49c5f78b05beb736c4a387b795badfc531ba6be) |
+| `0x91E6e5d7E0735eB5435e192A280Cc94AA7Dc7472` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59f801e0eace8445caaa18d1f10701dd7f38d27257109b32a9844e57c49c2fa8) |
+| `0x9397a1323ABe46E743B42856642942B3795ae9a0` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4bc566f60ee0b8ccf60dc7942822f945872548583c3122b49625e9bfc367ddee) |
+| `0x9616661Cb428970920EcA949685b60c387f9911D` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xac71050cfc14e6f805bc88a0fbaee3eb5a2c24f764ca2285614dd3af7e5cbf64) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x50828edc03041e9f9615e1503af6e8680b3dad0fbac56a75ad59ddaca8798d40) |
+| `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3e104153263c5899eacdcf0a6bf84d7cdb63d9b241d9e7267bc47cdbc53a0c8) |
+| `0x9b7226eE6e4E1C37CfC7EA04A6eCa20e614a6f46` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f2d4c4d39706cf15053e54f8ab7b58328e719069ce20d6f2c3ae4a5870cb51f) |
+| `0x9C3c75c9D269aa8282BDE7BE3352D81CC91C2b6A` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x016452c4cadd156ee7832cd95d8e8792147ede6f9acac415d91c616f8d38427a) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a9dfc6042c7115ca83812c36c844c506d99293e67086103f757903a912ceabb) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94d317c4bb09df90a08f8a1e6bb6b35941607374b740e0174350c022da537bb9) |
+| `0x9dce7ADFB426eF1ff9714D3A7be4EC3d184c4f8A` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6405a4520708ba97545855de8a0439ec29e1f82bd2f0eea0186e27a53ae5d05a) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8f6b21fde7a76204daa48a0c07d0f87a1969a4c0da3730cf57c0ff3111d41f3) |
+| `0xA2E117E91696A9E08bb73BDAa52A8baB46a6394D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb689d33ae45fe80b243242189da18d9d9a76b86f3b5954230fcdf68d023a52e) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a3a5ecf9a236a178f3ed040c61afb67c6442d74597aeb4c0ffe27ad5c70df19) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba2f62e5c17ec89f2215fe956ab659fdb5991087936e13c4c1dff892be6d13c4) |
+| `0xa9e3CFAe8ffECAE464c6731DaDBDfEF1c7064d35` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34f7ff437327e78c2b90584475562ca0fb52ffb5ad16b32a1df0c6d313895200) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xeab2341adbb5b34f9b32afe007b6f67cba4e419b68984ca26fee587d3cb33a37) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xadf8ee7aee6ab33499001013c0fd448446d354da1c6719316cf14d1074240738) |
+| `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d78009814127128c857569b42fbc522f4ca8836c8df6e4a7c765e37d9ae5e68) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a23273902b3afc54dd8ce1463a77b0a93f92f912be0a881b51baf64d6ee9d64) |
+| `0xB15137f5799494b7592288E2980d758cb288a027` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7cb2c5bf049718e44e05cbb916d703de81ba86dbe4899b3cd84ab90f2812d6a) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa72d5af9907aff2173238741196e64e23d17b8a1fb86e30b46fd51219b406185) |
+| `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfe18517e33e13ca1bf32585e474ad8c721a261b25d6178568b259f4608b367d) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0379a1165fb9f3f182555fb4419e4b7cdce5639399d376bb0d80a3e7fe90736) |
+| `0xB725eD37938C4AA8750d3A5D9f67d0426B45379b` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51b4a60d1603893745aa674d5162a338fc119fbe7922c68fcd897525834b7aed) |
+| `0xB8AD1b5807FCa2be190Bdbd1AcDA33Da55773a70` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1b1f59d0aab0a74916e49b50d65a3fc53c6d47645038930cacc5e6d6a909fc5d) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x552b7d8028c3f1cf0c0401629d953b30648c50be58edbd7ac55ee03f7a8df635) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a3ded0ea601ea212b2a752909b7e9b12458e715170fe4e7790cad382f935b01) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90504f8b5b21fc306654960ed82f4989371d51cad73944fcd71beffea6ad9ec8) |
+| `0xBD4f74937F4912cc9a91eB3d4372e8fAa5496c02` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf72c86ce4e9ba758b89eb8ce67603e371f500440bbec5c13424b0f58e131aba2) |
+| `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf524032799fd7310d63cd347e1da67d51581c1d4636940e7b7289a07c9ae5193) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x510d1baf2ce44783d1759e64ce2da05b8f4b19e3566552ec313e3d27370ad498) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9104d6c431be1ea81134cc287477fafc3f9c7dd491f96d5072186005f38905d) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9ebaff09e9c962611adacdee1e63899884080ccf28a3dfadfa34365ab6b0218) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d870287e39c16d506c0394775a1d8a43a16106d0f3b995f54673ac73eddc39c) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfd710e5e218dcb9c294b329d9237577b1139748926f5a1fa88a0249c561648f) |
+| `0xca66eB81E46A5158BD261a092815699f51Fd8780` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52f2e4ca0cc443910ca6378e7fbc5d725a91ade08080a79667d6ce7f4cb1a6aa) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea4e1ad389139b017520e2f1976f77a2bb41c3fc8a1d2bf646923b807e6eee44) |
+| `0xcD4703a86810a73c3B0D6Bc0e9D88AB2b5277dA5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3916e3406be117a65259a608609dbe24d308e611e422ee5e1edcd2798007933c) |
+| `0xd00424e1eF271E2ee03a6EDAC40Dc1660F49b773` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc42c337a9f8eb1594f93be6b2692f968e5d0081ff46bfca5f66e610c7906e838) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9d52f8b783fa7b5642194753045ae84f5fce0770c67eb1eac719f8164cb5b80) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a95056ac66e5cc4262d6a2568fa56d4ffeb144cbbcbfaf31a7dc34d1d50c6c2) |
+| `0xD14FBa57D63108B00D73182edcB6fc112b3d2D17` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3728dd987a24f1524f3a3c99eb45962221991eb8886a5be450ca589ceedcb7e) |
+| `0xd27c5Ab7433FBE1bF40e779916889E5288d8DF42` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x24830a8d3396eee9d19ec8ae9f61794c1cde10c54961c2b5816b40f3bcb59c4f) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d89a296fc4f986b98c2630ebd1b4391a90ab8f096b7f55a47781c990b010bd4) |
+| `0xd33e35425B6B3BA7622b6427F4A656d32736239D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7e4827a42647539adab43928e6809330718e95f483a58092d134aad75cd744e) |
+| `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x588240a6b9a6295d23898600042b85b54f99acadd55648d995c683f436e1c4fc) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | J. Elway '84 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x5391d6a080c4a8a2db8d3092ddf652915ff4bdaef65146e833268364e8c2bfec) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2a7b1e950b89845ecc0bdebae7931179aa6aa514e266a155443e850f443d72da) |
+| `0xd74775aD432B1FBdD3b954cEB42d0edeD9DF7169` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4fa4d57243e440a9f13751dd64abf102835a754ce42232e5fe27fb7204a0b12b) |
+| `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbf46ec0e277c0a7cc6219c73897b647b8fdd0d88e17eb00440ae04f28e94ea4) |
+| `0xD8B1883527a0e755876018be98b68bB37bc367b1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf690aadcabe5f1044f610cb03fc7247de7714faecb3c5d2963a792ba045495f6) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x738340162c56ef3817ab7dc6f8619aeca237608961cc51374c8fd24698065705) |
+| `0xDC72cfE3f6c1094CFFd8413658B0B927AbBA9fce` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe133b5808efd9a41f48c014e9e1ac0f7c573be417b0838843ed057e9c92c34de) |
+| `0xDcEFdd20961eF29c58a442F5D2f6c38DC8FeD228` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6d8da54e9130336ddee06c3fffdf20a1ac346f2a0bfc235c933ab869fcfc27d) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae3020cf7e7cce26de8d2923a9c762dfa760fff77ab773665f24209a27871914) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57dc7f4c48df48bb97a41effa33a77dc20bc00d1a4b08b57abef58df9a5c92af) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc25b48f3e606d2903b90dd60ab9e2f90e4a0593cf709505b9223195f0ecd87dc) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29b26b790f6272e9876664c525ccdd87fa80d3911b8e210fea494c9eb43c2cc9) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe9e4bb2ac9f64b5cd3bd0bff6da35c3924e3c249083590fee39ec1f3b19f721) |
+| `0xe592E0111a280C48efB5f5476cf286d1459F6FeD` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f5d23a873468519a5e619d0b4a0f88d74e1ad4daa57f300b7f2651903bf44f8) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f23bdafc102283c4fce3ad2e89081b28d27db8a7acdf73c3e49728464a29aa6) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2730852a7174230a058ae06ecf470b634a4b25a7a22840fa484a8dbdf6fe68f) |
+| `0xE976204DaC0a4411173B4E19778B073D5630277a` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34250f62018f8d551fcfb84d02e09c76ee7f4633b4a6186070673079d5b22c85) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc7cf86e4624e0f3c1d72a44bbf95c769093c7a5bf61324df769f41de03e202d9) |
+| `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x364a5d5e926e400a4d56630eb5c0a6d266da2fb1a435f185aada2c75826f8192) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbec34f438eab4f4fb447d3b85edd6c33962ea13035d3332daad70cc23d2dde2d) |
+| `0xF03FE5ee123971bf62562c8d541b72b565F819e5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73e4737aafffaac7c3b8a49ea4bf9dc8be4d037ded30f969650d95375eb36e63) |
+| `0xf3A24D47f7Cdda92225c7F24A50e2dbCA792997D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea449daee8db19d190fe46b1fa91137a68e03d50b4618d1b7ae9dab9e5a6a634) |
+| `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79231d22a2aa3a2ad61b104e67aed0bdb0e4aa21eb8b0c603d13015e63487012) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36811bc967c78342b4b2db2cd3bc90ba5a71e2acc20925f7a7d9d4b8e7ad1b63) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | J. Elway '84 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb6a472b1a90101ad072d2841b648685c7de80c17e832c8d6baade8266f6707c8) |
+| `0xf54f8ccA72163B94b6628755F1Fc6026228130De` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64513a89704e62607de5bb78e40c0c3b922d0f6fe18ed117b04138568be74601) |
+| `0xF59EfA3e6c800071C59D961eD60a61043698EF30` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17119a21daf2d2dd2a9bc72152f4b7a3b4987c5ab2ff405f9facdc5546ba3913) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7f25d896ba7454d55648298019a9c5beb1bbadd6d4da11418afb9a77b037e34) |
+| `0xf775615a4a2Eb5e0cD6968674E97f1BEA86DAAc5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7dc1ed5d0087f35b15a59fb4679fe82de525ad2ee7bedc073dac8c7ffb54e4f1) |
+| `0xf86Dff577E923bB206C85Db74b00dFB18b8bC4f2` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x169ad1ef1b656806d49006c3bf854042fc5487a7eafb1a30d74b797c9207ad93) |
+| `0xF8c0Bb9e6ED8B4d81496F1e24101747A5c30233c` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcb5c4631f05c4901804fa4db24c06e948eaa0fb794393de0f5393af16dd1c42f) |
+| `0xfaB829C88CBe5Aa62EafD06f6cac8280037977da` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd30f4856888b365bac47170a69d3bb3d9e245e894d6e988fdc1a400aae5fc10f) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x06567f76ba6b2409739988451f3151c4344c3ea06235aaca7a2f531acedb47b4) |
+| `0xfC996654aB3e3Fcaa9E86cC10B621D6Bcb2D299f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a6f1008c12eda10094b2284d6d8751d51c668577ac045ac5e0a88ec5090f177) |
+| `0xfD8b6B9C954B887802203824AcD88818e37F5608` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1433c8d98beeadf381405916f9a8e256a184f760a236e446afe3f44789b96c26) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4459d8295594020ec5ce5ff29fad40759b166f84f1202ac972ed38349ff581d2) |

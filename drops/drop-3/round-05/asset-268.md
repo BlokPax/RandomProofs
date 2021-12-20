@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | S. O&#039;Neal &#039;92 PSA 10 |
 | **Internal ID** | 268 |
-| **On-chain ID** | 94 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc33-4f74-a0df-22f25e722f54/2ddf15665d98735e23228ab621e7e625aa81f647819dc8438ca3ad0d6f9f4d4c.jpg" height="200" alt="S. O&#039;Neal &#039;92 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,51 @@
 | 💀 | `125` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
 |  | `126` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
 | 💀 | `127` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6fa5ba1b7933f997c904ba923d3c3efa5f26cb8cd7031e925ec7b65cfe4121a) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cd9eeb212798328aef72bb308943c2b0e15439da87043c551b1d5b88bebc2cd) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a99cc85873941a116ad3452bd815a61d235c530e00e832f12bd1a068d8e7132) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d1714b6971e8264cac1093e53a8019ab3ffb005a617656419c97e0e20b32655) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x43a4cb88e3b055525b12334ff4b2359f622fa6cf66b543163cd86dd547c30173) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4bd94555522b81a24f2363ab4c011bec699750471b686cd7b9a7b8b73f20f12) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6515c8e6be8b7e6c58501a54cd9657efc5d29e88b3a9f9932961f8603b6cb842) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ac0d475f5344c8f0bf8a070715748b07a81400aa235a492ba8e986d2b235a4e) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbeb253df5180633425002762f236f5f02e59be7d062308fbb116887e40af0f6) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb0c8d1c0e5dd349bc0f5e0fe57bc3f2c63f1277bc0f12dca60458c9f00e5bed) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x132b6fe08584ebcd193b52b61430d1bb9f45ca82907488dc5d263c1c3fe6d179) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d2ca17e9d9a75b27bee55cc07e6216d6d7f1844b307c667419029c6da6d8fca) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x96f412190bcbeebffdaff33ba1e7f844e7678ebf5a54d38139da6ed41bc3b6fe) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9b301d1c28d0101c05eba6b7b3bb1813c3911fed7444eb0185c6f20c654c3425) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebd890cc9c2adda58b94f8bb946b63c8fadba9f647acb902faa46fdb23697425) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | S. O'Neal '92 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0xd031c36e56b31a95cc536b8b262cdb397379faae8254d3687001afb772fdf543) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc65b4e4b6c54e8cb64fe0d1d73d92f26c069e90b1fe86c03b3e02891156a142b) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe795bc7ba9249458efcf8c2b187c2ce5401c6f3601f4419e11061551cffb4135) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x809e5d99004a70956a6e32758884dd5babcae189e71fc7f9618513122dfb144b) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x10a39be9d049a39ba5bbdf29c031b040ff29f04f8e94df5be6fab83b4847adab) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c7c08bc1eccb17e94ff92cb30c655e1ccfda92e28ff30fe1a1f3ec3babc68df) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | S. O'Neal '92 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb8eddf56cc6554606895a46767b1ac772a48710d9b506b9a7649052d604ed24f) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x10a9a810d94f7e4883c3bab7cc19aa8ca10be238e9257347d12bbb6959430b73) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b41fbd3e1b816a34b1812ee0da11ff77dd0aee2f6d75f465402e2c71adcaf90) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48bfb46c3b381e4a2f99d626f386b328e66d39fe78187e93c22b3169ebe9b7ae) |
+| `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90ba3560d952864159a398abb645eef785323baef2c18ff28efcc10fd8587101) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | S. O'Neal '92 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb3e0bf40ea3f425749e61434e5cb850099dbdcafc3dc7e949e02b5a11f053946) |
+| `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafb09ef492f2d9c2c927317d083c9a7999687d3703937a45cfb96db3c93b92df) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7bf7bfdbb0db641f9ad8a1489610fc69d3260551098fc8e6c69a91085d8aa2de) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95f2e70cf97b7bc4a2d6bc22fdee12797c4b04a9bc2c3b3fe4bc02f42eebf85c) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47ea42d632aad6ca219293246d743f6bcc435ef726d340c7fdbccf8d8c0c8d4c) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | S. O'Neal '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x41a3675a9e6be18590c95caa603ba02f5c2cd0f861c0c8293cf9853b62bd1175) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe72f718b68c2d4455185223adccd36132dfb06dc2f84cb5fbd35837852dc6d4d) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4ca7449069c390fdd0a47fc97699742946727b0e8db54ff5076bdf711c78362) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b69151c0f366275c4d0fbc22892fb268c3100623b9646609bef14cede538075) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | S. O'Neal '92 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2b4a3a312658461c191214e50d380a986c395939be65502b89309b4c1dfe973c) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd5b18461b90e4bedaaf62fef7ae324d88b102b3c46e7dc5536ffda36ab95c37) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bd221c20de70cb4d656dde466816c78ad55467b6de92b23687883aacd306d6b) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ff596764bc86f10d9417403d5dd80e2ebd4cf44e33c828b5a4ceb25d6b1f766) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd281c07a16310ebbb24d00dc512b75ddd416d756df4820b14edf7c53670c79f6) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90bd959d760ed926fc95503c89283c4c84fbc5d886639c8528df880ce2aded13) |
+| `0xFDDa303cC137eabacceb4a83B8E68e10b715285f` | S. O'Neal '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x029cb0a99b4ee524f7515ac152af98b0712dc329316f94f76db76368eeeae5aa) |

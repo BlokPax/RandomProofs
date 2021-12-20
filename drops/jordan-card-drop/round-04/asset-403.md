@@ -1,0 +1,365 @@
+# [Elimination Proof](./readme.md) / 7 - &#039;86 Fleer Jordan PSA 6
+
+|||
+|---|---|
+| **Drop** | Jordan Card Drop |
+| **Round** | 4 |
+| **Started** | December 20, 2021 10:00 AM EST |
+| **Completed** | December 20, 2021 10:12 AM EST |
+| **Tokens remaining before round** | 5,888 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 2,944 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | 7 - &#039;86 Fleer Jordan PSA 6 |
+| **Internal ID** | 403 |
+| **On-chain ID** | 138 |
+| **Image** | <img src="https://tcdn.blokpax.com/95149d1f-6245-438d-a903-1a5fd618b024/dc20122270811c60ecf81ef1d3fb901a4fe61dedd838e8f00145c772038d7719.jpg" height="200" alt="7 - &#039;86 Fleer Jordan PSA 6" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `2` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `3` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `4` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `5` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `6` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `7` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `8` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `9` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `10` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `11` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `12` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `13` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `14` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `15` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `16` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `17` | `0x70a062e6d07c5e01400A23C1507BA7b36bAf183e` |
+| 💀 | `18` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+|  | `19` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `20` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `21` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `22` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `23` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `24` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `25` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `26` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `27` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `28` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `29` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+| 💀 | `30` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `31` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `32` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `33` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `34` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `35` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+| 💀 | `36` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `37` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `38` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `39` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `40` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `41` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `42` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `43` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `44` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `45` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `46` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `47` | `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` |
+| 💀 | `48` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `49` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `50` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `51` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `52` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `53` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `54` | `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` |
+|  | `55` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `56` | `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` |
+|  | `57` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `58` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `59` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `60` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `61` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `62` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `63` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `64` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `65` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `66` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+|  | `67` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `68` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `69` | `0x50B2C7C640152e86C64B0AcD97f4237d7e9fC5bd` |
+| 💀 | `70` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `71` | `0x477c4437802A36D357d849cee0120AD804d3b36E` |
+| 💀 | `72` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `73` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `74` | `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` |
+|  | `75` | `0xB170FF8d6E30eCF44517F02c3b5105e3D61975AA` |
+| 💀 | `76` | `0x84f9F8De9a299DDe16c974DF224D52587dC08542` |
+|  | `77` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `78` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `79` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `80` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `81` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `82` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `83` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `84` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `85` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+| 💀 | `86` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `87` | `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` |
+| 💀 | `88` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `89` | `0xD14FBa57D63108B00D73182edcB6fc112b3d2D17` |
+| 💀 | `90` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `91` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `92` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+|  | `93` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+| 💀 | `94` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `95` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `96` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `97` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `98` | `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` |
+|  | `99` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `100` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `101` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `102` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `103` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+| 💀 | `104` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `105` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+| 💀 | `106` | `0x93171109dccB003E477620B7b4d7C84E1feB351f` |
+|  | `107` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `108` | `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` |
+|  | `109` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `110` | `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` |
+|  | `111` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `112` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `113` | `0x1D5522626729349812A71d812D14AF8AF1F7AA26` |
+| 💀 | `114` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `115` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `116` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `117` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
+| 💀 | `118` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `119` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `120` | `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` |
+|  | `121` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `122` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `123` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `124` | `0xb529e5F0598343D00508909c04AF86bABB0B981A` |
+|  | `125` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `126` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `127` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `128` | `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` |
+|  | `129` | `0x477c4437802A36D357d849cee0120AD804d3b36E` |
+| 💀 | `130` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `131` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+| 💀 | `132` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `133` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `134` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `135` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `136` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `137` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `138` | `0x3FE7493385EAAE7ec98DC33f77b4fBe71aeb5Edd` |
+|  | `139` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `140` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `141` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `142` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+|  | `143` | `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` |
+| 💀 | `144` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `145` | `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` |
+| 💀 | `146` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `147` | `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` |
+| 💀 | `148` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `149` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `150` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `151` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `152` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+|  | `153` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `154` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `155` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `156` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `157` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `158` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `159` | `0x93579278f379D2CCf20E3Ff02132C5adf0696665` |
+| 💀 | `160` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+|  | `161` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `162` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `163` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `164` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `165` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+| 💀 | `166` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `167` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `168` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `169` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `170` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `171` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `172` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `173` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `174` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `175` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `176` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `177` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+| 💀 | `178` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `179` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `180` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `181` | `0x8bFDD6D00c667E4dc1B37324099Ce4B9ef300F12` |
+| 💀 | `182` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+|  | `183` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `184` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+|  | `185` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `186` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+|  | `187` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `188` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+|  | `189` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `190` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `191` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `192` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `193` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `194` | `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` |
+|  | `195` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `196` | `0xa93D3B5D86770F8aB2130E30556a880Be801a994` |
+|  | `197` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `198` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `199` | `0x9D6587ec084EA82aDE9e734FD8A85f7EdF578D0b` |
+| 💀 | `200` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `201` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `202` | `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` |
+|  | `203` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `204` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `205` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `206` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+|  | `207` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `208` | `0x081A02bCE1aA7aF2bbD09128eC5e7e6877d53A3e` |
+|  | `209` | `0x42BBf55B5d4FCd42397424bEf2174D4c59a06DCb` |
+| 💀 | `210` | `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` |
+|  | `211` | `0x00dECcD6B2365Bf50581274b9Ba79b31206146FC` |
+| 💀 | `212` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `213` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `214` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `215` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `216` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `217` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `218` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `219` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `220` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `221` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+| 💀 | `222` | `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` |
+|  | `223` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `224` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `225` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `226` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `227` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `228` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `229` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+| 💀 | `230` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `231` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+| 💀 | `232` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `233` | `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` |
+| 💀 | `234` | `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` |
+|  | `235` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `236` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `237` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+| 💀 | `238` | `0x12a8ec389c855Aa635ce3afD8129250b917610ee` |
+|  | `239` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `240` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `241` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+| 💀 | `242` | `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` |
+|  | `243` | `0x68cb66baECA7a5F305fbF4ed24aA1b48ab4ac508` |
+| 💀 | `244` | `0x081A02bCE1aA7aF2bbD09128eC5e7e6877d53A3e` |
+|  | `245` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `246` | `0x282E91A17d51859C450a9bB5725D652284D02c90` |
+|  | `247` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+| 💀 | `248` | `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` |
+|  | `249` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `250` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `251` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `252` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `253` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `254` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+|  | `255` | `0x8cc41A29EE83454a577Adc0ce6661cBd24fdf7Da` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43d16e1ae87a8e2bbb7ac90051aef25bc1a53ef7036c47d34aa36ed36f48f1bd) |
+| `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6504ba040f84091e83fe5e366efb8c57a22c4e42e16e5d1e82892869387d48d4) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xea4db666e18905c12c64601ac90ea7ae5566a4a2119a71a2e9927950cfcc9f34) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1705955ff63a2790d1b6a4ad5b87fc6e729416c8530f8d8456e17cefc6be2e89) |
+| `0x081A02bCE1aA7aF2bbD09128eC5e7e6877d53A3e` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6ce14e6f78c2dd05992242f34bb139edd4ea90ec046c07799e65ee27c2f37849) |
+| `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf674efd66f781126206adc65d2aefbca4e2945240550692f677e969e767854f) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x42c53b8cea73bfefeb0ba92175e4b37af82d9dc5bbf23b9a328d81f36caaa19c) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1517c3bcffced9f9acac3e06eb00f22b1bda47f4aec2896820f1678d42d1fef) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3a95a87cb255edb020528965c6bed67ae8d6d114ab966b99d707c11825e8d245) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0d08a8c0ecd116f5e0495c7c4641ccbaf64406e25d0b5d06f50d3bc313ec4512) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | 7 - '86 Fleer Jordan PSA 6 | 5 | [Polygonscan](https://polygonscan.com/tx/0x78a107cb78323b54867d8261594ba3d9867d33bd1b4fbba784b02b0f9ddde3f9) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63d525c5be6e48976cd752cd3e9dbe345250eef7f5a09e9b44fe16f903832961) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1058d3105508ff9788fedf59e59be38270ed7a129a8ed3135f09fb11bd18a7f9) |
+| `0x282E91A17d51859C450a9bB5725D652284D02c90` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe755727feb90287856e6fa5c5738d8a5b6b128ab11a1fbccbccef97e44111861) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x74a89b3c27afe224918d333d14bc6b8c3f03efd69a0b10a16c39f0b994e1c0bc) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | 7 - '86 Fleer Jordan PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1ff16ac809d051afc85b0a85f16eeb9cdf6aa434b98668e6596aabde3e09aae6) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79f80de696306e9bdaeb93d59402993faa055179eaee808376ceb3dfe17698a7) |
+| `0x3FE7493385EAAE7ec98DC33f77b4fBe71aeb5Edd` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd95bba2659f6e07c0e0e39d309ff86a8769708d5132df0e0c9a8e62714a05ca) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f6e0d7727684a7a3149967b0e632e1ed6d07365fdbadeace3e6ca17db9a5e2d) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc13dbb3a085585a78246e592fb3e36c1794768ca679bad880a7264ed28c1c50f) |
+| `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73bc7738b4469048a08cd98186b2a1d1797290cec81ae64379648e14c08f0997) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f536b9ee8824d58bfd3a02ca0236e0989b4574b0084e817d66fb478f5246bdf) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3b6bcd26b8dded3db315ab544494357c71d22198b8deacdd5b6fcb621fd4e0f2) |
+| `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` | 7 - '86 Fleer Jordan PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x33ce3e46fab899e03467907265f78b531f6f6249899e9ac2b1dbc9a7197b3759) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d9e49b6d6c475235478671d8acfcf2b3982033407ef6c5716cbae3218d6b3a0) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0be089543fdb286440cd0da2c629f6dbffbe06ce3223d93af69a485e042e6b5f) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9812d160283a3b37f2e068d477681617cc388f7de4c66d2d22135f4423d4a6f) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18a6ef80f0d810a8b514ee68c62f379c6aade2ab3953b535781bb86749a41395) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe18a87d0cb29db8eb332796f9660622ae83b11eb2d38e0259c4e72314c29400d) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f686ca154449ad0585c83718b137d9be541f1ac85656c22b1b33c9e6390f2d4) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x05b32908c40397d9456535b7c890e0bb295b8933b020e2e6a761e26ce9b30f34) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecc65e6547a18bf5b95fb72bd5ceabdbf5a42b52fbe36c0b21f947621c81d562) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd4d300202a5deffe12e5cc273c3e6131c20fbdedf7227d0940fb263977a50dd) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xcf012f1853e7638274a1a098b16741b148afb724fbb1b040312d335ff90572bc) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3fb12ee0347e5850bf8ff3d533231dcfee9825069270baa75c0d0de3127b117) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7998a6e6e22cf999e3401924694ef4bc53c7410e8fcbb70dac73e8749bd3845) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe3336b0966868c974a0a218a8bd37803ffe75f2260e1f8b6bac9dd9f6b824b2e) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | 7 - '86 Fleer Jordan PSA 6 | 6 | [Polygonscan](https://polygonscan.com/tx/0xb171cb497bcc89369ae07d16924f3536e33e6e92b0d8171321444c11ecdd31c9) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a728ce0bcf72e2ac77899f9c8e698c610cbfc0e122cc749ecd0edefbd7c7cdb) |
+| `0x84f9F8De9a299DDe16c974DF224D52587dC08542` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x009575e3270c85df7a847e1ac93d6ceb51e9e92a711acf0ac58dedb9d1b06db1) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76caa92042916a4d83db09ed97fda2c27ad13fb4234d6c0302fe396f44c263de) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5bc4ca2b38f1655a9d1d9d44f4471c8dc17901f04f8fd2e423c88ae01d9958f) |
+| `0x93171109dccB003E477620B7b4d7C84E1feB351f` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x202bc2db2836e539679e7bf12c464bcb200e3c0814ca2f80e3184ec3a17b6872) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf96118b1696bec9c191a008f139a42e03837df974ebf5ebb0070234d7e561c10) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2ea94de2be9b2235d5ad363daeacc57326350b8cc95b60d7368fb04cc275277) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6bb5f533c67b13ba3d4e6c54da089b24d2983df5484b4e7715d1fa3da78e4fd2) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb6c7e02470256faf2b0290b4a6e8ca1d5d905c4eaeb103d191bdd3be3230440) |
+| `0x9a22f77f03f94C2f232C81Def7e16D728898d5a6` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78d876106ddd27f3ebf8c9384bb7df82a9417991a649759c0397daadf8fa994a) |
+| `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb44f86d814152ebf3cbdb88abdad2a452fa8da5ce47c228e7cc23a9eaba3f9b7) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xabbfba88158a5e6a593011cf6b5928f80020c52ee7996e351bfea2b28e3aaa54) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd6c76238e904236ba953e7ab63dda894e24d25a0cde5563c86101bf2f2add70c) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfc4e9bed89705eafae0281d7d9fcd305ddb74a7b60c5d8a5f8429e2f96f974f9) |
+| `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07cdefab9798f06a7c61a0bc631a23d0217023d9b462eaf30cc13d36a2f185ce) |
+| `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c8be50ff0f5676da1a957dd0c85d7dcd69ee5a1ca1d57b090c4c61c7520e468) |
+| `0xa93D3B5D86770F8aB2130E30556a880Be801a994` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5f549ce4d6720f64e31f59d866e270455b52aac70f6723d536d715d9543cfd00) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0d69ca0c52da6bb3daad6fc400f341e1be40706000cd6df2487d8540acde49dd) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53861a4da57739cd8792c715f247fede4489be020d7279c7b32428d22f4674fc) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21596c1167bbc2a641e56361ee2f29974e591c6a6f748f979236305371ca297f) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c8ce015ff837ad51771f33bf168cf41cec003771e86e6f25cb42f598c31f22f) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3f7272e4329fd270bc46a917ad57d8a15143939163f235b6e175561657cb0c1d) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40ff0f6a34501d95637a8a92e8e9e2f5bda0f2527e31cb734d23e4ceeb338939) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c9f2e76ccc663888b6646494bfdeebd212e03ba4bd0f38e257a4fa341ed74ac) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6645796fb17048fa1ef765942e47a49057aa936b7f7b343d233c0839445ab466) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x310ec97bef2fb7a85916f8a38b93e8242c488e44a79de4cf1b9fe214c57559bf) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03f34f451659d2c3c680d3b50d523ba84ae26074da83f84af0bc15d054f04d62) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbc767c78864c57d9e569bd2fd4b180bc55c195d98f7ce4006ce23987a3c15ee) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0x20730b262aea76349173b036f167262afc4a3b6a9a31da77cbb1d43556f16b6b) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81e9bd4a16734ec57c0d417040e98c512ce4077efbb0e6f2f79a381d37f5ea4d) |
+| `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb0aedf96564df3d3bbaa12874d482c3461d56f84b57bb770995e7e251c0a9d2e) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ba31742731409681ae9f230977d08ba4ca4c49f99d900df113aa1981e993ddc) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe9c9a0dbf45665e505c33c8cfc4542ec178df1e2966dd31270b364d732c1ba58) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f3882fd0ee431b56750c0a230d8c2d1c28faefff92bc4c4e0af6eaf9777aa2c) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | 7 - '86 Fleer Jordan PSA 6 | 4 | [Polygonscan](https://polygonscan.com/tx/0x057cadfdc4da3ea66eba5798dd04b505c8515e8a0e505ea072451632cd273a80) |
+| `0xD5D2b0E077aEFf656fc528AfD932D0baccD9c716` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc16bbb4468f686ed675ff1e333bb96abf0ac912c67e514969098768166de6b4e) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | 7 - '86 Fleer Jordan PSA 6 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd914349add277e0a6a932c9ae99a9790dd77c715c427dcd184ddd6be716e2350) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0xadb7da499aaa34f9eb5ead9f3638e3753c4a82e4f5c7cee68e9f5dcc54a5075d) |
+| `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x861de4f8c8267e6eb35efdce43561d327e8306fdfabb2b63954dac9664bc43d3) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0x29a8b0330a70220193dae8ac4074eacbea0c62bdfc48699f0e2d17b6bfcb28db) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xa649ff8d1177846638ce608b84f4a52457ab8c6e1359f2ad277c83c94c9180ed) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | 7 - '86 Fleer Jordan PSA 6 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3af8a96f67807bf77a0e7320d7292de590c5ed501911407fc54e2dbfe70c6a21) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | 7 - '86 Fleer Jordan PSA 6 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd0f5f0f2f4572df695fc08a3fd976cc64e8e0630da98aada1ae4ba3fe4f5a71e) |

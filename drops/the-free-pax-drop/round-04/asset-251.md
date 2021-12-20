@@ -7,15 +7,16 @@
 | **Started** | October 25, 2021 10:00 AM EDT |
 | **Completed** | October 25, 2021 10:13 AM EDT |
 | **Tokens remaining before round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 1,536 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | K. Bryant &#039;96 PSA 10 |
 | **Internal ID** | 251 |
-| **On-chain ID** | 67 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e38-4fa3-87ed-d0dead901d21/f4ffcc6de6b3d5e4ed55bbf31529746653e3d9739e41fbbae636ae44904bc3cc.jpg" height="200" alt="K. Bryant &#039;96 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,115 @@
 | 💀 | `253` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
 |  | `254` | `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` |
 | 💀 | `255` | `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa21a6ce0d854ac7df0af83128ee3fab0cd7f6e14f0188ce5a694a43b4ee370f3) |
+| `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x73ddcf8b2a722e03b39a2a9e04c4f606290193a6019e8ffba218d8a4c673d6f2) |
+| `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb17571ad312b8966f2a14a5e8f660e137ab8b71465ee54f7a8cfc47741cf42b3) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78b7cb8ce67b8e590c1ecc523f653c1216d9c2bf9e3622b97f0933417c4ac6f1) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5974ef1e54a1aaac947c0728424c9d46650866d6eeab20676d4366e1e121c43f) |
+| `0x09b19DdE171fcc8E270742cc6f6b46c9A63b1f70` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5b8584b16a3bc34b1f20738c8cb68350954d1d54e0381829962cab2dc6336bfe) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x82984aff38ebf71b393f8fa4b4c23f8782a7bff7f4900d9321863812db28fcd8) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc82224a27f19394d23fe5fb11d3bbc81243af9b519443839af0179feb32aaa4f) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | K. Bryant '96 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9cde533f7c5ef51fa3dd2b1d0eab154d45988d6473383744b9a21bcf9bcc11c9) |
+| `0x17EE5BCDB5184B12e0a6D3F2EB2f4EEB7990bEeC` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73761cec6bfed35c91032597d6d6ba0a87e4ed82a6546680a663308b8f7d8e23) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9553c53a9e09152a88529544501628180de2cf995b4faf0af62f6e3520841647) |
+| `0x1eA55CfDB6Bbc8eca209Efdcb899E14173D62BB3` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb504be81ac0043552ddd7f15a07ac7815392824b94aa942e1455bb8827918017) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x309e7787ed8924a4241300c95d2748c67df71907fb038353e68cf36a181ddc94) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | K. Bryant '96 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3de8074dd6c9bbc9f48ab4a49b3f1ad3465de6dd14234509a83750835ae7a8a9) |
+| `0x22AFb9D6a34b16358298a01C5e29B4F331662dEa` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7e13744ccc21f047e8bc4be1578759eb6e12408ffbb1256f22d76803788a0490) |
+| `0x2467C9aAAc36CaAF551ECAbC8EeeA6c9203c818A` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc5a2312472aaeeb5961a2825638c22f71d4648bc9ebc1e54ebab812743f9558e) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa58fc590b2a67696b4eaed5afe9e3be3c1ee40c56efaaaae50faa27eab415658) |
+| `0x29cb02180D8d689918cE2c50A3357798d6Fd9283` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3310bd11a9b162f5af792ff7e15f95d2371fd0f659c1f4aa3508540b5fb9653b) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad613982551fc1bd1ebf4a4ebd1bbbb843e6cfa25ea2a2fce4f69fbaa7b52545) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4589cb669fd23daa03682100a2a52689ea781b03168557eb2d85db7018cabbb7) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde84583ca2c8ddc5b5ba4f8998e0b856fd879764792ae4813f706067c4394335) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a9d587c9a3fce16495cd818b7250916ba5e427c02ebb961b4d7e69fd83d9206) |
+| `0x33CDB2BEaD7799D508Ea9fb9004AaAd80620B79c` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2eb7a1af57b82d96de7b8e33c9acba85ada45f83dc336a6c01acf6131fac5d43) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1e72f42aca79c667c80457c9d1e323ecd251cc54ffaed22b0de5602efb04ea3) |
+| `0x3b94D702C3F338C98cbafb75d5c9BA7c4a011AE2` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbe46765cf3d0d4de7349ebedd6598d6e0276c7f183b1d7fe39c175b7be08aed) |
+| `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5b15eb8a78f9f36d915840db4fdfabb9d4aa18947264f0a0ebfa9a3627defcf) |
+| `0x3F3728aDf5cc1BD8CcC57aa34125866c74353018` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9713522925c6ecd8abd71c22502bfcb185e098d213c9225a59b40acd3222b101) |
+| `0x4221E209640b90901c4932129bfaD744e5A7DadE` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a928be3a2ccbf0b667b8a2184334e9baec46460198f61713dc77020d06ae600) |
+| `0x460e9705E43Dab4dE840256767Cb711ff326ed6E` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf19b6fde25bb318d928bb750594bd38a07227ec83915090ab0db0b20d2eeda36) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f8c1e5ccb631df839a0f5d4322f8af4326a7429c4185729af8f7364a60160d2) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56cbbea434d79e37cc9baa97f03934b98ab9dca223ecb68fac05e5b1a91b66f9) |
+| `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe04e1ea700b443dcb1d3c2c0e9efe15a7777ef4be88681a669fcb65106a123a8) |
+| `0x570AF359d7350aB92781efc88156dE91175751C1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc665a1a450b5ffb92de711d8e445551fa2fface1f06c698227c619fdc145be4e) |
+| `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecf5bb3d6388732e3d241bea3cf73aae8a658e24657989b3a9d49cf087da7758) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x272287f42679d9c72d9bee1b2c4791d5bc9b1fa447189fc9431b6ff865aac6a9) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xadb5e1d6d710dff9ec295cd84fc1d297f42e0464f7723a84394ffcb7f38f447d) |
+| `0x5b437Be80c2031559Ed507F900Ca3176FF346fE2` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe59bae43e66459ad3d90830f11c34352fef8d6e5b0dab9b8b04bbdafb9c7e96) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6773108bd7459b22001b0ef8f7b9ae252a3b87b155f2ac7acb19b03129569d3d) |
+| `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` | K. Bryant '96 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x33c976099134255b755cff79e6fda1c047aabd41ab749c5c580ab63886c59979) |
+| `0x601c115F74eb4cE709E7ef1B8a9Df159078e82a6` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3355c2f2fbdd0d741e6f30cfb3d22c37a5f7b53d18d3357de34fb4ba3deb44c3) |
+| `0x63dcc90B5990475fa9bAcae5566ca6722C450930` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2de167decccbefdc36f00197e438f06ae1bd51f2f197c390adbfe592ace63936) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35011e506abf61dbf6b875b0b9047ff82b6e887e7803a49c4a132b4a5ecb5941) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3331d322a8a22be9f4883c5fb2731f5bc437c48ee293d53e3eac66ea7a074d33) |
+| `0x6683bC0e3fBecEB9c792Eb84FB76FFDEbDaD5A19` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x788f39d575038f1e1bfcb0e41731df6eb9fc0ea1f1fe42bbf472111c4b322538) |
+| `0x67BE56FD6CE9703D2A3F24dB6B9b5F1fbd1e4386` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x963bf06f16fc97fb7c81abfefd880b9166b4790454a64cd72d11ff5660f83b92) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdfed3c953c0e1c4f39df297c42b9f64273d959128d708250b943a176a3eda66) |
+| `0x6b1b4Dfe26A82A4272b286B7408F86532CAAa30f` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x510dfd7009401c3686848b09e5ec285a024811084d44197d609d1e3986ca498e) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x649a1641a3c5c7c5b06b34cd1353f45804ba3d2dd273954f1358b247b1c380c3) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8906196b34632b08c33938458aaf68e3a3efba1f8bbef90c817d726a079ddee8) |
+| `0x73d5de71c22a1DCf5eE6cf95e25C2046B0fB2D64` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a36838548ad815c951beb9771a2f34ce602a4ceeef2cfa1f63a192522912ed4) |
+| `0x751728c00B0F671BC2b6A1Dd60FdBb76AdfE8D99` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13b924b744fb94d925aae2fcd86e36b71431cc3e0643294807d59293870924da) |
+| `0x7A0BfC1d76d7F643E3Ff653867d3E51d596E3D5A` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x17a8c7082ec5aa8a729eb6cf29ad38ee9eddc4abad0d3caa4e184ce47d162cef) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ae5dc8ce6b0c1264993521330150043dc99dc08e01058b623543f1fe93175a8) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3843d28b21c3e79fda4fa02b21915d702a4124f3c27a901698b5729708844829) |
+| `0x7dC8f81789A82E308053B6104D34Fb2fA513396a` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dcdb079f90e46c44f0f6e2cb430c0f05f2b0c416223d5cd2df051c991795101) |
+| `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82483d4dd55d9adf1e78387890155c2042e09de6711e3deeaa5a0bd6f8d9762a) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70363836860bf72bd526f7116c92106d2955910fc2a3ef07d8f5b62ba6384683) |
+| `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f6ebe82ce132672104d450ab988ed7af8ce61771330947f053e53949f2765d5) |
+| `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38bff63e2d0f402e1848e654f37fd819043721442b6f22975d4d44b1b179481f) |
+| `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a1e64f9935e3952f01ba82949abaabc97187faf22a3e5f592ad9e2a6553b35c) |
+| `0x8FA869f4Fa4A56BEB9ECA936cDCE31C8A3f5Ed85` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e911043934a04f9b7427a161f09004264a88d255a8eff6539ed7e56d915054a) |
+| `0x919d36A5E485915269834C5453b736F3DB108d6f` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x013da4f116286d7cfb7a10bd392234322c5253b7eb737033d6ce06f03476beac) |
+| `0x94b2bC88F1d6976F3683294d47BA0D2d9F8de9a5` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde0da87005c3ef1169d912e3fc4be6e9008f2136c083f133f5cfbcd675fb2be7) |
+| `0x94B35159efe773D0dF8ebCF475113884e7B8F2e6` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85cbb576201c29fe81f1ce787e8b780ba8d3661c703c5a8a0f36608494b24cab) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaab4c5599b0288bd2dd449f6445923e5be484dd1d72329283564ba33eb3fbed5) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ff3bb7e56cff5077ecdbd8235b2fa3aee4e6f8115927fb03742c2c8ece07738) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb63c4ed37fe5f802b256c70bfa9e8851b8c23d5d8b6d671891872ef8a84d7cd6) |
+| `0xA2E117E91696A9E08bb73BDAa52A8baB46a6394D` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7f1dafd691820d68c54a7787fd6177af8db0b3898e8cd38686213de8a6adfe2) |
+| `0xa34d20d8981fb47eae9354AdA5bA0C12C967c4f8` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89e5d21b8c19ed8f6cc2c304dd677dc3f1a95011212527aa2c4ac3fe508190c5) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | K. Bryant '96 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x12a6570ad2bc674173cc0f170a25b78baaf8bb2a29f142c23e38f8cb9aa8fa61) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9812a7c72fc2f63c086212597f6d5a80db2863cbf36b4b65ee531a516c620061) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e27852f443049efea5bb419d2ded3ce5bb251c60ae8d48e47a074586ee5cd7e) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8ed19c01910c59433f1993aeb9fc03d1577a79c8d995546442023d96e736014) |
+| `0xAF6fb7F274fE18411c84765696d14359972d5Ef8` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7e7c74f886e2eb52d85f09b42c282f21a663c289ae9d7446e68ba9d1f5245f42) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0af5a6bc7da6e865fef05c655812a9ff3d8d0f242b250ff8d27d7bfde11b7da8) |
+| `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbdc7101796d790770d8e7d86948b753d9c9daf28affee25be39afe76e73ca12a) |
+| `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd08570b8c7272986252c5a0efc16b4d0fedee98aa0a443fc05c4a57c040c0fe9) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bd197bd1aa44cc21cc1cab73ac86642f25bdd8ff333a1b5861af2f545fbe635) |
+| `0xbb2d41882390D40E718AF76d02c0B1a60aADc4d0` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa1f232c1d899b5c392f6ebba617c959ce751e5990196591cd8283e4dcd6b58a0) |
+| `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95e494d45854f000c837abb0ab7589f41cc677f61a1af4ae356ec17a51986108) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6afef0edcccfc85cd7e983d2aeeb839f31b5c1404a17616631a30d0bc2a80f02) |
+| `0xBF856A838D25C2C3d6764d5626544898D75457F0` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d2dbba36f9ab76bece166b533d8fd3d9992e61e28b54384ffcc23eed908d301) |
+| `0xBF96E5aE3269C4a2eAD48808Aa188EcF113d5E08` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe86d81b66da4f38dca68adf566ebdc50a1ce74cd9a8d41c4c30076f29e6c472d) |
+| `0xC171b377800b977b6B705ab005a8D1695274b300` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc95d157239c95f7cad56332ae84c9008d074b832c1033fa6acf870314c8a68af) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fbd7a4fb060aff6eecd5a7223e74fa00e73a91e105f2ffa54415f79c854a2c3) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1712ea59c95c30352544a4d79ff447d031cf245c091f3de3656884b3fe2ea9b) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02bd43b0589b7998c1f3b7e6264ef5713061841453f0216e438259adc0abf84a) |
+| `0xCE96350052e5085874d67154f388C064b4B34869` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55281c95e774599c96393264eda429a9f919eaa4ca9d7aceb72a8e8eb4b98288) |
+| `0xd00424e1eF271E2ee03a6EDAC40Dc1660F49b773` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8685d607dd9c2ab704ed8e6c764cba549ab43463a359a16b4122eb5aa8d6a368) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2df4900b2a896b6d808e0052c1dfec231cfe56036d804878249bbe0f0927268c) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33b5e44587468f1c99b34de544cf87901e73e0744e11f30c358f267efdb663e2) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | K. Bryant '96 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1878e6150c8856c6dab835bb5ea31f746e1af7212aab6a667cc1134acc315bbb) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3417a5f2922f7647374a440aa7779a96af8f92cb26aac25010af57ca9a0da4e6) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb515c563ce84fed9367806084581066b85e489c2dd762d964bea2fccf7aea7e) |
+| `0xd797000176455865AfF99245399D375e266a788E` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x248a7e4fea435f517db63d1ac3def9421196ef604cd5fab41cb45b07459111cc) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb537501f0990058e2149cbea1c73f7fe08d1293df4bb4109879c8e8ee4d3deb0) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e28af60ed6cc41bd9af174a04eb6b88b449ea3ef6cee6d4da31303203d716e9) |
+| `0xe592E0111a280C48efB5f5476cf286d1459F6FeD` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3d0801fc8226c4c788783086f77197ee06d6c3fb25cb9d335229a58ba9c277c) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28b109406e992c01768122a8fdd24399c326227fc1143dec343c5f096895ca9b) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa62dd46c951a8f04d59d5872947ce45da35c512b224c5f08c75ee3fdecb3a2fc) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeabbc5efb7cd7624ace66c34bb248fba1a88ec792af2fb380cb9a5810e6e3bfc) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x209d64f335665cdd9489fb53dc92d252abe192bfa0e362446c52d13f82960ef2) |
+| `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88b7eff5db13201a38b88a9cd0aeaf2c283cbd127942bfcc54e46c438825ffff) |
+| `0xF59EfA3e6c800071C59D961eD60a61043698EF30` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa124f9e09232aba84e496d6fd7da4edbefb06ce9ec9263aa99122f5110fa26ca) |
+| `0xfD8b6B9C954B887802203824AcD88818e37F5608` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94b990c95d93b99fc9f482554c15cc9f6b8ac9a9dd852b989246e7c371764031) |
+| `0xfF543C84CAbA16285d7b4195a735890756713c5e` | K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeab46cd915c3b9c76a7b18ae1be0df3ac5f83a4fdcfbb890bda0c7685d8aff44) |

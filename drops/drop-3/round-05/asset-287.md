@@ -7,15 +7,16 @@
 | **Started** | November 17, 2021 10:00 AM EST |
 | **Completed** | November 17, 2021 10:22 AM EST |
 | **Tokens remaining before round** | 3,840 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | **Tokens remaining after round** | 1,920 |
-| **➡️ Per Asset** | 64 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
 | | |
 | **Asset** | T. Brady &#039;00 BGS 9 |
 | **Internal ID** | 287 |
-| **On-chain ID** | 95 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc54-4e9b-95f6-d8808925fccb/a3f0de08e6caeb7d4a92717ad4a703485827db3cbdfbe8918269a82584a76008.jpg" height="200" alt="T. Brady &#039;00 BGS 9" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -147,3 +148,41 @@
 | 💀 | `125` | `0xFDc4Eb19334558c2e1906445e00fC0e37aEd1793` |
 |  | `126` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
 | 💀 | `127` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfee706f4e42fa26281b26b52d00cefe140835428625fa4e1405904f33d57924d) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | T. Brady '00 BGS 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe78e6644232568d78b3f1c913aef4e56de63bdd4daca3d0dae6efcbae34875f1) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae104b18d4bd8aaaec9a9afe3927bd6f503ca5ed2c462139811a1997c441bc6a) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc88a47286faf677ba68abedf70977f5de2a85891ffabff331a4396b828242fac) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa890de2b520a7c38ab48995bc6d975f9823b8cae2695ef3ca54c46268e4d32aa) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde3cb87ddf3df7fbc5103b6f5ec23f9dc4c8948e5d0066bcbe6c4192f179c993) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0595fb224b26b9be4c564bea9e331cf2c1d945d30f6b922c2e73b6f3ab4a4fde) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5dd7b914b66c14938ce92930eec6620295546517bf0e8e5305e3bd8b954c42cc) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc3b012a9ba7ee3c5a88ca78f62d44bcd23adf894c29ae550ce77d4ae7fe65ef6) |
+| `0x3cBb4DA5203F48b7b40bB0A9C603bAe3B195fa9a` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1db5ee3e9008f1a0d1b9acf24c9e756c9f7fb3cfa78d8b0518ab70832b982f02) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22917cc9d557b7c05c1c67a4709434c4907609d6f86dba86012006a727cbb790) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa227e2d7acc24fdd0cc58f0746d6068a683c5c56ecb1d29ab06305392574facf) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8c46c8d20d067ac98b91ebcf62d5fe5e650ea38ce8e259cf3f10ae7cb22f3c9) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf00633d5b4aa365cc7b32b164d7376d1531ec744cc956ba368e8ef426a5c6437) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8c35093e24dee906e5b643e45af321a53feebbd4470f7e81465ff16c59c93bec) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | T. Brady '00 BGS 9 | 13 | [Polygonscan](https://polygonscan.com/tx/0x3931270aa589004f67423cc4accb5dea9fff2552b1493b6a9a7ef36037e0b269) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x780c3dba30104d0e2e01156263a84dbebef7854efbea6bfdd9cda27bd55abffb) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec73435c95fa88e86dc8316adaea99e2745a911f4a4043e10b4983855fad97dc) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfac20b95847a412fcb06dc8a6e12ae39c7abca1aca637b70ea5353a8a4bd7e66) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5db71ef591199c29dd4f7301b2ed2d8ed9fccb8567c30f199b6fb8070b73690d) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf6e469c5762fa3574a0a7971e7c8a56d96e164c3a91814d9004494f82cf5635) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e7775716aebc3b68cfdf8093444cb14ae636dee97e287993a2d17f871a68621) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | T. Brady '00 BGS 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0xda2da9b652fdb2619ba39385c6dc167fea8d9e891009520a61fbd5e8c1190342) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | T. Brady '00 BGS 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf657ee48518e75c5dcaef1960a4187200f652bd56a5abbcc14ba2d9ee48d52fb) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17aea9094541637e2e927f52e83db2770ab4b9bdfa2e564e03122798887d3d80) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb08574c23d5481a0c471ee53c43a0a3976820e6ef824187509c554d5949c853e) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x686f26660130a54b908f7b57186bab340b5468dbde058c7ed726db1f98b8086c) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x852c6ddfcbb249a335422a356b411b274ad284f934b569af47db74c778c308d3) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb5ab024fbeff0da801c56a61bae289bb9dc2203d3dbcf4571bfbeb3178a8606) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | T. Brady '00 BGS 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0x41e077271664c4cac3394d89ab39c438c7bb98ea713f7a36438377cd4c750e7d) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bafc505a2e13868bdceff37ce82c2a2dcff518132bd27566c0726740ded2746) |
+| `0xFDc4Eb19334558c2e1906445e00fC0e37aEd1793` | T. Brady '00 BGS 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd24eb74b6c7cd84173d1a78c5a25902d90e51c21c7db5a6f44fc5fd39920c3c) |

@@ -7,15 +7,16 @@
 | **Started** | December 10, 2021 10:00 AM EST |
 | **Completed** | December 10, 2021 10:12 AM EST |
 | **Tokens remaining before round** | 6,400 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | **Tokens remaining after round** | 3,200 |
-| **➡️ Per Asset** | 128 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
 | | |
 | **Asset** | T. Duncan &#039;97 PSA 10 |
 | **Internal ID** | 372 |
 | **On-chain ID** | 106 |
 | **Image** | <img src="https://tcdn.blokpax.com/95048cbb-7e8a-49bc-8df0-8439f2b06af0/894c43853aa6077aa1cf30c634a9aafe2bcf1f0ebc76f2a6ab23460cf65dbb26.jpg" height="200" alt="T. Duncan &#039;97 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -275,3 +276,128 @@
 |  | `253` | `0x1491a1212Ab656e25D0403332b8d08ebdE2C0Ade` |
 | 💀 | `254` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
 |  | `255` | `0x0730BAA929287cE3041d651F7C36Faa5B55E36d4` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2830f973edc119b1f8d36f05c27408cea035cd2b9bccf6cc5bb108d97b64016d) |
+| `0x062c7bc203231C7d515CA59Aef863Cafa6e6FE1c` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa545cc5bf5bc3cc1699131f302627ea89923eb4ea0f98009e519661f8024a82) |
+| `0x066ef0E56191d3469999fff343C672eFD75f94D6` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae5d79d86aac8d35f4b4e0349b286afb3b76d4807ef2d7ecae73f2e88295ac90) |
+| `0x082C63820D7C6D7Fd08908E6b174252a63938B2B` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x142974d643fb4617747ff5a98e508f9d67fe857c209c5946a02e55046a6ba9b7) |
+| `0x0C8DD401B5Bb3822998ce4bd48B3442ba76901E6` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4239a55d3ba9e18d098471908d8097c6883aec679f348b7e36d7ec93f32cc7f) |
+| `0x11601a3B8270711D05b6Af17d0CEf4ecD6dABc9C` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2af73befac7b9433f9cd29d7a63ed4c3a2bf564d166c5639afc2375082a8604) |
+| `0x12a8ec389c855Aa635ce3afD8129250b917610ee` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8063eab6a5b75823d0450f46aab5b696aa17f6063897bb697a6e3b2b94461e48) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a5c97ea2f3611db45450cb0ece22ac83e3054fd7391db46eedb3e8d44512a2c) |
+| `0x16172942f16c50A18d7024d339a672E3650653D5` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeada653d0284505ba99a00b37875a8158c8eece618803c20f294963219088cd0) |
+| `0x1dAcB4F65332Be42543f705e609D5BE42b2b8833` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x613aee5e1ebb9103b7826f9ecf85020ef8a4cfa503885c40d4c5b244fc7f69db) |
+| `0x1Dfd521c830Ad788e9317755A801bD561aB468Aa` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3cb2d7a47e6da52659a8acb27555077dd264a56ca09243db85c1446997b41979) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f75e78a269433af2660e2c9ba74a95367d00356f1b19760ce12315e8b054474) |
+| `0x2232460693cE6e5780AfB69b63ff21f63FA5B7f7` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fa001726316fb927fd57a1a700037176672dd945ae2345a24daf468364568c3) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d0078365db2f5d0238c38bc161cd5ed7570027ed015672518dadd995967b169) |
+| `0x24A648D87bABcd6994aA4c42cf8e4B9Dc9a6C342` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f6c22d5a25f84c21683d7af701bcf54ddf21a2cd1949186cfcac335fc4ea5f9) |
+| `0x25af88396913419beD8e2F1d20263e58e0a5b0d2` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x660ba75823be6961004831ed7cb7d702cc55332fe2e3247d076d951c79da3ec4) |
+| `0x2663531483B7D10EEeC0e1F4aD042c0F63A1F26F` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b85f9daac755ca552eaf393e19fc7bef896916b494e6f4aa2e1c039fcfd8fa4) |
+| `0x266DF11a20ff13572e915d9237aBB05089752604` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1e0c10337ca7792489b0c86f0ffbf3356625186c052c3110eba4f2fad29f73d) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf3ba2de36aaa3ab6028bcf22f8385d2f01d16a1f0df9f92f6b4f3f64a6f2727) |
+| `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1393daf5eace0c16f60064c0ff909e0d68ae5ccb43ee786a0e54766a8ddb8d5f) |
+| `0x32e80D82Bd4fC099F22AA8Cd3383015bF8D578E3` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c9200ee79e73cfc56e8626246c67a6fdc5885c1d777c2096f9a4fa830e46934) |
+| `0x33B2A8C05404f667c1a764e2a0eee984CD507134` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07e0af593aa5edc6f1df3e6d4a3a512e9b2999543427b6aeb888449acb8baeb4) |
+| `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb86249eb7c435e344a91c03f539c5f544a4a1a0d0b0c609a45b49c70ac09a248) |
+| `0x3f202458d3D1697e30673F64b095b5EaA97D0a68` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c5a94bd778b8c74bc6c356603d3c539d607afa9057bc097f4cbf6a2728f93f7) |
+| `0x416D279b22c69607A06CAc53c6E063229749b1ea` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x495f5e566095a77f90dbef96d41e18d04487a8eeb325f437544628376b0e0a53) |
+| `0x41b09B1A32b6B219f13538180FDb65775ec7f538` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54c0d86eff7555092aa88252ce5fbf91d089933c3ed8270a4ab179ab91d54afe) |
+| `0x4a3F91B58E402A4738a2C509cE2709B74e4bEc12` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3fcb5a552f46589c9ca16ac8271a4b7473237ccc7d510091ebceb60a6d9d7ec6) |
+| `0x4b8891dE1cdF660B7d984EDe13ddB8d0E2f28525` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b2fb7526b0ab890721d8fa32f29b947701ecea6033dd805ce1abf0736eea4d9) |
+| `0x4E56cC6F1dF2dbc732e166b99F0b98537773C46B` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d6d79508d09593a414402ed519132a2e805ac2fbadc43f6eb3e65f4ccd12603) |
+| `0x51052145D0c46fca3122C2f790a472a005afcc9B` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15e46f5ca93cb61302b94a164fe6d648be6fa4349c2d17607d17f74cd6cebb87) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c41f7f7c33e1ee95071b7a3c7690345ec2900e2c971b48a65214f5cf9ae539a) |
+| `0x53B68Edf4E3eB5eB13503CD08a08B072B880e3C2` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36c7189efce291728c571660c696826413c2f1c5e0a4eaa0cb292760698cd9d4) |
+| `0x54D4c73Ba20cc8134f15996513b24D0F30929AB1` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb11d79cb88d11804022446121d856ff84512a1aa78675bd95013105591d6a054) |
+| `0x56Bc21f03468C2128E17d7d85A11c481DA76aEfB` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00d253213d447f077d75dd9562b8b8fc5b89abb8b233f33e01bee5d6888455fa) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70d8abbfd8ddca7a80a2a74f6b04510affa518fadd2a7a843f5458169d2b6d6e) |
+| `0x5E3D88A7A85419e462262a2FE1dF4B21f0c3356f` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x729c6c968854b564e7442700d6b989abadd374211b6c25f3f9be0868cafe655c) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x23526417f914de7c7358d1beb0cf925a9adde2a9038f3a2bb776d1f095ffb70f) |
+| `0x61299Cefe10F78710A909375193885F2266E9778` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf3847c3e5f29611830afe09e50dec2238567261fc141bbbe081c8b499192e76a) |
+| `0x62acB652CB80403Be7C24D2aa020ae3032603e2B` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3941f3886de03bf1c24f47d323769e7113f792a62f78e064c383bb0fefc4a5ac) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17005c9a41d37cecf5dd2e54fe7382a721121651a4c2a318270662e69e59ce0a) |
+| `0x6543a97b39B42e9d17b33aB844839b63D7Ca1433` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf02e22028cba8b21bf0d61d9e60550b3d5d046e2a4bd24f0d5a47cd5b53a66e1) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8515ca9d2a1850bc4ba91b04b65b43ec887ee4de382f49525344c0cb83bcdcc4) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x419d57a40e08ee5d04c6470360d8ea29e4f6f462096761e2d2c5dfdfd4ad7c90) |
+| `0x69729d3bCca9fe30E3b0dE120aad11B764f1DdC7` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1dde0817faf1e157e039ec127d8ed99d475137d5042604d3062f34b39f576c2) |
+| `0x6b2B26c73D1AeA7d9c550a4237Ba66795Fd32D4B` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29644a0b03d238b2b699091773befe14974d878184729bf40e21edc9ca0a87f4) |
+| `0x6F7564DcFA230F207363a94836589d1Da59999e5` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bea9227b08a70c4a69fc6f9389a52004c54addbe2c270c76ef4a28d946bec7e) |
+| `0x7040163f5D5B9b33Ef9f64809c41A8E972E9C27d` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x874199a86290f97c459618f393d807cdd635ca4c52afcfff1feceda03ea7b4ff) |
+| `0x744cfDd907D6a75f5f4636edAfADc132720fe340` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bd1b0f390657f18d0c495db8aa5f6896e86e03f0bb8efadb7c6c3fc0a4e77d0) |
+| `0x766dA6AEecA1fB71A28ddA53CD3A873822F74277` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9099e79a29f5fa1c1e1eb2ef523093c7134873feddc815341b2f3b58cf480d18) |
+| `0x77B91783E8d320FFd9805cC50D196EBDCa9dCa48` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9f383fc1f17cd2c05b828043bbd862117de0b2c0cd1383381db0d2185cf1a86) |
+| `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x954b9ec2deb8b912f493f0bc99f7ffe758d339f5256061e7190708f362bb9100) |
+| `0x7a01E394868d06Cb5F0d49B325f9eB5e0EDE0fe1` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x341348d773226bbdbc3e6d401553c45200e95b7fcfb2cd21983e51f610162764) |
+| `0x7A9cB3768142CAacD21900a46b6FfC920512E925` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf73db85223859b562b72fef4365104337a102492233393e6cfcfe5111ec1933b) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb639a0534ab2d912b00e362f77959740082ee76695d50ae36505bc9d8348f225) |
+| `0x7F2486FdCE10bE1D025c924b8D8419645e4D411D` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfaeb4ea8dcc782f6f091dc8996d62235b32c9c5af9687c12f3aafa7b33bddee1) |
+| `0x7F3ecC3b73F9Ef6A972364eC5760cA668ee51e58` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x932b185bda7b81d3056666f4235aa1389fd6c0a692ae0a87123806e8b25ade63) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe3e7adedcf170510fff10fb51b41bb397c47d7ab9bda3b95204d331aad651a8b) |
+| `0x83Ed8dD6eE5E1428C61391139eD59B51c8d81216` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20a1aa300d28ef554e21fc5a87eed8c4fa88980a3ac12ccafce361e3d4ec0dc7) |
+| `0x8c4552f9618C0Fb408cfF3Db093082508A34166D` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c06ce41f1ed33bc7751ef3ff45806dbab98370333567ed388bfd24e6a0a4163) |
+| `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca887a42000778c091babdb388ac2180dba92a9b4cbcf7faab66f2458813ec3a) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x050c433d16325d12fe2251fddf23d33a9e4869600bb50333611c484e9ebde05f) |
+| `0x90Fb1737f034A78908D71cAd503F32f888b20345` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x480871dd7e99a57e0c910f3fd08d88b11e332efaf07878514e2810df42f970fe) |
+| `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba9e0a5a388fb0ecb30840652eb04cdb5f5f1789618733cc8d3c7cff51e0176c) |
+| `0x9a3a03939a1846D84491A76f57832d93199759a5` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf5119708e48312d4ac0197dfea90894e53096608dd9565682db6041c2792c65) |
+| `0x9aA143acC36BB1ac456d39EBE573760B70B3d56e` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa651298c13fefeda46b16e65c6a40f3815621d0e09976a3dbb02f2d736568a50) |
+| `0x9b39a6d8375873B71F333A50700FcC099ce5e058` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14ce8ef7b6083d60228b18fd94c6a46b6ccb990ff40fe94df84bf4770eb74445) |
+| `0x9d02623aE19373bC84A86f1248D721a856DDAbc9` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0557a6491c937a8267f4541173ee59fea34074d63f8e330e7722ad9ea1fecb89) |
+| `0x9e0EC1BEEEfb6CDCA475CE92a583C81B040cd7Fd` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2c8f7720640431f5bca8e4d8ef6b20d0d4fe543d49d7a2d08b278a2c62e64fd) |
+| `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4114d420019c635f17556032b5ecc5b76d579fd44d03be310c5849d266b65c70) |
+| `0xa067C49005954B08D40C4c5c3638d5dd21D4e5e4` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4fb5b0cb38eb7fbd198cc4e35298243860ca17df725f7a116007325da621d73d) |
+| `0xA447a54349Cf368eE31F0A30DADB7c18D9412182` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a93c6eb088399d14fc0c24a6003f53b6538f5d0e77dd2803e9a5d314ba5de4b) |
+| `0xA4da869B7eDDE202E9BF1E956A66073562192B82` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94df4bca6269e8712d7736b55826d4d017fda73c12dff529131ef6f53cd23c96) |
+| `0xa52715845E2c8262E487d7D1B31D690e1D3934CA` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb86942066faac69141a11ae7324192bf1be436e564464dd8939ddeea9eef5932) |
+| `0xa5530c389E4548C525AC674039E3F69e88aFd26B` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6782d78ab31ea6486b0a9c54c4136e3e9cbbfc56ea0e1cee11d6bca1cbc85d42) |
+| `0xa70191Dc169E75890B70fAfB3725F7840f12A699` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0119ebc12940c10726dd83144556676c8ad82640bf508df12a7c76db58e0eecd) |
+| `0xA7AD34335d7921aD068C0DF26bfA4EE4C6632Bd1` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b1c92bd8552cf1143c7fb24bad70a2ea7cd4e7b77e9b4360e1f69578da48f19) |
+| `0xAA532d1e5471f0784008cd1be7C344dfe951fEf7` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ddbff63edad5e0cf1dce43ea6aeb6e21dafc19fe022b15a2730a88cf263f097) |
+| `0xb215b2dE14e555082986Ae9cbA641FF9297465B4` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x815c1aede6fb006a31704341f4ca346d71a029312b20b96b97fba384f1c200ae) |
+| `0xb37538DE920602b564705c6Af4Cd1a6caE2D96E9` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5b6a7921c30eb99625d134ffbcfb86dedff2a85b9f86cc768d72b5978899213) |
+| `0xB47832cA65E661b2b54dE39F24775C1d82C216f9` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe18cf7d226f2c53a1fb107fa827d8faa7cc1472414f34bb9562225366e90d92d) |
+| `0xB59f4AB6f0E422244503707774Ad6968a6f758ba` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35ebdf5416852af5d067031212d5864a31fa70dd7a34f5b84563e7ba0d0b8255) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd3e83b04b602885fd0461b6539ce8352e119c0dd5a0aa2513bd1392b9e3613e) |
+| `0xbE856d59902eF232DFe7dE1cb92C90Fc181Fc009` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf79df5357364eb5300be29330447514f3ae2960a37fa5dc53221712d05d50e12) |
+| `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa77616c640ca4b4b44f2eb18b25f44fceccccd78760b78b6879d8552bff66cb) |
+| `0xc1Ea94338c0f66C4320b3d830836F10ecD88D0a8` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1566dc7e2e7334a610ae68874c9c506656b1d524ca8c7e91162eddcdd8e9db2d) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x818d1e26c5b79ac7dedb3892c92ed33483bb33455f3e5887008cd2b42c45fe39) |
+| `0xc31ca01E824fc56e8b1F811066390754d6fd758A` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3b7436cc95b5664f847a655141443aaf9ad70e3714ae513597be860730725fa) |
+| `0xc49d87408CF1b435533915f3b269DB41E7984904` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a48424fa526ec536dc83c7b2135af3ffd777c381d7b93fa09c4ef9743e04a5e) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfee7ddfb9d36935a8e008bf3245d5d144525d1767afe6a715d765f0ad380dd14) |
+| `0xC99d9A8fF92000559edBbEc5a8353A46545DD9e7` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce821828a83fd9ce48f7aad7949801d4190defa4e01013bf447a012ee058b9ec) |
+| `0xCb02A1D86F19D059C2244a1Bf259f8ca926b376D` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7eae8262d27bf756398f6e660b8f89fade454faad3a0236483535cdae8488cb2) |
+| `0xcD315dCA6A12D34275F03e639e0c7F0239795F41` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42af6424afd5f16f116ba421e4f22c0eb5f55de0a1584a63693edab5972293c4) |
+| `0xcE64eEE55009B40Ffd3179A274Db34B88157A403` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfe79375cfc2984aa372276ec744875c5959278f7bf2003bff394e848300050d) |
+| `0xD17AA38C539Fc795Df0ed8016311eCd7CB408A91` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd1f120bb88ffa9cc5a8a7fedbf53f286490c9ae04c89eae782f23f940f1e0152) |
+| `0xd2EADF13c9C0A3b3De99630B8C3aD2720D538F79` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca971e7f77060a02dad3b186ba47f3c6e7142e3650fed16e9762fcb1c0454120) |
+| `0xD34BE6cFF55008945694750f284D55b4B66Fdf4D` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00a625e473881364bff3ebb966dabfd80f740ff8d12853bdf966a786895fd82c) |
+| `0xd35BE6bf74f7468638e2CeEC1ed8E499dc76682f` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaae399aa8b4d70372300032d7c819d91faaa65a194d8f53ecbb897227f8df1b) |
+| `0xD4a1a94FA5cDb7A0e2bA3b445Bb86d1481b3c72f` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30150b9a0247c3a509aafd9fea59dc2f83412eec6c49c5d6d52bcb567da30e52) |
+| `0xd4acbAedcbcb02aae2dc292cBd36672CF45b6E06` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e5fcdfeaf85a59fb4bda5b64b63b8493ddc567d54ffd6c0760ad93ee22a2647) |
+| `0xdad1d0700271716774D5C08357321221B0b03682` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05a8fb9774afb555cb354dd92200655a609f01b39bf02998c42b3039d09f5035) |
+| `0xdb770D07362c0D827e3e7ef79B9D1db8fEE619E3` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ad46316b85364154da0eb62b893703c159160590c1464d5bf1ba57b8b6f80ef) |
+| `0xdd1161dBBD4315672D66Ba74F3866f750C2b409D` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f87c20d5342c81dabe6a19a620ed3c6fa091c536e5686449a5ce56a1d7ccbee) |
+| `0xdd1891a5388D56b3fc84FA4BfB215d2Fb60951Bb` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x50694be064b5cab2a3ed72248def674144befde7d96bd2ab0770c72fd3d27b95) |
+| `0xDd4e79a75cb1E80Fe6986f5bFd8639f9590dEFa6` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa74479ad947cc7d5b74dbd1730bc09ca3258e5a85ebaa2b6e75262195cba2d22) |
+| `0xdee545703A199A775968bd46a15472121e75c2d3` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61563b9221ee024340519f10d56dd45de383986dbb5fd6006172fd17e014372c) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5335fd7b5fc963434e1f3808f9d4fd618e83c7a61720ab728ebb0e4227603ac8) |
+| `0xE20cd589677b0707d2067A8E4890C4Ac95c71DB9` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75e2cb76a056c3d416b1d330fb5ae413eff0db56a3eab96b484fcd2cb826d48b) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x992b67afe5dd4164ef7dd73d1645598015e98eb2fa799f19b78c707e634ba4d3) |
+| `0xE584a70738dFB66D162BF455Ed649e8e97c6E378` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0540dcb36a624f1ee34a1309e3032cfbd2af533cd7bffff7572027569f8645c) |
+| `0xE7f1097c1616584c61C6b4450cF5b1306058E83c` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x71641e851420fa667bfb0c3fdc3979f39bd4ea83a0fca528fb8db7098cba2bbf) |
+| `0xED18a3fc6aCf6C39d326acC474ac444ce533EBa3` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a1abe243a6e1058b8560cdc561013458615fb008a9deab1b158a66f855e52f4) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | T. Duncan '97 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xefe3226c8f6465e0dede50f99607d8bd02093c1787e22e6ff132bf14128dcaed) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee64b860f4171ec6bb264cfdc20b152937a3b7b01fafd92081852ffb4a72be7f) |
+| `0xF011f87861B6f9999FB83517a8719c550B028621` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13d233d858d5a1701f7073338eb78e27ebbb0049fb93e72eb74eac210e08aba1) |
+| `0xF201e8558f34528F12D996F94D0Eb7c61C30aB2b` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87dc7c745f791421ff8d0a7b71437afcc6b83a28cb54c529e5ff73ec80f3aba0) |
+| `0xF64E8B8F97a5Cd6114893F4efBee2f35d90DB47b` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x53f728845f53c2f3b3a39b96e4bea925003381421415779dc9634a830b821c8f) |
+| `0xf884f19DD1602423671dd525fc28b3bF00494022` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91158aa4ae161d76ffcaf3fbccabd64046ba9068fad8bf058a5fab2394fbbb0a) |
+| `0xFD125ab8900573f27f309129e9aFeBe64acCbDAA` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe339b543e082708e457c33a72740a91800e0ce83f60679df641cc1148693baf4) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | T. Duncan '97 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdef50784735f8f2f0cdaa70a3892ebc087bea07f71dbcdd1193c4ec8dbc0f117) |

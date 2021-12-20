@@ -7,15 +7,16 @@
 | **Started** | October 22, 2021 4:00 PM EDT |
 | **Completed** | October 22, 2021 4:14 PM EDT |
 | **Tokens remaining before round** | 6,144 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | **Tokens remaining after round** | 3,072 |
-| **➡️ Per Asset** | 256 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 | | |
 | **Asset** | Neymar Jr. &#039;20 PSA 8.5 |
 | **Internal ID** | 244 |
-| **On-chain ID** | 71 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94aa4804-2e44-48ea-870e-8fd9c7e5d8a8/7c9425316b204ce557f25914643a8a5e0e2bb116e3ce2d6ceb584fc4d2d280ce.jpg" height="200" alt="Neymar Jr. &#039;20 PSA 8.5" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -531,3 +532,201 @@
 | 💀 | `509` | `0x457F14bAED146fBa11a3FcF0479D67Be020ba414` |
 |  | `510` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
 | 💀 | `511` | `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd615fc69166ab0b13d5877b249018ee6598a9d4d2a66610750840b5663b0c4f8) |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeea74763db09c6300e89659d8223aa3818f4862bf56a46f0019b2fec5dd73540) |
+| `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xca3c171396fd1b1d0062ad2ed47a2c5ecccceae7633bcdf86929c96bd43a3147) |
+| `0x03373Cb0cE8b25fAa5aB9D0A5e35A032E20D588e` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce7dfad1b2a01f87dd4a874c1f2b06c407b9793d13a1ece72e0371410300de3a) |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3150b6ba2f3031113a9c049c06c8fdfbd4fd87821b06b41c908e4dd25f57145) |
+| `0x03AC0e64e90A113c99a25A73c00Db898deE0164A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae4fc0b65b8c622bf27ef04d0e6e808e707ebd916f568ae4b0d2a2dff7888e06) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2eabb0d76493e527b36916294a843667d1aef797952bf8be405e5f3c8a0a887) |
+| `0x04705AC79e3C6A79347eb178cD4BC820ee402989` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fb4cbd565fdaa6ddd8ea687a484d78a42d76d7a499c99bd7a9eb93c3ec08587) |
+| `0x04D79601229A81B7dB0625Ba0D25a6b81891992A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0789ae6fa915d395cbb399085a024f88aa237aec1e4c096a2570d45ef839bff1) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x271a85e76ca7525cf372dbf4abf68b962064eed85dd841647c9265a7c1f49a05) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6e4838bd5b2b48aa2775278aca77a8f50209f8fa270c526983f5c686f4e6ea1) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6419d542bd5cfa242ab5938f331d189da72764478786ad1762eed4ca805b2a34) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01e644fde7674be20576ab8aa630235e0ead5d1c2ab4cc3cbe0a79aadde903e1) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85e0d78f232fb05b5ecada0e836c98233b3b8d9dafca46036dd6488de4e39621) |
+| `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe167eeddea8eecec155a1180c65b1bb4795c17fb8827c4881b3fe2add760a5ab) |
+| `0x0Dd905ff51f44F61F5A96756a98FDf4612eABD6c` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeeb64a007fe99056152b4ba8b299dcb02668aea6804e2f779c3e0baf7e9ba9c8) |
+| `0x11e3f9C175432CFb9D7e8313Ee20b62923d9b298` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc96041a1391e323de32d1cf762286e149d26a592dcb5e0a6d02e45189b6b92b0) |
+| `0x126F27AB0B3BbD21c54c8BDc400CeB910727F33b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd778413063b14858edc9d7e4d68589b22be8426cc0555f31fd5d61cc386aa9d1) |
+| `0x13E61B25B7d6B96D2DBaE1502294EaF9Ad09AD4a` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9bcf8beb0dc7ffd1316c46889de54167cd693ecbcd9dac9c60efb810d8a75235) |
+| `0x148E6f311b4653884158329AdEebD07Beda4Ed91` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6a870a4b54faabd5c6018592aa6a2356ff713029e6e6f5275b7a0ef1c7e36822) |
+| `0x14D7dCdA5Ef603db690522f87334478fd20327e1` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0103ab2a3314f3164d1bcbdbb3d6e0831f89d5501ac978bb48dfb36a2039bfa4) |
+| `0x15Def6e5Ed8E092b2482900C67491f5B4380fbD5` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb505b6dd6075963b09afa541206a1133f5d3c904d20fb28182be9eba0b3d5659) |
+| `0x1783De303Ca862DAf43F3A27daaA62B0A6394a0F` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf794cfc738485aedea97c674e18db01066cc27def17ac5f067bdc817d8a60ef1) |
+| `0x17E411390B57D6f6bA8952A77E40eefC2969C851` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23e7600a811b251eb10360ac5daefecf29912f93d5bc169d8f8fba1f52becc14) |
+| `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4ab89e78fb3d82b5d9e1d52b59f0469d13203e9396f8483550c6052df2484b4) |
+| `0x1B22DFE9229ed2B253F7cb87a168328307caB5e0` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa5f670faeb14f12243ff4c465f0c92acfe5a8f2d5965e29c6cc619b4376494d5) |
+| `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xae6ab642fd7daf1d307af749c420b8a7316300349e0bf2cf9aac7258b81f03b7) |
+| `0x1C67a68B4BcF49A263eAd348B2d897F083921EF1` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbba67d425c15f84c71444088f5b080582c3705acd93f71e606459f68e620a02) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x272398846f734994e905b7a65d66db7e3ef079e6ec6c7e8498087e1d2cf4408e) |
+| `0x1d38493De105e1f2c01989A18CD8b1c78214157a` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23c4bec65e179d43ab0f280a40c768565a89e3de73063328a6d3bcec97958a8a) |
+| `0x1eA55CfDB6Bbc8eca209Efdcb899E14173D62BB3` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9aa6865a0f6f5dc4410e0cee1f2f7c88da62de7d646c72338eef10e56b53f701) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7416411e0395bd3cbbe5ec7eb6482a2a75f0fd6dc7fdad3a1a452132b362d54a) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x58ab345cffb11a4ffd43cf49c86ee739d9e2fa1c5afcc149f7fa06b0b6d6ba38) |
+| `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbab25145cf04e1fb401aeba20aac33d536821ec7a66d52f9b4b9a6b0091889cf) |
+| `0x23997f06B187B5C5Bdc767499A2358F4F5C5EA02` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1656e7701e6fddd542adc3fa4117bec6369d1a0e084e89e63e30f3af45b5331a) |
+| `0x2467C9aAAc36CaAF551ECAbC8EeeA6c9203c818A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9315cf6f24983554b624213e4386ef065de60c3071a585ad99853151b3b2fedb) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0d23975690151a8d8de8cc53dd210fb6d624959f4e94ff442a4e43d9832bd8b2) |
+| `0x280dF9E3BCCdc5a0f68E35C7728860Ad3d7091B5` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1b4764fab4e4e8d76b4edd88d3345811d5a0d11fbfbd2111cb05bbc26df4851) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4b647d9c4613c4ec4efa8b3315c2ba92935a95f53a42f5d29e9e1bb8c40b73e) |
+| `0x29cb02180D8d689918cE2c50A3357798d6Fd9283` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdadbe717cb613e55ca6db720c87a70d2b6c7650b9180c58240daaad1005cef15) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe05af3a683c0f00d28328d826f27cfa3b6aa66469309f70d1ed040572d7808d8) |
+| `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08af0286f63ed18340f73015b9921631a8bf934645a9f9ce10bdc0a596258895) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x468eb2b55bb428401eae9ffbe048f111d53e9e32b3eb933539fc5311ec804683) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x11cab250dca4f26ea675acb596b0fb689665f559e8b27c765eb170e3dabcc39d) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a74ec092f9f6dc0a6a2203043b23bef6e199f1c696fed9f5d6e15d71b512c7a) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38ea274ec4d0ecd1fb620f90a22b5f5055c21de2d820211eb7f6fccc950ce6ae) |
+| `0x310e4adf4318caB4BFb66d11D4D88e3465A684c4` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2aa7a32f817c58ecf9645e11cd33b7f707629129f20f6bbf332ad149d3bd05e8) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x107b8fa5946ea5cc460533c849f485e0062f44e245dfaf41f86a803f70528bc8) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5ec4e227eae972893563e0cd18664ecd9b3cd790c25dca0a8c414dd75085659) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3c1abbc7704c5ff0927ac1fd86165df476416b1d1a413d08c0ff5bc870c473e) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9960ed78ba91d58381356c0d066d190032322845aa77ef856ff9caab66ef8229) |
+| `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfaef8d61874b6d30fcd85fcd286c69bfb134385315e43039a8880ced6c017f82) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ba53c90ab251894e65eef83bd9de96c72556d9c5ca4f009bfe393b7e03b0ed8) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b60d534bfed9db3a8e8b244c02e866c8f5c5d999e76f4995bd910c5d8da8f31) |
+| `0x3706b681Ff42137179ea9C6613b9a21dffBA863D` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82ec167597e8d739cfa603ec51d51c4f9d03b2ef5bab9cd615ef7ceb492f7520) |
+| `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19f1a265c8b7becd4574cf187eb5affc866e243d3cfdb8c883f5060efcc3888f) |
+| `0x3B9fEA7eCBa85A7083435A08b0C43D6E27d7958a` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bfa03c4b4c65f87b044d804cfdc59a184fa8f2b20a56b2186a9d2912c548da0) |
+| `0x3D5f1ad033C4E7C6A6d433d50d694c488dcAebCF` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a5284c9cc2719917ea206c1010a09ae33ccc06f2f803a87813176a73a8153e2) |
+| `0x3e4B56C6F2B9146E92aEc66ae1386Eb02c2980b9` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5c9c3288107b5f59e152bae159589bd4e7552e3c601838dffbc1f7ea9a1e9b2) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x799cafc02b6a2ece6c3d78f85babb4017773c55805927ec280661c92473cc543) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ce752ca1eeb212f00c1c8a18cf6936d5209d4e61b08bc4282717404be16dc08) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x38b9f9bf4b19ff5201b96bfc0dedfe8da9a677af1cbac98b2fa9ce8c74b06783) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb596e6a2699d069bcb167350ff78fb99df96949983aac95cea01f24e2e7c597b) |
+| `0x457F14bAED146fBa11a3FcF0479D67Be020ba414` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3856137125c86ac1cd006ff884b9fa3cd3be34c97e7d5e22c4de399e3c12ea4f) |
+| `0x498c68a16D5072Ca43f22aE5Dda49354c7555180` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd789d5d92b4fffd5095675eff27bd9ba1fabf644d1e254f07bb2a094e52e9b37) |
+| `0x4Cc92DD32999c2356934f85a8F67c39552Fd98ed` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd905c09386d0ddd25aa4309b161bf5c4761194f7990cc05c9d5ed6680df7368b) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | Neymar Jr. '20 PSA 8.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc66f2658b97aa8d1d8e93c55addf754b9f51edcc73c7d9029c9258c806576383) |
+| `0x4F2E89f75a116ac15dF48C5BEabf8F431C4755B2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ed7639fcf760841478787d214ff4640d79aae85ca31d4ef4d87ec79a95926a9) |
+| `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76945d70fee8ecc89319eb42bc07b66c11037374d415352af229daaeaf6cb2d8) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46fed0d82d595171e9c36a98e16adb3869fce576a0629b4a7f81afd933936ca4) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffa60d3af01fb1e13d12d1ca49b5cd1ebba9a2bd644cc4b55eae1fd994e2758b) |
+| `0x55d00f90FF8DcC99096eEb2071B10Bd0a0Dc69C3` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf597465d7d8990b3591e86c5cf1a14f14f651ba712fa0211ad1cad41f5c800bd) |
+| `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d175ae4bbc8f5b1e0349b8ffb6c69082faae4f4ed608e0bce690afd072f7154) |
+| `0x57f35Cd6035d9A6a87245f7cf79E8981a065EF79` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x873f8916acf346ea6381219742d014ea4882be9e29576a12cdcea7bdf036bd89) |
+| `0x59E6a99f4943a6a2FE39D1b0f6ccea01A412D80F` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8cce8799e2257876a94a70511bf8e109b2dc405920bbdc74b1ef795df61b263) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8447ae3abfb173f3f0c8338c80ca5bde90d5e8c8d4b3249b28dff99a5807ba10) |
+| `0x5fBccfbC090f0086bfdABF1B9919e8Ff7a5daA4F` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43faf1d97e6687924558d09f5cc1dafabfac6a3528d3eab888d65d7a01f27165) |
+| `0x601c115F74eb4cE709E7ef1B8a9Df159078e82a6` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdbfcde9c65c3c52993d21e3a98d0378f99cf46cd98ec68e4297c81223a8eeb0e) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4609454288bcdf753af7b4c17402a6911b12ac6ccbb5f7fa8d8eb0f30135b15d) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x428a20b40b4c00540a6e663827223da8b48836ec242a205281a2dc9ec2e90246) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8510cdc592bfa1eec9d28b2fa4c599b4dd95ea87402305b0b357668113558299) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba4d89fde4603ffa59a22fc73a55cf0b05245df7e649a402528b8aaff8d2113e) |
+| `0x66Bb27b52A5C9E039426612559819758ed733f52` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc39e9e942a4a35cc799c269d268b12ba78cf59db4b10939cef86518c00ce1b02) |
+| `0x67BE56FD6CE9703D2A3F24dB6B9b5F1fbd1e4386` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09fae42f90724a1bcd0002f1b9b13ccaf05180d121fee67231890b1baa0ec077) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f5f12f280e042c9eb977e77106e54fb4135d94af58ef4fd0fbb7919e4776038) |
+| `0x691574D073F52957850cfd7369cC1271407eE426` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03174a84ae253c28643f452cabf52da5bea72f38556a85942b7c721290636845) |
+| `0x6F4EF6a2Fe95C1a9D01742622a84c723a3EF8375` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x12b24364b89377182b357c7e8827caf6dcc7a389b8d221d0eaeeef6a2a251bc8) |
+| `0x7004373D672BBE6Fa6550f66A431E78584a69D27` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfe1b5f083248a7e7638afd7a21fe07fe898cd947e67c840ae60d87b75a85430) |
+| `0x70cED66c135024b9e3696cc8B2E22247E9C822d3` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7656ecbf90003470e4617b2132866c1d3c1a2e28b1c4493db57fd067382fa2c3) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x72f49f2ae9fc6163985e2ed7763d16e65d3eaea2c8351da20343c0ded233c2ec) |
+| `0x72E0436aa17F8b42387754645E340Ed356Db8C33` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81f4acb45afb7124c1dcc2f1d3b4304a451607f1c3a6b22c50ab5ab0098a88e5) |
+| `0x73eB1aac02d0CA30b24F8b174C84C9632d03813a` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfb2cf2d70a90712fc7f77cc40edaf84d65d03d4b9d6577d0ee4ee8e15740537) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0c764a16420e9968360f2b4009275413fa0dae01b4deb0bc0d90174bd95800e7) |
+| `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb69dd6bc56ccf53a64e76ec4d95a29620fe87cadeca4f24b23f25d79b85a0791) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf855ef09e2b40f76fd65b6f92d5a982c3cc360a9900cd699ac1174f624e250df) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfabb594a0f4adb8e9511f1777be43e8839fd9963e0e1a3b24ac0b710996ac927) |
+| `0x7957c7898144af52D57e00690598B645898eb623` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57fa75d994cf58e37defcfa4e911ab1744d9921973c6d4c919cb331b5619e1b8) |
+| `0x7A0BfC1d76d7F643E3Ff653867d3E51d596E3D5A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66c77a35191a09626ffe741ac9f570a8e183af8e790a9b9fd1a785215622e99e) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59956bb0773d30f91ca25d955162a84e67082611c45e488f535f7dc577881e00) |
+| `0x7F7C1F71C9487c15acD4a564F9C4BE5a28122018` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98cb979407b80a0a8e89330d1089f8c609e0a82188ad53ddabbfc74fc0564673) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc247123d03f7a96b4c66cfd683e703960eb6dcfad02107f9fd46e04788c1685a) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcd09497258f21a47b3879989c07f25f705bdbe923016b3098efc08f573188b5) |
+| `0x86176F968eF30C85C0321425B4e9C16B5A1A4B49` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86aecd4c45c19d37ac720be325849a71c8847938c4b81ac16189eca34b63d12c) |
+| `0x8695D020bB5ae019788b829F4ab0c9A98198803C` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf44141c5fcc23bd8ddd298c931ae2f2b46b329b4662ef6821101b8aac76fd188) |
+| `0x869Bdd0974cf6aD4B1705369eD3382118fd2d6f0` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x420e63aac8509b9cbfb0991717301f2418894df10025b0145f16239d89d8c97f) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x189a97d9e40adabbe80f795dbee0299d85747410437ec89e9e392dda596816b0) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa53f31bb70cd3305a96b3df8069371a977e5dcb0f22cb89cedb77b679035a18c) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd950ef182d6f7909a45982ccb31efe2478b1ee66cbf48314795f6104f3ff493) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66d188bec84456839455bf63dfa4f7aadcdbec976ae7a18237ed327cd63b606e) |
+| `0x91836dd71A4DA65eBd8758a0148158dDc4E83C6b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb35f61e908f098facd556a10124124296b634038d46d68d1c49db852fa623915) |
+| `0x91E6e5d7E0735eB5435e192A280Cc94AA7Dc7472` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41fd6de789256b5857c332ef08eff0c549d0694175e4c2e9ceff4cba59bdb714) |
+| `0x93171109dccB003E477620B7b4d7C84E1feB351f` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e343541e0390b71c7bf4b3c29560002fcded6b78fe293d0f517d56306321a31) |
+| `0x9397a1323ABe46E743B42856642942B3795ae9a0` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb82f6bbb1f089fa7187e157d0245f1c238ab1b673a17bd1a971dcf8490617ba6) |
+| `0x94B35159efe773D0dF8ebCF475113884e7B8F2e6` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1185cc389625fbbb6ae4804fc4dc9eab8e2edccd7d91eb339b7b4ee6d745d19f) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x128ab636d9ae0d9b0588812ca6abadbd235771b33370bb17adcbb750edeed6bb) |
+| `0x9616661Cb428970920EcA949685b60c387f9911D` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb546e3df1edf84ae0a8417cce89858810f2230fbb0a3dc0dcc660282e0309db4) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed62643e5777deff13cada03b16c0fa458b4a8b33cc3f1be09866f32999deb61) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe2c84953f0c81d168508188fb279b11c4deeb163aed942a07483c39009e743a) |
+| `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78e34f38fde8a154342704b536a9ac97585629716bd868f9b7da48d80dde88ef) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x793c67d610da2d83d6cebe9d2f46d98aec97f0f0f6f0d4e2b534039b1e6c4395) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x888fd2aee3e7e7be4cc67cdfc15bfd0f34ae00d424ac08ac2cad198c0ab399f0) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5472ed7a170242e2d30fca2fb794d8a6040d8521aeaaa71c0d87a28c96ea10f5) |
+| `0xA1C3A183b2829B0d695E5137ecc76445eF3781A2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x437a90f88bf2bebdd41ebe5ce636a2069cab960fcda277ddd70833cba51ffc99) |
+| `0xa2116eB15F9DA56190d5Ac7f500101558b707968` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x36edcca9f36808bd2a0f64e2d0ff49493965aac677bb2ffe8551048e34068c92) |
+| `0xa34d20d8981fb47eae9354AdA5bA0C12C967c4f8` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc739f1eb16004252b18c99b3ece086c45fc7bd505aada478faf991c52210ba2f) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | Neymar Jr. '20 PSA 8.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x6ece9ccce173faf1a87dea6ba6692639c42a1ca32f75b124bacfe63fafb88930) |
+| `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8de8d81b38b3d96b81dc9c00a78ba6160a58cc6257340d7d730e982ad8d790d3) |
+| `0xa7C420Ba706fcCfdf6bc48994aC1706220Aa65bF` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c60f3369f0048368648b6673fea23ddc2b07364ca8b1d3e13a04b82d40c1469) |
+| `0xa9e3CFAe8ffECAE464c6731DaDBDfEF1c7064d35` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfda38a25c148677770f4ba52269a283cdb0181516126917db4d4e0a1627d8567) |
+| `0xA9f149EFf54362B3A5A251c0617d236bd9dF7a49` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5ae6ccf5028ffe3fcf4f9440e9e568e3d46ab6aab183ed191f30b68cf3ad39c8) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbecdbc3017adf55a2889a754b7db1f654ee66837d41ba37375a4421aa1c23a0) |
+| `0xad36a28756C0E5e51fA29F5BCDd5C1506a82F1fD` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdd03ccb0aacdabb40d8e20140f8825fa3152a9658363e2a2e99b41e8319d76cb) |
+| `0xAF6fb7F274fE18411c84765696d14359972d5Ef8` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8e660d7677fb0e88c1b1b925fe29296cb42313b454a3bd539c48407959646e66) |
+| `0xAFEd2eDAb6C160119cA3C46E55aEf2Ce37f87200` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2c3ccaf2db99abed11030931f0aad4b2daab5b3571858a12c14961139cb4080) |
+| `0xB15137f5799494b7592288E2980d758cb288a027` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbabd90633224105a0c53fb2bd299833d902671452ba6ddd8c7d1a31e380abfb9) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x013dac03ddb7a049da11ee593e6f3b2e3643fab6f4dfb3d67cd6405f57767507) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x519b53174dab144f7ce35de9245443907cb385153f44862ccae4ead75aef69c4) |
+| `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2e0f71eb5f3742d975e840ff628680e8ff30df319c8650c98b41afa25dcf656) |
+| `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5230208a87398049bf0ce840d31a8c4071c192aeae64a67dbebe78fe660dfa8f) |
+| `0xbA750FBd8686beEBC663ba6eD2C79a50DFa10eD2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf85f6df24aae9403de184119b1ec6ad07887a3a694a5c8de8907228da6f7d89) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd380af861d7909e9ed4ed41694ac24903621233018783d24654136b37adb447a) |
+| `0xBAFC617BE702371a1EC9dbf5d688013fbBB91fB3` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x871fe28004128422e06f1f281337cef13726dad0f92859a95d64b8f5bdc931cc) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a1b1dc8ed15e46aad4254e9bf37947fdc1975146c866738e1b1f9405cad5ad8) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbac6cc245be5269b796a3636ee14266134a9f1b5641553c233aaf21d0742cc29) |
+| `0xC05020D499ae910a5374745C5f5863D8fb06BC29` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0bb1a069145f84a7c644264a97bf95ce298900d24824dbec90d93cd7f352907) |
+| `0xc18A7Cb00Ed88862e17E72a9A80d9661aDb305be` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29606e34a51178a8db767c40c04578079991710a99d2be8f2fe5a0bc614ebbbd) |
+| `0xC1A6d9dA4b18a95A925c8d29C729460EA5A2735A` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4108235e2d4424fba66e804e12eb2584f424ff0728cda0f4ca930b7d008d604) |
+| `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94acbd91e860fb6cf824588134265f33ca5c69bf6b587e0900677a59210be252) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x392507b40915647b935d11fe2c934e008375101128b1b872820afd9424f1c13c) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc3e7c48f8d0d1ac13fefd7475451bcd41df676237df15f5828040125123f421) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91807cfdcda5fc407caedd38c2617eaef59cff794873d399e105034802eab71f) |
+| `0xC69Af549860A2F268d02DEE15c77994ddb12D730` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bce53746e7d08dbe3032b68d37730cb171bf2b419fb240a014487df9d95e4cd) |
+| `0xCB744B66c1CD4cb936047413E6C5e73a2b4A7daF` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76d646f80df397e5f333a76391ca5d9c12898c4b1aee416487c5c9076a6e6382) |
+| `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45ab71b900c082bf5754697aa9a3c7130913cb518da2191d4e5760935abe32d1) |
+| `0xd00424e1eF271E2ee03a6EDAC40Dc1660F49b773` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x824d69c37c37e653ac3b100b80fad1e42ff2e8a0324d725e5608ff9d5992dc00) |
+| `0xd27c5Ab7433FBE1bF40e779916889E5288d8DF42` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31f3b813fe8760602985d905ba9bb42b163c651f221e7c386dca219bc5f99bae) |
+| `0xd2a15c0f728f3a0856c3373F5C3BB83c7ce02Bd9` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdc156f2689f01b53a639736daaff8e6aaace0eefc53adbbadc5e33d474176ee) |
+| `0xd33e35425B6B3BA7622b6427F4A656d32736239D` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0d63b6a638dfc247d51048d36a6014d42529f384a0eec5ae414a31ccad53932) |
+| `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ad08884f278848cb7f45394865ed9359f15ec01a6e53f738e693d4e9b40d414) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ce322db78007bf3fe8f9ad2be464804bdd2875be25f370292844fca64be566c) |
+| `0xD71737E6b2Ff409450b760a75923A837c983F824` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7203b6bcbdea580c9a418320c7956a5c8b34c0a0c5dd8c5e1aa11aca3b0e54c) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa425d4d04c8cfac0d707ca6c12a5ade67a5ac06eb0aadcd99bbcefa1dea7e7d8) |
+| `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcb1b81e11e760216cb306e17f3b30f35520bf86b5248203e7b07770281e6035) |
+| `0xd797000176455865AfF99245399D375e266a788E` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x981b70511dfd018f26122158ba564dae9bab0e63461c13687ededeb2b5c77a51) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb67411cb96dc3fb5ad84a55023f023b351f820ca8ac8d66ad76bb0c7aeb487b0) |
+| `0xDb07B2a0eFFa11C8d2f522764442382735717323` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x067c9df0ba3bc611dc7a90eaa11aac07699f20b2340a09e70230f0d6cc74be68) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58a4a51f3995547c8d5f44ae42fe9a4a35044a37dd42ba719b04e015a354b775) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | Neymar Jr. '20 PSA 8.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9d3e41b4747a94e13d2cbc476d0f8fc5c3948a949af589dc4947194e6ac0c300) |
+| `0xDcEFdd20961eF29c58a442F5D2f6c38DC8FeD228` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x776f6d2a4e8ed8e216e03e314042a13311a0760b737977c0cb03d7b76a354b32) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x187baab43038c75212df7ae1249e9d25c73a008f5de1ab564ec22914e5f38e94) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | Neymar Jr. '20 PSA 8.5 | 11 | [Polygonscan](https://polygonscan.com/tx/0x2acb142e9c6034500ab36b22bbe27558200155f785db32b4144cdd23b0d6a478) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x553e3956c4d5ef8d03a055b786392537b67a70126a531e45f6c9fd312f3afaf3) |
+| `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6d4cbc578e2fb9fb1f9a16fef26467c58b1ea7e5154c79f88e292c15ce1d2ec7) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x197a76bca5919bd0d8d045c9021841f0d791c6fa2988771e65f4dc09f669258a) |
+| `0xe592E0111a280C48efB5f5476cf286d1459F6FeD` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7574badc6428918d6b935cf508be1679945ca9043d444f65d3b8ab95890ca117) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x62785ef8afe2e4767d8db4fe4fce4f13751cc8aec7820b621d4a1278c74e7b82) |
+| `0xE8277DAD7230da4ED02901E7c9300e504F999529` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9993954839db6a6655a15df287d6450ab951105ab162ec8cd110687783565b7d) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf156a0c34fcc5b9c2dbdb789009217706f17414d8db73154c303e7e4b555ce81) |
+| `0xED1F1Fdb51e040B9d3f0A9e2E1CfF52a8d0D4e3B` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1929e0995da4a0ebed33466e0e2a4984d8ed5d0ae1d4e0a12b3c5b13b97ff847) |
+| `0xEe1C603234D0cdb94e3C6631B2f10A697b8077f9` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6430492d42c707841ae47fb2c85d0aa9d96d163b81584f058cfb57d1d873df74) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27ec3b7be50ac59a959a5ca1f7e47ecc980b82286b5a1ac20762ffd47c15becf) |
+| `0xefc90B2ECB812214CA0E90172AA942CeE5b7cee5` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2bf9db5151ea034b5428c2c56b339029f5014d4318d2bfc9f1c9dd1b62fd3754) |
+| `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x91bd450f3b4ba21e47920352aff937611f14e38be9dbfe1e29cc730a6dd0a35e) |
+| `0xF19aB47171D33b83dD28ba3e9e98778a92b19149` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1a359b6c72a806de768177c5e1a2970d4e0dfa9781f8b00f076353e969375d3) |
+| `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd72c080ad911e462c844047e18b3857f81d74e8339470c53a6cd64cc6b8872c2) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x666a9f438509897c6e79fe6947e66475dfaacd237a4afce7f850148bfb00dfad) |
+| `0xF863a56a46547d0d700E32028984Ee6091A90fEA` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8915bf94e5f0fbbde4a8d0ab278a147816ef774af6f8a79ec576c4848dd39eb) |
+| `0xfaB829C88CBe5Aa62EafD06f6cac8280037977da` | Neymar Jr. '20 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1cdc1e5d6bd4a5d0341974dc7fdded1a645bc1f05f0dfc017b4a51da1a012aa4) |
+| `0xfC996654aB3e3Fcaa9E86cC10B621D6Bcb2D299f` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1747db1d4e66eee35dfbe90ad481468f74016d0300de47350014162f91472ced) |
+| `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2d426a18e7761c8bfcd2d5e95889e3f98eff5910c6590a150e1f37915dc3b59d) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd859290bd0bd173d1ac1d97c7454684acf4364a5653b981745daf5edc2828344) |
+| `0xFEC1a799BFFBF824F95d9eE4DdDbe27558A3a2c4` | Neymar Jr. '20 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcc74175a9242f0f753a82119a8d4309f61e07134d9e81f6d03c80d2295f2f087) |

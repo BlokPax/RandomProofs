@@ -7,15 +7,16 @@
 | **Started** | November 15, 2021 5:00 PM EST |
 | **Completed** | November 15, 2021 5:12 PM EST |
 | **Tokens remaining before round** | 30,720 |
-| **➡️ Per Asset** | 1,024 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
 | **Tokens remaining after round** | 15,360 |
-| **➡️ Per Asset** | 512 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
 | | |
 | **Asset** | L. James &#039;12 PSA 10 |
 | **Internal ID** | 276 |
-| **On-chain ID** | 89 |
+| **On-chain ID** | N/A |
 | **Image** | <img src="https://tcdn.blokpax.com/94d9199b-dc50-4571-92fe-2f0a6779439a/dc27401f05ddf164964034eeda8c71bb15d9f6e38c614de6c8993cfd7d06e3fa.jpg" height="200" alt="L. James &#039;12 PSA 10" /> |
 
+## Ledger
 
 | 💀 | # | Owner |
 | --- | --- | --- |
@@ -1043,3 +1044,156 @@
 | 💀 | `1021` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
 |  | `1022` | `0x5d009D92587361DC3a9974798448A80006627b60` |
 | 💀 | `1023` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa73b04007c7b8ed62f75ef62a152f9027c0a24e62a305dae4b5b0d1bb5997821) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b52bb75393b5f8bf2234bbaccbd0e3af22e6461381e4cff9cd79bf95ec9e7d7) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ebe74806afebe2ca66f9a26be1f63d5d75776dff690b0ce08c57a42d2b040ab) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0aa645dfe4891887156abdd06918c7c6231dc2fcf0cb26cb81a46d985bf8ce5b) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf697aa67424da8066be49089548c69e4a114aea36721e3633caa4ef8851cec9c) |
+| `0x069aEeF8f04229321fD22d9F81e6A54E959E5A98` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc965c03d975f74867f0e3f52490d9c96d8587a2c7a57989bee7ae3b1597e7890) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0489d66eef2700a771e61c5c48c7e7b2074607beaf1e570ac54695a8f658583) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd06a66ad3a0ebdb2a2078d6bb97cf9b42efe9b8ca113cace1a6e9d62e38b40c5) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a9430334ad5dfa889d6d1bd42cea7adf0be64e8b81264ac0b9c412016c3a753) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | L. James '12 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xb8e90ef91e826b24c0826a4bacefb27bfca6e1e5ce44ba13a3eeff2bd452643d) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe67c9652f92cb526776cfcbfe1d48c518ec20be68edf0dc5da0be19c425375ed) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xfbb8eb52c4dccf90ae9a70f1f94c49c474b999726f2a18e8811b840227331072) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x58a5c9942dd2b0ca29cd5a9a1a456fc84acc56254ea23688d7895263a9ea8557) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | L. James '12 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xa0bca83467936f43cd48ddcda2b6df2fbb7bfc5477140d17ce298565d23dfa21) |
+| `0x1c0adf1f864339D8a5055472F0693cC3Ac04A5b3` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5f50a44654d43c3cb05bd48a4a837b213c10bf5cb456993f1ff28fb524ff22a) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc065f3f77c310d719ca56a1aba31466201531b307e7b4faac017ae38e1c8065a) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e8166a24394aee4c8f34724e741b251465b4a2f8ba0b2b50987098ef68e8ec2) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | L. James '12 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xf4b8071858fe019ce116645e33a97eb5900a92f8d7268a83180ff610ca674124) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8d7f34e7b3444b78ddd1577f4ffa0715be711fed41bc6871a711f91a9c6d252) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5473ec89115a13e8d05577fdbd3242b5ea935cfa2cc683ebcde1f2816e5a31a6) |
+| `0x20BB9231090c013e2bE9373371d2c889c90172cc` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc67ac290ac18da2dc508fb41ee63a8cd0794170077dca95e1e456c80b9de730) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | L. James '12 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x25a09d43aa390fcdd59adee75a64822d5f10bffad3e0257ccd52516ba3b7ac15) |
+| `0x266a6Bd9Bd30ADa69D2ed4CB4460d5821E5327d2` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a45a57fa2b529bbc51f700b6929d4f1bc403c5d88dfe19bc439bc4012d93429) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa29e77ce4f5e4cad4e4ac799d9e42fa057c3f8fb6aff04e56fc141f9a061fea1) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5cfc0ddaab0c087f5afa625f51eb468cdf08b70f6467a147b9450f0a7183e7ba) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5bf5a6108aa0012cb7f76e74519b509f8c0628b71775a4f221284722caf45402) |
+| `0x2b7285685DC42813505F04B9577cC5293b098932` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30d92524795b79f7178a1c08b14c26c5b5a2ce50872462dd3e37e0b8d21f787e) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63db74b37c52610b9fd7a9140db89880bc58857f3eb19cdf41d67e461e71690c) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | L. James '12 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0x9c7bf80ecaa0a6eb5f02a9750eed31c085aa1da06297b1ce4cb53d5229171a61) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1e4a37680bd59a97dabcd56b20ffa3799a9aca1f2c2d201d321c15a2a59851f) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xabc57b4a2c7668ada1aa3b1a792aa2d6082b5182c0b0de5d23593a760d7420c9) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f7764d7b0756a93b4a33852ca481c4014f5bb75d3fc811bca52ddd888cda47f) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x994d0fd39e2ac489c59180d11a75ecf3f082170f0bdc48f0ed43ae801c31af3c) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8dc9d464c48b79d0fba38cf0c2519ee3cdcf8460565a7dcad5dc991de0e55652) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x00d0e69dbe079695141083f86dd860ba6f73bb7f1aa3c1669bd7df4198e89b0f) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14b5d29646263119bdeddaea1a6231f07faf4318ec2ac8c3090cef9b33488d65) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58a5b2e0c6b9acbaafd0599a936509c9571ca17afc337c6db053a8f854851030) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc87ac0f7ff23c4d49fc8088f6aae10d55ac6f0aa29574878115cadba21f4610) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a48e581ee9e0fac0e37b1f1bd0881b5cd92b960fb8291a65d9165600a90e6c7) |
+| `0x4740Be29884cfBe2f4408Ed4b461a301229170d0` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08d3be9c3cd378bf3e5aa1a9fb7f0ea744f73bf4cd35f00c219d492ab9a39200) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | L. James '12 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0x2536af3cf15a2ca2a93bad0a42405bb0f82a938fbda5646d5f715a4b8ac5ea10) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc14d15ecc1ad231016954b49bd708e38957bec384ca0b8f7cc761ddd6f1bd98) |
+| `0x4Bd24132bdaB3161c5AaEB79d6cfB119C741F1D8` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf5d09828985d3155141f1ad77387b05dd986dcaafc59e814603c57964f497b78) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe113d4d14d75a8ec01c2f8a0bc86ef7f9727932b1c2f3ac821a7515a4af79cef) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5ee1c6ded397a500931d7e26e2b04c328c4330ec65be15772b2c4872c7aa2ac) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x187e0411d2d0a6af25d1affcbe1bfe1e18aceb7cf478a576207c51933230f452) |
+| `0x4F697931464587B5F2089ca1C9622eD43155c1d4` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xfd73f3541a33ef74bdaa0d6f35456a1564e1b9ac944a0aab6e960dbee4a2e3f4) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5ebc7f7f14caf3f89f66cd111616f59d091c8d0d2b76e71f872d4691048e3f50) |
+| `0x52eF87847Ba7ae3829D49eB96E6b589BEb134490` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a920f19cc127ffea8ef4fb5b989de401fe63cbbba7cb621913f109df5d40d2f) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5aaa0681486e37fe4549066de1a4d5340483cf712410327fe72d5df10e4781e) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xab88fac24dc7ac4cef9f5a471160d908141d531fdf0bfeec169ed5027ce60314) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b46114f3cfb8761b6f0571f1ed83a5a2f6d0b2e5a78a7ac5a95b37f2a7e07b2) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x69212e77a6e0023ed8449cbd899c0f29b718790677c508c50e60acb444c90c63) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | L. James '12 PSA 10 | 17 | [Polygonscan](https://polygonscan.com/tx/0xe7434f4d629c93ac3025dd26958d82bedbef6dc389bc22447cedfcd1be8152eb) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0cb61ae55037bf73a6ec9e86d2589b8dd4adf8beb78b811b66d45596909e5ea) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x869b601a58e0fe38f967601c9194993f70aad68d330a12450426afb88cffe427) |
+| `0x5D49BffF56574bdB98237A20aAe281AB69D5Af48` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bd5709dac96fbd7098e63ac004c085359f194416bec13aee1c17f5d2c74fc94) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe9b12a27d90425994fb28f250569d35d5de11092e45898e014803342a30251f8) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x95c6c6a2ba2f1cb08303a719f08d00a9fb54c8e55b34ea728681b865b540db33) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a6a2242e684c2866819a43ceb14233e3c6666b7d63824cfec232ddfecfcf44c) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90d561f0ad93206c274d1abce86d713192882d34f66a8590190fbd3df4e0b226) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x05c93295c919867bc7e79e3a5385d91c8d150dbe783a07e25d2d3b837bb9103f) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | L. James '12 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0x93ac3ab2be51e5aed2151a21bacad79072dc551dd3cbf833c49b4ac54751c509) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5bf01876328e75911ac5b5d4d7990778f4359480ef2849ab7570b3816434f83a) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | L. James '12 PSA 10 | 28 | [Polygonscan](https://polygonscan.com/tx/0xf9c15635728e96e44f0ada4373839814cb21ab8e9807f8f1a1bd0e9c75a8a652) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1810258bd7b4b986fff88599fca2b0fa02e5ace8b3716661ab107d0b6c4018d9) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd31f0bad369add3a3e7e31f0309cfacdf16fbd2e4e6f87b3e7d99dbaf95cb9d0) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64bb2a8c6df2a95cc1ad85eedee67d228ead91be5e09a4029f771cf402b980f0) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cd10b788e2be40b59df8ccb6d33b5f776982091aa539d9f6de24e8be1e0cb3c) |
+| `0x6C0bE077612411A9fCeA77EA4B0E9956fAAcAcB8` | L. James '12 PSA 10 | 73 | [Polygonscan](https://polygonscan.com/tx/0x412578209398aa81b5555506498aea63849863d60c1705bfb206c1d041aa09fc) |
+| `0x6C6F3aaF00Aca2FAE0575eF011b836E27D58C57b` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb61e8f609f52fc65244995ac2bf9bcc43401e8a7e6279be44da2b8bc1245d8e) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | L. James '12 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe461c9ea99752000ca7d0c8a996ddded96c4fbff611e4190e12034597c80023f) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6137cb1d4febe859ab38ef255bdcb9dff0b76259ee96558089d38fb3b5f94094) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | L. James '12 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x711ec99c23c85396074bc5753b2814881cadfdd04b2e3c8518cba754408b15ce) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x846871b7963af53e413701e3b50860e8da15514fcd2f7679ce88d85fbc7301b0) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9cc47692acc327aaefaf3fba8e49e65346480c001754f2fecca971220269d03) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | L. James '12 PSA 10 | 17 | [Polygonscan](https://polygonscan.com/tx/0xa1d1d561f8c268c1f6b31e5bdcac3e26dbe8599304c2c90db85ed20a4e7940f8) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb530caa04bdacc867f32e296b0ad9c90e86804a5a133f9681e5d4616b8052337) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaa49d0385eb095330de95f9a53632299a5657020232148919b3839d66834438b) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | L. James '12 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xd3f07f7b29e3c17361a5933d6775cd242229fca77770f06f18df2f36fbeaddb0) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5b711e9e2285be3aca548d3892aa24f216119b9806fd1bdfc98011f2d1beace0) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | L. James '12 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0x021181acd61a28403de48457e6d318087acb124b4aa74858e613c3ca7b06a482) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x268437ffe737df93a0e9c7c142ecc5010f4910cdbd8d1b112ccc9fa02657f530) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | L. James '12 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0x9f2709cb12e53bb44220d75c315ed96b4bb7fe0c919164bef30e4df45c669e99) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8db82f74d1880eabe249bf5c80c245d8a255a1c82e21c1999a4a12135d5f22eb) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x376ffa48222cafc5913c4c4d2999e131f63abe57f28f8972b8df8da5cf5d14a7) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50727f632178bacfc68730a83a324470e57af347ce4593a3ef1cee835f194fc1) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x93bbefdaffdd834bf6a616a8891658be00942770c82c5a0111dae183dd9bdd44) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6a30779a63a6c78cde1c6ff0def2d80ca0d6c8dc28a45079011addad71acac4) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dced87f0ace8ceb4b3bc59cf841b8f8becfd2399624e1f8f448a240fec5fa8e) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x5798efbcc3fae0e05ab3c2f651b5f9f2b4e80ef57181915e2f8dce63107cc671) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdf82d863c3ba9d4898cf2e42562104537390cc2d1e400558b1b2397f0769e2b0) |
+| `0x93579278f379D2CCf20E3Ff02132C5adf0696665` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3375b01edbaddf0618ca4857a11ca460cad2a7ecc05e679e4df13fa8a0ece407) |
+| `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8f27702d01ed0f531aea22dfce6e32a6d2546c8fea079701d3db50a008e808ae) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | L. James '12 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x7aa9dce6e017229b4a32dd715b830d6dae6231da6c4432faddd8326b0b7c1e22) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe52e61cc7629e97e035ae5e888caceb57dad577005d35541c8e4b9f13866d6b9) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbe92e292ba3f50eea981dd23e03cada2c0a2f46a49369c074575fe609d60c5e9) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x28a458861d57fb07b8d20401c6e74ee229c89216fe416d13234858b580ca3bd1) |
+| `0x9Af85A1B79e85e8CF48B3e44543EB048a37b6D90` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd05569a31176fdd49ba9a1c3475a088c4e91c7f6d8f19e4d0762c6442ef2eed9) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eee137f88c5d4e0abb1afe203f442e1dc75b7c804e80feec816e06aeb3a0f0b) |
+| `0xA5aeF44AD878ceB789C9cD77B3D1dAE984a5DC9F` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86dce96a7f735d40dd5963c32177145cd62833292f7aea14f7119271bdd9d0c1) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x85f75f6c541aebba029ba52148beccc97b6af8fd92068f756de1830bf10103ea) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x366cac6ade91b7a2c0b622c7e2d9d302d8fa216ca04994c55dbabcb484dfea74) |
+| `0xaec0ecCD8365f4136ef581B8EE70a06F6b952C4A` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecdde90eca8c715f726ec95bb6ac258e005a0afe32d1b2491be6ef3c7d4ef257) |
+| `0xAf4Ac2F4c6787e81dB915415EBa3425B39fdf163` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe82100fd35f001f92304ec542844113e110fd21e017fac6c5411df91983d23f) |
+| `0xB7Ef5fb53Dc42839270a94Ca569536a7C7E7EDDe` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f796493c47783cc70fc1768151f5c8bf5838dad7b6e127b7ac06e725223e290) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1a7130fb00d5b9ce069532d6932cad557c76d10cd960d2a64cee6ee50cb28735) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x31526c67cf539410eef4ad8a82596f09057353d90b6c8291cbc51e7fb3546fc5) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e1fae5cb4f3a839d59c15d78bcd6247803d725f8c3c3cca0ab1e8110589a2c7) |
+| `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4dc66c36ea3ee01c066bbe463f4387864d6f1993c5544c5cd6fa252f10d8cfd1) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef75be4c85a6831561ff0d580b36c4ca45e1359e763b6ea7a7cd426783163328) |
+| `0xbF5434118630208825eed8E3B5E009d721aAf39C` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85de7718d09ed7ad43dcaeff06e4fa6e6fcf278a380ae2122709c3c9f82de25e) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47d114b1cbe4160f54f6118af7bc5133ab079094b62256fceb3a67ddc5317bcf) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6b32b539d0ce792a0f23c69b6555e4629318cac3724c35cd5f290b72a0b1286d) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9208cea61c17bd3fd90087a907463fae945fad500e49e18571e4a79c09f36f59) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7a87fbb1d2873cde2123728e915d423ee414ec2d79895c69787ff5a9851851c5) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x565ec9007889a1ef6fbf01a13321634fafd927379d2d72ba44e68cc4e2995292) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1e0f79e118b042bbaba9c4225e7ef03d66995407a538a374dde483f4f299f904) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd54938acda7aed63f4c9fa2965387b733bf749d7b3588bb1c7101e5e1c6f796b) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa649985a15dd4723ea1e684cc6e4bed328252847175c66b49cace323285baa33) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe7a4acba0bebf57e5cdbb7faf20da6f653b4260cb9550589375dd2b961961f21) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91e7a3049ef4053dc7e8ed769930ec81840c59f434af6679eb85fd30aae35820) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1857272cf5aabc9c0c3aae656e76fcb85c5a130e98aada435d6e7077a481aee5) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b30ddcbb3a2b230ff9a23dd8205633baeb4de220de7376b06432a383b5e4504) |
+| `0xd32b9f3e83A789697644Cdf360695d09Fd30f3d7` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x917a868c1d335cb446fa262d1b937a94dc917f7463e7f616e4ab85291ff9dd4c) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbe02f53b0c28ef4e90caa623abde9dfc667b475751cee8525696248f190fc93b) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | L. James '12 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x75e58318c4de01cf4cbba568e3f7728b7040bb5b1a37b6f5d692f957603cb596) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7fe2896507b414958cf9abae80edd24f49254cfb448ba1c5e53a84313d68bc41) |
+| `0xD892Ad014Eb3D643A5179954532aBC22D63F9539` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x61c0b1dc0704324d9a053645e4ad8960516298375f1d41fc9f2d9f0e3b7969e0) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1b03dd7a18d22ecf2bd3c0e50dc79f39aa36c62f12ec6d1a81bbf22ad9b62a67) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb0a1d3471474c829590a42489cc3cb76321847ebe348ad2355a518d6459895bc) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | L. James '12 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x54efdc3458265771f138331a609d5bf41b2e3bde001330bcc4e0bcb715a017f9) |
+| `0xe0541a8394E6716f6a28F18Ac75845092FC38077` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9539a940bb4788afa2e2b883120bc0873116b1fcb023a5c1044786a7ae859cac) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x83f62ed0f122007cb6eea70ff258d54233ad385938e3e0274df343bbd57accdd) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0987e0f83d713da7f2ae146c482ad0341418a1cdc203949859c07fb84797089d) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | L. James '12 PSA 10 | 16 | [Polygonscan](https://polygonscan.com/tx/0x898b0cb226395ecb9d24d33be3e93907deee850d284bed74511d9bd7c66ccd05) |
+| `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` | L. James '12 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x85da76973c3f7949934fcc672af8015b7fed874a835f902d5d1b6fdb345a4fde) |
+| `0xE57F7c6Bd56d835D10250B689B7e7307E08f4aF4` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08f7945123d0d320f96bb5d3d04b45ec31b5051f073408ee499e9089e1aed2a1) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6270afbbb6702291e3bb57684e7a37deaa211a41ee59fa52079d02ce0050d02a) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | L. James '12 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf92fdabac15e70bced423c1dd50b0ae35a9542b93acb81f835723685398df566) |
+| `0xe8A8cb3e243B06073b8398214887b87b303d7b85` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fbdca85fd19bf8cd00e10c18b3949e7780edb3bda6441b426257e7880a105ef) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | L. James '12 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x43267b4c48842e51cbc83a791328a1c55d42823628cac3bc486e6f3a2a3adb4e) |
+| `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xeaeaa4da23388a8d8457511094afc00674d97235193d603ae14f854332f1b2a8) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x059e8a7e978df3bdd23b8841c872cd51d65276ed22350959f03b9831c17e47a8) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | L. James '12 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2442c6f5d42363616cc2688328319d72ada2486718b5843eb4258fca4f1692ee) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | L. James '12 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e9acf118bd128053c505428fbfca9b11a418785e67f2ea9b6f4e22d0ce1a848) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | L. James '12 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6585f54ed83b9e4a3f579b96359c394a7e8fd208c8a671f8f83ce2020f724e5a) |

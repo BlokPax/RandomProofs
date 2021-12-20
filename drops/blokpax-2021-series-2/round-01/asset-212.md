@@ -1,0 +1,2753 @@
+# [Elimination Proof](./readme.md) / K. Griffey Jr. &#039;89 PSA 10
+
+|||
+|---|---|
+| **Drop** | Blokpax 2021 Series 2 |
+| **Round** | 1 |
+| **Started** | October 6, 2021 5:00 PM EDT |
+| **Completed** | October 6, 2021 10:02 PM EDT |
+| **Tokens remaining before round** | 122,880 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 2,048 |
+| **Tokens remaining after round** | 61,440 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
+| | |
+| **Asset** | K. Griffey Jr. &#039;89 PSA 10 |
+| **Internal ID** | 212 |
+| **On-chain ID** | N/A |
+| **Image** | <img src="https://tcdn.blokpax.com/9484ebfa-6369-4b3a-aab3-fc70d697ecbc/41ce6e27bb1c6399a9d6019ff3d4d5e62e00f7f42a763d4c6aa1ea68f2201e07.jpg" height="200" alt="K. Griffey Jr. &#039;89 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | @mwbndx |
+| 💀 | `1` | @Schnapp985 |
+|  | `2` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `3` | `0x2D5CB0cE32539b04FD24b317D631708Ecce61d94` |
+|  | `4` | @Zner1506 |
+| 💀 | `5` | @Aaron |
+|  | `6` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `7` | @Def524 |
+|  | `8` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `9` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `10` | `0x2091400569791bA828077C5b0c937086B99cf6f4` |
+| 💀 | `11` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+|  | `12` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `13` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+|  | `14` | @Spacer |
+| 💀 | `15` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `16` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `17` | @Aaron |
+|  | `18` | @Figanator |
+| 💀 | `19` | @Jrocksdoesit |
+|  | `20` | `0xeF94e8eA3fBE7b1a6aA6b61b89aDEEB8fbd0b40F` |
+| 💀 | `21` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+|  | `22` | @Vondrase |
+| 💀 | `23` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `24` | @Raiderbaiter |
+| 💀 | `25` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `26` | @Mookies |
+| 💀 | `27` | @Topherbishop |
+|  | `28` | @Deeznizzles |
+| 💀 | `29` | @Aknabe |
+|  | `30` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `31` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `32` | `0x55AE0678ED7EE96FEb2cD3B5499D61338a0C5D36` |
+| 💀 | `33` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `34` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+| 💀 | `35` | @chrisb143 |
+|  | `36` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `37` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+|  | `38` | `0x04D79601229A81B7dB0625Ba0D25a6b81891992A` |
+| 💀 | `39` | `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` |
+|  | `40` | @4Jsports |
+| 💀 | `41` | @Aaron |
+|  | `42` | @kaliboy95062 |
+| 💀 | `43` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `44` | `0x20Bb1aF413c0b8adc26297255448eB1F782895FE` |
+| 💀 | `45` | @Merlin2772 |
+|  | `46` | @Hypekicks |
+| 💀 | `47` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `48` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `49` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `50` | @dallasg77 |
+| 💀 | `51` | @Bloxkpaxpete |
+|  | `52` | @Danwestcott31 |
+| 💀 | `53` | @big5sports |
+|  | `54` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `55` | `0xCe3730B98C60A594466A0E6Cb057162C36954024` |
+|  | `56` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `57` | @Ripaholics |
+|  | `58` | `0xb61De30e8B3F4021ec47F2EB7fb333b6bA4622f1` |
+| 💀 | `59` | @Bmorebirdsfan |
+|  | `60` | @predator129 |
+| 💀 | `61` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `62` | @jfalk1986 |
+| 💀 | `63` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `64` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `65` | `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` |
+|  | `66` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `67` | `0x4291156c56f09d7E30B33CEA68BF745dFd475C24` |
+|  | `68` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `69` | @snbrandt26 |
+|  | `70` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `71` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `72` | @jpantoya50 |
+| 💀 | `73` | @Mjcollector |
+|  | `74` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `75` | @Secron7 |
+|  | `76` | @Kev8112 |
+| 💀 | `77` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `78` | @cj5769415 |
+| 💀 | `79` | @Bru765 |
+|  | `80` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `81` | `0x5541F03371077197ad0657607dE5aD9EC60424a7` |
+|  | `82` | @TheHitman324 |
+| 💀 | `83` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `84` | @theyknowvee |
+| 💀 | `85` | `0xf9aEbc0Fb3D6511a151510905fB10694Bb9AFcdf` |
+|  | `86` | @Cdpbdm16 |
+| 💀 | `87` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `88` | @lrsportscards |
+| 💀 | `89` | @Blakesta101 |
+|  | `90` | `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` |
+| 💀 | `91` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+|  | `92` | @BinaryLaserTaste |
+| 💀 | `93` | @Dsksports |
+|  | `94` | @lrsportscards |
+| 💀 | `95` | `0x897667336cD8715349558ef6e45cF5f1d4Fe9ac8` |
+|  | `96` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `97` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `98` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `99` | `0xF9b034CB5eDa72728e098dA4Dd16ec218a6d52B6` |
+|  | `100` | @Terrybwhite |
+| 💀 | `101` | @youhwanchun |
+|  | `102` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+| 💀 | `103` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `104` | `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` |
+| 💀 | `105` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `106` | @OniesGuy |
+| 💀 | `107` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+|  | `108` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `109` | @CrzPrz119 |
+|  | `110` | @Aaron |
+| 💀 | `111` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `112` | @admin |
+| 💀 | `113` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `114` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `115` | @Dsilvanic |
+|  | `116` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `117` | @Kujayhawk20659 |
+|  | `118` | `0x4467C8B8B69Fb8Df92feef3dD4DD852bBaE2Eb5E` |
+| 💀 | `119` | `0x9e167891F115D6380f94Ef84002b78faA268CC51` |
+|  | `120` | @Etherman76 |
+| 💀 | `121` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `122` | @axlrose3000 |
+| 💀 | `123` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `124` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `125` | @bmcmeas |
+|  | `126` | `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` |
+| 💀 | `127` | @Iusbsoccer3 |
+|  | `128` | @tsinfosectest |
+| 💀 | `129` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `130` | @Big3sixty |
+| 💀 | `131` | @ItalianCardMan |
+|  | `132` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `133` | @Lionsde |
+|  | `134` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `135` | `0xa7C420Ba706fcCfdf6bc48994aC1706220Aa65bF` |
+|  | `136` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `137` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+|  | `138` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `139` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `140` | @Collectorshobby |
+| 💀 | `141` | @Grumpy |
+|  | `142` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `143` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `144` | `0x041cA4dE0EfD5fE97849f3c672056066c49a9064` |
+| 💀 | `145` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `146` | @Waldo |
+| 💀 | `147` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+|  | `148` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `149` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+|  | `150` | @Ddf12345677789 |
+| 💀 | `151` | `0x4Fd1F393753FF2a8c4B995595bd92503180a1C0b` |
+|  | `152` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `153` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `154` | `0x7004373D672BBE6Fa6550f66A431E78584a69D27` |
+| 💀 | `155` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `156` | @Bmerkman |
+| 💀 | `157` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `158` | @CynicdarK |
+| 💀 | `159` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `160` | `0xbD8951b5a7e8dF3eeA7AE8AFeA62ee82a450591f` |
+| 💀 | `161` | `0x1d38493De105e1f2c01989A18CD8b1c78214157a` |
+|  | `162` | @DeathDealerB |
+| 💀 | `163` | `0x808297A821fBe498F94bBc533AcAD7D787E2b370` |
+|  | `164` | `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` |
+| 💀 | `165` | @Jusrich07 |
+|  | `166` | @likely_awful |
+| 💀 | `167` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `168` | @Mwalters7422 |
+| 💀 | `169` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `170` | @Chris3588 |
+| 💀 | `171` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `172` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `173` | @KingoftheNorth22 |
+|  | `174` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `175` | @BillyB777 |
+|  | `176` | @gatornation65 |
+| 💀 | `177` | @Tonyknows |
+|  | `178` | `0xDA78cE8b55b582124fb7b1C8Bcb56B4944354ad8` |
+| 💀 | `179` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `180` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `181` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `182` | @Beljoria |
+| 💀 | `183` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `184` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `185` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `186` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `187` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `188` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `189` | @Omendez |
+|  | `190` | @Batottu |
+| 💀 | `191` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `192` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `193` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `194` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `195` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `196` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+| 💀 | `197` | @Doso |
+|  | `198` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `199` | @CTaylor1231 |
+|  | `200` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `201` | `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` |
+|  | `202` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+| 💀 | `203` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+|  | `204` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `205` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `206` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `207` | `0x1744345d7e2c5E24aaDDa50A17C04461e2b8aBA9` |
+|  | `208` | @Mhaynes |
+| 💀 | `209` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `210` | @Kamstezzog |
+| 💀 | `211` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `212` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+| 💀 | `213` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `214` | `0x563C946Ad597BBE777A480D69e770D537F9C69De` |
+| 💀 | `215` | `0x852177fBe3c67DF48b875E655687983fF9a4244B` |
+|  | `216` | `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` |
+| 💀 | `217` | @MothmanProphecies |
+|  | `218` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `219` | `0x0127314bA95e469714f0e84aAaEDb825de36E7f3` |
+|  | `220` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `221` | @CrzPrz119 |
+|  | `222` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `223` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `224` | `0xAa18D0aF36Bf2b867680279Ae4a0180bf9cDc55D` |
+| 💀 | `225` | @Rth2021 |
+|  | `226` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `227` | @Caliking |
+|  | `228` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `229` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `230` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `231` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+|  | `232` | `0x9e00D9e1723992d68a753BF756Ed531aDCAf2283` |
+| 💀 | `233` | `0xFBD3D28FE29aCA58219feA7a6fb7dbc7DE0826Aa` |
+|  | `234` | `0x9e167891F115D6380f94Ef84002b78faA268CC51` |
+| 💀 | `235` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `236` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `237` | @dasullivan |
+|  | `238` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `239` | @TommyGoodvibes |
+|  | `240` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `241` | @Ironwulf2002 |
+|  | `242` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `243` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `244` | `0x78F800D6EafDa376ab299e0B3C02Fd90411C0f22` |
+| 💀 | `245` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+|  | `246` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+| 💀 | `247` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `248` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `249` | @Tjnickels |
+|  | `250` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `251` | @kcraig |
+|  | `252` | @Bbrumback3777 |
+| 💀 | `253` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `254` | @jenkins |
+| 💀 | `255` | @Case |
+|  | `256` | @cha5m |
+| 💀 | `257` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `258` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+| 💀 | `259` | @Algarcia3 |
+|  | `260` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `261` | @SDYote |
+|  | `262` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `263` | @Damon4higher |
+|  | `264` | @Steelrunna |
+| 💀 | `265` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+|  | `266` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `267` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `268` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `269` | @Assbunny77 |
+|  | `270` | @Mickjaguar89 |
+| 💀 | `271` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `272` | @Jmshahan |
+| 💀 | `273` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+|  | `274` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `275` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `276` | @EVANG |
+| 💀 | `277` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+|  | `278` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `279` | @ParisKennedy |
+|  | `280` | `0x25A8aE899F7Ecb7FE56AB133a9cc7856E21006AF` |
+| 💀 | `281` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `282` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `283` | @MrSpiffy |
+|  | `284` | @Richcard |
+| 💀 | `285` | @axspointe |
+|  | `286` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `287` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `288` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `289` | `0x923bee7591659E11eabbd8e4e6D13346a6806Acc` |
+|  | `290` | `0xcf6134C7C63809abA972F545A0edF9022902C2fe` |
+| 💀 | `291` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `292` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `293` | @Smiley |
+|  | `294` | @Bmurphy78 |
+| 💀 | `295` | `0x75f5239E80526936257dA2eba1dF069bFD32f524` |
+|  | `296` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `297` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `298` | @jtfrog62 |
+| 💀 | `299` | `0x8701C3C5ac64C76c91bEB2849D22AA12Aff2A0D1` |
+|  | `300` | @dagotkin |
+| 💀 | `301` | @bowhunt717 |
+|  | `302` | `0x179A6dF4d98b1f8CBe694bc9011BEfF934DB7515` |
+| 💀 | `303` | `0x05E10cCF5B9b649B79B350d7e8e41dA558226364` |
+|  | `304` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `305` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+|  | `306` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `307` | @Shawman82 |
+|  | `308` | `0x86447a4Bc539b84427D5FB91aa56570022EA1c86` |
+| 💀 | `309` | @Flybyniteee |
+|  | `310` | @bigd78203 |
+| 💀 | `311` | `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` |
+|  | `312` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `313` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `314` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `315` | @muzikstylezz |
+|  | `316` | `0xD8B1883527a0e755876018be98b68bB37bc367b1` |
+| 💀 | `317` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+|  | `318` | @CurlThanos |
+| 💀 | `319` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `320` | @Collect401 |
+| 💀 | `321` | `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` |
+|  | `322` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `323` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `324` | @Ryancap |
+| 💀 | `325` | @manger8882 |
+|  | `326` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `327` | @JOHNNYC909 |
+|  | `328` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `329` | @Pooch_Philly |
+|  | `330` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `331` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `332` | `0x9ad49fa28e63EF2566330883FEA603A9732323E0` |
+| 💀 | `333` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `334` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `335` | @Steebo6977 |
+|  | `336` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `337` | @Stuart67 |
+|  | `338` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `339` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `340` | @bbycarrots |
+| 💀 | `341` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `342` | @jtgowen77 |
+| 💀 | `343` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `344` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `345` | @Ang_Ambrose |
+|  | `346` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+| 💀 | `347` | @Jackskull |
+|  | `348` | @Crash19667 |
+| 💀 | `349` | `0x9ad49fa28e63EF2566330883FEA603A9732323E0` |
+|  | `350` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `351` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `352` | @AS2123 |
+| 💀 | `353` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `354` | `0xda299f5B26219eE1790ff1c182e047afde4B8216` |
+| 💀 | `355` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `356` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `357` | @Jim_McDuffy |
+|  | `358` | `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` |
+| 💀 | `359` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `360` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `361` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `362` | @Dson28Tb |
+| 💀 | `363` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `364` | @hostasiLy |
+| 💀 | `365` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `366` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `367` | @Johnnybravo559 |
+|  | `368` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `369` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+|  | `370` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `371` | @Jsuch02 |
+|  | `372` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `373` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `374` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `375` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `376` | @AZSuncard |
+| 💀 | `377` | @saltlakesportscards |
+|  | `378` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `379` | @Teamvincent |
+|  | `380` | @Joshmodel |
+| 💀 | `381` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `382` | @_M_E_E_S_E_E_K_S_ |
+| 💀 | `383` | `0x051E1605061897c8BffFf79506894320A1AeFE39` |
+|  | `384` | `0x17B31a13650257F4050071fff10de860606B43Af` |
+| 💀 | `385` | @daytonreece120 |
+|  | `386` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `387` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `388` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `389` | @kbfunk |
+|  | `390` | @MangoCoca |
+| 💀 | `391` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `392` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `393` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `394` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `395` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `396` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+| 💀 | `397` | @Edward6970 |
+|  | `398` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `399` | @lrsportscards |
+|  | `400` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+| 💀 | `401` | @Nickmiranda |
+|  | `402` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `403` | @Nickydons |
+|  | `404` | @ThunderMuscle |
+| 💀 | `405` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+|  | `406` | @Rocko203211 |
+| 💀 | `407` | `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` |
+|  | `408` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `409` | @jtizzlefizzle |
+|  | `410` | @Krazyvr6 |
+| 💀 | `411` | @Kguilford |
+|  | `412` | @WISTASOX |
+| 💀 | `413` | `0x524537bb47C13aDbcf59aB23DF47DcB639462d05` |
+|  | `414` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+| 💀 | `415` | `0x47aDfdea2fD6e685b12b6CC58D04016309035902` |
+|  | `416` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+| 💀 | `417` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `418` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+| 💀 | `419` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `420` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `421` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `422` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+| 💀 | `423` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `424` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `425` | @Zner1506 |
+|  | `426` | @LeonardoDiCaprio |
+| 💀 | `427` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `428` | @Leek16 |
+| 💀 | `429` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+|  | `430` | `0xd208C86B84a23683425FA334d815fdB5D8a1E90a` |
+| 💀 | `431` | @Rosshaines1 |
+|  | `432` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `433` | `0xBdE1b08071421AAB08BbB3133097A589891c25F5` |
+|  | `434` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `435` | `0x27f2Ca0F68A854dD23c2AEfB3EC8315806e1ced4` |
+|  | `436` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `437` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `438` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `439` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `440` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `441` | @Btsbreaks |
+|  | `442` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `443` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
+|  | `444` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `445` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `446` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `447` | @Sara |
+|  | `448` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `449` | `0x6F9d30A08527C47C686A5cC80FB9A64752CE1D57` |
+|  | `450` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `451` | @Viney78 |
+|  | `452` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `453` | @Jackets30 |
+|  | `454` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `455` | `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` |
+|  | `456` | `0xC92A13FA4C59f5349B4d45E8667547D8419F0906` |
+| 💀 | `457` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `458` | `0x68DE09e9f58A2c328EF4400107E348C94701A3bd` |
+| 💀 | `459` | @Swiftly_19 |
+|  | `460` | @Blessed |
+| 💀 | `461` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `462` | @Richcard |
+| 💀 | `463` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `464` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `465` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `466` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+| 💀 | `467` | @bmcmeas |
+|  | `468` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `469` | `0x03373Cb0cE8b25fAa5aB9D0A5e35A032E20D588e` |
+|  | `470` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `471` | @DefectDotVC |
+|  | `472` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `473` | @Jchesnel1982 |
+|  | `474` | @niravbakshi1 |
+| 💀 | `475` | @Sharky73 |
+|  | `476` | `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` |
+| 💀 | `477` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `478` | @Jrichhhhhhhy |
+| 💀 | `479` | @BACONCHAMELE2004 |
+|  | `480` | @FStancliff |
+| 💀 | `481` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `482` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `483` | @Jlaw |
+|  | `484` | @SmoothMoreno |
+| 💀 | `485` | @cadeclark |
+|  | `486` | @Lizard6453 |
+| 💀 | `487` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `488` | `0x18dECEd516288f8996DB7504774626f722c707df` |
+| 💀 | `489` | @aquavista96 |
+|  | `490` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `491` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `492` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `493` | `0x7793379066C19e11055e53Fe88467724E85d570f` |
+|  | `494` | @Dukefan1979 |
+| 💀 | `495` | @Bighud |
+|  | `496` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `497` | @Gators420 |
+|  | `498` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `499` | `0x1F4eE51B9597d645c4d18D93960a36aF58e2644e` |
+|  | `500` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `501` | `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` |
+|  | `502` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `503` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `504` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `505` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `506` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `507` | `0xf96dc64EC48565cB65F03884a84f1B5Ce8e89F06` |
+|  | `508` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `509` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `510` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `511` | @SportzRruss |
+|  | `512` | @Zner1506 |
+| 💀 | `513` | @daqlydigital |
+|  | `514` | @JamesCheetah13 |
+| 💀 | `515` | @MothmanProphecies |
+|  | `516` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `517` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `518` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `519` | `0x852177fBe3c67DF48b875E655687983fF9a4244B` |
+|  | `520` | `0x28f1236dB87D23256D0fC2A6015fF74c4cF304C7` |
+| 💀 | `521` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `522` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `523` | @Aaron |
+|  | `524` | @Ldapdadon |
+| 💀 | `525` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `526` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `527` | `0x1aAC00C4E71069450BCfe8f6D4f3E58BCD49AC77` |
+|  | `528` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `529` | @Metalheadmedic |
+|  | `530` | `0x8D4De3e0529310474B264Ec80153215987230665` |
+| 💀 | `531` | `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` |
+|  | `532` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `533` | @Aaron |
+|  | `534` | @DylanRau |
+| 💀 | `535` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `536` | @Kingsway28 |
+| 💀 | `537` | @inchargeoflife |
+|  | `538` | `0xf4bA34efE233E0b9Aa7B81C9E3A55fDfF6B64765` |
+| 💀 | `539` | @Ldub034 |
+|  | `540` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `541` | @Twistednative |
+|  | `542` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `543` | @Kharm |
+|  | `544` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `545` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `546` | @cooles032 |
+| 💀 | `547` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+|  | `548` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `549` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `550` | @azel |
+| 💀 | `551` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+|  | `552` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `553` | `0x882db77070905c3E67A7ba3f3335ef850bfE228e` |
+|  | `554` | @DSess430 |
+| 💀 | `555` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `556` | @RockAwsom |
+| 💀 | `557` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `558` | @Topnotch |
+| 💀 | `559` | @PrinceD |
+|  | `560` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `561` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `562` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `563` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `564` | `0xB8eF72B047f6f6c3574880E5124fceF8Dd0384c6` |
+| 💀 | `565` | `0xcDE595B7D5d7CD6F9a9aE97F2280d4D432fd0620` |
+|  | `566` | @kcraig |
+| 💀 | `567` | @ibedlam |
+|  | `568` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `569` | `0xC68E56BC4F4936C4105efb1976B5147013A77fd9` |
+|  | `570` | @dandonahue25 |
+| 💀 | `571` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+|  | `572` | @bachness |
+| 💀 | `573` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `574` | @Mike187 |
+| 💀 | `575` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `576` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+| 💀 | `577` | @Badia0816 |
+|  | `578` | @Raylaigo |
+| 💀 | `579` | @Bigggdipper |
+|  | `580` | @Aabreu |
+| 💀 | `581` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `582` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `583` | @Aaron |
+|  | `584` | @adesul |
+| 💀 | `585` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `586` | @Clercky7 |
+| 💀 | `587` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `588` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `589` | `0x3813f83CEEc937Be23f21BAF1141e91214e82cf0` |
+|  | `590` | @Vahe1993 |
+| 💀 | `591` | @Aaron |
+|  | `592` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `593` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `594` | `0x0F408385cE6D40908d3Bb6B9AC32a696965b0CaC` |
+| 💀 | `595` | @streetprep |
+|  | `596` | `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` |
+| 💀 | `597` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `598` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `599` | `0x49978bF906220c7EceBF5550FE0d5bFB6ca51c10` |
+|  | `600` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `601` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `602` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `603` | @Bruinbill8 |
+|  | `604` | `0x921677409947250EcBBD0F500c6401fcE670b076` |
+| 💀 | `605` | `0xdF63357b882229550E275EF4a053623BfD68a40B` |
+|  | `606` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `607` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+|  | `608` | `0xc402Fc6D9aa01f4Fb13568F13582aE837ed9ec78` |
+| 💀 | `609` | @Killerkev68 |
+|  | `610` | `0x49e7A70f622bfAa30145815b3fd7DF7faac747eB` |
+| 💀 | `611` | @nolesfever |
+|  | `612` | @pfosset |
+| 💀 | `613` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+|  | `614` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `615` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+|  | `616` | @Dudetubez |
+| 💀 | `617` | @SWAPHYPE |
+|  | `618` | `0x9Ca22fB8F77DD6B77E33FdD8d765611117D86100` |
+| 💀 | `619` | @B-rad7878 |
+|  | `620` | `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` |
+| 💀 | `621` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `622` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+| 💀 | `623` | @Raylaigo |
+|  | `624` | @rocketridley18 |
+| 💀 | `625` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `626` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `627` | @bowlerewski8 |
+|  | `628` | @TheFinalist825 |
+| 💀 | `629` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `630` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `631` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+|  | `632` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `633` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `634` | @ItsMookie |
+| 💀 | `635` | @Joevzw32 |
+|  | `636` | @Aaron |
+| 💀 | `637` | `0x5F4178D3179A03683f079Ad4302fE28012259ca4` |
+|  | `638` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `639` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `640` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `641` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `642` | `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` |
+| 💀 | `643` | @Joeyyythreewise |
+|  | `644` | `0x720A1A01A88B7EdDe30388F1Dc091B680b7f9F25` |
+| 💀 | `645` | `0xb5B6289bf8e88BC054Cb59aB005c37bcf658b31B` |
+|  | `646` | `0x691574D073F52957850cfd7369cC1271407eE426` |
+| 💀 | `647` | @BlockchainHOF |
+|  | `648` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `649` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+|  | `650` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `651` | @darnoldi |
+|  | `652` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `653` | @Witschen |
+|  | `654` | @Jmatth22 |
+| 💀 | `655` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `656` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `657` | @Cowboybatman |
+|  | `658` | `0xaC154D25DCc08fEdF1491f5e47FB49e1838F8fEf` |
+| 💀 | `659` | `0xD8B1883527a0e755876018be98b68bB37bc367b1` |
+|  | `660` | `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` |
+| 💀 | `661` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `662` | @Awol75 |
+| 💀 | `663` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `664` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `665` | @axcilla |
+|  | `666` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `667` | @SugarNutzz |
+|  | `668` | @SBRSuperstar225 |
+| 💀 | `669` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `670` | `0xbD136957B463528b9Fb4bB68E28D38B71E9a1445` |
+| 💀 | `671` | @ChrisNTx |
+|  | `672` | @Bighud |
+| 💀 | `673` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `674` | @kiddryan9 |
+| 💀 | `675` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `676` | @Brockkbragg |
+| 💀 | `677` | `0xCFfE7dc38e91b2970166fb6E9C0ef490f5173fEb` |
+|  | `678` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `679` | @Sportslounge |
+|  | `680` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `681` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `682` | `0x068cF2dA0eb5110D885840Ee0B7252C0a10cb825` |
+| 💀 | `683` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `684` | `0x919d36A5E485915269834C5453b736F3DB108d6f` |
+| 💀 | `685` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `686` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `687` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `688` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `689` | @Littlemancan |
+|  | `690` | @walter7 |
+| 💀 | `691` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `692` | @Willydubs609 |
+| 💀 | `693` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `694` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+| 💀 | `695` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `696` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `697` | @Bigrobc2 |
+|  | `698` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `699` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `700` | @Grizztastic |
+| 💀 | `701` | `0x155eB8e61Ae0069936022B363aAF9dce05028823` |
+|  | `702` | `0x22da5990a70968CB29605C0607B3b3bB40a37d57` |
+| 💀 | `703` | @wguidera |
+|  | `704` | @Okendozbizz |
+| 💀 | `705` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `706` | @Jpietz |
+| 💀 | `707` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `708` | `0xC61Ecc09913Be00F9872Ef5Ae9F411dadb90519C` |
+| 💀 | `709` | @Vahe1993 |
+|  | `710` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `711` | `0x8BA4790B31EaC3761c7bDF057b1e3a6DB4740cc8` |
+|  | `712` | @test1452 |
+| 💀 | `713` | `0x5d009D92587361DC3a9974798448A80006627b60` |
+|  | `714` | `0x003f2f65b6a864d55d39A0f62769c47a976Bc971` |
+| 💀 | `715` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `716` | @Schmeety |
+| 💀 | `717` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `718` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `719` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `720` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+| 💀 | `721` | @BigJoeIV |
+|  | `722` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `723` | @Captrpm1980 |
+|  | `724` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `725` | `0xA4fC3f76317e3807E15a7d4c904472cAb09f9096` |
+|  | `726` | @Saerandy |
+| 💀 | `727` | @Migjug |
+|  | `728` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `729` | @Collectorshobby |
+|  | `730` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `731` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `732` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+| 💀 | `733` | @Neehansolo |
+|  | `734` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `735` | @Tdee210 |
+|  | `736` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `737` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `738` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `739` | @Moemoney |
+|  | `740` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `741` | @Kadewes8915 |
+|  | `742` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `743` | `0x1b47574007Db582A335127D0E5e5e0b979A426a4` |
+|  | `744` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `745` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+|  | `746` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+| 💀 | `747` | @Jblacktkeus |
+|  | `748` | `0x852177fBe3c67DF48b875E655687983fF9a4244B` |
+| 💀 | `749` | `0x68cb66baECA7a5F305fbF4ed24aA1b48ab4ac508` |
+|  | `750` | `0xdA00452d1B3aA053Ac53A965AABFFd1f5A2F7D80` |
+| 💀 | `751` | `0x691161Df776E6B66b2F35083B31b13Ff40DD4036` |
+|  | `752` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `753` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `754` | @Crucialdnb |
+| 💀 | `755` | @Lkoloen1984 |
+|  | `756` | `0x058047A4C899c5E7c2bE3D08AD198C5A4161248a` |
+| 💀 | `757` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+|  | `758` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `759` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `760` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `761` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `762` | `0x9bC8eC5f825bdA8Ac49ee304ad598c93AA586DD4` |
+| 💀 | `763` | @Gmrturtle |
+|  | `764` | @Lilmarctaylor36 |
+| 💀 | `765` | @Mauge04 |
+|  | `766` | @GmaCrypt |
+| 💀 | `767` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `768` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+| 💀 | `769` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `770` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `771` | @Wellsd30 |
+|  | `772` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+| 💀 | `773` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `774` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `775` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+|  | `776` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `777` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `778` | @waccoon |
+| 💀 | `779` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `780` | @Keithmane5000 |
+| 💀 | `781` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `782` | `0x0127314bA95e469714f0e84aAaEDb825de36E7f3` |
+| 💀 | `783` | `0x1A7101aF308617cBF40bd1A34336F4c6Ce7914cc` |
+|  | `784` | @Sktr2013 |
+| 💀 | `785` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+|  | `786` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `787` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `788` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `789` | @Westuh |
+|  | `790` | @acewhips |
+| 💀 | `791` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+|  | `792` | @Twistedtony951 |
+| 💀 | `793` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `794` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `795` | @Richcard |
+|  | `796` | @KazooKrush |
+| 💀 | `797` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `798` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `799` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+|  | `800` | @Anthony19 |
+| 💀 | `801` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `802` | `0xeA9952Da4C95e6A2f0Bcdc96533ef65E27554C21` |
+| 💀 | `803` | @Katie |
+|  | `804` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `805` | @Devg34 |
+|  | `806` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `807` | @Schick |
+|  | `808` | `0x59768b06b66f105Bc0424816704E216a15780fcd` |
+| 💀 | `809` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `810` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `811` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+|  | `812` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `813` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `814` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `815` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `816` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `817` | @SDYote |
+|  | `818` | @MAXSLASHED1 |
+| 💀 | `819` | @TurfEaters |
+|  | `820` | @Nickmiranda |
+| 💀 | `821` | @NickMiranda51 |
+|  | `822` | `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` |
+| 💀 | `823` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `824` | @Nelsond99 |
+| 💀 | `825` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+|  | `826` | @Sdiddy73 |
+| 💀 | `827` | @JamesCheetah13 |
+|  | `828` | `0xA36a55006EAebE17fcEC4755b2Bd46D62AF8dc3C` |
+| 💀 | `829` | `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` |
+|  | `830` | `0xf5bEc7f9e95d95B12cB5093040a09A32F14dE9aD` |
+| 💀 | `831` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `832` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `833` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `834` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `835` | @Spyturtle1122 |
+|  | `836` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `837` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `838` | `0x2302498B4e395b2D3A328aaA0591A4193Bb1f929` |
+| 💀 | `839` | @Hopper1055 |
+|  | `840` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `841` | @FergieNFT |
+|  | `842` | @Rick815 |
+| 💀 | `843` | @mikeyd771 |
+|  | `844` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+| 💀 | `845` | @Toddzilla23 |
+|  | `846` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `847` | @Jvenable80 |
+|  | `848` | @Djay2424 |
+| 💀 | `849` | @MikesCardboard |
+|  | `850` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `851` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `852` | `0xd33e35425B6B3BA7622b6427F4A656d32736239D` |
+| 💀 | `853` | @Weux2451234 |
+|  | `854` | @Cgilley14 |
+| 💀 | `855` | @hodlzilla |
+|  | `856` | `0x6C3F672D8beEFC1d052D43326adee4C40580dFc5` |
+| 💀 | `857` | @Sportslounge |
+|  | `858` | `0x9e00D9e1723992d68a753BF756Ed531aDCAf2283` |
+| 💀 | `859` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `860` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `861` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `862` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `863` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `864` | `0xBF856A838D25C2C3d6764d5626544898D75457F0` |
+| 💀 | `865` | @Animal76 |
+|  | `866` | @Bigdawg1983 |
+| 💀 | `867` | @BMWALKER1789 |
+|  | `868` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `869` | @Djbambas |
+|  | `870` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `871` | @Hotsoup23 |
+|  | `872` | @Wolfdaddy |
+| 💀 | `873` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `874` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `875` | @BoJackson89 |
+|  | `876` | @Jmizzle224 |
+| 💀 | `877` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `878` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `879` | `0x49133557ABd97c3A8baB46FaBb9053073bDa35f5` |
+|  | `880` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+| 💀 | `881` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `882` | @Semi |
+| 💀 | `883` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `884` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `885` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `886` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+| 💀 | `887` | @Dubs45 |
+|  | `888` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `889` | @spendels |
+|  | `890` | `0x064C2725b6e3450d7B3AAD53230a34eB1342327a` |
+| 💀 | `891` | `0xA5B768CeDA1f19144646E84354A0F825b144BC00` |
+|  | `892` | @Lobos313 |
+| 💀 | `893` | @garrett1981 |
+|  | `894` | @Bigfish22 |
+| 💀 | `895` | **UNOWNED** |
+|  | `896` | @Reejecoap |
+| 💀 | `897` | @NyceGuy |
+|  | `898` | `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` |
+| 💀 | `899` | @blazesandstorm |
+|  | `900` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `901` | @Dallascardinvestors |
+|  | `902` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `903` | `0xC536A0faE10e441da39b85F93E67452881252723` |
+|  | `904` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `905` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `906` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `907` | `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` |
+|  | `908` | @Hankins19 |
+| 💀 | `909` | `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` |
+|  | `910` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `911` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `912` | `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` |
+| 💀 | `913` | @Googoli |
+|  | `914` | @Cheskie4 |
+| 💀 | `915` | `0x03f08e6ae103943B578A3645AE539e3F2804e15a` |
+|  | `916` | `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` |
+| 💀 | `917` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `918` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `919` | @Tonyknows |
+|  | `920` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+| 💀 | `921` | @Troublemaker |
+|  | `922` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `923` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `924` | `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` |
+| 💀 | `925` | @jCleve02 |
+|  | `926` | @DJTKmars11 |
+| 💀 | `927` | `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` |
+|  | `928` | @Tdubz207 |
+| 💀 | `929` | @Nasdoc1 |
+|  | `930` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `931` | @lrsportscards |
+|  | `932` | `0x0e76500BcBaF79eCFA711aA69bcC1661d66ee785` |
+| 💀 | `933` | @Darianmc64 |
+|  | `934` | @And51One |
+| 💀 | `935` | @Tacotime6969 |
+|  | `936` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `937` | @BBeastie77 |
+|  | `938` | @BoKnows |
+| 💀 | `939` | `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` |
+|  | `940` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `941` | @Gjorkels |
+|  | `942` | @Jeffroj76 |
+| 💀 | `943` | @sportsbets95 |
+|  | `944` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `945` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `946` | @Aaron |
+| 💀 | `947` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `948` | @MoshMann |
+| 💀 | `949` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `950` | @Elkdingo |
+| 💀 | `951` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+|  | `952` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+| 💀 | `953` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+|  | `954` | @Jcorallo1 |
+| 💀 | `955` | @DustinNorton |
+|  | `956` | `0xB8AD1b5807FCa2be190Bdbd1AcDA33Da55773a70` |
+| 💀 | `957` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+|  | `958` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+| 💀 | `959` | @LSDreamm |
+|  | `960` | @Joe66 |
+| 💀 | `961` | @Ryandicarlo |
+|  | `962` | `0x643E9cc376Db93360dF43022897C0F98Cdf0dFa2` |
+| 💀 | `963` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+|  | `964` | `0x3b94D702C3F338C98cbafb75d5c9BA7c4a011AE2` |
+| 💀 | `965` | @Jbrown1310 |
+|  | `966` | `0x74b118E3EEDaB2a95A13a9bA355E04e23B3effd8` |
+| 💀 | `967` | `0x2B5112B2FAEEBA3b49F72C1a7BE440E812939427` |
+|  | `968` | @detroitred |
+| 💀 | `969` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `970` | `0xa7C8eCA1A1173cbEDA054c132ceF152b01F6bdfE` |
+| 💀 | `971` | `0x86B1b02c43E1e35ef325BB0B1A79789eCfF0cE5B` |
+|  | `972` | @SpursFans50 |
+| 💀 | `973` | @Chublokpax |
+|  | `974` | `0x191B5f85D2EF50b1313507438539Ba93cF24Cada` |
+| 💀 | `975` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+|  | `976` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `977` | `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` |
+|  | `978` | @imax2 |
+| 💀 | `979` | @Fg512 |
+|  | `980` | @Devg34 |
+| 💀 | `981` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+|  | `982` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `983` | @Meghan |
+|  | `984` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `985` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `986` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `987` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `988` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+| 💀 | `989` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+|  | `990` | @HalfBro |
+| 💀 | `991` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `992` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `993` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `994` | `0xA77E21e2e6A36B6C5a331c69251066Cb533CBaaf` |
+| 💀 | `995` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `996` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `997` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `998` | `0xc18537ac0d72Da0056115232417da69097355831` |
+| 💀 | `999` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+|  | `1000` | @Havoctradingcards |
+| 💀 | `1001` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `1002` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+| 💀 | `1003` | `0x4Ee27340bd608835532E9eB8B09005C6A6802fc5` |
+|  | `1004` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+| 💀 | `1005` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1006` | @Wickedcityrips |
+| 💀 | `1007` | `0x7eBe58c21C473ad69746149ca531E7875B57AE72` |
+|  | `1008` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `1009` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1010` | @Shashumga24 |
+| 💀 | `1011` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `1012` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `1013` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1014` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1015` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+|  | `1016` | @Chidave75 |
+| 💀 | `1017` | @Rubska |
+|  | `1018` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+| 💀 | `1019` | @BigKat79 |
+|  | `1020` | @RidingTheMarket |
+| 💀 | `1021` | @JusBkoo |
+|  | `1022` | @NJCardSharks |
+| 💀 | `1023` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `1024` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1025` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1026` | @FullStop |
+| 💀 | `1027` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `1028` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1029` | `0xbF362063439a4ffb6629ee362789f0D317fcEDE1` |
+|  | `1030` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1031` | `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` |
+|  | `1032` | @Millhouse21 |
+| 💀 | `1033` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `1034` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `1035` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+|  | `1036` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1037` | @UnknownAce |
+|  | `1038` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `1039` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+|  | `1040` | `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` |
+| 💀 | `1041` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1042` | @TheMayor |
+| 💀 | `1043` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+|  | `1044` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `1045` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `1046` | @JJJ101415 |
+| 💀 | `1047` | `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` |
+|  | `1048` | @krainsports |
+| 💀 | `1049` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `1050` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `1051` | `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` |
+|  | `1052` | `0x7D87B67b34405d22A55868f619e09c505712005d` |
+| 💀 | `1053` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1054` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `1055` | `0x1770a189C0BD6089985fFec9258f498F5007E408` |
+|  | `1056` | @beesummers |
+| 💀 | `1057` | @Cheech480 |
+|  | `1058` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1059` | `0xe51c820bf454a7e208529874b7B38FBdc7de9D6D` |
+|  | `1060` | @Atmtech01 |
+| 💀 | `1061` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1062` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1063` | @Westin85 |
+|  | `1064` | @CoMoCollectibles |
+| 💀 | `1065` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `1066` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `1067` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+|  | `1068` | @Chappyjoker |
+| 💀 | `1069` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `1070` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `1071` | `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` |
+|  | `1072` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `1073` | @Jachild |
+|  | `1074` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1075` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `1076` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `1077` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1078` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `1079` | @Wikkidsinnz |
+|  | `1080` | `0xa77e3F2e16EBe9d6FE595353dF100E8d408FbFA3` |
+| 💀 | `1081` | @Dprice2413 |
+|  | `1082` | @cylesw24 |
+| 💀 | `1083` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1084` | @Schick |
+| 💀 | `1085` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `1086` | `0x998FE5f2737665181B957DB827C05F55392a28D2` |
+| 💀 | `1087` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1088` | `0x87B12BDEb178Bfc4c01a3ABdc6184040dA677992` |
+| 💀 | `1089` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `1090` | `0x71760dDfCb46e7d8113e5a0ab35Ac5c64A01Efb2` |
+| 💀 | `1091` | @Poppinfresh |
+|  | `1092` | `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` |
+| 💀 | `1093` | @Bigballer8500 |
+|  | `1094` | `0x7B7631d250da508FA1c4bDA09Cfe68E6aB01c719` |
+| 💀 | `1095` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1096` | @RoilPhlush |
+| 💀 | `1097` | @rdepalma83 |
+|  | `1098` | @manyhighways |
+| 💀 | `1099` | @DaOregonDuck |
+|  | `1100` | @lovebeingafather |
+| 💀 | `1101` | @Poonior17 |
+|  | `1102` | @Milou7890 |
+| 💀 | `1103` | @Perrydavid1985 |
+|  | `1104` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+| 💀 | `1105` | @Hankisthebest |
+|  | `1106` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1107` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1108` | @BreakingChris |
+| 💀 | `1109` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+|  | `1110` | @JohnyCav |
+| 💀 | `1111` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `1112` | @fred |
+| 💀 | `1113` | @Akrondreams41 |
+|  | `1114` | `0x7314633B4FB7441C04C5ad706ff1b7348eF5CEAb` |
+| 💀 | `1115` | `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` |
+|  | `1116` | `0xfdc3E22f377496f607fCB9d8186064d0E39900df` |
+| 💀 | `1117` | @Ichwk44 |
+|  | `1118` | @PeteyC |
+| 💀 | `1119` | @Amil4real |
+|  | `1120` | @matt_jones03 |
+| 💀 | `1121` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1122` | @Roofntopp4416 |
+| 💀 | `1123` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `1124` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `1125` | @Non-FungibleTravis |
+|  | `1126` | `0x226b1d2Cd64d305B2B5ceCB64c997db0D19BF67d` |
+| 💀 | `1127` | `0x282E91A17d51859C450a9bB5725D652284D02c90` |
+|  | `1128` | `0xE395ca7CF49aAd9D0C7f51Cd3243547f814217De` |
+| 💀 | `1129` | `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` |
+|  | `1130` | `0xC41E3F53aE3274a8b425E155d7f58e6Cf12Ce964` |
+| 💀 | `1131` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1132` | `0xe592E0111a280C48efB5f5476cf286d1459F6FeD` |
+| 💀 | `1133` | `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` |
+|  | `1134` | @mdevine911 |
+| 💀 | `1135` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `1136` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1137` | `0x456BFf38dDfc4373f89CDA3756e080111E7dC588` |
+|  | `1138` | @Yankeefan |
+| 💀 | `1139` | @Sportsj12 |
+|  | `1140` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+| 💀 | `1141` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+|  | `1142` | @jmy1333 |
+| 💀 | `1143` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1144` | @DizzyLizzy |
+| 💀 | `1145` | `0x4577d5c06FAB09d6c2f2c4e7Ea6BC389fAAddfCB` |
+|  | `1146` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+| 💀 | `1147` | @cryptopop24 |
+|  | `1148` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `1149` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+|  | `1150` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+| 💀 | `1151` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `1152` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `1153` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `1154` | @chernangelo |
+| 💀 | `1155` | `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` |
+|  | `1156` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `1157` | @Cundari150 |
+|  | `1158` | @Scottyp77 |
+| 💀 | `1159` | `0x7e8fD96450553cF3AF70B339889F784935fF4f87` |
+|  | `1160` | `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` |
+| 💀 | `1161` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1162` | @Coltcards12 |
+| 💀 | `1163` | @GForceCards |
+|  | `1164` | @Bshields750 |
+| 💀 | `1165` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1166` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `1167` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+|  | `1168` | @Cwar166 |
+| 💀 | `1169` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1170` | @MikeBacsik756 |
+| 💀 | `1171` | @Jagray6973 |
+|  | `1172` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1173` | @Doso |
+|  | `1174` | @Nebluvrocks |
+| 💀 | `1175` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `1176` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `1177` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+|  | `1178` | `0xfBAebda6b1927D36816daF8bD4bed54C1F8087Dc` |
+| 💀 | `1179` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+|  | `1180` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+| 💀 | `1181` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1182` | `0xE48fb5f4a98aFbD9D6599786954FFb1df90C3f9e` |
+| 💀 | `1183` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `1184` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `1185` | @Adamvec |
+|  | `1186` | @SDYote |
+| 💀 | `1187` | `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` |
+|  | `1188` | @TwentyPeace |
+| 💀 | `1189` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `1190` | `0x450429Aa896b4830a52A092d3563C26b615B8540` |
+| 💀 | `1191` | `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` |
+|  | `1192` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `1193` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `1194` | @thomassarou812 |
+| 💀 | `1195` | @Fliptake |
+|  | `1196` | @bigtimebreaks |
+| 💀 | `1197` | `0xE61C8809CEA0FFC3C0468B44eadE87Bb93688FC5` |
+|  | `1198` | @Ruishi |
+| 💀 | `1199` | @lrsportscards |
+|  | `1200` | @Bdanley |
+| 💀 | `1201` | @bneal123741 |
+|  | `1202` | @Cardtrader |
+| 💀 | `1203` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1204` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `1205` | @TheWinne50 |
+|  | `1206` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1207` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `1208` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `1209` | `0x791509eB0540225570baeC704d522051086d2991` |
+|  | `1210` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1211` | `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` |
+|  | `1212` | @RealYungCapo |
+| 💀 | `1213` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `1214` | @ginobili_fan |
+| 💀 | `1215` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `1216` | @Foobsie |
+| 💀 | `1217` | @Schnapp985 |
+|  | `1218` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1219` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+|  | `1220` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `1221` | @Hambiscuits72 |
+|  | `1222` | @ItsTime |
+| 💀 | `1223` | `0x630473Fa1ACd1D799AdDA3e0d5750192514a21dD` |
+|  | `1224` | @BLACKIRISH1129 |
+| 💀 | `1225` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+|  | `1226` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+| 💀 | `1227` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+|  | `1228` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1229` | @Rstraile |
+|  | `1230` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1231` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+|  | `1232` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1233` | @Aaron |
+|  | `1234` | `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` |
+| 💀 | `1235` | @A14U2NV |
+|  | `1236` | @Jasonherman1 |
+| 💀 | `1237` | @Acsimone |
+|  | `1238` | `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` |
+| 💀 | `1239` | @21izreal |
+|  | `1240` | `0xfFA1b35889D7fEe52DD8AEF415B3aDE38A1cC0A1` |
+| 💀 | `1241` | @HarlemShawn |
+|  | `1242` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1243` | @carsonsdavis |
+|  | `1244` | @Zner1506 |
+| 💀 | `1245` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `1246` | **UNOWNED** |
+| 💀 | `1247` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `1248` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1249` | @Squiggs17 |
+|  | `1250` | `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` |
+| 💀 | `1251` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+|  | `1252` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1253` | `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` |
+|  | `1254` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `1255` | `0xa16E540f3Fd7F9EDF0Fb706e791b1b584251dEE0` |
+|  | `1256` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+| 💀 | `1257` | @Dkjaheed |
+|  | `1258` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `1259` | @Amosmoses |
+|  | `1260` | `0x8451675BBb43B7a9eA9FC5436AD5fe6474222511` |
+| 💀 | `1261` | `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` |
+|  | `1262` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1263` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `1264` | @Beard_Boss |
+| 💀 | `1265` | `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` |
+|  | `1266` | @Illinois324 |
+| 💀 | `1267` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+|  | `1268` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1269` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `1270` | @Totalcarnage |
+| 💀 | `1271` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `1272` | @Roguereflexz |
+| 💀 | `1273` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1274` | @Minneskoldr |
+| 💀 | `1275` | `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` |
+|  | `1276` | @Pinchy11 |
+| 💀 | `1277` | `0xf726303f4DDB9AA982519249f4afeA74B5e106e0` |
+|  | `1278` | @Man-of-Leisure |
+| 💀 | `1279` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `1280` | `0x1F4eE51B9597d645c4d18D93960a36aF58e2644e` |
+| 💀 | `1281` | @Cuhcs13 |
+|  | `1282` | @Aaron |
+| 💀 | `1283` | @Chipper |
+|  | `1284` | @Bigluvins |
+| 💀 | `1285` | @jarouse1009 |
+|  | `1286` | @Dweissman37 |
+| 💀 | `1287` | @Dragonrose42 |
+|  | `1288` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `1289` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+|  | `1290` | `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` |
+| 💀 | `1291` | `0xb71fa246ACFe8e3228720Afa0ee5760d6d3A8Cf8` |
+|  | `1292` | `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` |
+| 💀 | `1293` | @rubble |
+|  | `1294` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `1295` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `1296` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `1297` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1298` | @Joshmcgeerpp |
+| 💀 | `1299` | @OddyNuff59 |
+|  | `1300` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `1301` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `1302` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1303` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `1304` | @Aaron |
+| 💀 | `1305` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `1306` | @TMHS92 |
+| 💀 | `1307` | @brayden195 |
+|  | `1308` | `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` |
+| 💀 | `1309` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `1310` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `1311` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1312` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1313` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `1314` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+| 💀 | `1315` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1316` | @KrazyKing |
+| 💀 | `1317` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `1318` | @Schnapp985 |
+| 💀 | `1319` | @Edge |
+|  | `1320` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `1321` | @garrus |
+|  | `1322` | @SpursFans50 |
+| 💀 | `1323` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `1324` | `0xb4E5A70053b086525aD46A10014586474200E897` |
+| 💀 | `1325` | `0xca81c99Af4088c278b7BbBB902b3500Fb1DaeF1b` |
+|  | `1326` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1327` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+|  | `1328` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+| 💀 | `1329` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1330` | @RockAwsom |
+| 💀 | `1331` | @B-rad7878 |
+|  | `1332` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+| 💀 | `1333` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+|  | `1334` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1335` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1336` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1337` | @ldrc |
+|  | `1338` | `0x7D87B67b34405d22A55868f619e09c505712005d` |
+| 💀 | `1339` | `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` |
+|  | `1340` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1341` | @Loustar |
+|  | `1342` | `0xDEbAbb95C63bE97Ea7fb2b1b821eA5f8F588dCB8` |
+| 💀 | `1343` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1344` | `0x7Cb9D02a7f3c6629Ca47bd890Bc5E9E9386Ec30d` |
+| 💀 | `1345` | `0xEe1C603234D0cdb94e3C6631B2f10A697b8077f9` |
+|  | `1346` | `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` |
+| 💀 | `1347` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+|  | `1348` | @Mcur089 |
+| 💀 | `1349` | `0xa89ac03643eb3d0Df7Ac9F0EA092c37f11505afD` |
+|  | `1350` | `0x8a2f4B38431a3653Fc15A12F43D04ac4411eAaDb` |
+| 💀 | `1351` | @Corycorp |
+|  | `1352` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1353` | @Whifert74 |
+|  | `1354` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `1355` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `1356` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `1357` | @LasVegasAthletics |
+|  | `1358` | `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` |
+| 💀 | `1359` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `1360` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1361` | @Dailydoseofdope |
+|  | `1362` | @Krb7310 |
+| 💀 | `1363` | `0xf2d433A950E9Cd4d4F0bcCB1c6b5d33686b1FA52` |
+|  | `1364` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1365` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `1366` | `0x9497A80f3c60EBB099Eb9d4687E6fDC440E00540` |
+| 💀 | `1367` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1368` | `0xBdE1b08071421AAB08BbB3133097A589891c25F5` |
+| 💀 | `1369` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+|  | `1370` | @Richcard |
+| 💀 | `1371` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+|  | `1372` | @Zo3yChowder |
+| 💀 | `1373` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `1374` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1375` | `0xa146e007BBF050Fc423155E1800749198aF2979c` |
+|  | `1376` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1377` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+|  | `1378` | `0x8451675BBb43B7a9eA9FC5436AD5fe6474222511` |
+| 💀 | `1379` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `1380` | @MarkTheSharkCathey82 |
+| 💀 | `1381` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `1382` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1383` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `1384` | @Merthman |
+| 💀 | `1385` | @aef42 |
+|  | `1386` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1387` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `1388` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1389` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1390` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `1391` | @Hungry316 |
+|  | `1392` | @DSCogar |
+| 💀 | `1393` | @E_MAN0 |
+|  | `1394` | @Nyurdrms |
+| 💀 | `1395` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1396` | @SpencerRudy |
+| 💀 | `1397` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1398` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+| 💀 | `1399` | `0x47E3850f999699F366d4FD4546eB4D122982dFA6` |
+|  | `1400` | @Hartj26 |
+| 💀 | `1401` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `1402` | @WISTASOX |
+| 💀 | `1403` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1404` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+| 💀 | `1405` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `1406` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `1407` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1408` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `1409` | `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` |
+|  | `1410` | @Divirzion |
+| 💀 | `1411` | `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` |
+|  | `1412` | @Danielbreeze20 |
+| 💀 | `1413` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `1414` | @Jchurchill24 |
+| 💀 | `1415` | @Rhut |
+|  | `1416` | `0x02481F182fd42b4AF66E083efCD8104072bC0C82` |
+| 💀 | `1417` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1418` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `1419` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1420` | @TwentyOneOuts |
+| 💀 | `1421` | @Tdermy1999 |
+|  | `1422` | @CasinoJoe |
+| 💀 | `1423` | `0xF2816E54CeE7C76dff25e62DdCcD3b13FECE4b66` |
+|  | `1424` | @Pauly911 |
+| 💀 | `1425` | @Thunderhawk |
+|  | `1426` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1427` | @Kingpin300 |
+|  | `1428` | `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` |
+| 💀 | `1429` | @Dahick275 |
+|  | `1430` | @Moku1 |
+| 💀 | `1431` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `1432` | @Twistednative |
+| 💀 | `1433` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `1434` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1435` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1436` | @Penguin_Ninja |
+| 💀 | `1437` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `1438` | @Kitch0506 |
+| 💀 | `1439` | @PeteNYC |
+|  | `1440` | `0x2e0Ce7baf9b2EAD50468330386450c71DB22aA84` |
+| 💀 | `1441` | `0x760647584486D3C80FC7c1deA83feE88e1e01ab1` |
+|  | `1442` | @mrittmer |
+| 💀 | `1443` | @Patman275 |
+|  | `1444` | @notoriousPIT |
+| 💀 | `1445` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+|  | `1446` | @ItalianCardMan |
+| 💀 | `1447` | @Scooter427 |
+|  | `1448` | `0x12d4BB6358aa65516a51435e872c49dee06EEd12` |
+| 💀 | `1449` | @Newfieldbest |
+|  | `1450` | `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` |
+| 💀 | `1451` | @K1469 |
+|  | `1452` | @jibonroy178 |
+| 💀 | `1453` | @Bear1229 |
+|  | `1454` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1455` | @lrsportscards |
+|  | `1456` | @fhazy |
+| 💀 | `1457` | @GoldSchoolCards |
+|  | `1458` | @Edk2226 |
+| 💀 | `1459` | @mdboydstun |
+|  | `1460` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+| 💀 | `1461` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `1462` | @B3collector |
+| 💀 | `1463` | @Codyb91 |
+|  | `1464` | @mhn8d1 |
+| 💀 | `1465` | `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` |
+|  | `1466` | @blacc_sage |
+| 💀 | `1467` | `0xd797000176455865AfF99245399D375e266a788E` |
+|  | `1468` | @ParmesanJon |
+| 💀 | `1469` | @Mrunique |
+|  | `1470` | @Pzsuave007 |
+| 💀 | `1471` | @Coachmac117 |
+|  | `1472` | `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` |
+| 💀 | `1473` | `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` |
+|  | `1474` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1475` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `1476` | @BobbyRicky777 |
+| 💀 | `1477` | `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` |
+|  | `1478` | @bear |
+| 💀 | `1479` | `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` |
+|  | `1480` | @Ganons |
+| 💀 | `1481` | @4K2J |
+|  | `1482` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `1483` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+|  | `1484` | `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` |
+| 💀 | `1485` | `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` |
+|  | `1486` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `1487` | @gmadman211 |
+|  | `1488` | @PeteT3 |
+| 💀 | `1489` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
+|  | `1490` | @Cristobaljr23 |
+| 💀 | `1491` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `1492` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `1493` | @BlockchainHOF |
+|  | `1494` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `1495` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `1496` | @Aaron |
+| 💀 | `1497` | @fhazy |
+|  | `1498` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `1499` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+|  | `1500` | @Aaron |
+| 💀 | `1501` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `1502` | @ParisKennedy |
+| 💀 | `1503` | @Richcard |
+|  | `1504` | @Tadams22 |
+| 💀 | `1505` | `0x13E61B25B7d6B96D2DBaE1502294EaF9Ad09AD4a` |
+|  | `1506` | **UNOWNED** |
+| 💀 | `1507` | @Matt12412 |
+|  | `1508` | `0x513c4370D18E5EafAD6dB65fF0DCaE2D61D3fBB7` |
+| 💀 | `1509` | @Onward |
+|  | `1510` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `1511` | @KobeCollector24 |
+|  | `1512` | @Blackwolf4771 |
+| 💀 | `1513` | @packslu |
+|  | `1514` | `0xe9Db56F21d48eFa9a7E68Df0BCb2c580e38cC76f` |
+| 💀 | `1515` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `1516` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `1517` | @RaySantana56 |
+|  | `1518` | @Hopperdropper |
+| 💀 | `1519` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1520` | @OniesGuy |
+| 💀 | `1521` | `0x12ABe3a888835d16E1cCe74bCBA124a04C41Cc80` |
+|  | `1522` | @shonsbud |
+| 💀 | `1523` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1524` | @cardcollector2 |
+| 💀 | `1525` | @JAM1105 |
+|  | `1526` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1527` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `1528` | @Drinkin1 |
+| 💀 | `1529` | @raven1 |
+|  | `1530` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1531` | `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` |
+|  | `1532` | @Chaynce13 |
+| 💀 | `1533` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+|  | `1534` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `1535` | `0xd78338421b0c53De416c3c2C207B5f340979A682` |
+|  | `1536` | @icoolgeek |
+| 💀 | `1537` | @ByUBeast |
+|  | `1538` | `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` |
+| 💀 | `1539` | `0x872dFE927c672506A7c6417B5E41dE4b12690DE9` |
+|  | `1540` | @Arube911 |
+| 💀 | `1541` | `0x1e637327010deb5D6D5dC052a883750B68F47d9E` |
+|  | `1542` | @Aaron |
+| 💀 | `1543` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1544` | @JDMD15 |
+| 💀 | `1545` | @Deathgamer |
+|  | `1546` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+| 💀 | `1547` | `0x71802bE76371A432127805398B35D8FF75970568` |
+|  | `1548` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `1549` | @Pacer |
+|  | `1550` | @PackCrazy |
+| 💀 | `1551` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+|  | `1552` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1553` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `1554` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `1555` | @Cmalo81 |
+|  | `1556` | @Toolfreak |
+| 💀 | `1557` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `1558` | `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` |
+| 💀 | `1559` | @wildcatfan43 |
+|  | `1560` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1561` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `1562` | `0xB140e6376a9e692c3afAFB0CDc979abac37ED156` |
+| 💀 | `1563` | `0x1b47574007Db582A335127D0E5e5e0b979A426a4` |
+|  | `1564` | `0xA36669716803edA6eDB0a370F20594D8acb70e0F` |
+| 💀 | `1565` | @Paranormalkicks |
+|  | `1566` | @Vahe1993 |
+| 💀 | `1567` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1568` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `1569` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+|  | `1570` | @Tbone31 |
+| 💀 | `1571` | @PupusaPapi |
+|  | `1572` | @Swissdaddy23 |
+| 💀 | `1573` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1574` | @Blademaker |
+| 💀 | `1575` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1576` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+| 💀 | `1577` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1578` | @Jgutierrez21 |
+| 💀 | `1579` | @Jrb92aggie |
+|  | `1580` | @Loustar |
+| 💀 | `1581` | `0x50c8A1112bDF49Cb58eC20A9c2dD39BA2A189da8` |
+|  | `1582` | @TheHitman324 |
+| 💀 | `1583` | @Sbialowas |
+|  | `1584` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `1585` | @Richcard |
+|  | `1586` | `0xCe6519D17D90eE051be8152601Ad0DD01E80F8A4` |
+| 💀 | `1587` | @Metzy0726 |
+|  | `1588` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `1589` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `1590` | @Aabreu |
+| 💀 | `1591` | @Elvis31tx |
+|  | `1592` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `1593` | @SugarNutzz |
+|  | `1594` | @Ron52372 |
+| 💀 | `1595` | @CbBright |
+|  | `1596` | @Bjamps09 |
+| 💀 | `1597` | @jmy1333 |
+|  | `1598` | @Keithskis |
+| 💀 | `1599` | `0x8b9a5a1c6179e35083d7B80cb094C6242D83336f` |
+|  | `1600` | `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` |
+| 💀 | `1601` | @walter7 |
+|  | `1602` | @Sobczakfam |
+| 💀 | `1603` | @JoeDiMaggio |
+|  | `1604` | `0xF40590fc8B477B861e98f227936CF5fa7428D8F6` |
+| 💀 | `1605` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+|  | `1606` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `1607` | @Lionking808 |
+|  | `1608` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `1609` | `0x2302498B4e395b2D3A328aaA0591A4193Bb1f929` |
+|  | `1610` | @ShaunDhaun |
+| 💀 | `1611` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1612` | @Jkempp80 |
+| 💀 | `1613` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1614` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1615` | @Bombartist33 |
+|  | `1616` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+| 💀 | `1617` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1618` | `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` |
+| 💀 | `1619` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `1620` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1621` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1622` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1623` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `1624` | @Pforlizz52 |
+| 💀 | `1625` | @Beavs559 |
+|  | `1626` | @wally4372 |
+| 💀 | `1627` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `1628` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1629` | @Rolzs |
+|  | `1630` | `0x64820c5381a70335e456069205e947720dE749Da` |
+| 💀 | `1631` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+|  | `1632` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+| 💀 | `1633` | `0xc73aD8f5830f25Ff8D9BdA5B4b312CA71AA8Bb81` |
+|  | `1634` | `0x7Fe49D4e65C1087A1cf129D1Ebd67EBbCb5F1EBd` |
+| 💀 | `1635` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1636` | `0x52fBF3649f098623A1075B24E5f4f53b39012733` |
+| 💀 | `1637` | @Tpc7769 |
+|  | `1638` | @ShiggyKasen |
+| 💀 | `1639` | `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` |
+|  | `1640` | @Sassyass |
+| 💀 | `1641` | @GodofnoFucks |
+|  | `1642` | `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` |
+| 💀 | `1643` | `0x55720123D8ED2079D99B183ef093B9d297be6048` |
+|  | `1644` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `1645` | @Jeffisgod |
+|  | `1646` | `0x041cA4dE0EfD5fE97849f3c672056066c49a9064` |
+| 💀 | `1647` | `0x03f08e6ae103943B578A3645AE539e3F2804e15a` |
+|  | `1648` | @Shweaty |
+| 💀 | `1649` | `0x63dcc90B5990475fa9bAcae5566ca6722C450930` |
+|  | `1650` | @Freedomfighterzack |
+| 💀 | `1651` | @Dakota9895 |
+|  | `1652` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `1653` | @jnoles5604 |
+|  | `1654` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1655` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `1656` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1657` | @Crazydude90 |
+|  | `1658` | @number2 |
+| 💀 | `1659` | @Bjamps09 |
+|  | `1660` | @Huntsdad |
+| 💀 | `1661` | @DuhWhite |
+|  | `1662` | @Aaron |
+| 💀 | `1663` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `1664` | @Millsmojo22 |
+| 💀 | `1665` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1666` | @Baby_seal_club |
+| 💀 | `1667` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `1668` | @Post95 |
+| 💀 | `1669` | @lrsportscards |
+|  | `1670` | `0x71802bE76371A432127805398B35D8FF75970568` |
+| 💀 | `1671` | @fatman3 |
+|  | `1672` | @MarkCards |
+| 💀 | `1673` | `0xD9Bbb319381F9686B69235b7BEff26A5f49107C3` |
+|  | `1674` | `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` |
+| 💀 | `1675` | @Heitter17 |
+|  | `1676` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `1677` | @Ironmaiden217 |
+|  | `1678` | @IMST1D |
+| 💀 | `1679` | @Ryamurph |
+|  | `1680` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1681` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1682` | @mdstewart92 |
+| 💀 | `1683` | `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` |
+|  | `1684` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1685` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1686` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `1687` | `0x4C5Eb364A55d719C2aBa3125c7c0145B1Bc249db` |
+|  | `1688` | `0xb5D83fB529F7BB715defAe9966fB2Cc9a62EC8bf` |
+| 💀 | `1689` | `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` |
+|  | `1690` | @ruckdaddy |
+| 💀 | `1691` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `1692` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `1693` | @Mattador |
+|  | `1694` | `0xba1cBA30129A2eBf378E541F8c6dde8E51F2fF06` |
+| 💀 | `1695` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1696` | @justbook7 |
+| 💀 | `1697` | @SCSterlingGroup |
+|  | `1698` | @Beastnwo |
+| 💀 | `1699` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `1700` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `1701` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1702` | @NoFlukeLuke13 |
+| 💀 | `1703` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `1704` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+| 💀 | `1705` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `1706` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1707` | @barackorama |
+|  | `1708` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+| 💀 | `1709` | `0x788c423f4a3B3aAa8E42261B3d1FB25A6F275ada` |
+|  | `1710` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+| 💀 | `1711` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+|  | `1712` | `0x53e78311Ddd6001d054B86ff4eA5E6480728C0C3` |
+| 💀 | `1713` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1714` | @Hotsoup23 |
+| 💀 | `1715` | `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` |
+|  | `1716` | `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` |
+| 💀 | `1717` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `1718` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `1719` | `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` |
+|  | `1720` | @Samson |
+| 💀 | `1721` | `0xe9C9A7D4De1d567E863565cE20e3FA72eD9bc7D0` |
+|  | `1722` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1723` | @Cf51 |
+|  | `1724` | `0xF4437518F3aC7aB3B2F5ecf4EBd035634F3C28ab` |
+| 💀 | `1725` | @Captntripps |
+|  | `1726` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `1727` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+|  | `1728` | @kjdee |
+| 💀 | `1729` | `0x4757495bb910885C0bCA734C173455666F98F32D` |
+|  | `1730` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1731` | @Skindoggz |
+|  | `1732` | @nandresen |
+| 💀 | `1733` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1734` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `1735` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `1736` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1737` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1738` | @Gandad75 |
+| 💀 | `1739` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+|  | `1740` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+| 💀 | `1741` | `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` |
+|  | `1742` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1743` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `1744` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1745` | `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` |
+|  | `1746` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1747` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1748` | @TRode |
+| 💀 | `1749` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `1750` | `0x2FbD6fA44C51A5Af5a557fE9bA32e4763DD8A7bD` |
+| 💀 | `1751` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `1752` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+| 💀 | `1753` | @Todo1111 |
+|  | `1754` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1755` | `0xFC502A09854F5685171F6766F22f92121999248F` |
+|  | `1756` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `1757` | `0xA36669716803edA6eDB0a370F20594D8acb70e0F` |
+|  | `1758` | @RareGarbage |
+| 💀 | `1759` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1760` | @phillg701 |
+| 💀 | `1761` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `1762` | @maja120 |
+| 💀 | `1763` | `0x02481F182fd42b4AF66E083efCD8104072bC0C82` |
+|  | `1764` | @Gurt999 |
+| 💀 | `1765` | @bmcmeas |
+|  | `1766` | `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` |
+| 💀 | `1767` | @Rk1228 |
+|  | `1768` | @Aaron |
+| 💀 | `1769` | @Xandermclean |
+|  | `1770` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `1771` | @ZztopMyr7 |
+|  | `1772` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `1773` | @SoCalDave |
+|  | `1774` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `1775` | @Elvis31tx |
+|  | `1776` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1777` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1778` | @adan0rtiz |
+| 💀 | `1779` | @MrMeridian |
+|  | `1780` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+| 💀 | `1781` | @Fbrown666 |
+|  | `1782` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `1783` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+|  | `1784` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+| 💀 | `1785` | @Deeznizzles |
+|  | `1786` | **UNOWNED** |
+| 💀 | `1787` | `0x737FEc5a0448fC228270AEfd596525e61Ba41274` |
+|  | `1788` | `0xA253c7c96dA57cbacC508ba081BD7AD484982599` |
+| 💀 | `1789` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1790` | @Hoopballerina23 |
+| 💀 | `1791` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1792` | @Grindingcardboard |
+| 💀 | `1793` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `1794` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+| 💀 | `1795` | @lrsportscards |
+|  | `1796` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `1797` | `0xFDa3F5f2492dC8B7e28B7021A66eC688916AAb22` |
+|  | `1798` | @Nickinthenight |
+| 💀 | `1799` | `0xF863a56a46547d0d700E32028984Ee6091A90fEA` |
+|  | `1800` | @ShaunDhaun |
+| 💀 | `1801` | `0x8bb615AffC6E0A4bb60B86D1717F87454ef65494` |
+|  | `1802` | @Jessyeli094 |
+| 💀 | `1803` | @Abarrera12 |
+|  | `1804` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `1805` | @Br00ke05 |
+|  | `1806` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+| 💀 | `1807` | `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` |
+|  | `1808` | @ksavage777 |
+| 💀 | `1809` | `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` |
+|  | `1810` | `0xA161F0E817b60A929a3418df33932FD1Dc7cfe39` |
+| 💀 | `1811` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+|  | `1812` | @A14U2NV |
+| 💀 | `1813` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `1814` | @lrsportscards |
+| 💀 | `1815` | `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` |
+|  | `1816` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `1817` | @Zuseking |
+|  | `1818` | `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` |
+| 💀 | `1819` | @jaymez25 |
+|  | `1820` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1821` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1822` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `1823` | @bmachurley2 |
+|  | `1824` | @raventhemyst |
+| 💀 | `1825` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `1826` | `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` |
+| 💀 | `1827` | @CP3x |
+|  | `1828` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `1829` | `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` |
+|  | `1830` | `0x603C386279ea863988fa30B222fe3F9b794Ce051` |
+| 💀 | `1831` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `1832` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1833` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `1834` | @Tbone2388 |
+| 💀 | `1835` | @Jimmy1966 |
+|  | `1836` | @EVANG |
+| 💀 | `1837` | @Uonedery |
+|  | `1838` | @14DGIPPER |
+| 💀 | `1839` | @hmukai |
+|  | `1840` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+| 💀 | `1841` | @Cburn12 |
+|  | `1842` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1843` | `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` |
+|  | `1844` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `1845` | @pritheesh123 |
+|  | `1846` | @Captrpm1980 |
+| 💀 | `1847` | @808ronman |
+|  | `1848` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `1849` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1850` | @Aaron |
+| 💀 | `1851` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+|  | `1852` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `1853` | @MadKansan |
+|  | `1854` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1855` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1856` | `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` |
+| 💀 | `1857` | @daytonreece120 |
+|  | `1858` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+| 💀 | `1859` | `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` |
+|  | `1860` | @BSHEP |
+| 💀 | `1861` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `1862` | @TheOgZane |
+| 💀 | `1863` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1864` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1865` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1866` | `0x4C2A6c5D15502c41c4d290f5DDD600878Ff31Da3` |
+| 💀 | `1867` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `1868` | `0x1c180883B04B502d69b35c7784eCC78b93748856` |
+| 💀 | `1869` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `1870` | `0x63c68b789F7aDd1350B12ce60C5845b214EBfbD8` |
+| 💀 | `1871` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `1872` | @lrsportscards |
+| 💀 | `1873` | `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` |
+|  | `1874` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `1875` | @BigRedKracka |
+|  | `1876` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `1877` | @Aaron |
+|  | `1878` | @Dahick275 |
+| 💀 | `1879` | `0x7D87B67b34405d22A55868f619e09c505712005d` |
+|  | `1880` | `0xD6E5b59FDfab86C58d0c6e3d7137674CF84b0911` |
+| 💀 | `1881` | `0xD58ae1794e2697eaa4F36D80b9b969121471d904` |
+|  | `1882` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+| 💀 | `1883` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `1884` | @maja120 |
+| 💀 | `1885` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `1886` | @Sbrown3583 |
+| 💀 | `1887` | @Nimmer88 |
+|  | `1888` | `0x13Ae8a0842BF9Ff98Bbde0a2511117D049eD3c24` |
+| 💀 | `1889` | `0x10744887494e29e1f5d25d146B09517329ebC3de` |
+|  | `1890` | @Tadams22 |
+| 💀 | `1891` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `1892` | @Abbottmw |
+| 💀 | `1893` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `1894` | `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` |
+| 💀 | `1895` | @Bodyb1960 |
+|  | `1896` | @Wickedcityrips |
+| 💀 | `1897` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1898` | `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` |
+| 💀 | `1899` | `0x18726E2af433889354F9311e89f81A24C6CaCef8` |
+|  | `1900` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `1901` | `0x16321283Ab22e4B2c56052319ca17773F24c8504` |
+|  | `1902` | @Poody |
+| 💀 | `1903` | `0xcb200D715eB24483b71f2Cb577E534641C336A0f` |
+|  | `1904` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `1905` | `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` |
+|  | `1906` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+| 💀 | `1907` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `1908` | `0x59498651d2A40088A852376607b4698Fb0f9B29f` |
+| 💀 | `1909` | @Wrb5150 |
+|  | `1910` | `0xa0Bd191F41b331Fb385Db5949721AEb934C46681` |
+| 💀 | `1911` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `1912` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `1913` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `1914` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1915` | @Tractorman81 |
+|  | `1916` | `0xF9c4B74811EC2E0735A73b75de4352a58853c625` |
+| 💀 | `1917` | @Ratherbfishnjp2021 |
+|  | `1918` | `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` |
+| 💀 | `1919` | @Malthorin |
+|  | `1920` | @Dprice2413 |
+| 💀 | `1921` | `0xD9A92c0dE4253979Dc0629378B5d271f634B52b7` |
+|  | `1922` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `1923` | @Sux2bmeagain |
+|  | `1924` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1925` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `1926` | @Quazzi |
+| 💀 | `1927` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `1928` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1929` | `0xA589F131d6b0F86f90883Aa64169479DB5d27391` |
+|  | `1930` | @Marino13 |
+| 💀 | `1931` | @WillG |
+|  | `1932` | `0x28E419549E7502Adf828b44E6058cDAbb045cB4d` |
+| 💀 | `1933` | @KrazyKing |
+|  | `1934` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `1935` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `1936` | @Deezo25 |
+| 💀 | `1937` | @Hammbonez417 |
+|  | `1938` | @tcwalletsandmore |
+| 💀 | `1939` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `1940` | @Heyrighton |
+| 💀 | `1941` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `1942` | `0xE5F990cD52833d06aa887cFf2F73A8b97227C3FF` |
+| 💀 | `1943` | @Rambel |
+|  | `1944` | @Billybad79 |
+| 💀 | `1945` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `1946` | `0x578807307E6ec66968c21cF4aA35B8c6310dFb8B` |
+| 💀 | `1947` | @shadohking |
+|  | `1948` | @Jsdagati |
+| 💀 | `1949` | @808ronman |
+|  | `1950` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `1951` | `0x5Ca26F1C050bEc8f1176A4553b90fBAFeF22851A` |
+|  | `1952` | `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` |
+| 💀 | `1953` | `0xfC2e6F80bc7fA861043E90F93ebF712b379b30e9` |
+|  | `1954` | @Agold91 |
+| 💀 | `1955` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `1956` | @Todo1111 |
+| 💀 | `1957` | @Dufex12 |
+|  | `1958` | @JJ_HEAVY_STAXXX |
+| 💀 | `1959` | `0x64820c5381a70335e456069205e947720dE749Da` |
+|  | `1960` | `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` |
+| 💀 | `1961` | `0x421AB72a939bEcf0Ef6dC607960d877dA6E7b0c7` |
+|  | `1962` | @Jef9891 |
+| 💀 | `1963` | @lrsportscards |
+|  | `1964` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `1965` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `1966` | @Yehoshuagold |
+| 💀 | `1967` | @Thndrwlf18 |
+|  | `1968` | `0x24b00Ebd2445e1e0FBb9Ca5eB80a072D5e9Bde3B` |
+| 💀 | `1969` | @Vahe1993 |
+|  | `1970` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `1971` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `1972` | `0x57Ff9a9f5b4E84f48E881A020F684BC9AF40FB69` |
+| 💀 | `1973` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `1974` | `0x524413C749ce7Eb34481bAD4b5c0F5036880EDEc` |
+| 💀 | `1975` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `1976` | @Kwscards |
+| 💀 | `1977` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `1978` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `1979` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `1980` | @elmo62 |
+| 💀 | `1981` | `0x721C02b285ECC86174A0AF98647e533E0A5a388E` |
+|  | `1982` | `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` |
+| 💀 | `1983` | `0x53AA42F2B1965CB283F48dCeEb5647F53041Fd08` |
+|  | `1984` | `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` |
+| 💀 | `1985` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `1986` | @lasvegascardstock |
+| 💀 | `1987` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `1988` | @Techwise |
+| 💀 | `1989` | @TXhaymaker |
+|  | `1990` | `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` |
+| 💀 | `1991` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `1992` | @DeShaun730 |
+| 💀 | `1993` | @Moneyteam7 |
+|  | `1994` | @Mikedob30 |
+| 💀 | `1995` | `0x691574D073F52957850cfd7369cC1271407eE426` |
+|  | `1996` | `0xA77E21e2e6A36B6C5a331c69251066Cb533CBaaf` |
+| 💀 | `1997` | @telles3 |
+|  | `1998` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `1999` | `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` |
+|  | `2000` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+| 💀 | `2001` | `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` |
+|  | `2002` | @Furlmonkey |
+| 💀 | `2003` | `0x943980b467fE194Beb923dAF7A544aBce90b5f93` |
+|  | `2004` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `2005` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `2006` | `0xD8B1883527a0e755876018be98b68bB37bc367b1` |
+| 💀 | `2007` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `2008` | `0x280dF9E3BCCdc5a0f68E35C7728860Ad3d7091B5` |
+| 💀 | `2009` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `2010` | @Rk1228 |
+| 💀 | `2011` | `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` |
+|  | `2012` | `0xCe3730B98C60A594466A0E6Cb057162C36954024` |
+| 💀 | `2013` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `2014` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `2015` | @nwmarkham |
+|  | `2016` | @PeteNYC |
+| 💀 | `2017` | @Iwuzwrong |
+|  | `2018` | `0x4803c94063C3954d55d6684141AB742715155896` |
+| 💀 | `2019` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `2020` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `2021` | `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` |
+|  | `2022` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `2023` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `2024` | `0x9cB9163AE9D27dF6D658BD2f3c3cC2613252BC88` |
+| 💀 | `2025` | @PorkskinZ |
+|  | `2026` | @Vintagemensgoods |
+| 💀 | `2027` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+|  | `2028` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `2029` | @Br00ke05 |
+|  | `2030` | `0xbF5434118630208825eed8E3B5E009d721aAf39C` |
+| 💀 | `2031` | `0x59768b06b66f105Bc0424816704E216a15780fcd` |
+|  | `2032` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `2033` | `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` |
+|  | `2034` | `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` |
+| 💀 | `2035` | @Weshutch527 |
+|  | `2036` | `0x0Ef50918003a802A236E329Ff2239bC1d8da8d01` |
+| 💀 | `2037` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `2038` | `0x2bDc9CA4201b0C0692E6328B916FF67Ea577c4A1` |
+| 💀 | `2039` | @Beatingu93 |
+|  | `2040` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `2041` | @Glimco |
+|  | `2042` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `2043` | `0x10dB58ac561D065471EbA8B3eeF960bdBD644A84` |
+|  | `2044` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `2045` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `2046` | @Acros62 |
+| 💀 | `2047` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5122c1ef56b01bbdeb69847fc2b6cf8d924e8f54100769b175e91cb1b8c4e23) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x63b785636ebd0a31e430493735e073dbe806582c532cf78268713cde05a2f343) |
+| `0x0127314bA95e469714f0e84aAaEDb825de36E7f3` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74e0658f1faeb1b907f6563c4e443b3aad2c3fc35294c62d66cf94f7bd68b4d1) |
+| `0x01F1456f5aF0AfdF17AA05Efe4220d9ADaaF00DD` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x91cb6031a1257b6a423b95691fd15caf587cc8ff167ef2038694367d99b069c0) |
+| `0x02337ec6502128FC96Ed7ECB0e47b6378D4D77C0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb979f7784e84613b23506965e6d9195c995ff2d93365179b69ad276139f14ea7) |
+| `0x02481F182fd42b4AF66E083efCD8104072bC0C82` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8b0e24cdeef94974b6ffa97f5afd3f7c0971f5f77e318e3dbaa9ee695be3aba) |
+| `0x0303b6470FAb579BD515Ef1ffeA2Bc8f1107d5e9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0781918b3fc9b5adb7854f91e1dee4e3953ca65b7ff35d1bce62462ac3f3eebc) |
+| `0x03373Cb0cE8b25fAa5aB9D0A5e35A032E20D588e` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18ca89172485643e25016d3d2f3a10f1b229e9495400eb4ed62038659170224b) |
+| `0x039F788E37992719773Ac21ca18bEd79Ab65a85A` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe49bf04ae5b6b4268cf89cb1775cd093ded2a1d79d3fe8370a7c30b661fb8ce4) |
+| `0x03f08e6ae103943B578A3645AE539e3F2804e15a` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb356a4aa5ff736406fdc961523bd80cadc3799bc2cfa238f137941c9ad19b177) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55ee37d480b0472a75163421d7de3402f274110a7052f4b36d688614595c904a) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x05ef4df55dcf4c39da51b2ac4fdeb827993ecd11276c7633ba7feaa91cf5991b) |
+| `0x051E1605061897c8BffFf79506894320A1AeFE39` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3adc4adfa568a674102ba43cfda4ce4fac08b0b556ff67b284de7cda98a30f56) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x4ecff6d2ee52553e4823f2dab5f766903e453ebab5866561562140ef7773f84b) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb38fb0c7b8e417627d5ac9c092c771631182d7dcc32b914cff77890b31138159) |
+| `0x05E10cCF5B9b649B79B350d7e8e41dA558226364` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0eaa4c1cf5bcb04b3b08f3fe226dd7695bb4eeb60e863a5ad3a899523042115e) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc455f90355ae721d8876a48e7389ce58faf12f511ddc7cd97795883ac4a831a6) |
+| `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2bccb2cc72de3587c8eea97d3fe63b16a2006c5498486258603f334c24ebd61) |
+| `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x12cfa81e67a55bd8899eccccfc841e512ac17de9d6364fefb90fe74bf38afd0f) |
+| `0x0A99575f32b3F04B34C22A8239C712a9b5095fB5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cc44a411e9948518e9fed87b2f2e21ebdf3e3534f9383f8c99f454a8a0d6d63) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | K. Griffey Jr. '89 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x989e4b1dec2f3dfc7f0c366d6c3da72da4b2b8899bee641d04f69350c182b052) |
+| `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9daceaeb35d5f303ff66391b4d8e48e2dde632853e347c798e9fd96c147a7fa9) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c9fb769c680c45accb4a60b23a06e56b3d30b9f6d716bbeb3b81fa23828216a) |
+| `0x0dDE7514Ff9FA28627C7B174a4A800E052DF9F30` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd969887f97a208b134263721eadbfc058c62b27d1efba458dab9c263306505de) |
+| `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x387fd0bb7725d2d3539abf7a397ff89fbba308ec3ed06c1de3943cdb51026cfb) |
+| `0x10744887494e29e1f5d25d146B09517329ebC3de` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x6b95d9a53dd85bf6310e0370c27a00a8ca5504585e5b54b8172e4027c0cf9c61) |
+| `0x10dB58ac561D065471EbA8B3eeF960bdBD644A84` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70527eae65e0b3d88867b4518b02fc39704606a5c6ad3e6b4c2481471874da7f) |
+| `0x12ABe3a888835d16E1cCe74bCBA124a04C41Cc80` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5e91db6ade6202033905e509bd40270adeaddfdd337f5c44037dd228cc8a88b) |
+| `0x13E61B25B7d6B96D2DBaE1502294EaF9Ad09AD4a` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c28c88859a564d3c6f9a9f65991d72b8e66e58e77a657d28468db467122f93f) |
+| `0x155eB8e61Ae0069936022B363aAF9dce05028823` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab8e964b3e3a2bc38d6de0f1d36365c621a3549b883e51b0b045c230a491e9d7) |
+| `0x16321283Ab22e4B2c56052319ca17773F24c8504` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xab1f32e06942c409e3a52cd3b29e07d3b50bc93889a67c411ad83ccda319ac27) |
+| `0x1744345d7e2c5E24aaDDa50A17C04461e2b8aBA9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2391e18ba438a8491c12aa4d4faa2a395e991d2b1ff5beb4b9f51778ec875eb2) |
+| `0x1770a189C0BD6089985fFec9258f498F5007E408` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58762639c847e5f4b8305b20684e824979e1639801cb6d4dc5af0b9d2972a5da) |
+| `0x18726E2af433889354F9311e89f81A24C6CaCef8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6720535beb32dc5ecd6185381a75094a0ac5ad98ae7954163f96d0eef0fc7755) |
+| `0x1A7101aF308617cBF40bd1A34336F4c6Ce7914cc` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b50ead94690e4d9bec89b39abd57ba83d229cbdc5b1d79b2d785d61f85ed4c8) |
+| `0x1aAC00C4E71069450BCfe8f6D4f3E58BCD49AC77` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf168236419bc98ad738280a1ad2a649cd9fb48d3091a990704def1ce5cdff7f7) |
+| `0x1b47574007Db582A335127D0E5e5e0b979A426a4` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1387ac54c94eb98babc968595e21fe390f67e61596c59d6d8f3fefc71f23c3c8) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xbb7a5370834ced8a58be5cbab48f1ace84b5da2eb83046b65c5fce8b438edd72) |
+| `0x1c180883B04B502d69b35c7784eCC78b93748856` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1bd7da4e10a3f6d327db946ea5799ebd670ff45910a97df3b5a31a0b405a02d9) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfae1363e8ee44b88b32cd444d372213b7e9630918e59b59d1a131369094421ec) |
+| `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8c78e3cd03f60d45878d1473e0086ed7996529ccc064dd0985102e44f87e8693) |
+| `0x1CcDd0B37d805fA79a8f1C4010202eF25fc972dC` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcc38302e24fac5810a5057efece07900a83345fd3d163837567b627b37ce52c2) |
+| `0x1d38493De105e1f2c01989A18CD8b1c78214157a` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60f2e0eb817d0d988d1d38a2dfcee7c70b578c404bee77ddce6eee42ed4545ec) |
+| `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb9534ec77b4b6d556fe5308aedd0421881b60b03425ffb628e4da3f98df9a044) |
+| `0x1e637327010deb5D6D5dC052a883750B68F47d9E` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e4377f685dbdc756d79b72899d82884fec915e092d46d922c51d950b050dca8) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | K. Griffey Jr. '89 PSA 10 | 10 | [Polygonscan](https://polygonscan.com/tx/0xfd23ccde9176a25e8fb571226acfeeaf9d68ba8d6b4720f31c7f74bc497e6afe) |
+| `0x1F4eE51B9597d645c4d18D93960a36aF58e2644e` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99040c380131eaf545409765e247036e2478cbe8ff8d608bffab2556f5ba5cfd) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | K. Griffey Jr. '89 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x76f43f8096668f95aaec3097f726d186a49bcb7813006ec57e4e8e4f8ac7e84e) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea301d21c4960bd4e519dfa41412e91c0d263b0091732703c2e2ec512e341626) |
+| `0x2302498B4e395b2D3A328aaA0591A4193Bb1f929` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fd72c55b9a71ff68419032cbf29f1845fd0d3dd807c412e0a5489c567822bf6) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x730177397dc803568eee3b8936ba2248845605fd1c743e12b62ea7b8a4d2e1d2) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xdcf34f6532f63fab4256be6f804014537d86b4be1ad7a36fb355fd1d51f7b00d) |
+| `0x2394749cE12Af64D7e05B9E42e7458b88F785E2a` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xc4a53d746042472b469384dde9eaf4db72d877f39d10944820038a843902e0c6) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x553c48daf578b70983229bf33722307ee1e36813c8b92d6bfa7144db1bdfa14a) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4115b5b550b4a5337c275b8ec77fd2519c89e706ba12751066ab306226e4f76e) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x889ab4eb929ab9115b3994d42b07731dd99fa36f9b8d616fc91a50ffe352da33) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfeff348f8a1f1aaa8e06cab6f664f49ae57c43b014ee9c54fc440095d2896ab2) |
+| `0x27f2Ca0F68A854dD23c2AEfB3EC8315806e1ced4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x221a191afc197721746b48d80d3c7f75a2df02460da6e22eb98d9d0697a5473c) |
+| `0x282E91A17d51859C450a9bB5725D652284D02c90` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6a9e0a56d9587738c5464abac22a38f35d6b99307f644e52379f06d1ba2fd37) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2b944745f763796a2721a3da9174253a18718577edafb60d217c749ecaed2491) |
+| `0x28e67e9b4a5687bE382Bb0024A05a3e15e8c04d2` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a6d77a79c283676f363c610f8506b50b16b05c20aaae70c68c3cb7e20c7bdb6) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2bf1228c721ef0176960ea9746358aeada72811803c6862e01e3347f9725b235) |
+| `0x2a6aB48d909A6dBC14980551AFA6Bc9A75c2d157` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cfaee572c71547ca6530b1e00465385b83c7a3a17b2a3e83564a4cc163a39fd) |
+| `0x2B5112B2FAEEBA3b49F72C1a7BE440E812939427` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dcc098d1456900dd6719535ddb6f3de656db5409966fde65e58e921ffd45b4c) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x08efb12d32eaf479565ff51026c3cbd1dc3578511a0acc5d815bc8537cda259c) |
+| `0x2D5CB0cE32539b04FD24b317D631708Ecce61d94` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5038833d279828d5a1b95f291147ff646fd0b0ac895abc725759c0c1fc566d7) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | K. Griffey Jr. '89 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xab2caee3ffa957fcd56e61fd82b1b27d4fc241143643dcef4f58052c11851f20) |
+| `0x2f5427929C00102EC5b95fD9F4FEf1E3e95783C4` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x91ffb50be2a038e1e32e10bf383fa97c11cacc45089d9ea7be5068695c668265) |
+| `0x2f5b432E29c3b4866F9B6E96484B28fDA04adDc7` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2d967e55788bccb5dbd50cc3514ac892a8a40e63c3ca0d19c51e8815b325a8d6) |
+| `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` | K. Griffey Jr. '89 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x32a46e462fb78c01d8d98f4333b7bb7c282a9fe4eaeaba8b0f2668c6dc2d946c) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde170be79a664182cb7805db416aad86d5dcae9a62f5a438549d2baa0f624c95) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59d2268b74cccf6d530e133beeb9c0016223b96e67bb49a61bfc76dfcf3c77bd) |
+| `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x351c1bbd19c9ed2878b1954eb8d6cdc18f37662e82bf4d90534b28ea26b54faf) |
+| `0x34443B2Bb7ed5FC6d866171c7986C2583Fab51D3` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9052e7147af365c50a2fc64a5dcc76aa586196ad97b4240010e80bfe178eab68) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd2e07f57915ed4621fa1671aa9695add810cafa5046089273bb04ed1ab9a9fed) |
+| `0x3813f83CEEc937Be23f21BAF1141e91214e82cf0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc5f15a1f97646e41d293ee8df90f8c2644bbe9fc0b344cbb7459e30af4541fa) |
+| `0x383B8Ce36b2164e32Fd98bb0D0B79a5390ab19Eb` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x901e87208b0080287396fad7bc55858c5524f9ed0159b589f81ccd5a8cc9d534) |
+| `0x39d0acF66bbe25a82972B7CeB36620830b0fba1F` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4fe4f493429cc398cbd9de92de916e7acf6e93ab3c8d68d5e04e9edfa0c2b3f) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68c7d071d37ae2bec9eaf78bc7dc5962177ff1e96011ab08f837d4440988240d) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | K. Griffey Jr. '89 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe261221ad162b312f1497905e1c3dfba1fe3170c9c172e051ca0785482f2841a) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd509207984ed5d0994c6f3c9da9c9fe4e3845a35ca7c4f609e8b5fe99684a209) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2a7c28fb282d42109c7fb32289b91445c25d39ed6889f51fe272855856b68f0) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fd87d6ae6ebddd2647861c77931a168fda0aaac38b11fe8705e99a91e698529) |
+| `0x421AB72a939bEcf0Ef6dC607960d877dA6E7b0c7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a1e69bd956240bb060eadd01489aaef7372300e157061be8a2ab132e94398c3) |
+| `0x4291156c56f09d7E30B33CEA68BF745dFd475C24` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e0092543d4b9ddf67ac8f03c805e876d79529620c4def0d675ddfd634a07d0e) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd3411d57a057d03bf7989b341e59fda7195197f3fb3119d0c86afd53168e441c) |
+| `0x456BFf38dDfc4373f89CDA3756e080111E7dC588` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x879102221b193ea9bec5d8d677d35ed3c3f2c610f0fba8eeb81bf3fab214b724) |
+| `0x4577d5c06FAB09d6c2f2c4e7Ea6BC389fAAddfCB` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x070b205b8af788f756493298314d53e24c683c1a68fcab7cbbd40eb68339f396) |
+| `0x4757495bb910885C0bCA734C173455666F98F32D` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42f65af9f854363108722f0b7126a9fff275f582096078a384e4e3abd77137a6) |
+| `0x47aDfdea2fD6e685b12b6CC58D04016309035902` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb837ea00501501a0022476d8e49108abe571b0be214ef0c90371e74b4307abf1) |
+| `0x47E3850f999699F366d4FD4546eB4D122982dFA6` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45396d85b2c651b3151d015824a732719e7ddaa3ea9da1042a1b2d9a362064a9) |
+| `0x49133557ABd97c3A8baB46FaBb9053073bDa35f5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef98ad952672f298d69d0ae8d4d0057c3ed91c9b425bbe7872a6407f6f1327e5) |
+| `0x49978bF906220c7EceBF5550FE0d5bFB6ca51c10` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8afbf98da46efd65bcb2ab9c353c1c90bf4c2d83f1e97cb66ef3c5f10e407177) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | K. Griffey Jr. '89 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0xda0aa3b0756c517b0dd102260b88f2fe724d804bae36a041b20d00cf1fc95f71) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27901ba79cc48bb36c1bdf7a0eda74e310e74f9fc794d87e71922a349cee3a74) |
+| `0x4BB18dc1216602b90Fe101bBEb71d78Dc2b4D057` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x951492b00bd6901e0b26f900b33a3a8de196529726247853e2ee91c4e2c58a2d) |
+| `0x4C5Eb364A55d719C2aBa3125c7c0145B1Bc249db` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3134e07fd403aca920f559167f4097e085d273bafb58acf5d170e02b212492eb) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d19018dc6211c3a9f620578cd6692e9f14bfc812015e127c9410cb8b7469690) |
+| `0x4Ee27340bd608835532E9eB8B09005C6A6802fc5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42e5612eafd7e7412d54a2813a7056e0e2dc4a47e1612767e54500286198749a) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0xfc2d81fe11508bd7f00008c5cdac337ad273eb10544839ae9978a22436ad267e) |
+| `0x4Fd1F393753FF2a8c4B995595bd92503180a1C0b` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72ba36b174ec856fef177dec08f32cd62441a89d06b7d37f0b9e7afe0feee1b6) |
+| `0x50c8A1112bDF49Cb58eC20A9c2dD39BA2A189da8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbe0d0a031d22911ebfa925174ce2645754ab6181a08e0ac36b579f5744df700) |
+| `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9498ff407f5be578b2681d2fad9fbb6a33a03487dd07b00b92007fc5a2a4c218) |
+| `0x5166133220571fc9CAeb5d04d0e6F4A14694f453` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dfb549e84176e5ce55309653579ccf53ae0a53c958f2a79bf2ad5678e486677) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a5659041c2aeab63639c8da2e544cd3146a10a2fb9b3847012874886aa2dfa6) |
+| `0x524537bb47C13aDbcf59aB23DF47DcB639462d05` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5228bcd2b39e526af35c635ee63554360a91bee396e82a20c448a9edf27eefe) |
+| `0x5339eBfF5e6894c012F662ADb6C0F2Adc3B18C62` | K. Griffey Jr. '89 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x9e751ee854a1f5c02f468cd52489e5897305e061fdd3b272576df0fe875beeb5) |
+| `0x53AA42F2B1965CB283F48dCeEb5647F53041Fd08` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xebfe2d9dfd228da0123db11bd8e4434e39f4daf6cb2650783f506980adb38893) |
+| `0x5541F03371077197ad0657607dE5aD9EC60424a7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x789b9e1c192d55adb52c65c4a868221cc57a2a7d63a6a7c33243238ce1013a6e) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6baf56bd1c896e2233f33f43dab56f8f12a2ec7809f5ea0b213f937127309879) |
+| `0x55A83a0c8731a23F4d3B8FDf7E9833092FE59BA5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6e40cdff4fe91be5e1149f8c4f86645ccf780648cca2d66de2c8432e858e55d) |
+| `0x57292944C423A680B8eF0553C9EcCaaA57eC3D66` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0f18bfb468e67ebe562527428741105b47ab18549af20b132ed2e3fc1b5bae2b) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5567eb4ab649f54ea8c1c63aa5bafb754cedba766af68a8040764ecc4334b8bb) |
+| `0x59729eA9fb450BF151D22C0746b7C5E0D32Ce3d4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8530f39d498c00caad033b06436d6eda5b352e7a25564756d67652bb222757f) |
+| `0x59768b06b66f105Bc0424816704E216a15780fcd` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x042751ff66abb701c67b262b3ee99e091d4affacf20db731403f301fca8ac2e0) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | K. Griffey Jr. '89 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x0e22221ddb8a149c5a7a21c315ae62466ed56248cbf36d3370916b7430e52aec) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x5a7c700b3fce6e363e02528d64c6e0004b9bae0c96ac97b62047bd295138fab4) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50f5ba55f358c7fe258a1a9f28c74956899fc8dca300d33d0b7e61184aa3c9eb) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x430328e7530a36fbc719273590edf5d2dbdebee52372882daf3dd2a57eeae0fd) |
+| `0x5C64D9F04ea4c4Cda8077BceE2895a27FBeb6eD4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x846decbaa20189d1f20a5d5fd16ae2c916ab5ac0d2dc2c3980a7fcc50ed6d6e3) |
+| `0x5Ca26F1C050bEc8f1176A4553b90fBAFeF22851A` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ea964ffb6ecc0f0cc878c7125763e54e2d0734408eba7ce2207a5c5400a8731) |
+| `0x5d009D92587361DC3a9974798448A80006627b60` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4e89217561f422af74d35c6ba97616e35f7b8f47ecf583186e213194e3c56f17) |
+| `0x5D7105569CBD6f02c085EDc16F65006ef62F2c37` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x78c7dd678595d212ccf407e9c760265cdeda5bf2a7e868954533390cf5539571) |
+| `0x5D8c03389C9F906c97bD53a2d77a9a0b72972a60` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92ac07b840389f9b284da65bd8e56ad8ffe103617b4c9c752cf2d5baf226413e) |
+| `0x5F4178D3179A03683f079Ad4302fE28012259ca4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7024a0efef96c088e2e04f3f74dc93e563888f5d222b44052886f8ea321c3bf5) |
+| `0x5Fe2D831503B3E6F6a240206C7c7237D60518f74` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8efb8dfbde328aeb1431cd976333908a61775a7956838f4bf290708da92b3a55) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5af6beeaeb8d10d962884507989fa6f3fe953a31cd2020c1eb48c9e63ba3dbb) |
+| `0x61c5eB1b6aB509b463F58EB7C739fA594369F7A9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b140206573ecd011258ed386e93ce4a91c2dbfa460eae67e3f0690632f89d60) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9464caff1822854d646c40e40de702702c5aaa7272a670d0504a5c72d5b9294) |
+| `0x630473Fa1ACd1D799AdDA3e0d5750192514a21dD` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb35deef1cb025688978d4c5ffbae6faed873015a99b34659c6c98264b083152b) |
+| `0x63dcc90B5990475fa9bAcae5566ca6722C450930` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35f014861e5a97d3506901d91bbbe503dfc5eb3c593257657cc0ecec3681f8a5) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa98121bbff69608d0e27ff300327e310cc056b9107ff1a36120790159d250df) |
+| `0x64820c5381a70335e456069205e947720dE749Da` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb3e445b97fb1af056b3e2502c80b2df0a193a1c30f9fc4a3e5b9ba06989bbdf6) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | K. Griffey Jr. '89 PSA 10 | 12 | [Polygonscan](https://polygonscan.com/tx/0xa3e48275a68029760f79c331bd558bb82022fe53e5fd6cc4ec2d0189a604409d) |
+| `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04d2e479aca0dcd344e7ff7eb734c9bad41a0c9e4d4a3109779c9e88dc423a9c) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | K. Griffey Jr. '89 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xfabc16b32a43f8d71c90b9120bbec74b8833962c405a38e3c39c66f4eac7b139) |
+| `0x68cb66baECA7a5F305fbF4ed24aA1b48ab4ac508` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x723e65c1c9b313a7af49bb537f489d0b8e5b060a8121dce95124864179b7010d) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | K. Griffey Jr. '89 PSA 10 | 19 | [Polygonscan](https://polygonscan.com/tx/0x6c6d4f74dd8c66e42a3e12cf69e8f2e45f67734122a2af4d9b1da337ac1a6978) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2645b7579bddde377311f2a92ba448a0a6b586386588456481121afee6390309) |
+| `0x691161Df776E6B66b2F35083B31b13Ff40DD4036` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6bc6822a4115512c241c2cef9f029289accdccff37f8a23dade2a0aa1be4f7af) |
+| `0x691574D073F52957850cfd7369cC1271407eE426` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3edd920f68dc1cce0b61c46f2ec82b02058007ac6b55f38d4b1969d62c6db86b) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4caaa329197b07c69f2158dfef6f4ee0ddaf4744669b3f32dc6b2160ccdaa8a2) |
+| `0x6a329B0d0a1F1DdF58bC25489C37E0c96c066c6B` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeeaaa722e6347353cf4206126121d8d5bc2c22c7444526fa770a3bb34ae6c526) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6db00ba9854573ee6f685b6c39d1e9bdee7ffd03d7a0d7cd83b285e4df51ecc8) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9bcbd777fdb573d04f8970cff227be9046878ae58b1425145158181d0721a7e8) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x92ee9a7acf0d6745322726259b0ee3aa9a3cd0cf84a2a482f44e4cbb733105c0) |
+| `0x6cc68283D4e303Df5aa07b72BDecA465fc252a30` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c66acd087b6866fe12537105c6c5ad9b02f17716395d0036d8b2ebb022682aa) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x89691939e4c2f63e3ccec57713268cb26f02284e1bd3bf52a0dd3e46b2226eb0) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4676efc9a1249b3f0c4e6b007724a01f66fd0d6ec96be63e3d1b1f0e33a732e) |
+| `0x6F9d30A08527C47C686A5cC80FB9A64752CE1D57` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3628faa2826429fd28b6a0903c442d62f847175d2ce3f7f4cee8088340cb7686) |
+| `0x71802bE76371A432127805398B35D8FF75970568` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xee921e1a5c57246e79431b292354cd0f7dbe876a4928edc53a682874ea285e85) |
+| `0x721C02b285ECC86174A0AF98647e533E0A5a388E` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x8c723f3a4c5f63a925b1b44b21352efbf453bcb3ca9a15026523598d3bf8ad05) |
+| `0x737FEc5a0448fC228270AEfd596525e61Ba41274` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0ea2111704b2a86d6c54598964d28daeae2446dbf329775f10cbcc7201edaca7) |
+| `0x73835e97DE7AADd2518024b23985dd51ab05b6D5` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe67132e772c7058b322e26c161887e89f7bf274c77f8fc865b6ce54ab68fdc75) |
+| `0x746464c24190a9Fa1608E620A3C36e8CB7e841c4` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10d250343228bac6cbe1ad8cb1f11c3868c99701571a85b70257d1bb248ed0fd) |
+| `0x75f5239E80526936257dA2eba1dF069bFD32f524` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x624099a593e0400041c233ecc983aefec724c7873af4c8018846498ce804c0ef) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x589baeaec2a863e806ef63938128e9c1107ee548fe908a560e90d206fa6ca8c4) |
+| `0x760647584486D3C80FC7c1deA83feE88e1e01ab1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77c38291434be4f3345a29cc9c46cfee75d57d094beb395599f7206bb0088972) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85cf3451bf1b20e81168ab46017879c0261e8444f0a1457031224d978e10e279) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf5a4b1fefa5e87b9fc34806b62f14221eaa8e2cfd5d65d1214859a80eaeb13d0) |
+| `0x7793379066C19e11055e53Fe88467724E85d570f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa903525a93b7c24bde12dce05ed6ba293d8d5ac9c3a0ea3d935723a0a1c85a4c) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf72d7b07f760002618a8ffef3b7ec1a085ae798144e8a8e4c10e2781b0e6fb68) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ab9e10d8b733c9bf12b8a8777f314521e48911be862a4f3c3712ea9b3f1fcb6) |
+| `0x788c423f4a3B3aAa8E42261B3d1FB25A6F275ada` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x821e83dca2d5babc804bf1fa275e09f45f7e9b2c3b6c45fa4555d214833b7d52) |
+| `0x791509eB0540225570baeC704d522051086d2991` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59ca3dfc4d6558d82f896771323f02d578a0c5a2525c82d3daf9103b3418cb2b) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | K. Griffey Jr. '89 PSA 10 | 13 | [Polygonscan](https://polygonscan.com/tx/0xb84c96b932f36b4e12a029471c475c866dd95459cbfeec23b85b555f219de1e0) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x43f48a39b420b1aece6cfbf9f89b04a8c4a50d19bd065a644e6ec50818c42f01) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x37a89306c2ba989d027378cf64456e205dfb94b83d5b0d6ceb78a2a24b9ad787) |
+| `0x7Bf104802561Afe30bB1c27697643055d7e1EE7e` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d4bf75e085f555eee2c798618de8d5e6cfcc5d132766f130f50478b15bb6590) |
+| `0x7C7282767D0f232df1DF5Ecb2E4A0654390C81dc` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4996cdacd74df92c883e2e6d8309431213f0dc3982432057ca9209a8c0f310f2) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | K. Griffey Jr. '89 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xe3cc1d2c1b1e25134062969dc6e7e58964a443b4bfbb1d2042500e51ef5b2cd3) |
+| `0x7D87B67b34405d22A55868f619e09c505712005d` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2b0bf729360e8047666c34f75390dc63d68c2d936df7a515a133e2ae0c7a7f6) |
+| `0x7e8fD96450553cF3AF70B339889F784935fF4f87` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dcc1d9de35be00a350cee5c2fcebada09b773dff21c9a8ddd3b141e0b241d8f) |
+| `0x7eBe58c21C473ad69746149ca531E7875B57AE72` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf81b47fced99b0a39a94a959c1f6f47b229599f8eb0bf16a6caa40586edd21ae) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8946ca11b013baca4b0e198dcaea609ce483879bc949251a2e5a84d80e9c966) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc5cce4d4f06c8c3a43fd6ff1a7763469eeefda059b3d018c8ec9251c7e4c464c) |
+| `0x808297A821fBe498F94bBc533AcAD7D787E2b370` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc54893a11733c23ceaab90f0f1494bafde784baa41f8cc628599778d49dc2224) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaf07ce9b742eceefa2567ea553bb3de2a1fb4e526d15e6729c2f6af3e78ef312) |
+| `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55169f3e6f1427ba628a5dc823f40eddbedea188a7b52a7ce605d6d060c677d1) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6d9ce8a9eaa7449cdae2f94c1bb7d0a690035b269ab66b9a80f4bfdbcf228e1) |
+| `0x852177fBe3c67DF48b875E655687983fF9a4244B` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xac7b7e99871195e9edf1357341af12dc1f463f9732ce03db1016f3053d36e4c5) |
+| `0x85404e2a2018D1Bfd3938cE22BC277FD36794aC1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45642cdd18df2dd95f1ddd504c8c455430a51c0b5579b30a60b0f64636af4234) |
+| `0x86B1b02c43E1e35ef325BB0B1A79789eCfF0cE5B` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda9be82a01d5299421ac75554c98a214da3ab883c27082994d064ee1b5b3acb7) |
+| `0x8701C3C5ac64C76c91bEB2849D22AA12Aff2A0D1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a9b914c5df17383c4e0dd8f185d411129921910fbdc708df52803a612a85969) |
+| `0x872dFE927c672506A7c6417B5E41dE4b12690DE9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc424b73043d42800a34b1642a0692226621d58f48a1045862b486230684fec9b) |
+| `0x873EE352e1f97FB12d7eE52B11eBC26e738C43D0` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x0553405e8c6b697988d2c9943deca3d45d0f13e2c0d40d4970c0561210f48408) |
+| `0x882db77070905c3E67A7ba3f3335ef850bfE228e` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ed55a85753ad10561e126d41b522cc153e1b5ffcda19b3f69357100b705327e) |
+| `0x8930eB231a1E1873319E79FEC684133de08CF4d3` (custodian) | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa31a0789e81c86c21c8b5907a79ec883b678067211e54bebb862b8c67a53b631) |
+| `0x897667336cD8715349558ef6e45cF5f1d4Fe9ac8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdccba6e33842cc84de595f74443cb19a2afe016f7650b8e036478ef14af9c8bd) |
+| `0x8b9a5a1c6179e35083d7B80cb094C6242D83336f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd79d5d945c6a25c8a17a40db396c8f8b310a73131b384fa4e3b15cb2015ce7f0) |
+| `0x8BA4790B31EaC3761c7bDF057b1e3a6DB4740cc8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeec1f88c88c2cb08be0b0d5844f3412dfa6db2fe863bcb2f5bd2121f8c8bb058) |
+| `0x8bb615AffC6E0A4bb60B86D1717F87454ef65494` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x018ee5188402cca2cbe1057b23d2d027d8c6470ba9e91e73de41174404ac3e1a) |
+| `0x8D0523b77b20304BA26Cdf872c13397524cECb0c` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65ea3679c5bfa731c4bef702fb696ae2b4edd460444263b5af040881b7b4126c) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3edeebc4d1c73ff74fed81065ea2cdd918cef3fa30d84ff9afe18b3aa104393) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50941922741ca1d533887bb2a0e436617b0e158901e707044116bad8d94bf17b) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x196bb3a37601412abfd12232221eb87cb37e13f7cac1b634091f084a28b96490) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fbfc0aa166d4c6150ead480a0df0bd4bc7bab74e91b82a30dcc281e4576cb7b) |
+| `0x923bee7591659E11eabbd8e4e6D13346a6806Acc` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd999eb72ecd47560b1d7f0a16105a3f383b08ecfa00495e46e44a5459d9df1f3) |
+| `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5b2d384aa66d7e19356cc82d3ea337f8490d8cd1f6b4ae03c972d446cb34aba5) |
+| `0x943980b467fE194Beb923dAF7A544aBce90b5f93` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaeb64161acc15c3b6607d5005de4d3f7c62fa834f2f7b209369d8ce0689d9aeb) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | K. Griffey Jr. '89 PSA 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xc9310601aed813481072af110b59231497443ac71ebae385d375116816434cb0) |
+| `0x970951B757f5a641e0035EC04b4BCb3752bA4A88` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x32b7ebc826cfccf8a70b2d1c08f7ef8f30ba40c7ba9de8158ec729b5e50a829e) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x28b09c69dd0b00220581d2cebeec804543405fdc681063af0217cd5ee0920c4c) |
+| `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeae24f2794853122dc69b97c03f25e965fbac4522fecaeec7b708bc99fc23d3c) |
+| `0x9821E9c3C523F21d0aBB7B9dC94Cb1faADef9260` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34813fd384bec73786b17b73a35bcadc9773934d78446b747074d5749754eaff) |
+| `0x9a09ef13a5e89235484c1C3F7B934D8D5A9E8046` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc98d544745c4aedb29ca1bb92b20a2f52981c0383f67f4c8c15dd0561116b9e9) |
+| `0x9ad49fa28e63EF2566330883FEA603A9732323E0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c2b6961708bcc2a56c695352d891b662ffc47edb437a9360c93aae130c5c855) |
+| `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xdbd34d1ec5107ce593f2d7b72695a750e6d10c38f593484655a5ac11ee56d56b) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x52101777401e853bb3aa420a6934070d1f51de9306c3ac3ee36e0fa0b43b4ce1) |
+| `0x9e167891F115D6380f94Ef84002b78faA268CC51` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a36df43bcb4ecea09496b9b8be3dd939ae1c6902a518e2ffca75a4c2d651aa5) |
+| `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2452e51ee80b5dfebb310b7b6a25f07879ae8ec3bf828e3066597ae5b22c4597) |
+| `0xa146e007BBF050Fc423155E1800749198aF2979c` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b3dff51deb134b533fd66637bef988157f02ec7ef85fa70a8bbb300870033d5) |
+| `0xa16E540f3Fd7F9EDF0Fb706e791b1b584251dEE0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x737a0a75be8bacaa0263f59c8fa580792a5176db2d870d0b30596c2c99091d6f) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x64bc0567a8bf0f29b0282043a3c0f52c2199def3c9758e98259109ec338d8d36) |
+| `0xA253c7c96dA57cbacC508ba081BD7AD484982599` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x037c57bcc77f258a339bef27cf558bbce85bead6e444d263504966ff0e48ae36) |
+| `0xA36669716803edA6eDB0a370F20594D8acb70e0F` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a5c593805bc407dc25f49a6ce96c6c67bb5e3e7e63175f1923bab6fe65c011b) |
+| `0xA4fC3f76317e3807E15a7d4c904472cAb09f9096` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5086491f19ab25649136567f95d4e705015d2d1eac693e8266206d514bf19b66) |
+| `0xA589F131d6b0F86f90883Aa64169479DB5d27391` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ef30cbed9981df902fd58d90a7563f0a6b4bbb0d557bfc063926c2aa4442f03) |
+| `0xA5B768CeDA1f19144646E84354A0F825b144BC00` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b90deb3d98203f415dc709042cec49c4f7517438acfe2a27717eb6ad90edbca) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf3d7d1af4528a5be2d38205c66963fbfe260f3cc7a2d122e2e66e0878a4f25e) |
+| `0xA76413C8E12973F1d569bfFe427cE8a12fC24886` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff61ed61a2d110d6642a4f7c76bfe9acaf83f1cb06d3f23b7fa3d69246f912cd) |
+| `0xa7C420Ba706fcCfdf6bc48994aC1706220Aa65bF` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedc09450b2fd2493a17f431ceb74cbf3369227925f2924d5d0dfb527870f0db4) |
+| `0xa89ac03643eb3d0Df7Ac9F0EA092c37f11505afD` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bfad55822b4d87796b59091d10326c5f852e75d97f5969a6ee1ec84cd21fb34) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x256b77e4d4e71c52dfcad27d4d1841b016bc737134f49b4365c96b6cf8dd19b5) |
+| `0xaC33fA244d055bDF02bE96368B82DC560f445bCD` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd4eba3ad4d15317912a21b8869a43f71d733e4f43c7e9cbbf947021dadd02cd) |
+| `0xAD8Ec2920C48dF8a2F82767de93B17D986363d77` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85b277bcbc10312c95be7e2ed7b7d6cbac366d436768be613296920234075eae) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b620a00ec4e8f77f353a5effca54e1b6d7c48abcac4df6e7c88ee8bc45e12e7) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x57a5f818788fc3f0d644336add030049293ef39a8d52941d3a3317fdb4113a76) |
+| `0xb1b1517f4B673203c94a589A8b8D4d1F1D2674CA` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xed70d9a9819eb6cf0a5b8c0f9d9fc32241c4bf77be9936c78ea798c9d2de95f5) |
+| `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb07c0dde07195c74074c304855426ae495de3fd8fac0763c205eedd0fd3b5d9c) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xeec51a87245192c7604e8376d6824179174916a8344a5ed8c3ced495c8434141) |
+| `0xB51c9dc1DB0449539577219221dbAF3D0276cc91` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dfdcb316abc02df04cd83887061c5a092cc1566a3ceff29894c1ea6b151ba97) |
+| `0xb56C3b911B2997E0ab89c2ACaB584fa378A6b39C` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59b83ada8281b131b7bf35ce6715e4186d4d487d5716de86be1db75958787ae8) |
+| `0xB5ae950181376E4F8D3589770ff8D45dFF7a0216` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e59dea1305fa8b5505ace6541abbbfe3804ccc6ca06bd4a956dfb5c7bc6cbc0) |
+| `0xb5B6289bf8e88BC054Cb59aB005c37bcf658b31B` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x058a7bacc1f826bf81cc8a7e1170957b8a4638c792c58d9dce9bab3f429e5cdb) |
+| `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb233a12e61d1da0e306541368b5aa0e131760ebabf448d6f16fcb563b0cb5d17) |
+| `0xb71fa246ACFe8e3228720Afa0ee5760d6d3A8Cf8` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd22784d97d5a305389f35235b9e7becd3c3ecf9f68513062828626f04dd5b744) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | K. Griffey Jr. '89 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0x06981892f59ec448942d6249be905cbba6f48868f5f5d16e238bd92c024a235b) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf049dd351a4a54804151bb4306ffa3d6c558821f0b3e4c16092db9f8913286d9) |
+| `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02e7a4a0750630ff6f70644f1780e5225f76ea008cdc9d5a129c7e9508e313ea) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x7ac2d4c968aad31f953cdd9ca418814d6b593ab024a19e929001c48fffbab0b2) |
+| `0xBb372b06AaeeF2a869D4519c92658a2a6A493c07` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a0d5135a41e6b0e9535d1223d6b50c8e3d07f072f1d8cb0d575bf5f547e95c4) |
+| `0xBD65cdF3C19985cb39797413eB806311a1A4FB57` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6cfb13f54cea5cbc22ead24a7c218b30ad35df4cec462bacf43e4fcb32e8aab) |
+| `0xBdE1b08071421AAB08BbB3133097A589891c25F5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1105584c998aa326be4d04e421df09384bce1f1ca0cc42166048a94695423e72) |
+| `0xBe19bBD2AcEf5f97015CBF7645D6F233509c34C0` | K. Griffey Jr. '89 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0x5dfa6ba372f1802aeeb6db61730aef995a542a3a53bae514cccd2bb7fbebc8d6) |
+| `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x095bc222e7dc4defd1c597c63412074ab9419886854b87bd8f7a21a3f5fe78ab) |
+| `0xbEb17772152b3cA77B842BBD51d7D0A5D63f55eB` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x140c5cd0fcce2fa97d9b02b0431dc934ffcdf599ac1a38525a7a80d356c9cabc) |
+| `0xbF362063439a4ffb6629ee362789f0D317fcEDE1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0dc707c31d3e937ebcfaee54a7882e2dcedd67ba47d6f7245ff0a26d6133f0e8) |
+| `0xBFc34FeFd0e4C73c2c5036F58d15724C50874cCe` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb616943286267ac0e926fafd0e3307fc966b5964f89e3320f09f9c7d26f9c68e) |
+| `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66baf8d6c14e8a5ef0da16faed6a40ddaaa05bb596619f963a7d2f0e9cff4c9c) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc69184fc5b6ad22f71d7866e8fce4f0cac59ccf9508335bd23ac8143faa7bb66) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xcbc388751cacfeaad4fb8409519fecd6602ddf410138196e43f4c6e316ddbb5f) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0424dd7b4199814a7bed75fd224e9935850b0c1321e8095ca59639ac415c2028) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x66cc22eab6cfece270dab5d626d7aeb77a01ede660956a02cbc4247b402a9d34) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c05fa2df6d816552599cf0c25f70dd16875bdb3344a4354ad6493890f631a16) |
+| `0xC536A0faE10e441da39b85F93E67452881252723` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8de7f2edc6b06fe4e1cbbc828d6547f9cc862bee774db58e4479d37081c4ecd) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fcbcc5857947319c23499b864a5c7a9c5c775939f580595cf6540c586ee164c) |
+| `0xC68E56BC4F4936C4105efb1976B5147013A77fd9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6fe79d18cbfa46060149cf19129a33d7be701778242bc89ee244b81687cecfb) |
+| `0xc73aD8f5830f25Ff8D9BdA5B4b312CA71AA8Bb81` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd68653a9b889e55a268b4d833ccbf86e46c81d1ca12914f1f5268271dc364bb) |
+| `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda7080fefe7d8e48f5ac40247d318d08e4dfa037162ce650e6a2f36675fc8ddf) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb84cc2eee6c8f0aeeec10d22ab2a52fb06980b0cac0b5bae4baaddc42fc4fc00) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f8b603e33dbab650b643570e2001cc476ce885ef5179a69a3eff0c4cf26eef7) |
+| `0xca81c99Af4088c278b7BbBB902b3500Fb1DaeF1b` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1104f610f2f11be403ab97d858355a0895a2751f2e041a5522bdb05e4e9dbf04) |
+| `0xcAcb721f8c51cE89f741c0F1C468D94f700AF1A9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x120bfecaaa3c219ed3fd0e0dac530426a958a0af46c6c1c7f129a121b02299eb) |
+| `0xcb200D715eB24483b71f2Cb577E534641C336A0f` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2609a23b4343e2671780c572646b38938484094a8de2d19160dd043bbd0ca8d1) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x980a3fcbb922d548cd37f774d5ae833f1946587065598b8d71f37fcbd65bbd9e) |
+| `0xcBd023029950973879A4Fd95DBac0Fe29d21f989` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeae8a30ad196abd7de94c2b52a1ece469d9ba7b96aaa541cd5cc9fddab21ba63) |
+| `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9be52046aa4c16c22722e6b9a1ad8b6ba23d8918bebadc8da6fa5a139464f10) |
+| `0xcDE595B7D5d7CD6F9a9aE97F2280d4D432fd0620` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd123965b935d0036e1e3512d62b259278ea190a0f755db1bc619a5f52db5a616) |
+| `0xCe3730B98C60A594466A0E6Cb057162C36954024` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef10b54440920b3da85a33fcb55472864df223e8acbb0d563b637aa9159fda76) |
+| `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf0950961d72e7545a4ae3ee2bbcac37702f185c2700972ae2f1f66f6ac400d3f) |
+| `0xCFfE7dc38e91b2970166fb6E9C0ef490f5173fEb` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9013880f7d836ee18ad1bce4681d23d0df17ffc5d2109ef6e3646eb10a0daff8) |
+| `0xD26E833977Be5a722F6fE1c9358eDD048fe6639F` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5d9dc1ac0eb1b476a2ef89d6b598548591d2bdb81835281ab7ab8e2bff36cc31) |
+| `0xd285D2719BCA1183D834CC27C9284B16529009ab` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x29e2b5352585dca7dab762291908ff9946cbe35f7bfdde40465debe96807eedf) |
+| `0xd4657e77FDc23238cB1570a093bd83F79D0Ead2f` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x298cb3852a4d224e6148aac3793e96fbb4c9de52057b68c9d950d85a6f9c87a8) |
+| `0xd4Daa68fE4fb8E1fbC204d3ab291e5A4e1896685` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9f6fd5ed3474dec805f359a4e14a61c306f0a6a88c0eba40e0601a38e0f862e0) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf093ed13347978dc11491c7521f182512d9195a403d3fdbc614f26dbe9249f0a) |
+| `0xD53b02b3530d868Ae19c85f1cFDc03Dd33924c78` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc7d62d8a909b6c224e2ebfe90ac3d2693bc957cfda97aa2bddf1f64d759e23cf) |
+| `0xD58ae1794e2697eaa4F36D80b9b969121471d904` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd12a093ead87db6d2280865016049a35ace55b49a009840f7aaae65298c6acf1) |
+| `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2944c5d56e80d851355cc7ebdf65097dcfeaa87d8eecbc36419dd37a1643650c) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbc1af097ab5368e26538eef342c9ea7ad1e19649269a30c7fa5927dd5113adc) |
+| `0xd78338421b0c53De416c3c2C207B5f340979A682` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x353bdafd2aedfb60d5fa80d61af973fea1da318320cbdf3eed5fdd80eeceb8a1) |
+| `0xd797000176455865AfF99245399D375e266a788E` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9a90895af4629d0f3bce91af162804d8bb09c60aea4e401521c4c12dccb27bd4) |
+| `0xD8B1883527a0e755876018be98b68bB37bc367b1` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6178f46aa8a9c6f4920d1f13ee58767b23eeb4c32fe94c060b53b27eabb3738b) |
+| `0xD9A92c0dE4253979Dc0629378B5d271f634B52b7` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b37587ec3c7b3021b8ac00b0544bab03955f88706a190301e6c33f7550ecafe) |
+| `0xD9Bbb319381F9686B69235b7BEff26A5f49107C3` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68621e61bd42409e5130864e949e40544880de9a36f88a9777e808ba1f97f939) |
+| `0xDa8bB49A6432f599b5f39DB86C0252ad0B0f02d7` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf1c78fb4a2c1c14002a3e588f73b6c46437ca247be091f1010a975e6ace73f2e) |
+| `0xDaA0210b094867F566706FBC6F7683Ba1b736a0B` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xecbfcdd93f41453c4ce6746f626224b3e2cbf918c9373c08c7e667cc2e18d02f) |
+| `0xDb07B2a0eFFa11C8d2f522764442382735717323` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc976baf2c2b48f222a6fd4e105cd27c0f422715e7796a955c4913d7d475c5c95) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5a1a07e761b6dd077deb4b2e4ea295ca464c15650474f28bdf75f6d73350d9a) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9477272c8d67f2a104fc62e29c0ea8fb0d4b11f5e6de880a17087be773f5026f) |
+| `0xdD3eC09E5A9Bdc55392366966B1999B537F870C6` | K. Griffey Jr. '89 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x3af455c254f90f3ea99a20d093aef6d79b1bfcc33d46294a2098703ea41abb5b) |
+| `0xdF63357b882229550E275EF4a053623BfD68a40B` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25718a3d4f0cf447ef1c98871d84dbc9e73307733fac41006f9999f4df2c64de) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82a395e9b1b9af5d80beb5e04ea8dd416ef5df9f380c9fc15e5e4f36c144ec43) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0814d6bbdb7e29cc4c63b729cb225484f7177bd52a303643393f9111a6c3816b) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9cb3a5d43eb223770bb5d209af0b6633f316369d9168bc4e90d6e49f2d320068) |
+| `0xe1960Edd5B5dd02dfF17d509dA2dB55A315f438a` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd88215ec6f7c591f1bf58d86b747d70c36f768cfdac00a10b8e2c459fdf50cec) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9da61a07bb8c901108aaff657c6968926b58d08ffde3f222d5b781db090d5ca9) |
+| `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x12659a5a496ca123f07f221b8c2a977c42a79dc3053032443f530c59cfa34b46) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x56cc2966eaa492b589436d9f65b99144bd52911e1b2fda4c21838f3e52170af3) |
+| `0xe51c820bf454a7e208529874b7B38FBdc7de9D6D` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc21c6d031ef01e73c9249127e2f7cc40ea41f4bfd82a4507621a8694ad181135) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb17d99e843c26511c84a8d247436fc0791ab2a528613bcf88a55cc7d9cbace5a) |
+| `0xE61C8809CEA0FFC3C0468B44eadE87Bb93688FC5` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ef4b72b989a07bdae5b4e8438d03e7db5ccc9af81e640508060fccf06163817) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | K. Griffey Jr. '89 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x924e22e2b39f2a2dfcbff2a1fa245d1ab6b5c53850b52a62997c87c346a2d74b) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x836f14acdf53e68fe51499844b77746e54ee34ae3f2ba13e32c0b7163f927831) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc328f19961487ef3e292bb037c6c9f76f79b857d69254ad9629e0c949da3dfd4) |
+| `0xe9C9A7D4De1d567E863565cE20e3FA72eD9bc7D0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46872e289cba1b3fa047f78fd6dbda5cf904f40c6e5b8000610e5ae2aca10d01) |
+| `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62b823177cb959e3d4017c93fd553b2d678c2a366edfa19df843145b5685bb9f) |
+| `0xedd67c58C4f8471e522C671B0552BaddBc9c7F33` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x90a3d2a0c65d9a98ddf034e8b8f9d3bd6039c3669042fded6064b6cec9835add) |
+| `0xEe1C603234D0cdb94e3C6631B2f10A697b8077f9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0613eabea984af37fd11ee7c4840c58c19c29ccb94d3079eb97e040802cab100) |
+| `0xeEE1eD12e3EdD4c42230Fee8daB8D46eF51d6bDC` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc829af4a99dfc58536be6769be99e599981985b42b75272f91a3121428d54dab) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x90a5d653e5e64f31d5e1dcd5c5df5ef636fecaf863bc4d815316b8036063ca51) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc093e6d074a544732ebb17cf818615c541be0d5d9cf09764b8217d63255a2e5a) |
+| `0xF23C83EfA0Bb64aF1B674356f20A1593C9453966` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11133029c5e4a01b287430d66d31cd4898b08f22799083cfa98ad305edfa8a79) |
+| `0xF2816E54CeE7C76dff25e62DdCcD3b13FECE4b66` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac19f24f62a87494d75017ba00e22995ed731c9f8a03ce8da8b71295bd9a51e7) |
+| `0xf2d433A950E9Cd4d4F0bcCB1c6b5d33686b1FA52` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3060377d8f2723ad5bd9325893c121cf93588bb8634c6c8a9a8c871f915e7c27) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe405636e935c2f05c6aaaceb0ad70102264e28b8dab6586cf575c59da996ccde) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe416d668ca3a05b31dd48efb158c052cb975ef265ae3ff19d539bb76a6d5f89) |
+| `0xf726303f4DDB9AA982519249f4afeA74B5e106e0` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10d21707c59c2254fe0a8c68deaf9a6f1e3788acd3f08012afffd86bfde200ee) |
+| `0xF863a56a46547d0d700E32028984Ee6091A90fEA` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03820b9e0f4979c1ab3ed06436d35c1740c250a4960160210062588851ba7569) |
+| `0xf96dc64EC48565cB65F03884a84f1B5Ce8e89F06` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44caa22520454b9f1640d357f77a8ea7485734d8e37366f534193202d33383e3) |
+| `0xf9aEbc0Fb3D6511a151510905fB10694Bb9AFcdf` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cddb28e1f7a709aa20e0452f1ada81edff4e78ec1038cdcc6d5ba26fd80da77) |
+| `0xF9b034CB5eDa72728e098dA4Dd16ec218a6d52B6` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb30b85db3f108b614559fb47abc4189c26bd501715fb9846ca67bc0b3e2a67da) |
+| `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6593bc9a7e9e4d07ee1ed884bb6fa096f89dcef4046dbee0fb6a9211b8f2660b) |
+| `0xFBD3D28FE29aCA58219feA7a6fb7dbc7DE0826Aa` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0db4a4e1a3dc5008449ff0b3961e670ee6f30b3297cde3496516863a37399f22) |
+| `0xfC2e6F80bc7fA861043E90F93ebF712b379b30e9` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8806f4e38acf86d439ac1eae342d37442e9199902fec4fc07a07fd8d822adc63) |
+| `0xFC502A09854F5685171F6766F22f92121999248F` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa89168cc296a25afe24ffcec821456a121b00719b2110e06d4d23b34800217d6) |
+| `0xFDa3F5f2492dC8B7e28B7021A66eC688916AAb22` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd155a6b82689677ad1781458794e003714324414ec428faea47c57eed957abff) |
+| `0xfdc3E22f377496f607fCB9d8186064d0E39900df` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33b2d026b6d115d0b748375721540f765446dc8814f85603ef68e8110d586b32) |
+| `0xfDCE46B4fC4471720d5160a0F7c4D21d1E2D7286` | K. Griffey Jr. '89 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xe0ade506d162ed0d8e4aa73b99bac4c1169fed5f011bf4349edfa5ffca1a1374) |
+| `0xfe69Ab94dCba95DaDadaD621c8740f391201daAB` | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69964d6dda0e2931836014c13765e781a9d01b34f411f99e4020416153f8f32a) |
+| @Aaron | K. Griffey Jr. '89 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x9b636f34e77c11f01c381676cefed0ba502095dc7912f6513620135bcb321228) |
+| @ParisKennedy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26760197d54ad6158a617795296c085274d0a61266516349d4905b7135bb4d68) |
+| @Rk1228 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x822b778505f46edbc01a343476775d6d21adbcc5e8e138a8af4a53ed8b3f249a) |
+| @Tonyknows | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x19746529d1c9305c7caf62b9d4424ac3457471b9280e4b3f7b466263e5905e5d) |
+| @Newfieldbest | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf8c168ab4ac25d9fc5fd0b319a31bd4b1753cc2d08bd469fc21625ae618d0cad) |
+| @Spyturtle1122 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2403cff031b00d52704ae91910882c818f39a3262d908b7837e7447f636e984) |
+| @Kujayhawk20659 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8254cfd8543ea020fd890238fba25bed6cfbedfbfae30d6402491d8eb8c4d9b5) |
+| @lrsportscards | K. Griffey Jr. '89 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xa3be95060ba0f15e5f582cc4cfb32b79cd1fe630c38f17451145df39c175f3c1) |
+| @Doso | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8d96d3f243f08c4f1af056d73ef418ee0f78a514d86a3b2cd4a5e1eea7be07c9) |
+| @PupusaPapi | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x644904f69ee9499822452ca55d039ab119722aa032c207854eb62b1c11d6611a) |
+| @jarouse1009 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea1cc3f49719b16688384cf53340c03b5d6571ef5862a3dc06716dd422748f25) |
+| @MrMeridian | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04d5bd47ab13b937d5c59c9fb9c47552afb94a6ac34e053cb806c76be7c28e3f) |
+| @Topherbishop | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdaf59b5ef66436aa19596463e42d83742f962ea1e51b5858abb3779128bb75d6) |
+| @Teamvincent | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8ac0be4c9b80de352a8f75e9b80402dcd8dc3602183e14e7cae91c246642b09) |
+| @TurfEaters | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d928aa983fc415ce0deddae3e518643c7476996dd6b256b64b9f3e931f31b34) |
+| @Iwuzwrong | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc390b261a3d276af4a4e31d4a5fb9cf2965f53156094e3ed9e6dbd2792ff7411) |
+| @mikeyd771 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85e0911eac787c1ef5bfa82186d055f4746d9c03fbfb247465743cb89870c219) |
+| @Chublokpax | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3099e54ee143b8e70bf6a1f7861e4cd974feb192c3ebd35f0f30371d057b200) |
+| @Jlaw | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe667a46a8e155bcbf51aaceefb83fe2a526096d83a13311632550948885a70c) |
+| @Rstraile | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcf68ec11fa6910f6f0e00c51eb1535dbe0f1f6ee2f71c680b5e86120eaa8c60) |
+| @Googoli | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0af043196099abbf5b38799d127e96cbd39991481130e5343687dfb1f37f93b1) |
+| @Ldub034 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f7c818b75c02aa0712a9a995532ecd4a00b1bc13f5ee272dc44f442fb709dbd) |
+| @Elvis31tx | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4b704d9a940f5d77dcddab58e3962c5ae4ad52492a6154c45a126de9cd7fc48d) |
+| @nwmarkham | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ac42731b1827634961b08dbbb3b5f8c9f0b71d69d9d346386d68df607445129) |
+| @Jsuch02 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b99bae9d0837b1a42ed7adc2a297e70959a61049b9df8b258fccdbd38f8138b) |
+| @streetprep | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76fad17012ec79e8add2fbcca64cb03241d0d857ce8e672dff4eb6369a556f2c) |
+| @daqlydigital | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x064cc6c7f8678ee2f034678ccb19110222754132dd0db709797ff99e7964e338) |
+| @Darianmc64 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9fc3078fedec50d81cf2c4873bee1a940f479bfa9eb074e1cd703f99f12b4ae4) |
+| @Viney78 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7d9668d5d445193d9a6dd34a057edff97e4db88a3988b1dc1b730a1d452adf9) |
+| @DefectDotVC | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x096bb1add67034e704b8d1718c5335af3fb6aadb4e75774300b8ab4cfa2765a4) |
+| @Jvenable80 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x437c9e4c7feb05c4a2db087324cf862a1e71441191065eb9df0023986863f854) |
+| @Case | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35d9331f081c442b3609818ae1df8c66337389fe50c975dcf573c675e8b1a6b8) |
+| @Jimmy1966 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x245e13ec2b677f1c6e387e448c65d1862bd025be65dcdda4161d2dae764188bb) |
+| @Rosshaines1 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09af7de64ec0a2cbfc0ff37b7cfd63686a0576f30605bc2592f8bf36e516ab9b) |
+| @Weux2451234 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9bec6d9c086212d02e0b75656d86653047cb129951c733a73b6d15128863cd3) |
+| @Rambel | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe83e9cd863662fecce2292347f9d8b067e6ba16d2c83117ab88beb5bb65d490f) |
+| @Metalheadmedic | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6dcc6c518b314e5ab978a38e0cceca9e1cbab5da92cfd48727a93ff19551bde) |
+| @darnoldi | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f275234b1f299aa6522a2bf5e55effdeaa875dca6a74e6002b092e2278c93eb) |
+| @Dallascardinvestors | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7e4ddc4867eb537bb8d91124c845623b39e3012916513d309ea69d0ed431b292) |
+| @PeteNYC | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9592bb2ebf77989f8e235ecc920903358d096716f91a86acfb5faa4aaf3591fa) |
+| @JamesCheetah13 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b13d817c0a7f40eafe06fc57620f8a8d75339e6210c449ebaa50e8d59ebb1f5) |
+| @bneal123741 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x851145a39f2aedcf79f149c3ab153979b4fd5e4bf46b419f32ce6f29c0867947) |
+| @Bmorebirdsfan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac8503e9c062f114156fde86cd9c3a02272cc73193b488db117e1b71bd7b4253) |
+| @Ang_Ambrose | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c07563ca27d689426cdc5954b31554323f4e45ceb85c36b24f82546f1ea6a94) |
+| @Ripaholics | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd98023b0a6dac3a64e39cb382a42d2635423c02240961c3e4d29818ad59d1553) |
+| @inchargeoflife | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef69fef187b64fe59927913822c810e37ac3fd6715438b61dd82e4445ec7261d) |
+| @Secron7 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3601ee43a86e4008b66f9a592826a0496a079ad2d984051bbf89a7e7227c9353) |
+| @SportzRruss | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85abf280cb694bc01ec75d02121aa67992aa09341ba59f6f74862b1e1f470c68) |
+| @telles3 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x245a2a008a305a5c929a22d756ca55962f6c45b61fcbeeb2f81ffaf16d7380ca) |
+| @bowlerewski8 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab75bc584d821af8ee52f9b9d24904cc0c6b0902483c20aa495ebc505783e74b) |
+| @DustinNorton | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1913883742fd9c63e1dc517d1f4f26fdc133e37c9bfb5a1ffd583276f3a098ec) |
+| @Sportsj12 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74161ddaa3cebd3e426c2cd300fe112e30289fea06edfdf11b7b815b59bcd123) |
+| @Amosmoses | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcbcdfcb7d2cc6b476b4890803e3a4ed58b9660b37062dd230d0b2f898b1eade) |
+| @garrus | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9f79eb17ce1fc5096e02a90539d6e96f5597cdec6b9fed2c8e997e6530f4242) |
+| @MikesCardboard | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x759d88c433dcb15630106a6956d38d0a4ab2505c1c4a09b5b271caf8d325ab3e) |
+| @Collectorshobby | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed42a151f5145e2ce1bc6d9ed38e099bac71956829dbf01c1852038afdac6596) |
+| @Jackskull | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b00a2608d3063a25da240c05778a7b067ddc9a56dcaa778eebb814318c7f7c8) |
+| @packslu | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96ec62bc905892bbd3a5a7ceac075f2af7450748dbc8a2b400505d87122f8634) |
+| @Cowboybatman | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8aeb89e09b83cbc6ee48a72133bc9aeaa292fcfcd83971f052ff444ef3206a1) |
+| @Dsilvanic | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5add8e1935569bbb047812c349db596e8738ff4d7b3a8967b671fbccbb71171f) |
+| @Animal76 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5df3087b4cb4ea2d23f2916ff88e89dc0b4ee4335a9bf5f61206eed3fd9d4efe) |
+| @BBeastie77 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4194b77604de66030028a50e4e26d9fe100477e9be8e28bee445d9e7fdfe337f) |
+| @dasullivan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c97c65c8136f62d7ee4825c721954380e8565807edd8a7f76c406911d0d6849) |
+| @BigRedKracka | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f45d415dfd023edf5f2351b6ca53c40da3ab846b28a8f9a640436e48c8231d7) |
+| @KingoftheNorth22 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55f7be30a55e8a44bc5cc10c363767cd74adcf971436a98dab6e71df0c1fb7e9) |
+| @shadohking | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d3ac504590aa8a063616e86ed497da695a78c90ccf348cdffb5f206b4b8025f) |
+| @Dahick275 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd20fe82915f7f8fdf729e834bae3af28e139bc7f3912a0539a53f52641048fca) |
+| @MrSpiffy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x68625e0737efe07d9af52dfa8c4ddf07315d387c83b2b79f23e55bbb8c344ce9) |
+| @CP3x | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e857b116b47560e1d7e03e6ec73826034149070b1aff2a4c107f03e2c4739a2) |
+| @Iusbsoccer3 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f51bd0082113c3d1192fe204871a1960613091b34a51fb07cab8b1371c5a193) |
+| @SDYote | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfc2c753ec0995b82209d187aed54628103874a394f2c7f10acf91385ad9f3cf5) |
+| @Glimco | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d52d0b5c0adbda0ce709fce19dd3cce899cca8ef875e217b929831396e8d847) |
+| @Bigggdipper | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78e04b5822512f699609ce682b746a82406784f3b09c3ecfb3b8b82d086b0601) |
+| @Ironwulf2002 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3cb5f42af5eda67707db8803e2edec758588e46efe30298cf457384219dd627) |
+| @Witschen | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb067271e2b56453dcbaf56c75b60c9355d3640a190df950e0a94b3e627cdf3ee) |
+| @Lionking808 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0bd5e3a3112e630c72d2e2669afd876cdb5776947e1f9f6ff56692915881a1d9) |
+| @mdboydstun | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57ab23b8410707cda24fcb1bc35492b3128cb3eb548015c222eef418ce6e7957) |
+| @wildcatfan43 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x987c46fde79b130a0617e3143a6f9ddf37062c9c3df4fd6b6f991ce2c24480f5) |
+| @Hambiscuits72 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd53c30f876803455fd77c378b18195a3a53a7cf01ee1f6e94e10a58276d98e51) |
+| @MothmanProphecies | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9b33b064a25d220c70da28fb26c7e4a255db3eb785df9447cdd8fbceb898411a) |
+| @GForceCards | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b513681a23ba75ac68adca9a4e97aada06d8fda0d21cd133b03dbfdd9162985) |
+| @Zuseking | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40fd74740a34b4f86d16ecd57d682aff60dab32dcf12d1f76f2c63c49514a591) |
+| @Skindoggz | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ffe862546a2c6f9890ffeb67cf53a261e664fcb3fbc74471f4b945bda44bfd7) |
+| @Sara | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc31d478116eee5f0f7f719bdf9f8bb8a55e42a4b43df861f95139f91db5540a) |
+| @Badia0816 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2d3fb26148faee57c62c7206f6ad149383032bb0eae9706bd640afda2a54375) |
+| @Onward | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb37ca69b3d408dc2611a4ebdb4ee1b38458122b0e6888b965b9a8f9c02810872) |
+| @Joeyyythreewise | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0f72b48509ba85cd227f24e79fcf67d178e9ad34c2c65a95aaf2585f5326150) |
+| @Def524 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc56e84c18250c5ba475a613ed3b079f3f16394c3b62afa8589f7df06d914d27f) |
+| @Cf51 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0115a3ef6c6105d7fb6f58c514a00f462e64206468aa14545810a7bce78de046) |
+| @kbfunk | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5d26d8baf3e543b26ebc76d27fcf2a48a2d781a36626da484ff49704721e8cd) |
+| @cadeclark | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb5a2d5fb5190ce844c399bd97caca5851b1e92e40902a9ee87cba2b2ac4edab) |
+| @Westin85 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe999f7ab55e73369e872bb29aa13c07f50ee88c70eed6850f0708c14b7a8918d) |
+| @Whifert74 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce11da50cec24d64eae2ce95744c1c1ac24e6d434f69e5c929abf198750bace7) |
+| @Schick | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58f1ba110be3fe7fa9665aa14bc1fb9f8c85392436b108659a1d8711d39aacb6) |
+| @Wrb5150 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafe057dd4278443e6c515d635d7df67feea93c25505934234773c5e66f47f3e7) |
+| @BigJoeIV | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecf113f895a25e39ded405cb9b3b0066d883ab007cb901a3a0f6f105bd573d14) |
+| @Raylaigo | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f19c0b861b6817d1846eb9a623ada8bdbe2079a536fbe110bfdabcd2f6007b0) |
+| @Ironmaiden217 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd192a590a637b30c75044d6abfa357ebe270828b94209e48c4d87eb711c9de01) |
+| @rdepalma83 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ae121c893668917a506718893fb030694332f3f8866ac6bce99aec13f829cdd) |
+| @Amil4real | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe13025aa1953519c2eeccecf02bfaafc49cebb040e47ec0d2a7b3b573c72f87a) |
+| @jCleve02 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x742e4285898b2f530e958c47a8d19ef3f76292b32e8669c5d3ffe501b0e80cf4) |
+| @Tjnickels | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd839e8819e2446b89a8119624ce08028fbb57758c4760253cb463aa61d765510) |
+| @Jackets30 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec634840647edfe141a534bcb4b8177f0f68d11da53b180b6c0d28a9a579e5f3) |
+| @Captntripps | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x333b2b43251fda72a5ce257fdd9314197cf811133c74bb07951a1c21306d339b) |
+| @SWAPHYPE | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4c52e1a5f4123f48b1688545641ca416a2ae89b2835fd2e86d4ef4959cba5f8) |
+| @Pooch_Philly | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x607c98676df63b7a7f454e5eae2c31249ad0120ad701dbe2835aa165a7002495) |
+| @fatman3 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x704840b1f7d0943060ff7da399f36e9ad9d41df3a09f2db4d26d0f6ca55cc2ec) |
+| @ibedlam | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97388a4593ea87c4cc52da1a4d3c15dca99c28b17974fc6484f82f9e1dc4d492) |
+| @Dailydoseofdope | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bf8f7c83e5198c8206040be9bf2728f6bfe6145b464b192405a139abe960676) |
+| @JOHNNYC909 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x612f3e65c6006ac9662c6bbce5b93828fe51a9ca9a52258825cffe2f2f490c40) |
+| @pritheesh123 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61cffe2bb1c837118bc879b188def9394eddcff452c18ee7baf90da7f62abbd7) |
+| @barackorama | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb41c818e53cdf497b7f4c33bd739944227ea2ce19de0e5ef8b290b0fba95380) |
+| @Omendez | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3a52654820b6e0ddfbe7517a5d4026b80f5fa5a909d93f1547f83ad5f0f82ac) |
+| @Blakesta101 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x212ad078a8f38c357dc972c0ebb857ac558b9f779f0c8c06e1a8be65b970e33e) |
+| @Sbialowas | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae3191c511927ee912e2f85034abbac45fbcd8dd634addb8245d4e273217130d) |
+| @Littlemancan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa11465788db5824a1770f6025adbbac53dfe479d5b7d63f5f5e6967ca872bf90) |
+| @KrazyKing | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9db6ec5b0bc889e50e33c5904b267b79f186f96bf8d8f70abc2fd32c2b4f45a2) |
+| @manger8882 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x883b918510705a91d145268850e11149b0e17278baeb853733551ae49e726a90) |
+| @carsonsdavis | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2835725097e8cd362e257b354ba4bc2f69c44ab2ff9832685463da7550aab49a) |
+| @Edward6970 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x779cbb45c095d607ee8961f904daf1468542e5d433b5944c2e81e1268f411267) |
+| @blazesandstorm | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8878cacc19975f83d4124cb16434f9fe0c0f578a6a484ccf4485ab658990bd1a) |
+| @Tacotime6969 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0b0811375fb537930a077358ed900062dec9724d46a87676ffeb89ea57a0dae) |
+| @Mrunique | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85c1196abe0aea7f9128d121477a1d8d5406cd0a2531fdbcd9684b2a1628df83) |
+| @Jeffisgod | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34431d4eb7529353aed68c2ea4decfe8905858bc92f8ec24591c2e12f8ee4d61) |
+| @Wikkidsinnz | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7e224b6285cad91c6f17039c2f35d8933fa86e4908a221b160a782ca9612b17) |
+| @Dakota9895 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8d9a49764cdd17ed83e4ef3bf505bc090c3409123a0fee4384de42e95471d5ee) |
+| @BACONCHAMELE2004 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x775c9a01ed44c96559c3f8b5ba9d75ac7769aeec73a6e3b9eb7f1e5c879195fb) |
+| @Chipper | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87dfec32259ddc891df9b8daa21a5fabf7693058e9766b99ac0a381dac2be7ba) |
+| @OddyNuff59 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96add597ebcf207a5f0d4f719cc05d30786d9000e2370b212bb2efcad3b0b310) |
+| @Merlin2772 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa88363f102966008fb1da81e831354a7de8db3c2447d43cb9290ca92542766b2) |
+| @ItalianCardMan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2876565a4c2114f07d590a04a86a21466353316fb7c8c67fdc63f462aadf3b71) |
+| @Gjorkels | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a0266f39703ff3a108dd156681f3b7d63143657798e1407cfb75dfd84b0f8d9) |
+| @Jachild | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72b4fb67734907d28c77b21d03d4288d4638efd139ecaeed7a305b321991e129) |
+| @jnoles5604 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26018cbbfd61a35f5e66c91412db6748863086957a8b4f472708c79ed79f4e1a) |
+| @Cheech480 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cec00816b08fed851d328e9fb9fa07ed2fd5747330b1638f45fdb3256ee95b8) |
+| @Neehansolo | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3d880a1d98ba5e3e3c70c1dbe455f39abbb45fed0af25191e39b49edab8fa1d) |
+| @Hammbonez417 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e5c41360ad8e9fbd8314d3e48953bef6150a55272daa2e75ff8ab57d6c14c97) |
+| @Devg34 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad863aa61ae10cb87da6ec355e52ddfd6baeb00ae097be1cee06aad789d1aa2b) |
+| @aef42 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcd9b6707911d0da7fedd0c4135eba2e86784668065272fff8c0eda7142178cc) |
+| @Grumpy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf75e553fc126dd34149de40dc12ea9e3cace6a3ab21411d6a3995184a5bc84a1) |
+| @TommyGoodvibes | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x987c8a6a0061c3000125ea689355169297590db9329de55d86b0ec694cb4e7c5) |
+| @nolesfever | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e1a806b8d6c620451b27012b5f61d1a0a8d4559530e4659d9320c7b84f69d83) |
+| @Thndrwlf18 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x290a0d90bc720f9291d437ab9de56942343a0485041ee1973f8ca6af9106d1ab) |
+| @NickMiranda51 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c1227a0a44dfa3cdc79bb918e82eaeae5bd604e6c047add447df5b4e4d44ec3) |
+| @Jim_McDuffy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3410a5271f5de1f96a60ba6f64e89e776a7d9566c944f6e5d1074be6c3088110) |
+| @Rth2021 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62d1b1b35d846fc74e1d1a3f0fd00fb477e73aa791596f468d30b27b1bff2031) |
+| @UnknownAce | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4797ff27e4552345c0f5a675ed3c26e88f873fe915add963b6fda6dff05e84c2) |
+| @ByUBeast | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4e4cbd81b3c4218e593f4f9697ef578e5bbba49caece7c4b860d75fd9945421) |
+| @BillyB777 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c6fa1c3e5c65947756e68593482f7237ff85db98b68f1272131361963fd833f) |
+| @Ryamurph | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac4cc3a5c837b54b0ba690e93da5423cbcb0e05ea87fafbf65f92a89653c35a5) |
+| @21izreal | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45db2668645cc9bd1a4e58e6f781cec6da41a117912cd77906c54e31480c91ec) |
+| @WillG | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c75f868b71eb22a6c0179679b3396348661e12d58fd5ddf6aedda0a29ff64d5) |
+| @BoJackson89 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11acea0933486300248221d046cfbc3483cda707768e686b502219bf783f1401) |
+| @Troublemaker | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49882bac8376aba6650bcccb3582eff90af40c0519a982ac91f1e3054db84bcf) |
+| @SCSterlingGroup | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x828126b1d27b8927d24ed61226e5dd739cb8de6726a02bd72489c4e87d4861b1) |
+| @Paranormalkicks | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0838b0197f16c98bd8ffac114340f91e6b02cdca7fe9f451811046f137f31d9c) |
+| @Zner1506 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2504986346b4e758a8721f5b3c71f6eafb5fd53cce18d15b95985e3b4378b597) |
+| @JoeDiMaggio | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x434abbddaf0b8a8ad68bc8455421fae3d62ad5a498c0d87fccb3f8196e9e4159) |
+| @Bigballer8500 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1ddbf4ffa7a092989a39086f49f9dfc1f0cfcd4c2a339daa957834670d99719) |
+| @Heitter17 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbceeac1ca865e3f8eb99755c271cca96a150742edf6965dcb6271e390db52dc2) |
+| @Dkjaheed | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x705f057e24f47d280a13b2a6d66fa57d542001b19984b73f21d849c73666ae19) |
+| @Smiley | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x409569924d12f0f11483f976c843ccb7e64172b1ed3921c591f49f26188ba827) |
+| @Akrondreams41 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b1a829280e4814d780dae54de6abbb82a04c640bd84ded4daa3d51c5793f9a7) |
+| @Xandermclean | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa767ab7dc4add5c370240aff27361a089328f7aa03fee01ad7b2bf70f2747df8) |
+| @Steebo6977 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdbf276b147cef2758c86025948a7b2133fdda5cea760ae57009317a5c325cb9) |
+| @Kguilford | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79a0235a1fe5774ad73ec4fee8405aaf6e8068277ff480db3ceb2caf005e43c1) |
+| @Sportslounge | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x915e9309eb4d07058a2022bad8aed6e00925c5ca9552828792ebe0150cd1558b) |
+| @Cundari150 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3605517b720462ceb3ee73d6e6cd43fd4151319daf5502a5987cfca402b454e5) |
+| @ldrc | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x42805cd6ac07e2cee7f6cffb97e44b574f4c243a5eb19f6ba4315fcfa3ab3a38) |
+| @Patman275 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe10e6fc5555479b39ebdc070fadf37f52aca36d468fc604e82d03a654b114f1e) |
+| @Flybyniteee | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe87d3707e8a45f70fa04be8eb0961710c61860bb4b381a21b36660819c54c98b) |
+| @PrinceD | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c16c203ac1b9c67493e50443b01f1370058c80d1d3dc18c8d032f2b6dc4ca37) |
+| @SoCalDave | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23ce1a339667c2f5768ef158c6f8268f4c890b842be8c3d335dea7271d4039cf) |
+| @Dprice2413 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1eca1f3889bd2bc719949841bfb05341d3b97f787d0d0d01c95141e5179c56a4) |
+| @808ronman | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc45ea19532e7c09128774825abc9efbcabc839629a8a593ec858794753364ed6) |
+| @Jblacktkeus | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae3695259cfe17a21ea09ad31644bf7b48027bfe52d88b5e21829070fd1944aa) |
+| @Rubska | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63ff3b9445b075c7fe6ce9857c3da38175842e4fab4315a65359d7c8c78b4658) |
+| @jmy1333 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b55a63711fb4e5931edd9ec78a6f94cba554357eb382c21d21934fce8ec58d5) |
+| @Kharm | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x871babb688d6a7fca84e0c9257b9b5b142c7cb6fec64277dd94a87f993117fba) |
+| @Br00ke05 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x185bc7c7e78279c18302f225a21cc3e69b45f74f688bd73795eccf7123a65eb5) |
+| @LasVegasAthletics | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc770348265e69378146a8a235703440700fdb925fbb63e0da6480b117bbbb73e) |
+| @aquavista96 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45f766180d81fd2091c4b6b8b0381de944b85d15887fae264485602b7754da5f) |
+| @Nickmiranda | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19b1b196583a5ba89bbea4c6186b4513047437120bcb14de44f1ead3362ea68c) |
+| @LSDreamm | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e116325cf7ba3b3d61d0c148adfef48918f9d79fbe7fd239a3c019fea4bc675) |
+| @Lionsde | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x087818151c3424f854f9a920b7943a24cabcbf775ff15373e04d9c64612882c0) |
+| @K1469 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a76e2311d4d8fdcf5f9d6480e5f2ef962793667d56143533506feafee12855c) |
+| @Pacer | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f87301efc3dd6c273bf9ec289e2cc78056bf50bcaab0a547532e1f20bb73fb0) |
+| @Tractorman81 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29ff6cba778d69351c7d8c0d21e662c422ed03d966cbc7e7c5ae48d95ce12e4e) |
+| @CTaylor1231 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x36b24b83a49cc5d32256c644431d6c92e88a606768ce0b8410b6095438fd1155) |
+| @muzikstylezz | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2d710abf92639c16f12fb7c4ec3222e2687efc34248be33f1bbcb5b27e1f6cb) |
+| @JusBkoo | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f7f5d3a9def83a9ffb2411ef23eac9a6dc643cde9313551f205a7b296f78eaf) |
+| @Nasdoc1 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab0c61ff866b76132d49dce42247dc76aed807a92e24454535e35166a0288900) |
+| @snbrandt26 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf672e32e6aa9a9965f405ff0549c3f22091ffaaa49e58352885741ee07af8b9f) |
+| @Hankisthebest | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa1ca1485b5e916fc848446be4cc99f89ad9a11f0a68dca8f6052549ecb5df07) |
+| @Deeznizzles | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x143486eaf1ffc143ca988b26016e8f439158f91f1cd50a013192b4d59914a7d8) |
+| @Weshutch527 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfac2aaa810598fa3e86616aa236cd33125a24c20224b303373c41a2ca6e2d994) |
+| @chrisb143 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeaa39a55a29979400743a65c08ecc25e1ec1646f2e1ed14911122faa0f5fb602) |
+| @Assbunny77 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26d233824152c65cb2a361540bd44222ed662d27bac49e51350581ab24d690e4) |
+| @big5sports | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27fe7384d21dc00bc669ecc2a014c002b5ccf8de28602b8cf0f9a3a44ac4fcd9) |
+| @Btsbreaks | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0be1d460e9f8f7bce2ff7a6e06895267815464404e96b5b8aebf97e468319c4f) |
+| @JAM1105 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x636eb731f4c3a2cdd4df8ebd997fea1fb28fcd9772cdbf15aed68643bb8581ca) |
+| @bowhunt717 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x865fd3dac13c8c918d95389c51c4e4e352771dab147f9e5c958fb831c0e257a0) |
+| @Kadewes8915 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84cb1f486edb4705e44992f5355becbe61ae7262b4f4f2894c5db81b48eb3789) |
+| @Bigrobc2 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc34ddd8b076556f48e746ef8b6e9466a087d97b602db892a39b1481430ea1648) |
+| @Joevzw32 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fc24181ebdc8d467d0d5b9fdbf376218c43816e88fbe390670cdd1842f850e9) |
+| @SugarNutzz | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x417c95a387240a5ade936ae7725655d0cc74341d48660a64f553ff054af8ed4b) |
+| @Bear1229 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x270b024f32f4657a26d3e3cd6d054311fece916628754e663a50e142fd94e074) |
+| @Ratherbfishnjp2021 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb782ea05e571664a05f6e7cda94afc80c894ff1837b49804dc5173817319a9d) |
+| @ZztopMyr7 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4c465b08b7e6d723a2dd284f20da720a6dd3558e3dbb42d206972b6d35b0e83) |
+| @Bloxkpaxpete | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x930c5871f49ba60b840ed48ac7454cabe0359a69a0e880975276481dad51ec0b) |
+| @Fbrown666 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcb04e92c3bbf49bf3a543a490ac91f9cc4d295d7dc23753ebd3122607225d20) |
+| @Jchesnel1982 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9d8a2cf0684fccfcd3964d42739ef4a5ff94fb6da1661003a0c4280522dc489) |
+| @Dragonrose42 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa21e64608140e31713b25d1264461d64bd715a3bbf4bd61aa0aac794189c044e) |
+| @Mattador | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46a13cc790ced92318e8d83c5c61f5a3e2563e2625b0fe69ecc6f363a88573e8) |
+| @HarlemShawn | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0d4bfc520e174a146ed1a04ca10b2832f8c6c22041d396d7d5d0dac4e4b9ae8) |
+| @bmcmeas | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd61faa624552ee631f73d2c0c8d23e72c1dcaef3a1a2e9d087211578491d94ba) |
+| @Sharky73 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5aa24450c40b47c017d4065401e18219f54fc3c3502853a6d06d8c07f7b7316) |
+| @Scooter427 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b4fac1fa5d12873e100456275c6c865be3312be60a940609b3bb46ff5317cc1) |
+| @DuhWhite | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43087b6a053d06ddf8e1fcc7cf967f1e98772b64970a5aee0fae2a1f77865406) |
+| @Hungry316 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce296ebafee7ffc843a53a5e6e22f69c7d2e71e0e6f5c41d8fefcc44e67686ce) |
+| @Djbambas | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04b044f8450d1351dbde861fb909c7b63566326139ba28e02bf8f0fa3886b52d) |
+| @DaOregonDuck | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa61c6c93afa40253836f19728a6fd1ce78b1f20bfc2d54c3cadaef3aa2917d6b) |
+| @Fliptake | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08668c92d4c586c351a6940414f8ef612adb8b7716bd90480f4047a5f4f1851b) |
+| @Bru765 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa66101906b82691c2334cce89b382cc3c289565302e88c78dba3359d8b63895c) |
+| @Acsimone | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf372133d38f4d8d0cb82f245fc0d048d49a628da79540bf030918bc92508e200) |
+| @Hotsoup23 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb0cb1cd348a243c348787086ec2ea2d99d22b52b40d6a03da123151eb428de01) |
+| @Adamvec | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03915890a7ac175e11e07395d7897e1d5463cf357e47270410a3050048bb9f5c) |
+| @E_MAN0 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe05354040a91dfec76b5bc5856ef38ff31596ddb500bb67db7e4fae792aa1823) |
+| @Dubs45 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3717f1d085b2987ed9cbc89ed45fff4734927a8435e55606001e43716be822f0) |
+| @Tdee210 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d511fe3306969f8a07c5c39da7ebe237de94e6e6acb13ab7146ce31ce8390ea) |
+| @CbBright | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7259e3828f12da62fa4eb3b1ddf45c5b712a05c75de78d3fa714fbc7283cf86b) |
+| @TheWinne50 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7c8e06e8d0a3c73764dcbada483e4349d71e54d3b6bc7bcf181e27521a3cef27) |
+| @Cburn12 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda1fc9d3c695c0d2a77866cfa24c08dcea141c04cfcdbe05015484cf46537de6) |
+| @garrett1981 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x662e4314baa854eefd0b46ee184a50fc52f932110a7a7908a26e79135dd774d2) |
+| @Edge | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd107df223ab0ebe481f67af3787db7262ce33ed9c57410303d614417715280a) |
+| @Johnnybravo559 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8d73c4dbc7f01a8c327f2a884413a039c54f921481a2ebc4a9d97062011615f) |
+| @wguidera | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe97c7e802a1601787739910a3782c60a739478a42c72cf7eae6bc7cbbf0ed12c) |
+| @saltlakesportscards | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98aa73cb1c5b8f66548fb4e44a42c98cf6d214338618cc92175b6ce45da180cb) |
+| @ChrisNTx | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46b0c5fd9d8b4ed3393be742c5b3b7d2f32ec1788b81d892f374372e87a24a5f) |
+| @Sux2bmeagain | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb98d763cbff0215483caa07b78afe1ff250853bf6dace84e8cc9d61b7228509f) |
+| @Richcard | K. Griffey Jr. '89 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7ffb98c41b9e128f661876823e803584ad51ad4a7ffaec96f2c7f7ade099b9ea) |
+| @Aknabe | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccf103c257e7f5f5e0ced2cdae38990c2e375b573032132fb1f6e552685762a1) |
+| @Thunderhawk | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa10c1969dcb281951344afe031713ffb8c82f803506cdca7afed7110f6eeaa5a) |
+| @Uonedery | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdcf04279a65d806ead0977a265ae214f84821af524fb97fd46f07ba3e34639f0) |
+| @Twistednative | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x454c021bdb975a93d952e1c5515df60f82ea64eba199bec4c29de01c7e921eb0) |
+| @Toddzilla23 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c9f2ae91b891d897f4416ceafac4dae839f3b7acf7c3f05a9e06eb7778a81d3) |
+| @jtizzlefizzle | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe55c83dc37d15e99f29808b4953432bdd15e92f8337378a39a19d33806d939f6) |
+| @Kingpin300 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1feb69d83d50d6203e50cc5af0a4053ea4c8ce7de51b1fccf27884652744f111) |
+| @PorkskinZ | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5ea7b9bbbba8ff9b91cbb872cf8433166d3f538f49307d89bed54123728133e) |
+| @Gmrturtle | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15e299f034225eaf2bde8e56eeb9755d0873b87c18dc1e9f8872d53e116923f0) |
+| @Rhut | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb471a3b14f175345e362101a09364d32262841995eb8d191e02cb8e18fbf0e0) |
+| @B-rad7878 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb7bbfe9c2c90aab0bf5b598ce30403e6cbd9891f3929ce0791a7a7816ea39f68) |
+| @BlockchainHOF | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x17fe26d13645ba7adab2de8fce676d7b411472bf578cba913748482faf260c3e) |
+| @Hopper1055 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33b470af9d33548eeff4cf486dd79aa8fe9eb0f5d793bd5f83acbfcd7e6d58c3) |
+| @Shawman82 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac130da380337f17c6abd400fbdfb0f772210c57ae8a19b7b6daebd8b26e299f) |
+| @spendels | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x932ab49e6adcf9fe8733d550b5c852c6c178ffce5b3295f8674c4adc0c876aa5) |
+| @Tdermy1999 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf90c608601d341384188740f59fa7be3bb25c9c0f231c98c60e2900cbd3d6a9) |
+| @youhwanchun | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x503917ecec91ab6e76f3b5e29df89c064a3d2aec5262d7b80eed2be2e8fff4ab) |
+| @CrzPrz119 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc4d9c6ad7d3379c30ff28a9e997aa6a098e29a28e58f3f03f6bc263f0c8bd7fe) |
+| @Cuhcs13 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02c9937e79c2e3a62365c3992fbda6deb74cabb4336a2aa1516f50459755b337) |
+| @Moneyteam7 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e0a3ef6395f6b84fae3425a0d5b4f416a9d18b08f99e02d1256a4d0aa89fa10) |
+| @KobeCollector24 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08bb093baa0b665a9456cab3df2940c38266de4c73eb2f192f7b668ef77c5172) |
+| @Abarrera12 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe5e736673795fd11a8a749f046e14a6960f702963fe7303a21de99abdb920e5) |
+| @Captrpm1980 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f1348a89e361256c753c825c86550f88d8c580b526fe6580c2a2fc25572cdd4) |
+| @Caliking | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6f4bbc6529b415d33a42bd3beaae7373ff3ae1fe14dd9859d0d0a74f341f8573) |
+| @Poppinfresh | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc18b4c0051ce5988e7ec4c4807ff3929fdbbe34a3b5164aafd94700f24b9da7) |
+| @GodofnoFucks | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff8572ac553973835649ab3a26e4da323eb9e6c244b84ee20f5c2bbdc80622bc) |
+| @Crazydude90 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb650220314c85424edc22b8c2fb20a3db41653d32ed95ab9f2738f8042f4e36) |
+| @Dufex12 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66ba3e5e6a356bceca0adfaa2ce24590da19b304c253388b4466e1f2c3b4d412) |
+| @Loustar | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2b15bd7b8eb621ce6e260049437613aabb9d4a79ed13a5e25189c44a3af1f86) |
+| @Squiggs17 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea4e92cc72c6333f1bb882010dce855df0c07a82793124d2a2824aefd9d40600) |
+| @Stuart67 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b5854fa5dfad4b4a9e06bc2d95873df8502be755271b37af5cd282fdf4b46f2) |
+| @BigKat79 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7d5f93a8d26f84fdef5cdf796d05aecdd84a9b6fa31cf560bb35e919db911ad) |
+| @Beavs559 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37890616552cbe9aae52c91282892f4cfa6605983634f4ce24759f7d5365e123) |
+| @Vahe1993 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x99bcbe532aae2862b399e5cab782d632d2a54312aba4dab1ebaf2443e0145a20) |
+| @GoldSchoolCards | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ecc0fdb154a877564382056211c7ff73f80524cb3a1596b05512dbbbf7b2ced) |
+| @4K2J | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf77e60afa328666789dba9e800b6c33ade8aec8c853e605c94bf58eec239c835) |
+| @TXhaymaker | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x752600360ae9b9096bfbb5f8cb523d7f68d414ec984e31d6cb2f262e1fb7f3c8) |
+| @axspointe | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb95b8919a32bd604e0f7c78257dccc95336c021ae1c650669299d97eedf84c9) |
+| @NyceGuy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x09d0d3b2ce2821e1ad87039ac237d43820fa867990ddceffe12163aded265cd8) |
+| @Cmalo81 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2164dd8c9d3531eedaf023353f3d5c0522f44b8e37ee38e0fbb2f64e5c16eacb) |
+| @daytonreece120 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1f6970c26754a7d4ab8a8c712975fd318fc60fa5459f826c83fb7e40964d4ec6) |
+| @Codyb91 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fd95cec7101b37d7879b3fa6833d44e9b7c50279831150960bd778d3e592775) |
+| @Wellsd30 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcbadaf114de56bb93e26f42bf63880fdd543bcc2365beaea42e736b0e1b519b5) |
+| @jaymez25 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d90aab5d1b0e4a68ed1b9e6a435cbd12dd824948aa011eb709ccec43e66ec8a) |
+| @Todo1111 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8cbce4611a590dd7070e18695f4e669f32b3675e9607ed9b7c8c12966c24ac80) |
+| @Deathgamer | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe59ba4f9dd2c31e07f570c73480aa708aec7aa28e59fbf7673c31b3490e30428) |
+| @Bombartist33 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0601444fb8e9ca0e0cfdf4f44e80736649a4aa1a1c806556a4a4212be0ed88d) |
+| @Jrocksdoesit | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2421b3d0aeae49915ed053fed2805ab2d377a6bebf9bcb86065ccbf07f22cfa0) |
+| @Corycorp | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88d62a8fd0ca64a7cd37dbda649b9ec01ea9537a0fd4b9db7a0f607bcf8fe5eb) |
+| @Poonior17 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x60a018eb52e9192b002f9cfa25169f7856a9be2bcde135900e6ab21d2db0ece3) |
+| @fhazy | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cdc4ae9128552d731e95ec03f4f91fcfab5ec5674a36990d7581b3d872ec679) |
+| @Bruinbill8 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67481ae5dadf20825d6738f4ff5240d6858d6458e788f9f629744eb9827d039a) |
+| @cryptopop24 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39710aaa915891c9a531339150aef6733f8f55a57f5e576cf0ed29bf5f6444be) |
+| @Nickydons | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x561671e7a9f3e5798cf22f1a4ee22b659590a4f3a88b5f8ece88dfcefe69c7ee) |
+| @hmukai | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7ddc71556c74ff39edcb9f7521d8f145464037326096533c14d266b7fa9b43d) |
+| @Dsksports | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf71d1fcd5e82b41a0a4b2d26db42500f5cffeab0d99edb8cc85094f58f161a50) |
+| @Jusrich07 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7baa883df78e41099df959dd9c459ac245d1541ce22a332c3b2de3f5163ab88) |
+| @MadKansan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa699b88830bc76314bb729f3def2d28c0a93b28192e47c6a2e45f9d5b6829cd3) |
+| @A14U2NV | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dc9d1d11a996d4d7c4754ee71ae9d2b9b0af5e6b6d5062050abd1006b007f6b) |
+| @Bighud | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03f9b3db3eb616eaf41654b8c7b43a84dc58986086dc7de0493b18a2aff07d9e) |
+| @kcraig | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8da1f2951de9a77e0efdfb98d3e61c184f40aad218cdb8abe1f91d5fe32eb734) |
+| @Meghan | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x072b3d07989f980b91e47aa5b29d9c00ca9ebe05dc53f5dabdd7f02cb31a3581) |
+| @Gators420 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98fd0d1b556f757ef1e9d16339df63063614f10797833dc858d7dfc17d1a5823) |
+| @Swiftly_19 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49fc9a41c5486575bd9d92fc0efba9bda3c958a5d0f6f31aadd3aace547ebc0e) |
+| @Coachmac117 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f7bc1f829993b01092c6d8af700ac66fa1407b43abeca584a04e04f3314aa35) |
+| @Tpc7769 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66e7c6238eeedb8cbd0de041dfd7e35588100b50d2dffac9953779a99ec1ab2b) |
+| @Nimmer88 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43818f21fb10c2bb622efd060295b6948003d8ed544a4451ebeba48096bfbf45) |
+| @Jbrown1310 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea79e957c3a8e0cdc7b46c804d90b2803e8f32702ab6b13b075028eaa400dcfb) |
+| @FergieNFT | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b6e7ff5c8a330357e213d054d3febdd9258af9b3b5810ad538729a732d2ae8f) |
+| @Bjamps09 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x635534db1ea06684d3fa644010e4d69d2a06bc43dff3fe2af313d487992aaeb0) |
+| @gmadman211 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34271a3225b93196a760059470333bd1f8f5b1ed13d4aa2821d052ef689d04bd) |
+| @Katie | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64df6ab0b1bd628c12916de3c3dc3314176fb1db46da738dbafc750c5caecc88) |
+| @Migjug | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe11d2d3e64dea172a2ae975e99398e44bcaa0d6791c98559a6ed33f7282f8a10) |
+| @hodlzilla | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07dd3fdaf835e6d4f6bf1497b48ae8c784563e9226635b58702dbf6b018942cf) |
+| @Metzy0726 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00dc785e7a858edce40093abacba57b9bf0519cc6c20ef75bced8b9416d08a1c) |
+| @brayden195 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84bee384d86cacddf6b4352d3c7ec3a0726cd36748c6672b9e32df00cc6ae6d3) |
+| @Fg512 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddbdacf231d29d0dfef8053fe33cde5322890512582b5bfd0992955399e63225) |
+| @Ichwk44 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a1940393aee3cd7b917986fa7752ed9b1b99548ca6d8c709c02cffab0fcfe93) |
+| @Westuh | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x573620bfef115332af36ba50dce0d6483b4568c4035ab362cbfb81a11d421ca2) |
+| @Algarcia3 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb45925531e08c183960d6fee6ce14171e013bd95d9b127e1209737627a2f024) |
+| @BMWALKER1789 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfccbf6577f6dc824705bbc63ccafa843c5580cb81b73228a931f689afd5187eb) |
+| @Ryandicarlo | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea8b2d1151d7f52417c37dd02a9512d1ead8ebb2e1e7e3a06ce4f2f22c41e244) |
+| @Perrydavid1985 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x43ed47588819d60c3a12fb715c7a206081ead8dcdebec48f69f76af74b1bc1b5) |
+| @sportsbets95 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c90460f71f8159ca3514922bd1b785231b36d7f7befabdd417277653bb2451e) |
+| @Damon4higher | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c16ee6e3c26ec049f3a942504066c43081f3fc56d741a32d3875cd9b5772b61) |
+| @axcilla | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2274381771e699842955b541fcd868f8a11aa0fec7bd92658b2dd251bb1246af) |
+| @Rolzs | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x469fa0ac1dfd4d3a5f17d8726b24e9517f794e73446e91aab8595dbe0e4e45b0) |
+| @Non-FungibleTravis | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x045c059f847ca6689d86cb9513725df82ead118e56131fdca2bc9ea1bd035a31) |
+| @Schnapp985 | K. Griffey Jr. '89 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2b571f3ac667d4415c81a6281e5cfaef58450cc8dd0999b2ff5bec130caf5a02) |
+| @Jagray6973 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad816e1db0a454810bc7ada51baa6b11db13c93a1cfad869f5c63c1a342229a3) |
+| @RaySantana56 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d13533b7919d578eb53b24e691ec8a026f638b5ae65337f3c6702b3eb947c1e) |
+| @Malthorin | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x374cda8e83b1b3c67aad50b8f5ea50e24cd21b4778e0398b5d2ba17fade6b415) |
+| @raven1 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a040696a38b0977af5d1e3a640791fc7fa97267742148d333c94c146e009b8b) |
+| @bmachurley2 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78d00ed4eb058f7129ae4401c3b2053f69821daca52aad8d8a84dee4ffc96a1d) |
+| @rubble | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x239f2103f9611bf5814cba2ab4585115f5fe6973c4dcc4e984d10bf81f281ee4) |
+| @Mjcollector | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc89916631a0671b16352f850d02a16955228f8da8022accb82d57c88fea0e434) |
+| @Mauge04 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1373993ddef2a56d200a683d5690cd70daf298a8a3c99bd80d8cbf8bc54b4dbf) |
+| @Killerkev68 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xea84957f0a42cb95b00a4283349ec102429c9998ea8b41bbc69e3254a8560fb9) |
+| @Bodyb1960 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47f0469303a0e1ee7b92d8214e1c58c1f2fe29a5f262de3d2e3c724d284246f1) |
+| @Moemoney | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca9131b76e94c30f872aea0d6cd1fe76daa332b5c82d07a5c268ebdd85de23c4) |
+| @Jrb92aggie | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc8aecac54a32b4de236790262d1f0f75862d7c912f0e647ef3087c6c105e18c) |
+| @walter7 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x279400cf9c967f4eaa0cd1450b24091eb7388c2396915043843b6a9a8058dd21) |
+| @Lkoloen1984 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb74fc66d43dc6df00ca034dc8e8b54e2e7bd9ef77386d611a023b2c3a8e0e101) |
+| @Beatingu93 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0adec30808b4ac17ba5abf09f1ac598bbf67a8e2cae2a9a41a274e3eba524207) |
+| @Matt12412 | K. Griffey Jr. '89 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90b1dee150098d05be73fe4e7fad6197233940f544df68eab9d50048e3a8c990) |
