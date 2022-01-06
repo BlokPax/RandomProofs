@@ -14,7 +14,7 @@
 ### Token Entries
 
 *Note:*
-This token randomization is the same randomization used for the initial [../](Tiki Treasure Hunt). However, all tokens that were not delivered to wallet `0x36F8CB4791e4F86eB733b8545F8c6fE239705c06` have been removed, as well as any winning tokens from the initial drawing.
+This token randomization is the same randomization used for the initial [Tiki Treasure Hunt](../). However, all tokens that were not delivered to wallet `0x36F8CB4791e4F86eB733b8545F8c6fE239705c06` have been removed, as well as any winning tokens from the initial drawing.
 
 What's left are tokens that are currently owned by TheTikimon.eth (`0x36F8CB4791e4F86eB733b8545F8c6fE239705c06`), in the same randomized order as previous.
 
