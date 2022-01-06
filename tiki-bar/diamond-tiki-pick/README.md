@@ -5,11 +5,13 @@
 | --- | --- |
 | **Token IDs:** | 1,269 |
 | **Randomization Hash (sha256):** | `31dc10df7693a8b5c501b1cda518e11430d92bcab2755e1ad429575ebc672c48` |
-| **Random Request TX:** | [``]() |
-| **Random Request ID:** | |
-| **Random Response TX:** | [``]()|
-| **Random Number:** | |
-| **Starting Position:** | |
+| **Random Request TX:** | [`0x8fbb55796de28ce153ea91573cb158780095f83391c59eeda3ccb9852f7f1072`](https://polygonscan.com/tx/0x8fbb55796de28ce153ea91573cb158780095f83391c59eeda3ccb9852f7f1072) |
+| **Random Request ID:** | `3936613861323666643432363437383438643866666233383764346438333435` |
+| **Random Response TX:** | [`0xa10294eb1999eb6558c5278c84ba5ca126f25dc1d5662817b8b64e0f965ee147`](https://polygonscan.com/tx/0xa10294eb1999eb6558c5278c84ba5ca126f25dc1d5662817b8b64e0f965ee147)|
+| **Random Number:** | `17822853260597796649871285689572602243988251284920152242565400874099443020695` |
+| **Winning Position:** | 1174 |
+| **Winning Token ID:** | 8463 |
+| **Winning Token Owner:** | `0xa335ade338308b8e071cf2c8f3ca5e50f6563c60` | 
 
 ### Token Entries
 
