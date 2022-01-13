@@ -1,0 +1,403 @@
+# [Elimination Proof](./readme.md) / J. Elway &#039;84 PSA 9
+
+|||
+|---|---|
+| **Drop** | January Free Starter Packs Drop |
+| **Round** | 4 |
+| **Started** | January 12, 2022 10:00 AM EST |
+| **Completed** | January 12, 2022 10:08 AM EST |
+| **Tokens remaining before round** | 6,400 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,200 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | J. Elway &#039;84 PSA 9 |
+| **Internal ID** | 453 |
+| **On-chain ID** | 160 |
+| **Image** | <img src="https://tcdn.blokpax.com/954504e8-1ae8-488b-801a-a065455703b3/6d1a6cf2142522a3fd6394109b6b2c5c42d21c943488adae7b0de0e9edc85e2a.png" height="200" alt="J. Elway &#039;84 PSA 9" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x4DaA1f21e9e7ea15fAefB9430B587d5D1d716b56` |
+| 💀 | `1` | `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` |
+|  | `2` | `0x7B981fbB1DeE50335d0b4f7E036712E8E5D67FC4` |
+| 💀 | `3` | `0x8c3B850344AF87cE668B5fd6Fe30fbFd89B1c49f` |
+|  | `4` | `0x98E8d83E067b65cE8ee23124A0C054E262F0f810` |
+| 💀 | `5` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `6` | `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` |
+| 💀 | `7` | `0xcbBC30650745aF2b8951Fc34495F0F4585e2Cb17` |
+|  | `8` | `0x42eAa3945C0D8C172Bf47595e3C7738042430085` |
+| 💀 | `9` | `0x9F966607d87989913e4a515D768316e3eeC4bE77` |
+|  | `10` | `0x5BBDab4B9a312BAbA10A4AC1A30F5Cb292ca501B` |
+| 💀 | `11` | `0x10D2E171Faa2DdB99500c932d6ea3D9bE4f66842` |
+|  | `12` | `0x3d8358a65D7d0Ca5dd7Bc30F114E8768AD69fe43` |
+| 💀 | `13` | `0xC61Af6556F1F0D3bBA7B626b0237290fAd592Fb1` |
+|  | `14` | `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` |
+| 💀 | `15` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+|  | `16` | `0xA47cF74BE15d4b7227789cf4046acbe07AAcD98a` |
+| 💀 | `17` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `18` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `19` | `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` |
+|  | `20` | `0x7107B1221a467559c2Af17629AEAF46806626C57` |
+| 💀 | `21` | `0xC7414626B1315D9D1A8426eACDB0972F656C2EbB` |
+|  | `22` | `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` |
+| 💀 | `23` | `0xa90946916C8907D8989DDB03cF88d45f3a540127` |
+|  | `24` | `0x0cA824D88D9d84087aBdBbE68c4797e6D5A4a7DD` |
+| 💀 | `25` | `0x8087F8217aEaCb03306DD4a9Bc06bECE6D92Aa67` |
+|  | `26` | `0x99395F845e61546b887704811a61455F03277eFC` |
+| 💀 | `27` | `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` |
+|  | `28` | `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` |
+| 💀 | `29` | `0x1aAC00C4E71069450BCfe8f6D4f3E58BCD49AC77` |
+|  | `30` | `0xf3Fd3FBB9b9F591c6ED57b415b67aC16df33BC75` |
+| 💀 | `31` | `0xF1a61d12D0f94De2702fcFB36d975bBeb3ce6090` |
+|  | `32` | `0x0b1cBc4e7F30f2ED67E81554BC6cb0B6A8e1BA9D` |
+| 💀 | `33` | `0x096bAd49Ad2F3601E70B957C9a41Ee54b3EF8913` |
+|  | `34` | `0x952E47fa6CB58C47Ae661090bfd0B97e8FD2fe4e` |
+| 💀 | `35` | `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` |
+|  | `36` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `37` | `0xED8B9dAbE4B259a9C1BF42c325059dF724fE3529` |
+|  | `38` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `39` | `0xD1aaC6Be4Ef035df40A262dAD6bc38cB6798B4dF` |
+|  | `40` | `0x4AdfA415a82a9f44bf9509A5BaA8549C519bDAa1` |
+| 💀 | `41` | `0xB92c1Fc4a0e469e42B51319dA772ab1E468069B5` |
+|  | `42` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `43` | `0x2474d0D3426f49D0Dd52Ec8fD83cC929b0B28A5B` |
+|  | `44` | `0xe8F63f4f42876Afd29a38128fa959F820763Ee98` |
+| 💀 | `45` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+|  | `46` | `0xEB7FA86608A033bd9eCDaD3D15C124Ce5D8954f7` |
+| 💀 | `47` | `0x7D4806E74e34f93f7852a6Ca6fe7D85E7d4774A8` |
+|  | `48` | `0x9FE8B927386E8BDAaB7F2Cb9895156E99feC3492` |
+| 💀 | `49` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `50` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `51` | `0x43dD9836D7312f5CF7Ef041a483e592cE35d5440` |
+|  | `52` | `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` |
+| 💀 | `53` | `0xAeCa7B87eE9577d436B77Fa22c665E4dC9d738A1` |
+|  | `54` | `0x578807307E6ec66968c21cF4aA35B8c6310dFb8B` |
+| 💀 | `55` | `0xa340Aa3cfe5a625a87934952F2a9fcf5D02b6595` |
+|  | `56` | `0x60224e4851A4B8Fb98038eBf9134e349016b8647` |
+| 💀 | `57` | `0xC41752c8A1732979Ce5ac8CC495c6604579BEf9B` |
+|  | `58` | `0x8DE6456f8B33B6412d929e54632020ed07B6ebd7` |
+| 💀 | `59` | `0x6A275E96Bec25F6669c64833F29F75341b5E0377` |
+|  | `60` | `0x0a9a893ed9e173b3298C8022E959eC6691673145` |
+| 💀 | `61` | `0x0570080E28437a2521755104fAD8FDc4e61B48DB` |
+|  | `62` | `0xf368E47249378f6cb1847B0892669163d6e7967C` |
+| 💀 | `63` | `0xc3685f95B0bB5c46Aa257D9EFbEcb96C18a91399` |
+|  | `64` | `0x58C2385589572657736949A8B2b7B4F04c0CDd9c` |
+| 💀 | `65` | `0x988532FEc638666C18FfDF54b515F1142Dff96e3` |
+|  | `66` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+| 💀 | `67` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+|  | `68` | `0xF70d054A678540BaA3639e92d83b1FC969626FDb` |
+| 💀 | `69` | `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` |
+|  | `70` | `0x4AdfA415a82a9f44bf9509A5BaA8549C519bDAa1` |
+| 💀 | `71` | `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` |
+|  | `72` | `0x3341249E97222065294F50E9A4B58930Cc998642` |
+| 💀 | `73` | `0x3724DE78109c0a27C82c47E47c3fdA3C6396c7ee` |
+|  | `74` | `0xd799F1D160B7906e53F50d5C226fFA030Eb7600a` |
+| 💀 | `75` | `0x8ff1878fc8F41bC64124e013ae39fc2cF6e4Dcac` |
+|  | `76` | `0xfAfd2cAf198738955759b1F8796b028362788218` |
+| 💀 | `77` | `0x3e35461030E8AD060509dC08650B576e63fb00D4` |
+|  | `78` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+| 💀 | `79` | `0xb32EACce92ab2D714C378f00afb2113aB7AD3bCa` |
+|  | `80` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `81` | `0x383eA82467aB74005E5A5847518eA8892a8174FD` |
+|  | `82` | `0x67a5A4C73d4F89aB3Fef7BBB8E4BC5Fa89c1b809` |
+| 💀 | `83` | `0x3969EF1F9Bf2300C510b73c1445dd0a9E06F4355` |
+|  | `84` | `0xf3Fd3FBB9b9F591c6ED57b415b67aC16df33BC75` |
+| 💀 | `85` | `0xd947938D49FD12ee3259acf4716d8FaFa2E88808` |
+|  | `86` | `0x2966AB8B6C0C7382826515B4283bA2D5b9253C45` |
+| 💀 | `87` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `88` | `0x67a5A4C73d4F89aB3Fef7BBB8E4BC5Fa89c1b809` |
+| 💀 | `89` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `90` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+| 💀 | `91` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+|  | `92` | `0x031E4D326aDf1455B1eeA948413D2Cc66aD0deD6` |
+| 💀 | `93` | `0x2c8AB0c1c5775EEe33517336370533A314E05526` |
+|  | `94` | `0x3C29Db55027BecD0b626AB3592A36E9C64fCEb4D` |
+| 💀 | `95` | `0xF42d9e603140726f3250506aa40447b45792a3B2` |
+|  | `96` | `0x5Ef48d14BA9A225763609101C20F6A1d26e08A84` |
+| 💀 | `97` | `0x6cbA7Ac2a051991890555E3aC40Dc5ecf89feFD8` |
+|  | `98` | `0x7Ce276e88BfF80B3C45FE2fc68cE264445c5DF77` |
+| 💀 | `99` | `0x9bec290354AD1DB581BD8A8235cC5a62c8dB1930` |
+|  | `100` | `0xB3A028D6F28b35d0f805b487Aec41f601A1B8059` |
+| 💀 | `101` | `0xEE7b1ce0734b05A1341159Ea256cCdE26cB17405` |
+|  | `102` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `103` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+|  | `104` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `105` | `0xe3411e4E08033b2722dBBF347fbD1a83Ee01274F` |
+|  | `106` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+| 💀 | `107` | `0x0d5b6F0Bc46080ed8Aa7C7197Cb56366bbF4CE2E` |
+|  | `108` | `0xcC62f5B9635a4E330D2851bb19341De80F4aDbcA` |
+| 💀 | `109` | `0x4DaA1f21e9e7ea15fAefB9430B587d5D1d716b56` |
+|  | `110` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+| 💀 | `111` | `0x56B1C8E93ace509C65105668839d084cABe94949` |
+|  | `112` | `0x9e136cB4a50FE45b76367F905e71CCa5857672b4` |
+| 💀 | `113` | `0x213d95d13f3238AB4BB9b2a8012451395b6f087E` |
+|  | `114` | `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` |
+| 💀 | `115` | `0xF0eaEcF953c3EB39B79479AAD24CD4944bDBf475` |
+|  | `116` | `0x7FaF4F1dB396c2A6E4178B4dAEACa0486a20e96d` |
+| 💀 | `117` | `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` |
+|  | `118` | `0x881FEFfbEdCBAbcd11cE5b1A16d001f6db40F279` |
+| 💀 | `119` | `0x86f6bc5044f2D25772546c0738bf189d74535d6C` |
+|  | `120` | `0x1EcF29984907a69309AAa325052004d8D566a18D` |
+| 💀 | `121` | `0xea41167968127793B069a5732E0c9DF004F27edf` |
+|  | `122` | `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` |
+| 💀 | `123` | `0x74F2A8c6F166502D05C6c4428Aa3B23Cbf66b25A` |
+|  | `124` | `0x7EB9Fa845746d15BB1c2fa49E8f622441C2439dc` |
+| 💀 | `125` | `0x8948Be624A5d5a8346Be9D10F87C404cb734a3a1` |
+|  | `126` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `127` | `0x53414C6c495D34fEAF4c8AC667f0B68C028CA38C` |
+|  | `128` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `129` | `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` |
+|  | `130` | `0xC0BC79080FBd730f3F699cD7A98DD86FdF82c4ed` |
+| 💀 | `131` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+|  | `132` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `133` | `0xDd0589Ba42967eE29136097c4427d47E57A58adB` |
+|  | `134` | `0x477c4437802A36D357d849cee0120AD804d3b36E` |
+| 💀 | `135` | `0xB15137f5799494b7592288E2980d758cb288a027` |
+|  | `136` | `0x1e868E0F5948Fc94ed99DDe0d0AbA939E7677b47` |
+| 💀 | `137` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `138` | `0xBAFC617BE702371a1EC9dbf5d688013fbBB91fB3` |
+| 💀 | `139` | `0x1950f28CfF91B0777630437643D1B18D668AF069` |
+|  | `140` | `0xA47dAfCfb7E3d4E456C88fB392fB8Af5f24186B1` |
+| 💀 | `141` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+|  | `142` | `0xC0e67A6BF77d5eEa4a34252c5ae27A79ab550eFA` |
+| 💀 | `143` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `144` | `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` |
+| 💀 | `145` | `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` |
+|  | `146` | `0x25b30d8956C06AAE3A6795B9B590C9FE74059686` |
+| 💀 | `147` | `0x6285e211ad97c2289A3196D909F58357C8A27A07` |
+|  | `148` | `0x1b7A5023650dd0DE2d81F68a1f447DF63A789388` |
+| 💀 | `149` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `150` | `0x9f8ED4F0000c750368C0AaCa6106eAc4FDC06060` |
+| 💀 | `151` | `0x53b491a3419ec70458539F1d0A5F38372f20a302` |
+|  | `152` | `0xBdBdc049746cE24e2243999cD9B0eb83722DcecE` |
+| 💀 | `153` | `0xa5530c389E4548C525AC674039E3F69e88aFd26B` |
+|  | `154` | `0x7632E61462D463769444F0D900FB21bBa351EA8F` |
+| 💀 | `155` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `156` | `0x74Ef275FCf2DFd40A0026B218c19449859604A80` |
+| 💀 | `157` | `0x9008f978976414b189f25d0E21B143A9A18f857a` |
+|  | `158` | `0xb30307f5a60E70F63dD348aa5b37F8342dcb339c` |
+| 💀 | `159` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+|  | `160` | `0xD7eeB6AC192D08833E529aa18e291fB7A80893bE` |
+| 💀 | `161` | `0xa5a49A1Da72520AaF82cb8F144D2CD8F8602b5f2` |
+|  | `162` | `0x0CD9587628D753CB5CB2e5d4ABA7D573E3250dCa` |
+| 💀 | `163` | `0x56B6673c3bc30Fbd588EA60BD32228AC1947387D` |
+|  | `164` | `0x62acB652CB80403Be7C24D2aa020ae3032603e2B` |
+| 💀 | `165` | `0x53414C6c495D34fEAF4c8AC667f0B68C028CA38C` |
+|  | `166` | `0x1e8a438Dcea1ce828C61d0A97fC651D510970a3a` |
+| 💀 | `167` | `0x99fB1e57E69193A24978861249E8676b8B4ed721` |
+|  | `168` | `0x0697b2f25b9589Cb8Af0bA4C3e010f174FE73D74` |
+| 💀 | `169` | `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` |
+|  | `170` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+| 💀 | `171` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `172` | `0xb8A3E4F6Ad11C1e2E24a16D571799D6E2cDfdD88` |
+| 💀 | `173` | `0x2a41A7CC01e19CbdDc32a59056eeCeF08210fD39` |
+|  | `174` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+| 💀 | `175` | `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` |
+|  | `176` | `0x8f4EDD2ab7b916825c166F8BD80D103605860A34` |
+| 💀 | `177` | `0x8fEABC6f13f68D361bF06F5CF1007f8421bf9Ad5` |
+|  | `178` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `179` | `0x4408dD047aaBb1D5770B028Ddf200dDC08D098d6` |
+|  | `180` | `0xc73aD8f5830f25Ff8D9BdA5B4b312CA71AA8Bb81` |
+| 💀 | `181` | `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` |
+|  | `182` | `0x40126f2224b4De9D625ecaFf4203FA971E569BbE` |
+| 💀 | `183` | `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` |
+|  | `184` | `0xD5C5be4cA392f6d47fFe41B15a6393cc99EA5D9e` |
+| 💀 | `185` | `0x9702f506Df468A828f933d9be0693e4AB7876f8B` |
+|  | `186` | `0x98520425F95c77497b2CB9Ea3817A297999Dd653` |
+| 💀 | `187` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `188` | `0xE74C9142b98bB85bdE035a98373C69177680e9a6` |
+| 💀 | `189` | `0x99395F845e61546b887704811a61455F03277eFC` |
+|  | `190` | `0x4DA24D30c52C3748e3a5d9439CDcf9FaC241AD88` |
+| 💀 | `191` | `0xE32e7435De769800C94cC3480FC87610E1ADcbEC` |
+|  | `192` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+| 💀 | `193` | `0x896043c4F906Dfb41dCb19c75327ebc502C27948` |
+|  | `194` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `195` | `0xFd506D906deEc5c2FE3dEaF1C98e5B30135D55Dc` |
+|  | `196` | `0xC81C792949472035496F6C8028d3bC6ECc027cc0` |
+| 💀 | `197` | `0x85De29FdbcEdf6b750b2DbEB8dd84d8481C37413` |
+|  | `198` | `0x02fE13434dA155971139B1b0795297107963DDAF` |
+| 💀 | `199` | `0x1570F4e66E32465deDd7fa8485f48EA379F623D6` |
+|  | `200` | `0xFfb02bF39832059E0EaCc14e5872139CbB6c69B6` |
+| 💀 | `201` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `202` | `0x5E2BD1E5A4B602ABA28D4AB7c5e77244b1fC529a` |
+| 💀 | `203` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `204` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `205` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+|  | `206` | `0xF81c9De027e02C8250949E4efD088533650be6c2` |
+| 💀 | `207` | `0x4bad5d89564B22c10E6023da84F53b9e80b7474F` |
+|  | `208` | `0xc292d5bb3CDb73c32879A83b3E9590c4aaE838B1` |
+| 💀 | `209` | `0xab89f54f5d8040245FD0F04a1E6E511Eb68E2C85` |
+|  | `210` | `0xdD34cE93A7a35B3c76ecCF5879215039de7a15eF` |
+| 💀 | `211` | `0x3668D63F1ef07da0fFa53dA889f16201aee8b2D4` |
+|  | `212` | `0xdF790D2573d4B9C46A5e2418C1bACE85dfeCA349` |
+| 💀 | `213` | `0xDd0589Ba42967eE29136097c4427d47E57A58adB` |
+|  | `214` | `0x9cC3FDEDB16F240717485F9F4bd9b33A4ad99EDC` |
+| 💀 | `215` | `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` |
+|  | `216` | `0x562c49273d454c23572126051b310ad73bAA0ffc` |
+| 💀 | `217` | `0x2469F7C73453FD10791De645dE7879d53BC06227` |
+|  | `218` | `0x027356F4C1CD93D9E7462cBa13FecC873a8FdfbE` |
+| 💀 | `219` | `0x492a2338A5829bc0B04DB26AcD78a4ee9f18CAC9` |
+|  | `220` | `0x258b7e0f2e347BCE3e5Ef5639f88ED580996aB55` |
+| 💀 | `221` | `0xE072B977728EFFDfbBD1E996A0F69C6755E58Cae` |
+|  | `222` | `0xC1A6d9dA4b18a95A925c8d29C729460EA5A2735A` |
+| 💀 | `223` | `0x7FF009c02Bba4A0A39720D74e2b06C6f87CE3102` |
+|  | `224` | `0xebc45fe4754020CA7dA524bD3FDb9de59D8E979f` |
+| 💀 | `225` | `0x02fE13434dA155971139B1b0795297107963DDAF` |
+|  | `226` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `227` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `228` | `0xcC46E6Df176064Ef9b9878BfBBd081b4201399FF` |
+| 💀 | `229` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+|  | `230` | `0xDd0589Ba42967eE29136097c4427d47E57A58adB` |
+| 💀 | `231` | `0x0693b635e1eBB02aBBAF3Df40b9FCeF3d81EDf19` |
+|  | `232` | `0x56B6673c3bc30Fbd588EA60BD32228AC1947387D` |
+| 💀 | `233` | `0xE61533880221D0af9f3061F3140665c0cEC4f39f` |
+|  | `234` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `235` | `0x0520B7ea23F15B70A1e79c24205667f3E6DedEd8` |
+|  | `236` | `0x33B2A8C05404f667c1a764e2a0eee984CD507134` |
+| 💀 | `237` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+|  | `238` | `0x3bF3410C0d39a6FA084f5b06C94Ecd84f9Bc19E2` |
+| 💀 | `239` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `240` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `241` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `242` | `0x486a107a8A40456824ADbfb3C302d5B2A38c3B3A` |
+| 💀 | `243` | `0x040f70dCa3804f3430Dd686086062749a6Df8321` |
+|  | `244` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `245` | `0x86f892329c35b215178fCFfDb284876e8886A6F9` |
+|  | `246` | `0x2f5Ad893ad06e88ff323A3D122df40866E183b52` |
+| 💀 | `247` | `0x0c59304E92F005627CAc281549aC91F6aBC046bb` |
+|  | `248` | `0x67BE56FD6CE9703D2A3F24dB6B9b5F1fbd1e4386` |
+| 💀 | `249` | `0x6960B3F545DcA4aa640Be140D5E56B63337E71E9` |
+|  | `250` | `0x9Ce5f9Ec5b254Ca82b8B62B43676492dCb77bf72` |
+| 💀 | `251` | `0x4221E209640b90901c4932129bfaD744e5A7DadE` |
+|  | `252` | `0x386F0E1824f413596dF34bBC8ba38A71d1430Aac` |
+| 💀 | `253` | `0xc4164903c6F15d334fd46FF7F02416d75e2bB00c` |
+|  | `254` | `0x98a1af1A95540a4d8829B2507ddB0D9c6c5289DB` |
+| 💀 | `255` | `0xf512252FE2F240BAa63b6a33E32c092D6D3f452B` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02fE13434dA155971139B1b0795297107963DDAF` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe37720b932b4d47e0284c1f2406ef80b40b986b69d539e310abd1c54de58dfd7) |
+| `0x040f70dCa3804f3430Dd686086062749a6Df8321` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd84c350298ef3d843aa4ac37a3c165c06905aaa8dc40c205b043132da4bdb8f3) |
+| `0x0520B7ea23F15B70A1e79c24205667f3E6DedEd8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17f9b339ee59fb505cb55aa924174cd8dc52c514019641980bfa53d84919dedc) |
+| `0x0570080E28437a2521755104fAD8FDc4e61B48DB` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbd1dd57b53708a4df5f0245a2b2f557c3102bfe35a16d1a185e520f0f216700) |
+| `0x0693b635e1eBB02aBBAF3Df40b9FCeF3d81EDf19` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa19abcb4dc390fd2ca61d310d631ff09f3b372a841e16fa5732adeabc22a4c67) |
+| `0x096bAd49Ad2F3601E70B957C9a41Ee54b3EF8913` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4202e3a1a1606fa47e7da3c3a0ef80a16966ab92db9ec94f61e6974fa6434f78) |
+| `0x0c59304E92F005627CAc281549aC91F6aBC046bb` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaca6bab96d5901bfc6981c0d01384de87378635b1bcfb2f282334ccf8f81d76e) |
+| `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa27bdac828bbe0181c1aa29f11392fc2088457bbeed4382a986967f5ee5a0dc1) |
+| `0x0d5b6F0Bc46080ed8Aa7C7197Cb56366bbF4CE2E` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35e80dac32b05ff023d26da901efa065aa0c85651c78cc4d1ac4bad3f913edbc) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x419f902d479ef959424f7af1747be62e61008c84d686cd8621056ee63e7946e2) |
+| `0x10D2E171Faa2DdB99500c932d6ea3D9bE4f66842` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3dc45abb0e8fdadb49da2270529fcc4cb4544faa80c69caff6ece6d0dddc18ce) |
+| `0x1570F4e66E32465deDd7fa8485f48EA379F623D6` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe921a712dc321abd55ae75af28fff8acbb209ccfaa807b796eabe057aa00d8e2) |
+| `0x1950f28CfF91B0777630437643D1B18D668AF069` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf89b3f8fe30e5873725076d216258f2e6e7a7cfd415754771758c4f4de04d5f8) |
+| `0x1aAC00C4E71069450BCfe8f6D4f3E58BCD49AC77` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x060d4b6873e8d0e753ca5ce50dcf045da354be933f6ae110c2ce7f8e895d1154) |
+| `0x1bD15252D33C3173dD6af957bc71738fEc2779dA` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ecc3ff323a63fabdfd12fee4d451e1aab340ebe359618281460982fe5c7b8b8) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x191e43c4de841b9eba95786e3a608138dc811f5559f5cc7562d533cc18914c1f) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcc6f4ec547e2f5d280c9c5d6539a9b077ac806a1bb82bbb9bf409f32fb66344) |
+| `0x213d95d13f3238AB4BB9b2a8012451395b6f087E` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37335ad8ef5ba8f974aec3dbdd7a8ed768d1b31e87c2116b1b68140b16989665) |
+| `0x2469F7C73453FD10791De645dE7879d53BC06227` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e7a5c58227858f01d3ecabe8aba5b196db9ef1633b404a9ca877ba757183425) |
+| `0x2474d0D3426f49D0Dd52Ec8fD83cC929b0B28A5B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e96473245bd0fa933cf9c0524910b45480dbc762aa23988f67d47eac2d4c328) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07f3e08acad460ecb263f345406641a733808896cba49e5f40adbee3e3a53dd7) |
+| `0x2a41A7CC01e19CbdDc32a59056eeCeF08210fD39` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22d2484c8ff8e46fc141d77f458791a827661ee14bb4e076f7708b58448d0144) |
+| `0x2AEfaAE93Bc08B5C22Fa7b6eaf5D2ED625722c56` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb98a4e84029d7719c0634bdb3e602ae5aaec26e8fc4feae90d307a8db14ede3) |
+| `0x2c8AB0c1c5775EEe33517336370533A314E05526` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33b17ccb3dbb8dff8b129478fa4cc1cb928f91ed8a8e60536cfafda847d77977) |
+| `0x2f691343C2F71117857e6A032deAcF458Dc8fC44` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0e330b65fff715b3dc0a2d6ccf537053dfdcd439eb84ed9adf69c15af01d131) |
+| `0x35491B67aaCeeb948E4ac2D21DCf57ca50C1Bb01` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91e8779257bb59162b07eeed9e7345a40d53cc85fdaeb8c991562d97bc32e004) |
+| `0x3668D63F1ef07da0fFa53dA889f16201aee8b2D4` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f0fadbf566d9df4da9b9e0ae90f11867823b15d38b79cf15ec298d1b21d1931) |
+| `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ebd106811c65679e7f3f33fdf3a9472dc23feb415179d03ea9b039bbfe796dd) |
+| `0x3724DE78109c0a27C82c47E47c3fdA3C6396c7ee` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a149f7784ff111de53dd09233805d97326ae4e1feaf5b235c547fefcb307ff1) |
+| `0x383eA82467aB74005E5A5847518eA8892a8174FD` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e0a0ba3e843893335711f34db432084da1e13d336e4ed5a0163792bbc9ab436) |
+| `0x3969EF1F9Bf2300C510b73c1445dd0a9E06F4355` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfcb71366604824987cb0968ef071ff6cf0ca6dcd7eec19fc85ca4bcf9f585bb6) |
+| `0x3e35461030E8AD060509dC08650B576e63fb00D4` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb8b4c73e1ceff81adf0f8e2499d3d43bb0e4a6875b5927b03b79542c37f4452) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc3dac4d0651861b4ef894eafdf787f8734aec3cf2b8fc8bb506782ecff2e8d8) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7946a9170b0115962807288aae9fc5120dadd88f2ea9cce3a560b3ca1d88e346) |
+| `0x4221E209640b90901c4932129bfaD744e5A7DadE` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17cb9d7fd51bc04c75cc7b3d2fc68f7637f28fc6cd01cf7c05496ee7343b335c) |
+| `0x43dD9836D7312f5CF7Ef041a483e592cE35d5440` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1eadebdc378ed509cc30a274f84e3d52b9e5310e5765a16e02c43b959be9fb7) |
+| `0x4408dD047aaBb1D5770B028Ddf200dDC08D098d6` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7cf6cf50599f70892ff59ddab3a5fd08ddd7b654542bb9a93908adc0a3ed793) |
+| `0x492a2338A5829bc0B04DB26AcD78a4ee9f18CAC9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x34f825c2fb9ce2aaafd27c19f677d3ff24d0205e92eefc379d7e891dbe8ff31c) |
+| `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb83867f9c2f781d26e036d10379b21bd24bd2e8ce809766fed59543c6932d09) |
+| `0x4bad5d89564B22c10E6023da84F53b9e80b7474F` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc63d33394dc12b93816254f617b039a2ede642793cf7fa7494b265e163e1ebb6) |
+| `0x4DaA1f21e9e7ea15fAefB9430B587d5D1d716b56` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa295f2a0d70f1d7513157c70840a56ed4d108093306da100e888c1fa5ff4b7b) |
+| `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11df1e0171df14339b1dd689bb3a8e80af66ebc38589e34585333fc2e3f8708d) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e5c929d6cc9e238f58be1f5a54e013830f4fd590efe08a140bb2ca7032d71ca) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7428ca19b7ffc75468f95e384ae80bed2fd1aa26b6487660735e5de685d74a26) |
+| `0x53414C6c495D34fEAF4c8AC667f0B68C028CA38C` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbf522fd7f93d7237eb46d21687aa4ece959d60923a1f54d6241314043769fbd8) |
+| `0x53b491a3419ec70458539F1d0A5F38372f20a302` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e789c10d0b4c1069f109c2bb6461ce515b946f4a2e2f81812b6aedfcf8985d4) |
+| `0x56B1C8E93ace509C65105668839d084cABe94949` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7c726bebcbd3c43af712c1931f403bb3a85e288c6fc8d6fe24dd26c269b6c55) |
+| `0x56B6673c3bc30Fbd588EA60BD32228AC1947387D` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc13fff72a359b1a68e71999fa8e7065d82df6b4ea163f837ce86b492509a36fe) |
+| `0x6285e211ad97c2289A3196D909F58357C8A27A07` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe61938c7cd1f3dc0db66833d65e9e2416b9c5d77e126f22d948edf4229484f6a) |
+| `0x6960B3F545DcA4aa640Be140D5E56B63337E71E9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46643493a5fbebf9e5ccedd993e521563e00059ada52e9f0301bacbe40842b8c) |
+| `0x6A275E96Bec25F6669c64833F29F75341b5E0377` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81e118f21ac2afd6cf171e212d44bea724ec675db146633a54067a01cdc356fd) |
+| `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` | J. Elway '84 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x2a21f72eaa45dacca33a1e07cb09599bbe00df17ba16c0d3fa0c263aaaa6f2c5) |
+| `0x6cbA7Ac2a051991890555E3aC40Dc5ecf89feFD8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf56936090b4817fe79c6196bd04cd162c113362bf65be7badc744022cd42298e) |
+| `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x21eecda5978cf3d5a6ba0ae2697c0fd0884bb96ef4ccba5d4d6b1ca33900ef2a) |
+| `0x74F2A8c6F166502D05C6c4428Aa3B23Cbf66b25A` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04695221f9fef4db2cc2bcf6b438c91fa0dc6c48cf0e95d15adea08d56af2b26) |
+| `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4c0caf98fe7a67bb271f635e839dcf8eee0a639b076fd9f9b8b0fff3540174e) |
+| `0x7D4806E74e34f93f7852a6Ca6fe7D85E7d4774A8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa93e0371cdb49a9364e249c04dce4a2d9c182bca5020914bbafa82c5b62b9f14) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55a13a26de3b0a9a18f9e3b89c7bf4a008b86c38e75d180599f05ac7fe75ebb9) |
+| `0x7FF009c02Bba4A0A39720D74e2b06C6f87CE3102` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08066f5b7647efe1caeca0b7fe569f0d43a310e1b6901c80a16ec4d047fc3c53) |
+| `0x8087F8217aEaCb03306DD4a9Bc06bECE6D92Aa67` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7a617b41b66d51dafe353df7963075e5e896a6dfe576bdc24593ef4196e2aa5) |
+| `0x85474CEA491517d7B5d63Ff51BEB83e93Df00D26` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa2bfaca2223bb6902fd68ce392d299ec15eea4c9000f79738fe81ed48b0f8ecd) |
+| `0x85De29FdbcEdf6b750b2DbEB8dd84d8481C37413` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x317ffaf92851799d0beddc962b41125a5888d0890d1fd60acb0bdd639401ad42) |
+| `0x86f6bc5044f2D25772546c0738bf189d74535d6C` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc763002108ede08a2c56f3ee4b9b2726ba99c1474405310ecfbd177cbe5524c3) |
+| `0x86f892329c35b215178fCFfDb284876e8886A6F9` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd02e8155f75f28ec5831b369048d2227612047a14472cdca685725abb25c4507) |
+| `0x8948Be624A5d5a8346Be9D10F87C404cb734a3a1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2264525f89b46561fb6d02e18289514e3fefbcff04f63e29c1b8a5deda4a77b4) |
+| `0x896043c4F906Dfb41dCb19c75327ebc502C27948` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0b263f94be7dfa6667af402fd88c2e4ef9f9a3be08041e141ada6d274a1210e) |
+| `0x8c3B850344AF87cE668B5fd6Fe30fbFd89B1c49f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97a944d282885670eb408555eee4c3545614ea40b306dfe1d6d5e4f1b19b149b) |
+| `0x8fEABC6f13f68D361bF06F5CF1007f8421bf9Ad5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8e4492021bdf0072c56792542c16858551d996cf781f9c54cc2b6b7833028f1) |
+| `0x8ff1878fc8F41bC64124e013ae39fc2cF6e4Dcac` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1042cfd7cbfa5780beb1e7485a42cb20cbac93b5d3a6c0ff0cf960a3c7374fcb) |
+| `0x9008f978976414b189f25d0E21B143A9A18f857a` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49e60fc0fa58aed34f9f9531b9359be22bfd312e7eb17f8b4a8bafe1f52ab8b5) |
+| `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x800dc388592e14ea4588e2d45435462d03ff2b2f099933d77c64df48da456101) |
+| `0x9702f506Df468A828f933d9be0693e4AB7876f8B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9217b097da85d662649377483315793e266a6063e69d432c19d7a78d7175233b) |
+| `0x988532FEc638666C18FfDF54b515F1142Dff96e3` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb9906ba76a2cf00eeaee17fcffdff8034cb73b36b566406a50f9d422abaa528) |
+| `0x99395F845e61546b887704811a61455F03277eFC` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd0c3daf3d62cab35ca0eb5740dcb53dcd71002d6586c2401d18d9f10c9b72f8) |
+| `0x99fB1e57E69193A24978861249E8676b8B4ed721` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ea779c7dbbd99367af0bf772b64ca9fa8b1f31c9bf0e7deec6da32b3f656900) |
+| `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ce3c7675532dac455079fe5950ea78bbd73eb0756bc283a8c607130540dd0fe) |
+| `0x9bec290354AD1DB581BD8A8235cC5a62c8dB1930` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4788cff89fd8a07ae4007c244ea48bc6926b507232fea42db5c5e4b54d5eba9) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e5253b73bf7b0e7ce4af4d1760adbd8bc948bc53a29b2760c21a1f04e330dbe) |
+| `0x9F966607d87989913e4a515D768316e3eeC4bE77` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b32528a2823476e2b00abb8fa0683564dac126a7b13b90ab466dde051d1b494) |
+| `0xa340Aa3cfe5a625a87934952F2a9fcf5D02b6595` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9bde30550ed621bbb173fcceb4609df29ef23d659c18483ff0543f0f40040dd0) |
+| `0xa5530c389E4548C525AC674039E3F69e88aFd26B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfce8397a30d65fa404d163468e1c2e1bd1c380b60ccea64aaf74ba9e9f38d876) |
+| `0xa5a49A1Da72520AaF82cb8F144D2CD8F8602b5f2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8df4e2c61d519d9b90b363147fa275d87b776cea43a231bda3bace93f050b605) |
+| `0xa90946916C8907D8989DDB03cF88d45f3a540127` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2279311efc2c449566cc8234e308a56e9e3a073c7fc810463021ad42cba5167) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47482b541d69abd9fb8c1551064b182505185a42cd39100c74b0909b02481077) |
+| `0xab89f54f5d8040245FD0F04a1E6E511Eb68E2C85` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb34b5a9a3f4d229951848cec3ff3a6120a941c583fc8e641993d6b4293c2d6d9) |
+| `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7753b71da15117d5e472bbae3c0264bb14af9f4b1faabce05ab981d7099232f) |
+| `0xAeCa7B87eE9577d436B77Fa22c665E4dC9d738A1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x130a9d755dda3cc55fc4d1e2f36dbb5b75ce20171dfd2d3ae87feb1343b499a7) |
+| `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafdf3cd2eb7906ce4be64b36e997c0f04714d091d83ef03fa695d35a9b862b58) |
+| `0xB15137f5799494b7592288E2980d758cb288a027` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95ac391016984ac19319b0d5ca3a0afb3c5cfff5094aca33bf2e3641d2c03c49) |
+| `0xb32EACce92ab2D714C378f00afb2113aB7AD3bCa` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06320b39297056dad971e4954e83e0f2e0141de73dc8d6ed24da53cd6b1ddec1) |
+| `0xB92c1Fc4a0e469e42B51319dA772ab1E468069B5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9775a1393ed0595c479d9e0c197b472e2a705ef0fd41c5f2b5631fcd09770f17) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf546604da61629fa42db2b328bd93ba3c77b82b720be30b20a2e4c5868f9151b) |
+| `0xBa96ef1B0Ff48d4C81a46B4b113B559a7111d343` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6ad706050ff45f85c7b8015e4602a4a728bf39cd43fd3b98ade6fd7bfb244e4) |
+| `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2652e7cb2ad535bfb8572c17d9c09324bf1350680d079331cde3463ef885d949) |
+| `0xc3685f95B0bB5c46Aa257D9EFbEcb96C18a91399` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6cd71adc86539d744673cc0a477c5988863d4c6b558ef9ff27aa2aab5251ed57) |
+| `0xc4164903c6F15d334fd46FF7F02416d75e2bB00c` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a4a475aea3f3d6f837a810d55f27a768cb9d516bb9878f972c03bbdcaf777f4) |
+| `0xC41752c8A1732979Ce5ac8CC495c6604579BEf9B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6845d84e3d44780907ba8e78333ce5851bef9a8d6a90c6aece8c61efae6bbd28) |
+| `0xC61Af6556F1F0D3bBA7B626b0237290fAd592Fb1` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23fe3d7b68ca0f2a804b48615baaddb56010e85c872c3aeea6ffe63c24065923) |
+| `0xC7414626B1315D9D1A8426eACDB0972F656C2EbB` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaef38b369c351b004624033fd65abc3bf6f3b92290b2807ed7c06cc9f7fdabde) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | J. Elway '84 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x5f88802a7d25131071a65b9798dec5f9d81d5c6267af836ef21fe4688586f7a2) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0baee96fca178dcffb4599c0cf3de8c25adeaaeea3b9e3e42ee55b3ef77b8fd7) |
+| `0xcbBC30650745aF2b8951Fc34495F0F4585e2Cb17` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb91ec56144dc533b1ece7be0a656ef7cea14b55214e64f1bf7167743b3126107) |
+| `0xD1aaC6Be4Ef035df40A262dAD6bc38cB6798B4dF` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab1af336066feec9f699ae9b9556b97617c1093ba65c30601ccfb2e0ce4d00f9) |
+| `0xd947938D49FD12ee3259acf4716d8FaFa2E88808` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x914ae07180b54b2bf414913ca04c52bea7835ba8d21dc7d9531f05b7d61d625e) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6892545a9b4b1471efbd03ab426989fdfe77868722329c35abeca72067d0bb95) |
+| `0xDd0589Ba42967eE29136097c4427d47E57A58adB` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xec573b17487fa1bcdce95416101669a5d3792342b2e6bb0744ad704c97dee746) |
+| `0xE072B977728EFFDfbBD1E996A0F69C6755E58Cae` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa35ac01342764691610da970d36250725cd854454b1909080b649df522e01328) |
+| `0xE32e7435De769800C94cC3480FC87610E1ADcbEC` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbe16ebbedeaddd1f4af933cfbcad5795b023e7f96ba901b2f6eb53a51029104) |
+| `0xe3411e4E08033b2722dBBF347fbD1a83Ee01274F` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2401966127f4f240c8ef308ce03d102b81f05995d0dabcb8d5c0ad54655c00ec) |
+| `0xe3a216047043896483919b4da7520DC1F2Ee5e51` | J. Elway '84 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4624cb7d8764f8b08bb581f21948e9d9285ced22ee49d9790c47f716fcea391a) |
+| `0xE61533880221D0af9f3061F3140665c0cEC4f39f` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7aed925dee543c1999823f4e35d6ca066207296074e5e19035db441cba9b25cd) |
+| `0xea41167968127793B069a5732E0c9DF004F27edf` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0d5962dcd8b54db0334fcca9950f27d125874b24b91e3662e3ca465d4cba29b) |
+| `0xED8B9dAbE4B259a9C1BF42c325059dF724fE3529` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d7e2b59d404f19b706895d945ff1cd04c27bf9bc6f0541c15060538224815dc) |
+| `0xEE7b1ce0734b05A1341159Ea256cCdE26cB17405` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76c23105ed695c357c844ad34665711390b690ccd91d6a0caac0bdd09161d6f0) |
+| `0xF0eaEcF953c3EB39B79479AAD24CD4944bDBf475` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x64e7e0f5f32031806ea629af2e6b071123d0fd8ff8631320f93d294af6d197e0) |
+| `0xF1a61d12D0f94De2702fcFB36d975bBeb3ce6090` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f7054a7dbaec04672f593b26dd4407fe8cca7e4d805ea30d3c66648df5bdae8) |
+| `0xF42d9e603140726f3250506aa40447b45792a3B2` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c558ded7258366f4b8997847cf21cfb304933dca7ef8c616034f096778a4d1a) |
+| `0xf512252FE2F240BAa63b6a33E32c092D6D3f452B` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x006b24d3eb942f282a258ca2f55fe3375977d7f886e92259538077e97a2b015f) |
+| `0xFd506D906deEc5c2FE3dEaF1C98e5B30135D55Dc` | J. Elway '84 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69cbe3c21cacff572d04ad99feb98ec8eaa66e4740973b1ce9958031a258d81b) |

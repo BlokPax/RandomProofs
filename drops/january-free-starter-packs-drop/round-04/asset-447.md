@@ -1,0 +1,406 @@
+# [Elimination Proof](./readme.md) / R. Gobert &#039;13 PSA 9
+
+|||
+|---|---|
+| **Drop** | January Free Starter Packs Drop |
+| **Round** | 4 |
+| **Started** | January 12, 2022 10:00 AM EST |
+| **Completed** | January 12, 2022 10:08 AM EST |
+| **Tokens remaining before round** | 6,400 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,200 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | R. Gobert &#039;13 PSA 9 |
+| **Internal ID** | 447 |
+| **On-chain ID** | 173 |
+| **Image** | <img src="https://tcdn.blokpax.com/954504e8-1b00-49d0-8b88-ab898c4ebeea/ae9fe9dfa68eaa05abb1adc1de9eb3e9de354c8a2a9ab25bfa5aea2a33313dd3.png" height="200" alt="R. Gobert &#039;13 PSA 9" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xFA6f0E9610D744E37cfBa60D6C638C0f545E0abb` |
+| 💀 | `1` | `0xD4235DB8009f376e70e2f53AA66f0a0EE6b8bF4E` |
+|  | `2` | `0xB83E2D7fe2F72363ba03A4d93bB7eD716D700Ac0` |
+| 💀 | `3` | `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` |
+|  | `4` | `0xf66105327FdA0857aDF0d73439359F16cf682580` |
+| 💀 | `5` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `6` | `0x8055EeC5aD8CEE6B05D33dce576e2E5B74260dC1` |
+| 💀 | `7` | `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` |
+|  | `8` | `0xEef9f9Eae424719C6F5Fbff0dd887D09ac965294` |
+| 💀 | `9` | `0x1d44eDEeE7084aC2bf00f8BfF5B645C8A81adb75` |
+|  | `10` | `0xa4fC8d11cc68832efBdF868f758818450349Dbe2` |
+| 💀 | `11` | `0x637DE444Cc602f4e912Dc0eC2DfC90b0AFB1D653` |
+|  | `12` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `13` | `0x031E4D326aDf1455B1eeA948413D2Cc66aD0deD6` |
+|  | `14` | `0x34934daf75B681796354086d3055B821FB3fa51d` |
+| 💀 | `15` | `0xD0874Afd38405B1418Ad792b69D21c678Fd25C60` |
+|  | `16` | `0xCdDe33a1524edAdE143BEE1B11a9B941F16bc0Ed` |
+| 💀 | `17` | `0x25fE5dc22659069FdA8a6305D0abcb2Ea583B0a4` |
+|  | `18` | `0x8C8FEF49d788Cec33025b062309Af2d0e93F6bd1` |
+| 💀 | `19` | `0x350ee0A8eCA9Ea0EF339cC8658624552DE675BC1` |
+|  | `20` | `0xB0175ee089e5a27e9FBA8EEDF4b81C2Af12471cF` |
+| 💀 | `21` | `0xf679a80A7FC24B4F0bBce115f07CBC3171255e64` |
+|  | `22` | `0xC67Fb910ee6C2CEE2b020bDe3d8975A8B0313f7E` |
+| 💀 | `23` | `0x78e87f0cC219E6557052B74EEdFd28963806f329` |
+|  | `24` | `0x766dA6AEecA1fB71A28ddA53CD3A873822F74277` |
+| 💀 | `25` | `0x73BD103dA179253B60e19b18d9c570F371e3c477` |
+|  | `26` | `0xa90946916C8907D8989DDB03cF88d45f3a540127` |
+| 💀 | `27` | `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` |
+|  | `28` | `0xe295D4Cbd3bD8dDdEC81b324b69512918172609b` |
+| 💀 | `29` | `0xB198091968c8C4D6178FbA005A85eB55b8035e4F` |
+|  | `30` | `0x4bad5d89564B22c10E6023da84F53b9e80b7474F` |
+| 💀 | `31` | `0xD1DA798C2895058d988356C58df5EfA4C0710747` |
+|  | `32` | `0xAb66b825fcaf4EB5f289f71d00750b716898C10b` |
+| 💀 | `33` | `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` |
+|  | `34` | `0xa12352A53D55e5beb4fB9649A089102d2Af558D7` |
+| 💀 | `35` | `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` |
+|  | `36` | `0x7bA835E57F098b14103199CCD518272318FB941C` |
+| 💀 | `37` | `0x62B471a64cfF653fd1d9D9f941fEa288E850D37A` |
+|  | `38` | `0x8956bB6b82a7F25754b62cB9A48C20A7b8527af0` |
+| 💀 | `39` | `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` |
+|  | `40` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+| 💀 | `41` | `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` |
+|  | `42` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+| 💀 | `43` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `44` | `0x578e365807933FEca7FEF25981c4DdDe6fC2526A` |
+| 💀 | `45` | `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` |
+|  | `46` | `0x2bDc9CA4201b0C0692E6328B916FF67Ea577c4A1` |
+| 💀 | `47` | `0x982e4DB60a1AA23d12dEb81Ea24030EF74983F7d` |
+|  | `48` | `0x9f08910B1FEC04Fe8966EbD85ebfC4FFA348E6cc` |
+| 💀 | `49` | `0x59C57F7a54FfeeE6340632802FAb882Bc3fc8E90` |
+|  | `50` | `0xA47cF74BE15d4b7227789cf4046acbe07AAcD98a` |
+| 💀 | `51` | `0x1149D99078eFF09807AC75c5D790bB3fB4289F1a` |
+|  | `52` | `0x9a19501A17B82f03dA7A004BC91B943e5B77C4F9` |
+| 💀 | `53` | `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` |
+|  | `54` | `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` |
+| 💀 | `55` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+|  | `56` | `0xA47dAfCfb7E3d4E456C88fB392fB8Af5f24186B1` |
+| 💀 | `57` | `0xf02870466B35F1b828f7D45bB179ea0F912210B8` |
+|  | `58` | `0xf639Ed7d6E8242edfcC7Ed2c24700f23a8956255` |
+| 💀 | `59` | `0x0291485B514A1682f11643C08b5e183be32575F3` |
+|  | `60` | `0x44C3281cF38b304B2CB55Ba5bb7e4bDD3b5fD2D2` |
+| 💀 | `61` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+|  | `62` | `0x82F73af3EeA9AceC948A69A6881182021AeE0564` |
+| 💀 | `63` | `0xd35BE6bf74f7468638e2CeEC1ed8E499dc76682f` |
+|  | `64` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `65` | `0xcda75813A79edC351F848e21EbC6C772c71bc0f9` |
+|  | `66` | `0xCBc5BF1ee13d31Dfa105E96f2EDAc3c0D066F86f` |
+| 💀 | `67` | `0xaA707874E50c38997199774e093202Bcf6DCB1aB` |
+|  | `68` | `0xF59EfA3e6c800071C59D961eD60a61043698EF30` |
+| 💀 | `69` | `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` |
+|  | `70` | `0xBA027A079a6f6fa7b6FA523FDA65e5CEB26d583D` |
+| 💀 | `71` | `0xE8965b985Ad26a8293A21254aC53Fd3C754Da857` |
+|  | `72` | `0x2C3d3CE29710D4ed2cE244523eee5eEFCf41E978` |
+| 💀 | `73` | `0x11fab51467c33B88949F350DDdb172841d6d6861` |
+|  | `74` | `0x9a19501A17B82f03dA7A004BC91B943e5B77C4F9` |
+| 💀 | `75` | `0xD20Fe3D577BEEEb75A32376d1cC8D261668342Fc` |
+|  | `76` | `0x840baA2595f45c3080eAf48B4bfeaD40Ccd8aa23` |
+| 💀 | `77` | `0xA45DAE2f2dC8259AB6d23163AE56C41696835e7a` |
+|  | `78` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `79` | `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` |
+|  | `80` | `0x78e87f0cC219E6557052B74EEdFd28963806f329` |
+| 💀 | `81` | `0x75f5239E80526936257dA2eba1dF069bFD32f524` |
+|  | `82` | `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` |
+| 💀 | `83` | `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` |
+|  | `84` | `0xA4361469Ce46ef6142C7c32De1d07C22c6E28e71` |
+| 💀 | `85` | `0x1d76C3c1d39d0Ca68Bd1E30590003C6D5Fa94FBC` |
+|  | `86` | `0x88A4FE5AA4b4880d5B102E54a00aF2EE53B1e268` |
+| 💀 | `87` | `0x6d0633c8e378ffa0715aD5e8B5aC555D52Dc9066` |
+|  | `88` | `0x97A2a05648f06447d1C8f0014093BA9b1bb0A8D2` |
+| 💀 | `89` | `0x02ED961704e7900a33ED09f5351e989b45F9f8F3` |
+|  | `90` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `91` | `0x27973B397A819A016B2140075eFAC1424D591D00` |
+|  | `92` | `0xECFE6Fe918b188475198d46388B4e956bBAB3311` |
+| 💀 | `93` | `0x5682659c51DE85A16F8a27f69339C01E61f9Adee` |
+|  | `94` | `0x9D48bad3A2B5Ad122c9e190af5fBe9c448588207` |
+| 💀 | `95` | `0xeb36248E77E72E60F2F3aC5511029ef0dEb7737d` |
+|  | `96` | `0x316ac1067e7208Ed60Eb1d5b448B834448739213` |
+| 💀 | `97` | `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` |
+|  | `98` | `0x0570080E28437a2521755104fAD8FDc4e61B48DB` |
+| 💀 | `99` | `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` |
+|  | `100` | `0x5cA991E5bc42E6d5e1Af6Fa228f6808ffEEBa2cd` |
+| 💀 | `101` | `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` |
+|  | `102` | `0xB3A028D6F28b35d0f805b487Aec41f601A1B8059` |
+| 💀 | `103` | `0x41dc126A033084c8503B9BBD15A0aDD4946B08f5` |
+|  | `104` | `0x64B4dA4166c2f2e26Abed94b761AA2c781899687` |
+| 💀 | `105` | `0x57AC595d2CF0dc3e493F6f10C0440e344A27e3e2` |
+|  | `106` | `0x5D830F8B5fEf94a2661aD0cC44Feea8e6e2B0953` |
+| 💀 | `107` | `0xB1C1fb2400102b9A70a59025a3806Bbfc31c34CF` |
+|  | `108` | `0xe0D84fC30d77Be679A3e457E0f3F2dd5126d2106` |
+| 💀 | `109` | `0x2a533E8D3A9942CC2b3Af8F7DCb86C31f0203302` |
+|  | `110` | `0xF6AcDC5b89C9B42a461D0427461a5f4bC494FC9c` |
+| 💀 | `111` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `112` | `0x074E47eB272558222AfEB614eFFFCCD3dCAd7994` |
+| 💀 | `113` | `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` |
+|  | `114` | `0x8C2E41e1D51e1A18639925432edD50f3531bA772` |
+| 💀 | `115` | `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` |
+|  | `116` | `0x3424959E689851133379e6060eB9EcD0e0Df7e9f` |
+| 💀 | `117` | `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` |
+|  | `118` | `0x57AC595d2CF0dc3e493F6f10C0440e344A27e3e2` |
+| 💀 | `119` | `0x89153268A7Ba20e407eba93e6F77c5565489B517` |
+|  | `120` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `121` | `0x9C0cedD86620240b1939fCF755Ce71F162220850` |
+|  | `122` | `0x4FF19eF4E2821338A0b26266A3b1677bA6d5eB7F` |
+| 💀 | `123` | `0xC1A6d9dA4b18a95A925c8d29C729460EA5A2735A` |
+|  | `124` | `0x8DB9875668A3e609BEEf552aDC3796B3DF496304` |
+| 💀 | `125` | `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` |
+|  | `126` | `0x4Fb830e22FEE0C26A0B90BbF23cA54ed9d7f9Fc4` |
+| 💀 | `127` | `0xbF512858be92be444422e6e4DcA9e4eb6Ca66A5C` |
+|  | `128` | `0x3969EF1F9Bf2300C510b73c1445dd0a9E06F4355` |
+| 💀 | `129` | `0x18b60EDeEDA1EF8aA0477CAFd645bB8BF9bD8caB` |
+|  | `130` | `0x56f3bF1006D12497d79bD8d0cc663F27c6d2211a` |
+| 💀 | `131` | `0x881FEFfbEdCBAbcd11cE5b1A16d001f6db40F279` |
+|  | `132` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `133` | `0x53435eF76E66E1c977e3CD01AC8fa73ab130cd33` |
+|  | `134` | `0xD6F1285528AD2448f1E37004Ba389C19e1fb317e` |
+| 💀 | `135` | `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` |
+|  | `136` | `0x9F9e4CC99614033942D841281bF7457909196FB7` |
+| 💀 | `137` | `0x15B8E4f508419C1df0F3ff00a5136F91075e82F9` |
+|  | `138` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+| 💀 | `139` | `0x3450C7213A4978e2e962BB454701802950C47610` |
+|  | `140` | `0x98F5e6295Fe68dcE1aEE28b73fc70dF35db880B9` |
+| 💀 | `141` | `0xFA0748286ABC98df9E0D7eF2c7673386695fe376` |
+|  | `142` | `0x0A3A0cF2B9f37e15d3d559B85b8A26a3099b0894` |
+| 💀 | `143` | `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` |
+|  | `144` | `0xBB914D4a852af354B24FF5af7D1cE8A6c16fcCE6` |
+| 💀 | `145` | `0x5b4b85c8D2cA959b49D82e9b99E94f26a36D4285` |
+|  | `146` | `0x725160E9e9186d16c98DC8758Ab309f20472819C` |
+| 💀 | `147` | `0x148dfed563aF3a69d7156f0112e27844e09248f2` |
+|  | `148` | `0x5696afa15Afc34b27D7eae63C97CeFE3DEBcFc43` |
+| 💀 | `149` | `0x827Dc293bea4281a0A79b9F3b37EE04dd1Ac5A1E` |
+|  | `150` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `151` | `0x8dcd0E6Af80D2BB9CdC91a7059fe77ca8E3899Bf` |
+|  | `152` | `0x0853196a48D6C4d64085D0Fa0BeE79c71c6C4320` |
+| 💀 | `153` | `0x078D2D9442c5236a3EEC9267f7b5D9849a33Db5F` |
+|  | `154` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+| 💀 | `155` | `0x876340AcBBd4e8CB9Fa82202d12D433A54Baf78C` |
+|  | `156` | `0xe204F6d5f0995FE9c3c5A90404F797FE274FF298` |
+| 💀 | `157` | `0xE22eA84B0114FF6927952934c2143076cFB9457b` |
+|  | `158` | `0x7FaF4F1dB396c2A6E4178B4dAEACa0486a20e96d` |
+| 💀 | `159` | `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` |
+|  | `160` | `0x9a99E275D75D609a2fbD38AD1CEc76b9d5638357` |
+| 💀 | `161` | `0x3D1cAF159586001A62E1E2CC064e20F94A4AeD9B` |
+|  | `162` | `0xe853a06CB0C58F7bE36d8CDd039769b12640C6ef` |
+| 💀 | `163` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+|  | `164` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+| 💀 | `165` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `166` | `0x917555448991b7F798bAA4D0be167046392869fB` |
+| 💀 | `167` | `0xE6ea90E24f3a4bc5d7E95a393b4c53803Ba126C2` |
+|  | `168` | `0xc6455619BA2Ac6b284Eb0a49E6AFC287AfaD2EBa` |
+| 💀 | `169` | `0x8DB9875668A3e609BEEf552aDC3796B3DF496304` |
+|  | `170` | `0x84bA8e123F4dd277027a5d573c83418F99fda9CC` |
+| 💀 | `171` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+|  | `172` | `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` |
+| 💀 | `173` | `0x876340AcBBd4e8CB9Fa82202d12D433A54Baf78C` |
+|  | `174` | `0x04eb7CB7ea3050A55e166B9309e0Ba7Ba15A2e73` |
+| 💀 | `175` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+|  | `176` | `0x0041Ecd7533ae61dc627377608245dDc43Ec31dF` |
+| 💀 | `177` | `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` |
+|  | `178` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+| 💀 | `179` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `180` | `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` |
+| 💀 | `181` | `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` |
+|  | `182` | `0x62c2529521b3F9dFf9947da706cdda71c0b8642d` |
+| 💀 | `183` | `0x6Cc37A21189Da43ae93547882B55FA719281Ab4E` |
+|  | `184` | `0x84f9F8De9a299DDe16c974DF224D52587dC08542` |
+| 💀 | `185` | `0x5eb69f3900fF8cA5D7d9B73c2Cfd41C553D139b7` |
+|  | `186` | `0x2c929B3Bd53098583DA7F198ff03Dc1fDC796FA8` |
+| 💀 | `187` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+|  | `188` | `0x9411297f2edfAC2F3F9d90Fa4193b1Bd21714B6c` |
+| 💀 | `189` | `0x2C880e6D33056945188b7b0eEEE2a16bea6fa025` |
+|  | `190` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `191` | `0xC00eDFa98C782c580B335E414Cd62597670a5E5c` |
+|  | `192` | `0xF7A969e1172eA99F91127470d84Ff398dBaD1720` |
+| 💀 | `193` | `0xB127c04CCB74eDDD78Dce794648248126F464eE2` |
+|  | `194` | `0x8Be80472DdA2335066d0250562C85c02B9896404` |
+| 💀 | `195` | `0x1149D99078eFF09807AC75c5D790bB3fB4289F1a` |
+|  | `196` | `0xcEc229A7d5fcCd76a064FF2BA66822516AE4DF2b` |
+| 💀 | `197` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `198` | `0x0E0b633Feb6688C92689454A920Bb9417d216a7c` |
+| 💀 | `199` | `0x2Ba974e1aAaa6B6db093184883c738cC247BD738` |
+|  | `200` | `0xcbE46B1fF1a4d10ac1df5933e2dFf849b63b771A` |
+| 💀 | `201` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `202` | `0x8055EeC5aD8CEE6B05D33dce576e2E5B74260dC1` |
+| 💀 | `203` | `0xF011f87861B6f9999FB83517a8719c550B028621` |
+|  | `204` | `0xD71F3e60DCed65faa6321a4DBAe77334098e6cC4` |
+| 💀 | `205` | `0x384c225b98faeD5EE6E601b71930335EA9b26854` |
+|  | `206` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `207` | `0xb3b421349234d74320d4315186ed9700430b738A` |
+|  | `208` | `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` |
+| 💀 | `209` | `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` |
+|  | `210` | `0x82F4416289F7e069e83E4AdE59142D2f1a67Ea91` |
+| 💀 | `211` | `0xb32EACce92ab2D714C378f00afb2113aB7AD3bCa` |
+|  | `212` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `213` | `0x13865970D16b90660262Ee7C45963cD2f992f1e5` |
+|  | `214` | `0xe539Bf9d6cE1E63e69480f999F72A70B36B42FcF` |
+| 💀 | `215` | `0x3687Cf9428324aEf72B1839a45a953D37aAD3f31` |
+|  | `216` | `0x1Eb988215984F495fa69462437E20b1C6A37A54b` |
+| 💀 | `217` | `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` |
+|  | `218` | `0x6cbA7Ac2a051991890555E3aC40Dc5ecf89feFD8` |
+| 💀 | `219` | `0xa7D6DA21ccDc071b7A4971f2F3AAD8973b6cb784` |
+|  | `220` | `0x1f0e2eb603D02d61098d66ef7c5C8fa6fAaFec9b` |
+| 💀 | `221` | `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` |
+|  | `222` | `0x99395F845e61546b887704811a61455F03277eFC` |
+| 💀 | `223` | `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` |
+|  | `224` | `0x6A006A6655D63C36744BbDe883b135b87BD7B0F2` |
+| 💀 | `225` | `0x87eD780f96576D10C2A678782E95485045CC8623` |
+|  | `226` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `227` | `0xE6F4adCEd28A976f652a400412D0e19B403D1E6F` |
+|  | `228` | `0x9FaDfa2bc9dB801De911193e25A775E41e6E09CC` |
+| 💀 | `229` | `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` |
+|  | `230` | `0xfEBe00b020f83143884a93aFe9d996133E9e1b12` |
+| 💀 | `231` | `0x036935EFe45Ff4498149aBe3DDea557b2Db4902B` |
+|  | `232` | `0x7E9f0bc2fd8Bb5A23Fa808acD4e7D99ebe4425AE` |
+| 💀 | `233` | `0x2f3F3a0Bc51d53aE7148E3522b8541E7F61CbBd4` |
+|  | `234` | `0xF6d770E7230AC0fa161F3260BfF5a30967060F51` |
+| 💀 | `235` | `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` |
+|  | `236` | `0x1149D99078eFF09807AC75c5D790bB3fB4289F1a` |
+| 💀 | `237` | `0xC0e67A6BF77d5eEa4a34252c5ae27A79ab550eFA` |
+|  | `238` | `0x52f261a1D7458517912c4CF6D8b4FC536C3851aF` |
+| 💀 | `239` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `240` | `0x11B723b17787493684E3265f68F0B7475DaB2850` |
+| 💀 | `241` | `0x78f808531faB0C56ab3B2b6ec60Ff8364431f8CB` |
+|  | `242` | `0xb2323984E0B184859aeA3c3B027b0b663Ee0A37B` |
+| 💀 | `243` | `0x8aAb4727fb1FFf20Ff5Ff49c3A11c1c9C04C51fD` |
+|  | `244` | `0x6DD9Ec39afc852349087B22432DB7fB5dA136a0c` |
+| 💀 | `245` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `246` | `0xD78c6D0020B006EC30875449233C9E2f608e40Cc` |
+| 💀 | `247` | `0xab89f54f5d8040245FD0F04a1E6E511Eb68E2C85` |
+|  | `248` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `249` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `250` | `0xDFB1Cd8A4164da96dbC4202814c3321D25a457DA` |
+| 💀 | `251` | `0x652F8717a562d68a7e10ffD6F0d47E900A197Eaa` |
+|  | `252` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+| 💀 | `253` | `0x74D563a6c038701C0B16F19CEed36ee732f3cC0e` |
+|  | `254` | `0x078D2D9442c5236a3EEC9267f7b5D9849a33Db5F` |
+| 💀 | `255` | `0xf545db6Eae9b808BEb5Df1291C11fDcbbb2AdaeB` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0291485B514A1682f11643C08b5e183be32575F3` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4db14aa67952b5c3c93466d0c871a636233fb69f8f3c9af614c6fc6c32d0a9a5) |
+| `0x02ED961704e7900a33ED09f5351e989b45F9f8F3` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6b9073ba04e948cfbc289598b83a8dd94d8ada097a0fccee8cbc838a89ce781) |
+| `0x031E4D326aDf1455B1eeA948413D2Cc66aD0deD6` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3c6533b5efc4b2c9c80be8d86891994f7f8d3d8b5b50562497c2c897523ff8d) |
+| `0x036935EFe45Ff4498149aBe3DDea557b2Db4902B` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x987e59c48a6d7b7635742f4c87f3a180a280209b9bd42fc79bdf0cdd5d5e165a) |
+| `0x078D2D9442c5236a3EEC9267f7b5D9849a33Db5F` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x015da5a2bd06236434264470813fc98b407f5fc0d0a0538256ad04138b1df09a) |
+| `0x1149D99078eFF09807AC75c5D790bB3fB4289F1a` | R. Gobert '13 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x34caec351df09ae3d714c68a62087b9a1fd92b91b6b2ecd56af2a5c79a36feff) |
+| `0x11fab51467c33B88949F350DDdb172841d6d6861` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9faec1adaea902210ea0213321a731e1a3af124da6ee2e14df55d35a4e9e14d7) |
+| `0x13865970D16b90660262Ee7C45963cD2f992f1e5` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dab35c06ad25fb352e5a3df3ebecae66a41d7d91607593ea5754b1353802fbb) |
+| `0x148dfed563aF3a69d7156f0112e27844e09248f2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7efcd0f9252b8296e51cf851605475c2e2297971378083969109e2c12c1ec2a6) |
+| `0x15B8E4f508419C1df0F3ff00a5136F91075e82F9` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x927861d3690464a854d58b4b294b5e35d84fec78a2cc4904917c56d67a5072e0) |
+| `0x18b60EDeEDA1EF8aA0477CAFd645bB8BF9bD8caB` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59385d842a0978c03bad01245ccd1eeab36e857326c25d7ddbd58045a231090c) |
+| `0x1aAEBE2c00b9E9C5A23aAC99D57ABf53A250E55c` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe920eec05e933e98a3eca746ba2581016acdb9188bf37990d7681858d2b56f09) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4324d36aaf9aa8e5741bca8b1fcd1477aad5cd349dd57af5fd0b17b48bb04d7c) |
+| `0x1d44eDEeE7084aC2bf00f8BfF5B645C8A81adb75` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fa923f862b776603d722ec1dd6ba4d197351ef5c1e6bd6f9f93bec4e71c182d) |
+| `0x1d76C3c1d39d0Ca68Bd1E30590003C6D5Fa94FBC` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82473c0f9518d95b879a73883c5b20f0097b667a42e32c549ab3a5f91d914604) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b53f7360e7e3687e8baca29056d671c5a1038ad024619252fa25a59cc0425ad) |
+| `0x20C3dFD2569c81F86116dD8BfBfB42731a53eD22` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2aa59c825f8dc41902c29f59686138d567087663bf5b2743beaf4722b696af3) |
+| `0x25fE5dc22659069FdA8a6305D0abcb2Ea583B0a4` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57c1d11d123aa135ba47c150f31758a5520493f296dc86df565429a9ccad32b1) |
+| `0x27973B397A819A016B2140075eFAC1424D591D00` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x547bc9962d37092c1bb80f238bc54007cb3c418d482211cc30f85bf7133cabac) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd108a9c593f212bfd90233fc12729bc7482ca8aaab8b7943ad9bb36f243d7d5) |
+| `0x2a533E8D3A9942CC2b3Af8F7DCb86C31f0203302` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdec86907d777008c7f8b7ece20d0f27f660f57c31ec9e364c6ca318d4f073118) |
+| `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf5ae1690b21e8ee0cd7f51683698f78f1c17746d73f9fc94b4cfd5dd548e7e3) |
+| `0x2Ba974e1aAaa6B6db093184883c738cC247BD738` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x528cb009ae5f604eaeac88245cc3a904eb4d1952fcd0b363418963b801dd2ee6) |
+| `0x2C880e6D33056945188b7b0eEEE2a16bea6fa025` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58e5dc4cd57a0dccf8aa30e4078803f76f090c8e0a41155fdcb6d4de46454e87) |
+| `0x2f3F3a0Bc51d53aE7148E3522b8541E7F61CbBd4` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ab27defa353af432703f05e78542ea740e27880e684e17c11a216d6d240c786) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0778b35b1c1a689902a53a094c3afb99278cde4867934510b001c470f1b806c7) |
+| `0x3450C7213A4978e2e962BB454701802950C47610` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x811767e603cd83b4d9c1bc1a1f1d81aad7960fed6f3a059418c20b79c85bb322) |
+| `0x350ee0A8eCA9Ea0EF339cC8658624552DE675BC1` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5887add355c1ed113df2d9c582d46750f2a05696af576c2d5bc3135abf9fc311) |
+| `0x3687Cf9428324aEf72B1839a45a953D37aAD3f31` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21fae11e96dbd12f7c90d39d39e799864cbe3d633f126f50cf2fd4fb9f2d94ef) |
+| `0x37b1D1e98c657e17eb7c484b6C48A4c9499b2840` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x858f08bbcb0b462070520452d56cf9cd9e43daec0b28cc13e3d8c2f2d86f8877) |
+| `0x384c225b98faeD5EE6E601b71930335EA9b26854` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04d096547f23422956bdad22af5c04ae53820f966815c96a58ecaa8364f38aa1) |
+| `0x3D1cAF159586001A62E1E2CC064e20F94A4AeD9B` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1345177a5559260f873b232415eb4723db21e882c8afb1de83530c967bb1c04) |
+| `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x201ab9cd95c27f3267c2e28b88141dd45dac47e74253ec08711afae94a082716) |
+| `0x41dc126A033084c8503B9BBD15A0aDD4946B08f5` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c5a0e7614e0f06d61a30b345d99c05cde16f9bb7bbca36cbcd0f82341b6ef54) |
+| `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d97faef5084c4b3f14a06876cff9e47c2ab2eda92d0b3a696a0d2205fc6d139) |
+| `0x53435eF76E66E1c977e3CD01AC8fa73ab130cd33` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf545eaab17c89032e5699d1df4ea22917c119857a67e441deb93489f7ddc4692) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcdf58be705e8f2946e6276ed0f0f9b7788f935196565b7c9a90d1ad00e1a4d19) |
+| `0x5682659c51DE85A16F8a27f69339C01E61f9Adee` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe64727ce51a5c345d09066efd204b2b41b07899a91c698fe1c0d5593579e108) |
+| `0x57AC595d2CF0dc3e493F6f10C0440e344A27e3e2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf521a71212c9ee41c90e3f46e4fe9b078b0e67465ff3636b30f1e8bc2f875af9) |
+| `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x65492de87dde71a97b4bc636315959394648f6989d4958acd78cd697ea6526e0) |
+| `0x59C57F7a54FfeeE6340632802FAb882Bc3fc8E90` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d89333042a530d96a2e747fd0cd989e2110d75a93986c977697d1738cd3dda4) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb010c28f91270055c662544ded5aa84ac08866a1d29583ab7ec3a0ceaaaac52) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88b329a9d23e7071f224fd38c88fb54248d9436e9221e78101c56b62d32ea056) |
+| `0x5b4b85c8D2cA959b49D82e9b99E94f26a36D4285` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82a9bfc5aaadcb7e2b44bfbd304c4cac8c3559b78f86cb048cc99c97d592211b) |
+| `0x5eb69f3900fF8cA5D7d9B73c2Cfd41C553D139b7` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76466771318bc181d3941ee0e0221b76e3c04e3a38ff41efadb5142b1af53ae8) |
+| `0x5FfB53AD0fe895372136da0005E194eA6b28bC05` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8459e63f81eeffe8a7fcc957fed870911fd0488d2bfd153c389a508dcb5811c4) |
+| `0x62B471a64cfF653fd1d9D9f941fEa288E850D37A` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbee9bd2b6efbfe5987b9fac8b5b97edbbb4565350e417a9de7ff518702ea7448) |
+| `0x637DE444Cc602f4e912Dc0eC2DfC90b0AFB1D653` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63ad11d4075c3912834417c6a2d744c02e78c5e97e203366ba7e35ea9aa68e2d) |
+| `0x64e86cd117EB8Cf5EdEd3acb75F813c04087e6F8` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf831d8514603f4f99ce06aad8b4b0a9c94f961a2fb84d93c589608a5c2daae80) |
+| `0x652F8717a562d68a7e10ffD6F0d47E900A197Eaa` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24a1cba1c50647ed9578db9e8f901187cecd7aefa68b4a277be9eec61a6dfba5) |
+| `0x685cd332f642f19f45f0c926D12F7923Bd9c2D7c` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b1c3d68f8085b0ccadf49337b123378555d57bc13ab0da197150c3a0e6761ba) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde094bc9257ae6d84caa5e4dac57b681b73a6edd7fbda8d22e09205ae04c1331) |
+| `0x6Cc37A21189Da43ae93547882B55FA719281Ab4E` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7259be6f10878e1cff9fddeeed1462c698764d1d329a6ded6883a925c771fa6) |
+| `0x6d0633c8e378ffa0715aD5e8B5aC555D52Dc9066` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89076985f976669a06b50e72950deb07150d93a039e1eba64621e8e3e12098ce) |
+| `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56944672ddde044b26af8c314190ba0858012cc53743755f3a56aace1e69c213) |
+| `0x73BD103dA179253B60e19b18d9c570F371e3c477` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e27ae2a71e384969332c874f0837faba556168a7fc6bcbc128410a101122c4f) |
+| `0x74D563a6c038701C0B16F19CEed36ee732f3cC0e` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb13f08635b383d4f1162eeac902d0185b5a6893e757fa637f948336044d6ccda) |
+| `0x75f5239E80526936257dA2eba1dF069bFD32f524` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e49467fedd3252e9821c221eb7d625438a547285dbc08da9928611f654807cb) |
+| `0x78e87f0cC219E6557052B74EEdFd28963806f329` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22e6c8300d898522227257eddc70e70aa623cc22c3ac4d48b49a83699b1a2e92) |
+| `0x78f808531faB0C56ab3B2b6ec60Ff8364431f8CB` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39a3ac9cb2998f7abdfa06ac80b7d592b3fefaa5f4dc6004791a1f241b64a828) |
+| `0x825C2e9D082d73CfC471BC5FC87235040777C3aE` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd630d18586aa87bf997f4392beaf1cafb1e9b4861714bd569ad398c1c782b64) |
+| `0x827Dc293bea4281a0A79b9F3b37EE04dd1Ac5A1E` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0cf3bfa0e21fdf1038f32f296183e29198b011cc9fb94c60a76b5e9a6a5f4a44) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x48fcc462a01b4f2469480b91ccc61284a887d9276bca85aba235fc735e28d7d3) |
+| `0x876340AcBBd4e8CB9Fa82202d12D433A54Baf78C` | R. Gobert '13 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2877fe25d9e03768583404e43a4b2d95e9124f3ad451fe10ec5eb21c69caace0) |
+| `0x87eD780f96576D10C2A678782E95485045CC8623` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x267b1299b454fcd3168d88e840c4132e460da11a7418785922d369c246e749c7) |
+| `0x881FEFfbEdCBAbcd11cE5b1A16d001f6db40F279` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f392ab06a955551b675610a1f2aee29baaa696693077b46d5db241bb499a601) |
+| `0x89153268A7Ba20e407eba93e6F77c5565489B517` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ced8a0a8fdeb661197a301fc65c9e1a045e361c3d64375aa670aeef5e09bf21) |
+| `0x8aAb4727fb1FFf20Ff5Ff49c3A11c1c9C04C51fD` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d447a0ce20814e09ef5805e101baf3d12c3551660fb24fccff506fa7f68b786) |
+| `0x8DB9875668A3e609BEEf552aDC3796B3DF496304` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5aeb2f2ec6ee668456bac7cd2533c5191a3eb8df046dacf615da6c91088064a) |
+| `0x8dcd0E6Af80D2BB9CdC91a7059fe77ca8E3899Bf` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02b471e2de08c60dce8909afb896a4096b1d356297d85bc5c716188ae36aa381) |
+| `0x982e4DB60a1AA23d12dEb81Ea24030EF74983F7d` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82bc89eb983c7c8d067e528b70428b1e376d38631bc9e94956c656c898d348e5) |
+| `0x9a1F2E5a33D3886130c3175B50180b76C1CbB7Ed` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78dbfac49e7ef2b120c96aaa76bd4277b20bdbfcda824a5b45f35c2a0b3a9a51) |
+| `0x9C0cedD86620240b1939fCF755Ce71F162220850` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14111c3e9e26868f225e22788b1589ee5e3021b72df3ddf0949919778651a9cd) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91f6bb0ecb69536c52af3e50b9790919e67c17eb56076cc4e436be3ed2b8224f) |
+| `0xA45DAE2f2dC8259AB6d23163AE56C41696835e7a` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7d91f4534f03aff118a9523842c307c13fc86dac5ca8ecabf681c5811e02f47) |
+| `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x107a1619a9cae7f78ec707b587f4a705b63d77837ce9cd1baac0da39ca907928) |
+| `0xa7D6DA21ccDc071b7A4971f2F3AAD8973b6cb784` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xedaa0b7931e927af9f86c4ee073051a859464c5c1e918d6a74023421cd2e21d9) |
+| `0xaA707874E50c38997199774e093202Bcf6DCB1aB` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2780f6d4f1f9eafe105db42e91e6b8a53bd56a20bfd74e4bb30f43c62e3a15f) |
+| `0xab89f54f5d8040245FD0F04a1E6E511Eb68E2C85` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5750fe405f7af476d7bbdd466032d9ef781c4f16e17a655e4e7147a07088a48f) |
+| `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` | R. Gobert '13 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x990232bace856ef405e38f1d564fb845548aa4b895e3569436a51ed0513c71da) |
+| `0xB127c04CCB74eDDD78Dce794648248126F464eE2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf3d794bbae6b3498a5ee2dbfcf115c480924b1f7eeb94e2c087a8825a7c19986) |
+| `0xB198091968c8C4D6178FbA005A85eB55b8035e4F` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8af62e742b25fa83b8ab6f78b6a2667dee2e3a19e70aae27cbe2d3f2ae5ad44) |
+| `0xB1C1fb2400102b9A70a59025a3806Bbfc31c34CF` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf7b331aefa14ab942f629096ae39a3c31dcea8f3b787177b75655c73c17928f) |
+| `0xb32EACce92ab2D714C378f00afb2113aB7AD3bCa` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf9874ee9f390b565eefb86311897f12251afb9194d1fbf29f474cf2ee0055da) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6bdc613f01216e673013b4e2723073b0c0c9d4a1da06541dc502b534a69b6ae) |
+| `0xbb8C6B429f2eb86f4054EC9D99928Fa53C60e63c` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e8013453414ece47c4375337b0972bfa5cf0b8ab92eba0f6c338dba71626ddf) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5e7b7e5868f42e459eb563d5cf165522c2d5947b525ea8a4abaef369b2286c4) |
+| `0xBE6F5437C3C73FA238628Fb5dA61A1A07ea0E8f5` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x551e2ef68ca186807e3e4b184fcb65d253081b9581e0b8a0d019ab2b91aae612) |
+| `0xbF512858be92be444422e6e4DcA9e4eb6Ca66A5C` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a6ea4db7640a1580810420f11dbe75d11d505467d87060849297a3637c57c0b) |
+| `0xC00eDFa98C782c580B335E414Cd62597670a5E5c` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72ca70f5f8dd22a3ef428624ebc43e58ce76bf6b4deabbc98f4c718e8d0a16ec) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd72e7c29cdcf31fe624e6e57df3e6948e9f0b39e0b8f78984974bb7a141189b) |
+| `0xC0e67A6BF77d5eEa4a34252c5ae27A79ab550eFA` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec77b95d0562dbdeee648130aeff3d5d3ea2451dc267d4a31bd5fb3c0fd79999) |
+| `0xC1A6d9dA4b18a95A925c8d29C729460EA5A2735A` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8a5de95ca02037724c9057e5fb18d517690f51b770012a71ec728051f9e4a25) |
+| `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x18dece8c20fc9a6b38f84cd42e39a8a7e5cd4434c53699c2c89da13f92357013) |
+| `0xcda75813A79edC351F848e21EbC6C772c71bc0f9` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b6cae9ca4d04130a1671cc0eee0a5d0cab05bf75f8a32453adcb1d09569e423) |
+| `0xD0874Afd38405B1418Ad792b69D21c678Fd25C60` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde8ee5bef9c21cdc74793f404aea03c93a243c90292e2912c5c0b3888f096bad) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e55d62457384a265d6a15fd6083291eafea586cfd3e80a446bedbba95e19860) |
+| `0xD20Fe3D577BEEEb75A32376d1cC8D261668342Fc` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x481223b8f62d9d39a3fb5e99a1a42ced5f36d47caa1feae768837a408ceb0079) |
+| `0xd35BE6bf74f7468638e2CeEC1ed8E499dc76682f` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b187b6a42763289c88499ad3565ff70e410244068f6c0fd0ca5409b39145382) |
+| `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19281925bd813a5ec6ff1692d01c718f63a14a7de939391daf1f11b294cdb583) |
+| `0xD4235DB8009f376e70e2f53AA66f0a0EE6b8bF4E` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e4bd794f45a038360b4c7abc4374685134a138fc897ab363039cdfef996f681) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x593f185176fa551cfd66041621504273f2085db89f48a253dc600ca14874837c) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3e22aaf3a834911b757de93340ff272426483c89c25b239b6dfcc2ceb14ab4f) |
+| `0xE22eA84B0114FF6927952934c2143076cFB9457b` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf83ca605d904f944440350763ccc4d1c7d19efa65130e76a6faa2ad08c780f1) |
+| `0xe3a216047043896483919b4da7520DC1F2Ee5e51` | R. Gobert '13 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa7a4565ffb8060a68eb767b99352726a13398a083cda32eb61e11582ee662c6c) |
+| `0xE6ea90E24f3a4bc5d7E95a393b4c53803Ba126C2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0659f65ce6ed18f8c1b3f83f4357e2a1fa2b7e3d78f670898dda66119107ce4) |
+| `0xE6F4adCEd28A976f652a400412D0e19B403D1E6F` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc664991b86331e6862d55c72337ad0a54822ea631210e6b6ce0af7591434bf82) |
+| `0xE8965b985Ad26a8293A21254aC53Fd3C754Da857` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4276e2f601ca3d807a712149b619f31d2f13b8775cd507a866f97e6fb73eac23) |
+| `0xeb36248E77E72E60F2F3aC5511029ef0dEb7737d` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a6249816a1ec2e381a7ec07ff4b89e86fb591cd301056e4c77348a323e83aee) |
+| `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` | R. Gobert '13 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3c70bf56a0774cfe4236866c8a9faf43278d75800c9364ee4f16b98b4aa8bbd) |
+| `0xeF189ee2ee248b21D814032a42E3a34adCc5A9e0` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d4291536bae761ffecb49d01a985597ac859409b71fdf9497bd757cdecae9b0) |
+| `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x020d92b7908345b728ff2ba1cefe8bfcaf520d52cf876e01f4b0b636d820be2a) |
+| `0xF011f87861B6f9999FB83517a8719c550B028621` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd21dd8dcae550f3b969d11eeb19e431a430a8a3fe685f0a2a37db5314c061e46) |
+| `0xf02870466B35F1b828f7D45bB179ea0F912210B8` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96dec59b901251d3c2954c92ba5ff7b2089166866ec7eb534ede954ea7217386) |
+| `0xf0764B1d590C6De471a3ED15168d1Ce74c0C9389` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b8071a9b7bf8c644ab8454ca06b5fc5aab612cc49b4936d6bf780234777d4e9) |
+| `0xF4346E50DB01B517ABd8d68Cd2b9b6f111c711b2` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8299c49bcd3425abbf9dc21e422fdb2205be94807cb86d622c3dd45501d70846) |
+| `0xf545db6Eae9b808BEb5Df1291C11fDcbbb2AdaeB` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x13e01d494e04b5460ca0ef2963a20ec502760a0a371b01f91993d9578a61e036) |
+| `0xf679a80A7FC24B4F0bBce115f07CBC3171255e64` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a071aea29cc64467c12c44843f38a60850b400d1af633f8eb651b0518cdd046) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c78e72495085fe2f4ff3b67b3ab75c58b16e3610fff2f6a6d26607fae2855d5) |
+| `0xFA0748286ABC98df9E0D7eF2c7673386695fe376` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe88c90db2380cd9acf6672fa2d0bffbfa8dee556b976733a0d0f2f4d968cc195) |
+| `0xFA4813E7Ff6f39F85B97255a80C689DfC3Aa5069` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd235780b55ba840a1369a81163cd236ed13ebc9e0a635c88a98b2ed850256ae8) |
+| `0xFcE51169Bb6E2ec9904c9C9ef7e811a1e9D06a24` | R. Gobert '13 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7c6c557171e2f45643a06f4d06afda33ee3ab970bbf14da2103176c531a963d) |
