@@ -15,7 +15,7 @@
 
 - [J. Herbert &#039;20 PSA 9](asset-442.md)
 - [M. Trout &#039;12 PSA 10](asset-443.md)
-- [C. McCaffery &#039;17 PSA 10](asset-444.md)
+- [C. McCaffrey &#039;17 PSA 10](asset-444.md)
 - [H. Aaron &#039;58 PSA 6](asset-445.md)
 - [Koosman/Ryan &#039;68 BVG 2.5](asset-446.md)
 - [R. Gobert &#039;13 PSA 9](asset-447.md)
