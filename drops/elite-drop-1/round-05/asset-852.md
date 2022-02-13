@@ -1,0 +1,203 @@
+# [Elimination Proof](./readme.md) / C. McGregor &#039;21 PSA 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #1 |
+| **Round** | 5 |
+| **Started** | February 12, 2022 9:00 PM EST |
+| **Completed** | February 12, 2022 9:03 PM EST |
+| **Tokens remaining before round** | 3,200 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,600 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | C. McGregor &#039;21 PSA 10 |
+| **Internal ID** | 852 |
+| **On-chain ID** | 220 |
+| **Image** | <img src="https://tcdn.blokpax.com/95836cf2-27e3-4c19-abd5-6ea6de8f3e02/be0d146bc4b7a033e63e59ef0b3ba7cd872744b1c7e4191c4b2685ec57e9e305.png" height="200" alt="C. McGregor &#039;21 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `1` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `2` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `3` | `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` |
+|  | `4` | `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` |
+| 💀 | `5` | `0x8F90Ca401e7623a02d17becD04FBc1Bb264D3A55` |
+|  | `6` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `7` | `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` |
+|  | `8` | `0x1E1C976aa4b0F7194F2474a8BAd75e2dd1913dc9` |
+| 💀 | `9` | `0x4f3FCB84A1856c0756d73B56d5D1f1ad7bfFf066` |
+|  | `10` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `11` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `12` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `13` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `14` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+| 💀 | `15` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `16` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `17` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `18` | `0x9a631601AdaB55f708cAc19D40E864dF0C1d2c8A` |
+| 💀 | `19` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `20` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `21` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `22` | `0x52C51e3f1fA02001E8B985b1A173B001114c71Fa` |
+| 💀 | `23` | `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` |
+|  | `24` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `25` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `26` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `27` | `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` |
+|  | `28` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+| 💀 | `29` | `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` |
+|  | `30` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+| 💀 | `31` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `32` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `33` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `34` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `35` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `36` | `0xb30307f5a60E70F63dD348aa5b37F8342dcb339c` |
+| 💀 | `37` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `38` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `39` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `40` | `0xEFFC7bb82b1495b9B14394Ff891D1e14e1F17C8f` |
+| 💀 | `41` | `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` |
+|  | `42` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+| 💀 | `43` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `44` | `0xc03a13F87c05A8858276dCbBfE38f22A4888642e` |
+| 💀 | `45` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `46` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `47` | `0x75fB6142a0d52a4802030911a94e66DbFb25a323` |
+|  | `48` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `49` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `50` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `51` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `52` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `53` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+|  | `54` | `0x3Fa61745120021C1FAF86243C1cE9fea91e39e41` |
+| 💀 | `55` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+|  | `56` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+| 💀 | `57` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `58` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+| 💀 | `59` | `0x816be8f76EaEFf74530acbE5be1F5822c968aCc6` |
+|  | `60` | `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` |
+| 💀 | `61` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `62` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `63` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `64` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+| 💀 | `65` | `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` |
+|  | `66` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `67` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
+|  | `68` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `69` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `70` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+| 💀 | `71` | `0x61Bf366363172C099AA39b656de147FcA69d786B` |
+|  | `72` | `0x4Ee3F91Ed9C950011497993Cd53ddD578285Df78` |
+| 💀 | `73` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+|  | `74` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `75` | `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` |
+|  | `76` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `77` | `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` |
+|  | `78` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `79` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+|  | `80` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `81` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `82` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `83` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `84` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `85` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `86` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+| 💀 | `87` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `88` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `89` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `90` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `91` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `92` | `0xD505670aD549629A67be2C20c12e930599345366` |
+| 💀 | `93` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `94` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `95` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `96` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `97` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `98` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+| 💀 | `99` | `0x20EEC89466066D51cB76b3d93a20ee52Cb15bB5d` |
+|  | `100` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `101` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `102` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `103` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `104` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `105` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `106` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `107` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+|  | `108` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `109` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `110` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `111` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+|  | `112` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `113` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `114` | `0x905697B68B7aefFe77E91Eb1a517b20a98486f8E` |
+| 💀 | `115` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `116` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `117` | `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` |
+|  | `118` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+| 💀 | `119` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `120` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+| 💀 | `121` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
+|  | `122` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `123` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `124` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+| 💀 | `125` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `126` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `127` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b378f93c35c510d7762b512ac070fd2cb5c10317e4742ded97766b27ed81b86) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0d3fb57d944246c62157b66feddf7221191890d2bffe2647c4b6bc365475433) |
+| `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6ffee25cba268e309fcc5bf98e8971be7e4842f812362a2e9e3a6b9f4067f11) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x807a9edd1afacad87bd8f0eb41959fd94308b953781b7b22ddc6417f5b0f2ad5) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad7970e8ccd853b1771c86968ad41a7cc5023878a67658f8f0e7701e20c58bd5) |
+| `0x20EEC89466066D51cB76b3d93a20ee52Cb15bB5d` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dec259b690ff842bc52c2280c226254394b0ac9f7ee643dec3fb816de55c388) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9f99d0017c43cfcc5903d8a5f4afa33327b8035ea013493720585c08ece0065) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf77ba053e28dc311bd224bc37077921c01b09003f58694359d658418ad82fa02) |
+| `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x329df728610c488050044e5ba3f5ca5687190495ce0024a250af492539605574) |
+| `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x137f9369bc88b71e4d79aee623c3138cc93da9ad58027a1ac0752b16945dd34a) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac023130a08226539694fea8dedd44ccb3b04f8d6caefa8396cd0a927f206082) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | C. McGregor '21 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x2be85a9294e3ffa0f301a44d445dc83d163100f30a17e4e13121549af9333c13) |
+| `0x4f3FCB84A1856c0756d73B56d5D1f1ad7bfFf066` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddba9db517ab6bd3c5ef618ae29592d184690128c5dab3c3553851f0a902617a) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | C. McGregor '21 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x157b31419dca540b51358d0957564ecf1741db3909c48034306102a8cf0f2624) |
+| `0x606fAA5C30416A54552b73c16065A9ae35d49B51` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbeed952764022e3afffec1299bbb0d8438fdf6645608cc08b141cd055fb447f) |
+| `0x61Bf366363172C099AA39b656de147FcA69d786B` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7190be6205a3372625f0b58895cdea27b212feaa0cde10d707e5e3487fe0f0a) |
+| `0x64ec73Dac2CB80462eC949C10e60dC22a3aFF778` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1007607495188ce3cc6a09b6dee6c708f4eb6511937b7f1f19bd43fb64193170) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x537bc3ca700a6c1314f015ed54009aef8b28e6ccae092fb2a706e7a2dd7b3976) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x165833f0fb0f01da41943ec1da817bdee1e278ba9cced41291069b13a8033940) |
+| `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d0424f464530af74871ee4adf197cbaf6e3705b6d9945239e2e2f4412152ca4) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19bded94091f1c608be41020ebae57caf50c6ae97298479b6b10a0dd5101397f) |
+| `0x75fB6142a0d52a4802030911a94e66DbFb25a323` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87a7d29a0c4134b4a77ca157625d6da1584a1c5617375d3f52821573bb376000) |
+| `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1da85606ef8e6dd105a755f696586919cb82743efccea88fe39e4961d9824d87) |
+| `0x7B5b66B93cB88a609E32fcAe784D63Dcd3534dDe` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14103d87b83512ac82c55d55e7045acf7cbd3b0165b4cd297702c90bb60f9535) |
+| `0x816be8f76EaEFf74530acbE5be1F5822c968aCc6` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc39926a8efe1dd4b2a80f0fe4cd06d7d5614225223e9b93ae4da5c64893c37bd) |
+| `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17b0558489be44e6df8b41347bedae508cb0c85e01196b6efa78d0bd0339cbff) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | C. McGregor '21 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7ca3db51ac104781d51c5c72647cd04e739003b2a08cfaee11d3ed62c831b6db) |
+| `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8735d29aebbfe5c6e86c69e78ef1929c63354d55814aa9e46dc0949b5446734d) |
+| `0x8F90Ca401e7623a02d17becD04FBc1Bb264D3A55` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x234632925697edf2124d670649f82e8f9c284cf097d8b815bbd3544d84f765e0) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8699a7e95bdeb863d7fe7e10544e788e76627d8a3e18c52a8d9e049ee71d62e0) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8fe412e34e924dbe5c936f3960bea4f59a174af2ac6f81881f530b7b1303ed37) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | C. McGregor '21 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7f6ffcf8bafdf7aa7612525774deed557c8889ac41771a51e1b382eff8250859) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | C. McGregor '21 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8f1982aea8c654a7f5b30b8d34529cc575b19f0b4919d1da99423420b1ea4985) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x844c931f9a352cc0b9306c5b7af7426a1959884305e3e2b500d2887101e00fb7) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26fb33d063a68b12777698997a19637543c989961b2b6113178d04882310ec9b) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | C. McGregor '21 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xec1d0c31ea231d2f8c99b0b55859c11f25c6ca8a95542b7d7f893703d99a0015) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd030c37138ca7c3d0155eb2c5efad215cc4de632c999226b9f895d517eafb136) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39cfb1135c98830f9ebc5f73607e63a1d198d8fa26f3a180e718ba3e69c3f039) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61269042e375cdb8b7fdf14da2e3b6674f0defcc9ba66fe52cf2eb954d27b792) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | C. McGregor '21 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7a0406ddca9f1e47eae560feda84932f2b64fcfe5ba037b410d5fe37c7d3c38b) |
+| `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd7650e48f3e827a8ee3c62b300a32fe4e3873cfc132d53460b400dd5dde4d6c) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37eb42428b90034f7afad73a1fc3eeaa2ea0a7364392ed323395fb5867e73720) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fdde4b0c770b5f1af211f9edff0b784e79d64a29e34b8c124983f4303e7baa8) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | C. McGregor '21 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb1275fe555b95c346b7e7d9e940c76c4c1539862188a7733a500d9bc7fef71d6) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x469a1a567782aad666c2bc5385c01c65f6fdf07b9d691a88844bd12baf12c102) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c4d25f14f64b1cdda9677ef0826929b4f07f5266d01ddf12c90aaae7038561c) |
+| `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` | C. McGregor '21 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x684a1194b9a18bafe0ebdc1b66890e9237fe70fea03a3f51a086f59cd4522aa0) |

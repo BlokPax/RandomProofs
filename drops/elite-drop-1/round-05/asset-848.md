@@ -1,0 +1,193 @@
+# [Elimination Proof](./readme.md) / B. Adebayo &#039;17 PSA 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #1 |
+| **Round** | 5 |
+| **Started** | February 12, 2022 9:00 PM EST |
+| **Completed** | February 12, 2022 9:03 PM EST |
+| **Tokens remaining before round** | 3,200 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,600 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | B. Adebayo &#039;17 PSA 10 |
+| **Internal ID** | 848 |
+| **On-chain ID** | 216 |
+| **Image** | <img src="https://tcdn.blokpax.com/95836cf2-27b6-41dd-bc51-87b9352dbc93/688d1c749b0a71dc45d5536097aba7cc5bd43ead31938732d0adb91cb85a811d.png" height="200" alt="B. Adebayo &#039;17 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `1` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `2` | `0x2c8e0B32446972504954FA886fF8a19C216C8Cbf` |
+| 💀 | `3` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `4` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `5` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `6` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `7` | `0x416D279b22c69607A06CAc53c6E063229749b1ea` |
+|  | `8` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `9` | `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` |
+|  | `10` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+| 💀 | `11` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `12` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `13` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `14` | `0x07F9Ec2F46eB6eCC7B45abaC97Ba55Dbf6bFeD53` |
+| 💀 | `15` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `16` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `17` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `18` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+| 💀 | `19` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `20` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `21` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `22` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `23` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `24` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `25` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `26` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `27` | `0xBEaB4754596fb55cBA53B54a3d2037fB50a41fAD` |
+|  | `28` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `29` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `30` | `0x66a840dE337A6e659F88920B713574FA20d90b29` |
+| 💀 | `31` | `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` |
+|  | `32` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+| 💀 | `33` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `34` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `35` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `36` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `37` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `38` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `39` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `40` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `41` | `0x0d55234789174Beb35449d789bc666567dCc349d` |
+|  | `42` | `0x416D279b22c69607A06CAc53c6E063229749b1ea` |
+| 💀 | `43` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `44` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `45` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `46` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `47` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+|  | `48` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `49` | `0x416D279b22c69607A06CAc53c6E063229749b1ea` |
+|  | `50` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `51` | `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` |
+|  | `52` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `53` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `54` | `0x148E6f311b4653884158329AdEebD07Beda4Ed91` |
+| 💀 | `55` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `56` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `57` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+|  | `58` | `0xD5B7bD1935C8f1Cca8666A16d2009A303C57D03E` |
+| 💀 | `59` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `60` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `61` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+|  | `62` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `63` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `64` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+| 💀 | `65` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `66` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `67` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `68` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+| 💀 | `69` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `70` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `71` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `72` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `73` | `0xc570dcfC19e11CB1db8Ebb441D9Ef06C2070f0e7` |
+|  | `74` | `0x5c05F4cCF3b31E631F49CC17434C2C0358c18A96` |
+| 💀 | `75` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `76` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `77` | `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` |
+|  | `78` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `79` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `80` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `81` | `0x22CF2EBfc0BbE6b7efF51E2442869A4B806A49d6` |
+|  | `82` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `83` | `0xA8A0de325D532Fb9c20CA5961E3D6009434a85Ee` |
+|  | `84` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `85` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+|  | `86` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `87` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `88` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `89` | `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` |
+|  | `90` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `91` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `92` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `93` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `94` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `95` | `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` |
+|  | `96` | `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` |
+| 💀 | `97` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+|  | `98` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `99` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `100` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `101` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+|  | `102` | `0x1CA51cFA34BBc0E82b4Ee2a92226544F606F8855` |
+| 💀 | `103` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `104` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `105` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `106` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `107` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+|  | `108` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `109` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+|  | `110` | `0x17Cd47b40DD7E7763D1F43Bd19d97C2aEBb1190D` |
+| 💀 | `111` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `112` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `113` | `0x9F5EbAcabF8F576A41F47795954d628Ec88a858d` |
+|  | `114` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `115` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `116` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `117` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `118` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `119` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `120` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+| 💀 | `121` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `122` | `0x416D279b22c69607A06CAc53c6E063229749b1ea` |
+| 💀 | `123` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `124` | `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` |
+| 💀 | `125` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `126` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `127` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde7abfd1fd1cb0244369e700a6182eb94b1147aa563284395cea2cf157588d1c) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0b2d39213c4a4430faac126698156314f5ae22a24ee7674b0631fa2966c2ce62) |
+| `0x0d55234789174Beb35449d789bc666567dCc349d` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58ae2b3ae5bd7ef848a47d8b23b6c8775475196239fb67c1837915206ff37090) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9be364537ffdbea57013d2a17fe8a5d4c38c49de7adcb63129ec4950b3c2ffbc) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35a830d721345f0233b0b22a772be157e0516650a6be8c78cd52f9ec62acdb54) |
+| `0x22CF2EBfc0BbE6b7efF51E2442869A4B806A49d6` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d8433644bafdb2b6a9a8ed2525337b24997acb3c507257acb8bec91a28a7c74) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc883361bf0a30625a7b2c77d9bb3087e20125dd410ed091c9bf7c9a281022275) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb491d7c15be8339740dd90c23b83bf7d127aa4aed549e896529647f745f15c5) |
+| `0x36A4ec703A64E1e4f8D842B77e4fC4bDD4444d8B` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5eac0c9285ee07a576a5eeeaf20b7f8307523f204c0e02b8df7b14596a4e2c6) |
+| `0x416D279b22c69607A06CAc53c6E063229749b1ea` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4b6161519c4446f28f1072b760eb23edbed14a1da49aa90545c0fd8072a097da) |
+| `0x4d5eb2f9871BB5A19865BB077918CDa56ae467d2` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd3a4a63334f8d98ffb62833cda9409934d126990afbdb4bbba8f154e5f890090) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc084bcb2f542fd3761f8aecd58c6343ff5a9edc6d69653bc1aca4e71a7ccd875) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2a0cac1de5399f4930eca97b5c3a7034fe8cdb836323c99b0581573c38e03f0d) |
+| `0x55fa5f773C46b21e35DBEca068431a2eEc5802fC` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa77d01498d7bdac7536ee09bc78954a9e56b8f2b557cbce7c85cd694f623399) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ec8daab80540eab138bafba8ec84612dfe8f4d0d5cd5da91e03b44804f4f10c) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x40b7e2d91cf323562591f2523f374b95627cf926bb684dcffaef9b5541177416) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6e349e45e72fa2baf8bc9c7f7763f76c0816a0d99cbe431808e389de6763397) |
+| `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x14fd9315858a6b57bf4640f833975687c5474b61ad06251daf2ae2e4f1ebf8c6) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecc24f06351778a52cb77fd78727353f6239d64c8d0f1f4b93f360919fb4fd10) |
+| `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca153ea5fba835c42482f9a7179ad54acc37c200f994f89a00eb51388b982ed1) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | B. Adebayo '17 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x3cf0b69d795fb3956666e0599bf4185d3ae494396b289966676bca354aba427a) |
+| `0x82F4a9B0b9520BF3Af25514e88EAEcEeC0318279` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc95812597098b6396d23d916ea2473d828b866620879d91f75fbbc0da34430b) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae15c15b418363650d889fc9ead22d9841a8f935e3476da49b893f2f8f5bd6d6) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b2b2629e89681e9134b9c259add8d2fae066fec6db301b4d6017bb7af7eaa41) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc549003cf5af2ba02195a61261f0432084f4293bb7b571d381f0782fc3ce7293) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | B. Adebayo '17 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf2eacbf1571bb39403f5058df60523e08f065caebba153150c1cee451286eecd) |
+| `0x9F5EbAcabF8F576A41F47795954d628Ec88a858d` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x07e9bc3c05fb52c875bc2fde61165c64e74117e2955fc3ee8767b81d819edbe0) |
+| `0xA8A0de325D532Fb9c20CA5961E3D6009434a85Ee` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5dad57d808cedec77008bc0ec5e515ce3536f562f45e751ad658751a3dc032d4) |
+| `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` | B. Adebayo '17 PSA 10 | 6 | [Polygonscan](https://polygonscan.com/tx/0xccc0fe933c52df00c6d8a0ad7106e8303dc0c998fa7f2f125fc75ca7aaf81ed3) |
+| `0xBEaB4754596fb55cBA53B54a3d2037fB50a41fAD` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a97534f80097ff4eefccda3bfb8ee9c7ba5f356cd4ffce31a986be86cff0984) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbcba65ae983a4926bbd34b4ca1475fce85577cd8863233c50ce707fdf5c0c778) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26f3c9788fd3372d4f64152b1121add97c3cdaa524beebb9b462816c769f5aed) |
+| `0xc570dcfC19e11CB1db8Ebb441D9Ef06C2070f0e7` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92e997ff2c29955879e76947eda2e47f1fbdf1f847ceee3fa2638a6174f4f263) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x708bfae9440e922fa2950db32b0d781d62a8f34320566be3eb9593c278cb77ae) |
+| `0xe5E4edb49Da30c8E6baF8480d911C52582AecDE8` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e0b373427302516d76e4c89799673a60f68c2bf6d107864e586bb578c6439fa) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | B. Adebayo '17 PSA 10 | 15 | [Polygonscan](https://polygonscan.com/tx/0xf0cd8358c6ef0eb86bcfd559b41ca9aaaa831b31b286b8321b49c31727efb8ff) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | B. Adebayo '17 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2acd1abdd9ee367812836a1bf9aae39ef983e19b199f4a8ef7e0ece996bd781e) |

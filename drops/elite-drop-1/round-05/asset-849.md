@@ -1,0 +1,203 @@
+# [Elimination Proof](./readme.md) / B. Jackson &#039;13 PSA 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #1 |
+| **Round** | 5 |
+| **Started** | February 12, 2022 9:00 PM EST |
+| **Completed** | February 12, 2022 9:03 PM EST |
+| **Tokens remaining before round** | 3,200 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,600 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | B. Jackson &#039;13 PSA 10 |
+| **Internal ID** | 849 |
+| **On-chain ID** | 217 |
+| **Image** | <img src="https://tcdn.blokpax.com/95836cf2-27e9-43f4-a5d9-cef30d61e13e/f8a2da147e58a824ef1c17395c0e9f5a16ccde0e7ecf9c8cf520e4190fd7d0ab.png" height="200" alt="B. Jackson &#039;13 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+| 💀 | `1` | `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` |
+|  | `2` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `3` | `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` |
+|  | `4` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+| 💀 | `5` | `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` |
+|  | `6` | `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` |
+| 💀 | `7` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `8` | `0x0d55234789174Beb35449d789bc666567dCc349d` |
+| 💀 | `9` | `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` |
+|  | `10` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+| 💀 | `11` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+|  | `12` | `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` |
+| 💀 | `13` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `14` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `15` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `16` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `17` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `18` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+| 💀 | `19` | `0x7da291dE97F0a87798A98abc516c93C55dCD6664` |
+|  | `20` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `21` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `22` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `23` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `24` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `25` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+|  | `26` | `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` |
+| 💀 | `27` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `28` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+| 💀 | `29` | `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` |
+|  | `30` | `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` |
+| 💀 | `31` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+|  | `32` | `0xfbc60dDca984558836c12098e7D858cEFDc0ED23` |
+| 💀 | `33` | `0x44e7cB47687af546f5d7795070264d1FfD271809` |
+|  | `34` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `35` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+|  | `36` | `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` |
+| 💀 | `37` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `38` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+| 💀 | `39` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `40` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `41` | `0xF011f87861B6f9999FB83517a8719c550B028621` |
+|  | `42` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `43` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `44` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `45` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `46` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `47` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `48` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `49` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `50` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `51` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+|  | `52` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+| 💀 | `53` | `0x86C97767b31af866BC03f0902496d149BB67e927` |
+|  | `54` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `55` | `0x22C24828cbCC356471e4615aaCa73880ec3653dC` |
+|  | `56` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `57` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `58` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `59` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `60` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+| 💀 | `61` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `62` | `0x041341c03E05BFd91733912761429ad585B262d9` |
+| 💀 | `63` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+|  | `64` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `65` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+|  | `66` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+| 💀 | `67` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `68` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `69` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `70` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `71` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `72` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `73` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `74` | `0x34CAE764FedA3156326283ED4F79AC5018f93dd2` |
+| 💀 | `75` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `76` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `77` | `0xB17FE2fAdE8A416678CE78C60A042b4a813E24Cc` |
+|  | `78` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `79` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `80` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+| 💀 | `81` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `82` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+| 💀 | `83` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+|  | `84` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `85` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `86` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `87` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `88` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `89` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `90` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+| 💀 | `91` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `92` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `93` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `94` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `95` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `96` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+| 💀 | `97` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `98` | `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` |
+| 💀 | `99` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `100` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+| 💀 | `101` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `102` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `103` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `104` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `105` | `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` |
+|  | `106` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `107` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+|  | `108` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `109` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `110` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `111` | `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` |
+|  | `112` | `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` |
+| 💀 | `113` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `114` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `115` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+|  | `116` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `117` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `118` | `0x22C24828cbCC356471e4615aaCa73880ec3653dC` |
+| 💀 | `119` | `0x471e830A5bE283C9BB9B57615315595452184103` |
+|  | `120` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `121` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `122` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `123` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `124` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `125` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+|  | `126` | `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` |
+| 💀 | `127` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8a5fd284f2562bc918d146653c31d1de3c0dab3d1d4a373b910c50ebf713a6b8) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa041e687043f521267107ef110ac8baee391809b965c34b413c4fc5db132165) |
+| `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xcd6d826391513068b4e54c3703be4b5069a5e17b007977d67cefd62c8e09d3e6) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa656467c1a10fa8f6e5ac82fac19dcf9dfefd0d8b711cb44d4e035eee2251f68) |
+| `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5be5d8fd4fb042d8f61b2269328a9fab03145a7eb606a66d74c98bf32c11bf20) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9859b1362a91b379ef83380ba3bec198acce7f2f070a4f88609a87ae2105efb) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76906665d265ff33aa861ef4f36869fbee98fa118e956f83483a232699476b64) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0da991a74ba2690d1d7e574f7ca9a059397f1f74f4fa8bcecc94a05688977f2e) |
+| `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56cf237a7252fce988e880c0bb42ead369f0445eee74488e8ccc6ba8fca95abe) |
+| `0x22C24828cbCC356471e4615aaCa73880ec3653dC` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc11b7b9f9e161cb69a408b895b6c3240cef4f368d1f4153720563e0ee643ba4f) |
+| `0x23838Ac25111f2fa3DeE98617307aC580569E87A` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d26901915e95cd82d47c3fd67473ed1952c5aa0585bc077a063953c3aae33ee) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a265dd464d0282fb74586bb13b3b8f85b70b61631ce096e377c3c458caa0a08) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9890867872eef4ce1b3cd906745153301f13a3ad5ae6f9d9364f6f128808b2c) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf1c3712e72af4de9d0b36ef3181e6c800073a878539ebd41972b04a9ef3f547e) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x011c9e1eaebc78028158478e5fc1d43e702850296a70b35a279681cdec0aa713) |
+| `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1217d1b6d324a264c6ee936b4fb9a5930cc4b9b79e610175508d945e096cee0e) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xaf5c3e9dda5fc1c9f874813da1b81fb9f3af858c40771956e4816965eacf4fc0) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4cc9666357fed2daed472d445946bf4e16bac2a76cff61563d8a8ffc4a9326cd) |
+| `0x44e7cB47687af546f5d7795070264d1FfD271809` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c8287b8bd068d81dd696f6ac20de53ad37ead997f96ed7871c361f16d34d90c) |
+| `0x471e830A5bE283C9BB9B57615315595452184103` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd176e9ee6301c05f1e08c55407bb199942845d9017a4cd24e4ad13a17fe81da5) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75487c0d47bd8d19048b62b2991b73b3f82a1f54e2313e07c4228a29324b95d4) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7660d185559eda2afe95cacf88a2b071c4fc7d295b8f24c81813f6ffa6b6c323) |
+| `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xec1c97f414b6d1c4184f7fbd2d523aea18b35bd00e1ad40de6a5225f09997a90) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x556ae279633c41e7cae20cb62b198e5cecd9507f92eec95cd3477adfdebfb64f) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2c98a53ff297e899e7e82ba0147af0f147cdd72114a7b11d814f709a7586ea8) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | B. Jackson '13 PSA 10 | 5 | [Polygonscan](https://polygonscan.com/tx/0x4aa462431a6d418ff846df1842e706230d501aad4686aadad5163f5a2a47a073) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x77e133aa159f2313f38ebdac596f6b25cd27e9b591413735ade4513865a77507) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfc100c3c327de53502afd6c5e4f6c20744a220804a7cc7ce85ba68e18634247) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x59adee66fba332f4258e978223825bc1fe71c880b531b39ab757df31f4f606bf) |
+| `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbd4d80a71946c437050564f5dfcd7c3d4f3c2e933ba68f5a2e1fc6ee5485c79) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c744fb74cfad33962f905442b3a3b709e1b541e660b7312f91a9b2c9b46fdfc) |
+| `0x778e503fAE6c389e90d0D19202E0cc207F628e0A` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc5ac4ce9f29f76ea10b68a4a5bc6e077decb5092ee4ed9b5ce0540df9441e424) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa36c5a4dd13ecf3162ff8725bdab37e223037703a7d262c863f516eb14fc2fea) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x235fae390a80b96fefec7ff6fabd2e3b8c9217fa4a83c8dc15b5ec75fd703209) |
+| `0x86C97767b31af866BC03f0902496d149BB67e927` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf74cef323f70719f73e437d39964d100836d52e5f361184d3cdc9e349c4f10aa) |
+| `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61608669319405e1db47976338edf6863f27daf758f6eec51cb5f21207ffe617) |
+| `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x45492d6ab63e9372673ae53cf78d4b3debb43145a4b5d7dc0d07af1164ed13b7) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | B. Jackson '13 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xbdf71961c00da25c0d01eb7d4798f4e83e545c29e2e5817e31cca574415a6ee4) |
+| `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x525b0348354089566c0e793d96772cf4b750381673841dfaadaf8f44db10dc7e) |
+| `0xB17FE2fAdE8A416678CE78C60A042b4a813E24Cc` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x15d39d5b4dc9111709d58ee39cc23b89ad09e45d2bf0ad4f4eab1518bf464080) |
+| `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd23fd44478d5a4149739ccaf52bb11ad639d614d61d107db45ff88bae0eecc4) |
+| `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61688c650be7467bed63c38ab28ba32e6fce9edc3c0b507ecf1b1c15069f2bea) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9b6666ff766fd64aebada4c06e866fd834a28b7ecd54418312d3d405413aa013) |
+| `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2af36da31e3fddebc950ef91e1b08569358b0b241772b8b0570b919d34171e90) |
+| `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4ca3f967013e118386efb985d2dada9eef76ee839b22793f86a96cc4c96b13b1) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | B. Jackson '13 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x453835df6a3cb417496a6c471c6e81ddd83ea19731761e843653c20f7b663a39) |
+| `0xF011f87861B6f9999FB83517a8719c550B028621` | B. Jackson '13 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x405b53da5eccde38bac3b778678ac737446c052a8690452d6d228931b8a9b707) |
