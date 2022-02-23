@@ -1,0 +1,393 @@
+# [Elimination Proof](./readme.md) / L. James &#039;03 PSA 10
+
+|||
+|---|---|
+| **Drop** | Free Drop 4 |
+| **Round** | 4 |
+| **Started** | February 2, 2022 10:00 AM EST |
+| **Completed** | February 2, 2022 10:19 AM EST |
+| **Tokens remaining before round** | 7,680 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,840 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | L. James &#039;03 PSA 10 |
+| **Internal ID** | 802 |
+| **On-chain ID** | 203 |
+| **Image** | <img src="https://tcdn.blokpax.com/957181fa-d413-439a-91a9-be51abe8d31c/ba8b7d1874f8f11232acc1aa07804d0c9e2d58e8835fa7e76b99487e20fff886.jpg" height="200" alt="L. James &#039;03 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | **UNOWNED** |
+| 💀 | `1` | **UNOWNED** |
+| 💀 | `2` | **UNOWNED** |
+| 💀 | `3` | **UNOWNED** |
+| 💀 | `4` | **UNOWNED** |
+| 💀 | `5` | **UNOWNED** |
+| 💀 | `6` | **UNOWNED** |
+| 💀 | `7` | **UNOWNED** |
+| 💀 | `8` | **UNOWNED** |
+| 💀 | `9` | **UNOWNED** |
+| 💀 | `10` | **UNOWNED** |
+| 💀 | `11` | **UNOWNED** |
+| 💀 | `12` | **UNOWNED** |
+| 💀 | `13` | `0x85d5C3BfD2aFd89DE76da6444865611d97b912ef` |
+|  | `14` | `0xf0955C41CCA0b2440E32F952a05Dd6d7D697c3F0` |
+| 💀 | `15` | `0x9b9A7f983D0dca2314B81dCB3bccaa1fB79DBBCb` |
+|  | `16` | `0x7a6E8a40D060b0A7789dCfE726E25EC5d7f268D5` |
+| 💀 | `17` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+|  | `18` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `19` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `20` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `21` | `0x1d1d086011dCc4eB4CA0E26537cEDea990F07cF1` |
+|  | `22` | `0xF61dB1CAfB6977355dE33b95ae29965e5382CB3d` |
+| 💀 | `23` | `0x2427eb69f4d8d924f73dDD6f8F67a4264C68824E` |
+|  | `24` | `0xF053553Afd11b6DEedc6E56357EE68D1d9435e3E` |
+| 💀 | `25` | `0x1d0Dca08686E948162791C1Ea256720d721F3cBF` |
+|  | `26` | `0xBE8f6B2EC0AF9F36Acacd64A91C0Bc53282c5808` |
+| 💀 | `27` | `0x804D1565C103Df7aA2373d476e1F95AF1CCC8BaF` |
+|  | `28` | `0x6B6693eF7310927929FC5ab57e506c6DCF91e0BF` |
+| 💀 | `29` | `0xd2D58C32110Cac73b39B60318382aC27e8421D0b` |
+|  | `30` | `0x312A7EE99e8DcCa749995230b46cFde52fE5Bf43` |
+| 💀 | `31` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `32` | `0xF650A09556EEB5244246B020847168aEBbe5C3d8` |
+| 💀 | `33` | `0x4b186daf983573600543680592EEe0fAc087fe19` |
+|  | `34` | `0x44426eE62751DD6D8AA450b352924D68E2802b74` |
+| 💀 | `35` | `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` |
+|  | `36` | `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` |
+| 💀 | `37` | `0xb02a0A87122C653eCB0FCe045Dc671cC5b9646f3` |
+|  | `38` | `0x5509cecFD7E520Da92BD114DA73C576A90c2FF4a` |
+| 💀 | `39` | `0x8580b505809ddd653970d113Aafc3519eE095c91` |
+|  | `40` | `0xE64bF9DDd8211f683A2fbFB328c0f3B760885409` |
+| 💀 | `41` | `0xe8c3208c481B538c131F8CC5336FDB7d683E7D37` |
+|  | `42` | `0x2907FBeB760B9C5681F2e31801999f7Cd93E531D` |
+| 💀 | `43` | `0x133C5e571370F49661DB83B45aEB35B7bd879Aa5` |
+|  | `44` | `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` |
+| 💀 | `45` | `0x41Be249Ec5114527a3eC2429cD2297406F5f2b46` |
+|  | `46` | `0x44e64A1ad5d7959F64436797D13D5625fC95F0CF` |
+| 💀 | `47` | `0x0BddEE21F6A077340B667bE8952de763dbeBC899` |
+|  | `48` | `0xE976204DaC0a4411173B4E19778B073D5630277a` |
+| 💀 | `49` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `50` | `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` |
+| 💀 | `51` | `0xA6D0EbCAe12988683ccd581a99DC93f868A43085` |
+|  | `52` | `0x71E37987db37Cd9c182902490F0525E063949ede` |
+| 💀 | `53` | `0x86B63EB15AaF945E2c3d58134AF993cB5f9fE08A` |
+|  | `54` | `0x9CB9F2Bfe7bdAf2358B3D56Ddb40a0C80C5CE72d` |
+| 💀 | `55` | `0x0A7AEE829f649575E1e5333DeB258c029a5a6b2e` |
+|  | `56` | `0x68b0ed37f59889A5651799AD5fb970d3eFbe220E` |
+| 💀 | `57` | `0x8a90d0Cb11b0158CFaCeB059028d44b0B9561567` |
+|  | `58` | `0x4e6710cdbE8A00643418fAa3f60CdEEe67C96CA8` |
+| 💀 | `59` | `0x319F93a45ed510debb694c16395979e42a3bdE38` |
+|  | `60` | `0x6b41ff7cc8D25BF221282E57Fcb04F624a3523e0` |
+| 💀 | `61` | `0x6310bE9828090B16eadDEfFa7DBf396d20a50052` |
+|  | `62` | `0xd8d0eF90cAD6EB2277c7D3fc6391D1f50243A686` |
+| 💀 | `63` | `0x2fc76CB1E8D8A68459331Ad2605EceFacaab19D0` |
+|  | `64` | `0x98ee7217F4c5f9f0d53f72b54eE8aCaeaD88bef2` |
+| 💀 | `65` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `66` | `0x41dc126A033084c8503B9BBD15A0aDD4946B08f5` |
+| 💀 | `67` | `0x43D16CCd581E1D6A8d51768f75DdF09b79F4f856` |
+|  | `68` | `0x4008461FcAA03Cf1d985037014D75BaA3Aa2a78f` |
+| 💀 | `69` | `0x4E011fFEa889a921FdBdeb879f1a17351DA47DEB` |
+|  | `70` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `71` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+|  | `72` | `0xE49adce2Fc301a882412A7a6c702f59324D9bB1D` |
+| 💀 | `73` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `74` | `0x31e55748ba503Cd8B337B5Bb9c0A2bc3f08B59aB` |
+| 💀 | `75` | `0xEAE46B453a8df625e2E36746a698677413a25e74` |
+|  | `76` | `0x86F8cEF560365Fc47cc3253C2Bb77D036a7014bf` |
+| 💀 | `77` | `0x0d55234789174Beb35449d789bc666567dCc349d` |
+|  | `78` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `79` | `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` |
+|  | `80` | `0x9d970D7301c25994aF08173fd2513A8890E5786a` |
+| 💀 | `81` | `0xf455800469fF02D4D00BC60D1256e3F2b894C90A` |
+|  | `82` | `0x7986c8789078680d3baB9F35160fA68804C7aAa7` |
+| 💀 | `83` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `84` | `0xd0D300e6A77e1Eb78365018ABBC2Ca795AE064a2` |
+| 💀 | `85` | `0x3BF4448aB2f104C8bbA2016D23bF3CeCe8bD7f7a` |
+|  | `86` | `0xb3b421349234d74320d4315186ed9700430b738A` |
+| 💀 | `87` | `0x0D66ad3876bf3c618192F189a5930879a82b8dd7` |
+|  | `88` | `0x8FFc7649121758Ed8a4BDE5d0180a9ADc5D590f1` |
+| 💀 | `89` | `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` |
+|  | `90` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `91` | `0x8b1bd3539a54dF17F132895FBbe84F12f783FA5b` |
+|  | `92` | `0x5f3384CfD9B8A02D97cDB85Ac16db05F6349D50F` |
+| 💀 | `93` | `0x11fab51467c33B88949F350DDdb172841d6d6861` |
+|  | `94` | `0xB1C1fb2400102b9A70a59025a3806Bbfc31c34CF` |
+| 💀 | `95` | `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` |
+|  | `96` | `0xbAf592fE279F1864C617a1664083A5af35dee04e` |
+| 💀 | `97` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `98` | `0x57C55b7FF50e5ffb7fe90B82EB19407503e997f7` |
+| 💀 | `99` | `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` |
+|  | `100` | `0x21b87bA1c4Da2D5c9D49507ae7aE23B20D80aB39` |
+| 💀 | `101` | `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` |
+|  | `102` | `0x9ffCF51e0f2953864f5524Fb083e9a68F3A8110D` |
+| 💀 | `103` | `0x310E10C61Ef660A21d841C91CECE579f91329E11` |
+|  | `104` | `0x0730BAA929287cE3041d651F7C36Faa5B55E36d4` |
+| 💀 | `105` | `0x21b87bA1c4Da2D5c9D49507ae7aE23B20D80aB39` |
+|  | `106` | `0x85ded41D1b744dCff60C555138cAD4C761DAe61b` |
+| 💀 | `107` | `0xE9086d57f0F8ABdE8082636660F3b68d80B1397F` |
+|  | `108` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `109` | `0x2bd982675A76D6A5f7A92aEB373d6497b314bFFC` |
+|  | `110` | `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` |
+| 💀 | `111` | `0x4a35D36E9E481F22a2eAD65486Eb4f3269A4B5e1` |
+|  | `112` | `0x7B8d49c57e77Ee9d9c50B2710C97Bbefa0797c53` |
+| 💀 | `113` | `0xc2BEDB8b4462322003C0D84DEab24a2269bAE474` |
+|  | `114` | `0x3868EE975f8D8381e6210c67076B91C8632FF744` |
+| 💀 | `115` | `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` |
+|  | `116` | `0x8d8CD23e621Ec7aDfDD9b8bcd55f8A49fAEabAeD` |
+| 💀 | `117` | `0x0E2AF619Ec5EFd001e04e4654a8ca4C4B6fCb197` |
+|  | `118` | `0x2D6176F0179B11a4a803Dd09621e013c60370d6f` |
+| 💀 | `119` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `120` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `121` | `0x140A77092706C3059A7633a6E2f9A1c5F90BB628` |
+|  | `122` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `123` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+|  | `124` | `0xb4dB1B1B094fECd589de12D0C2df54352aeaF370` |
+| 💀 | `125` | `0x68b0ed37f59889A5651799AD5fb970d3eFbe220E` |
+|  | `126` | `0x133C5e571370F49661DB83B45aEB35B7bd879Aa5` |
+| 💀 | `127` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+|  | `128` | `0xA048962ab407bCCb00119231615b709c74f31A07` |
+| 💀 | `129` | `0xd640A6F455c12D2e607aC3639ac83Ff1dE686aa1` |
+|  | `130` | `0x471e830A5bE283C9BB9B57615315595452184103` |
+| 💀 | `131` | `0x4cF47A4c8A6b7Dc5Ef596046b5a5b5D3c2f3eB2d` |
+|  | `132` | `0xce39f6ced1831424e43Df92f8f00B173027Df0a2` |
+| 💀 | `133` | `0x73425d7Fc8125240dAdcF5EbAE3d97D99CB88dFE` |
+|  | `134` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+| 💀 | `135` | `0x2E9A1DF351688BbF7a51b9E7cbd05BdD342d8De0` |
+|  | `136` | `0xAEb4c72cE44a0745D96206A79E598AdD27B4Ca65` |
+| 💀 | `137` | `0xB30d9cC409Cf5F33e43C2c7bb2e7204A21318484` |
+|  | `138` | `0x6cCFFC1AAd14Cf6c64eF3ef7F0046436CEaAc563` |
+| 💀 | `139` | `0x7B8d49c57e77Ee9d9c50B2710C97Bbefa0797c53` |
+|  | `140` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `141` | `0x7B8d49c57e77Ee9d9c50B2710C97Bbefa0797c53` |
+|  | `142` | `0xbaB15dC79F464bcB1947c768A89e788ad0bD3547` |
+| 💀 | `143` | `0x331EFf559aff9e0BD0ff20Db792B1F96d1bb3526` |
+|  | `144` | `0xC44bc03eA303B0A10508Ac7B3EB21786CD043BF2` |
+| 💀 | `145` | `0x69c158f84AAD9fb0BcE0Fca6872E021E8b44c95C` |
+|  | `146` | `0x5B3e06a62bD2e980DdA5ee9642D8F788D4fD5A88` |
+| 💀 | `147` | `0x89e7934023Bfc0e2a309D4589FF1bA20F429A0ae` |
+|  | `148` | `0xC59523e69Dc4EF360702fE9cAB9ac7376B5a4cB2` |
+| 💀 | `149` | `0xD935B20D8057B95b2B86b710b45478D5b2C06968` |
+|  | `150` | `0xd799F1D160B7906e53F50d5C226fFA030Eb7600a` |
+| 💀 | `151` | `0x7da291dE97F0a87798A98abc516c93C55dCD6664` |
+|  | `152` | `0xfbBF3C94bCce2BEeC3E48b6C21fD797eA505d0CD` |
+| 💀 | `153` | `0xBE8f6B2EC0AF9F36Acacd64A91C0Bc53282c5808` |
+|  | `154` | `0x127Fa79f28a454633577134aE98405e2C3490699` |
+| 💀 | `155` | `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` |
+|  | `156` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+| 💀 | `157` | `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` |
+|  | `158` | `0xa83Ba84634A4272996e36ff8411b06379a3a4aD2` |
+| 💀 | `159` | `0x0765241F5bBDAb6B13C17F260F53D3853BfCD3b4` |
+|  | `160` | `0x32fE2c38c11EadC164cfD9cd123eD36cA6Ce7A12` |
+| 💀 | `161` | `0x06e2D6F58F8CC04391191375aC098B772d18c7aC` |
+|  | `162` | `0xb3958c3FA997301a37DeAA6395938be8E250538e` |
+| 💀 | `163` | `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` |
+|  | `164` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+| 💀 | `165` | `0x62C1b5613915C73C608a222B9bd1606F26754407` |
+|  | `166` | `0x976393aD28639f0d27bB22BEB6412E309e71153d` |
+| 💀 | `167` | `0xBd6cDc382DA97a0F56EA989d76E8928410c087Bb` |
+|  | `168` | `0xbAf592fE279F1864C617a1664083A5af35dee04e` |
+| 💀 | `169` | `0x69c158f84AAD9fb0BcE0Fca6872E021E8b44c95C` |
+|  | `170` | `0x5B3e06a62bD2e980DdA5ee9642D8F788D4fD5A88` |
+| 💀 | `171` | `0xdA2edd7A62915767BA5b9482A714DB233013b4D3` |
+|  | `172` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `173` | `0x3F2aB4Dcb334a293d01C94006c686a103Dd2487a` |
+|  | `174` | `0x44C3281cF38b304B2CB55Ba5bb7e4bDD3b5fD2D2` |
+| 💀 | `175` | `0xaCad1Fbd4B2180E7baE87cA459B342551E71b460` |
+|  | `176` | `0x7B8d49c57e77Ee9d9c50B2710C97Bbefa0797c53` |
+| 💀 | `177` | `0x3eb9A437cC03f8D1B906f8741996a9cbAEA2d409` |
+|  | `178` | `0x5D830F8B5fEf94a2661aD0cC44Feea8e6e2B0953` |
+| 💀 | `179` | `0xBFE8650349062305189704E2b3E4F9Ca80b43c5e` |
+|  | `180` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+| 💀 | `181` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `182` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+| 💀 | `183` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `184` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `185` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+|  | `186` | `0x75CeaA6bea38B8BDe7Eb7ca2a33b85adBd104cCB` |
+| 💀 | `187` | `0xeF1Ed4C1396Bbf8d13C9CA896eB2935ba31F0a1b` |
+|  | `188` | `0xD14aD0EEe955bf4f0790600595C5A0ceD9e8312B` |
+| 💀 | `189` | `0x69c158f84AAD9fb0BcE0Fca6872E021E8b44c95C` |
+|  | `190` | `0xf5822116dD8fa87B56eb93500429f3dc27b8F610` |
+| 💀 | `191` | `0x976393aD28639f0d27bB22BEB6412E309e71153d` |
+|  | `192` | `0x130D59ecB907dA0f6001e4005c2B5F6671FFEB87` |
+| 💀 | `193` | `0x7Dfe8a39D0A397FDFA28AF3088C9d31418C88547` |
+|  | `194` | `0x2C51C0E567C14be137E2Aca6D4b08658b63F964f` |
+| 💀 | `195` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `196` | `0xA15354c847C4680bfc95fD3CB56598069ac1D16A` |
+| 💀 | `197` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `198` | `0x3aF13B9D6557a8b0EcD31DE5071Cd1d060791F77` |
+| 💀 | `199` | `0x2539375a3c2aE0AbC9889a37527574820234ca25` |
+|  | `200` | `0xb29334253c82879FD6a6d5bac11619055c773D11` |
+| 💀 | `201` | `0xC46eb85A3ad27B9E94929c9D55b6a5F9bd4608ba` |
+|  | `202` | `0xb8a313c61e8C739e06A40Dd8DD48188820DD39Fd` |
+| 💀 | `203` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+|  | `204` | `0x1627Ed92C44b1faD7168d2F5ff8A3400Dc464b6e` |
+| 💀 | `205` | `0x14a42a73FD6F76816465254A7419d66Cf23B1862` |
+|  | `206` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+| 💀 | `207` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `208` | `0xaE1326c2B3370fF47f617EE3FcAcA45B21724230` |
+| 💀 | `209` | `0x01273B577fb180C0623eDAF1693C648A89Ab5d20` |
+|  | `210` | `0xc1870Fba78A45a097c899A619fc51b8CE6dBFf5F` |
+| 💀 | `211` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+|  | `212` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `213` | `0xCdF1A70b82050C886A81c7870ac7bF90B80cc101` |
+|  | `214` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `215` | `0x0eD6aB327666bCEd8fdEDFE5BEd5D30C73d7B20e` |
+|  | `216` | `0xCcadA0b3DD7AF9D0384E79f3Ba508395620Ba167` |
+| 💀 | `217` | `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` |
+|  | `218` | `0x2BBa72d4EBEC554af255AeB46dF1AEd98eb5e8Be` |
+| 💀 | `219` | `0xF053553Afd11b6DEedc6E56357EE68D1d9435e3E` |
+|  | `220` | `0x9f5A34A4c4a7846Fd4841912F95432BdaD672E46` |
+| 💀 | `221` | `0x4ECF8125DA1b307Bd0E1b1bCf20Fc9Bd4dFb2Eb6` |
+|  | `222` | `0x38f7047AbD70011c005BEb45DfBE8862674d5DEe` |
+| 💀 | `223` | `0x4E6e17A4b5559FC0C7CA978b2cA8dB5006Bab2CA` |
+|  | `224` | `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` |
+| 💀 | `225` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `226` | `0x67FA16A027c1374BE54D85dB98E04c285434eB25` |
+| 💀 | `227` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `228` | `0x004e17247fc59880d485a5e4536caa4B26001813` |
+| 💀 | `229` | `0xb7aeC927a544e4E03977e3026327f0F1b9E6Efab` |
+|  | `230` | `0x6ebD65c7dc3dDb6929bC06A9719eCc0c8D47E211` |
+| 💀 | `231` | `0x59E861F18423Ec83d213F3E779ebB278B10296CF` |
+|  | `232` | `0xe448d3177826029774259d4f8EA24804A1eA4bD7` |
+| 💀 | `233` | `0xC7b1f6AF0B5ee58c34d2539b1EbF72a0F01feF36` |
+|  | `234` | `0xFA0748286ABC98df9E0D7eF2c7673386695fe376` |
+| 💀 | `235` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+|  | `236` | `0x552f2B37ef086A6aC5c867026D95D4B05Ed00598` |
+| 💀 | `237` | `0xD7B85709b8D9A0D8C2EC85066B34bcE7871C9E61` |
+|  | `238` | `0x06A0c07990FF274b9D0D2bB26FBf2a3b00BBc490` |
+| 💀 | `239` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `240` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `241` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+|  | `242` | `0xc1E25691de4B9F49B72b2E13cdb51c57440de26b` |
+|  | `243` | `0x30401B9684F5A7391D97433Bacd5550226a992AE` |
+|  | `244` | `0x58Aa0A34Ce00A56467DEAF0eC480F18A02ca21d3` |
+|  | `245` | `0x0020305cb0d9157Cf3455A11b4Ffed25ecBC681a` |
+|  | `246` | `0x3d8358a65D7d0Ca5dd7Bc30F114E8768AD69fe43` |
+|  | `247` | `0x976393aD28639f0d27bB22BEB6412E309e71153d` |
+|  | `248` | `0xb4a9B15Bcedfbe8a465CD664A430FDFA55F5466b` |
+|  | `249` | `0x53Af9F5f49f3a56F6ce3c9E85B2D0D52C5BA5aca` |
+|  | `250` | `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` |
+|  | `251` | `0x02F11Fe7A88805f3afbE76F28D0Ee7B090d4E99B` |
+|  | `252` | `0x08d827D71f85CeFd00546F3837699929659e1396` |
+|  | `253` | `0x7d0cbbF6f53aEE1Bd2CeB5CE410336A0265CAF71` |
+|  | `254` | `0xD4795CC7C4Bc7aeb256972686abcc6F260a7400C` |
+|  | `255` | `0x8cdBe76463A2493e728a92f55bADF995D8bc73fB` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01273B577fb180C0623eDAF1693C648A89Ab5d20` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0987076fcad7b4b90c409a5dedc3816951ebad638b528d9f1b864130015285bb) |
+| `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2211becc13dad5e582e976106f8d7eb6053e609d291e97e511cb0d456f4adbcf) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb53355768fdcf1201c071e9b0c22d68ca5ce14cce4b969b083711f2c48e37a1d) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1937c98e4e569660b5db5d41c07d6e02cf8c6af0f375219cb37f6034e5713b0) |
+| `0x06e2D6F58F8CC04391191375aC098B772d18c7aC` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b82a9657da570afa2d1f7af572a92fe28afc34181ee41bb61f7b3467736ae4f) |
+| `0x0765241F5bBDAb6B13C17F260F53D3853BfCD3b4` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7011225ecce05641bf51489a6b435c4ee24f6a95fe2f74848eafb7bbcf83078f) |
+| `0x0A7AEE829f649575E1e5333DeB258c029a5a6b2e` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfca2d73778325f392b33e46277244c7dbddd5181f6b109c1a3d1f0822e085f1f) |
+| `0x0BddEE21F6A077340B667bE8952de763dbeBC899` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d3d72e293c4502b54dd6d2eca7458967cd0bb59fa8912db92464ee160831d95) |
+| `0x0d55234789174Beb35449d789bc666567dCc349d` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb273f3ef201cb097bb213cede5e244033014eceae017ee4aaff0be25eb10271c) |
+| `0x0D66ad3876bf3c618192F189a5930879a82b8dd7` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fdb4c4aac19a88a96e619fa2c7a7be71a9986405d1dc325145f102abf80c267) |
+| `0x0E2AF619Ec5EFd001e04e4654a8ca4C4B6fCb197` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d903e65862f4b8bf78120c007a98aeb59d1e5df99cc3a6a3bb60b3eaeabad14) |
+| `0x0eD6aB327666bCEd8fdEDFE5BEd5D30C73d7B20e` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fada4b13a0eee13e72f883d74fa36644cc6cfac2e5f87b61b25e0aea52ff8a7) |
+| `0x11fab51467c33B88949F350DDdb172841d6d6861` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d8865e70401c58a70e4968373a7f64765ab61808fcb0eacf091ae640672c319) |
+| `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a9e1c87b9a75019ddc802a16c9b6d95057ba85f4cf655506149334589835fb5) |
+| `0x133C5e571370F49661DB83B45aEB35B7bd879Aa5` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2248e8cf1571b8b8ba20e8c54b104d3bf0762511b56906a05e295fec00b9a312) |
+| `0x140A77092706C3059A7633a6E2f9A1c5F90BB628` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2b7b8a97038c9a89294313dd85a0aeaaad476be0301cba92b66cb521612d60e) |
+| `0x14a42a73FD6F76816465254A7419d66Cf23B1862` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d0a627549a62aae5c945fd0d648d8c66a330eb4b8abff05bb764f4e63860fbc) |
+| `0x1d0Dca08686E948162791C1Ea256720d721F3cBF` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc02ae533d84a1407778d47bee8044b6cde01f12965740505953dd8cae4f49a0) |
+| `0x1d1d086011dCc4eB4CA0E26537cEDea990F07cF1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x009b4363e3922e10b517af855f220877fd624eda60a2b1c21694f472e4c32248) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7512dc4b751a32d0678cf64579f78d15e2eebc62547bf7d85c2bd325b899c4f4) |
+| `0x21b87bA1c4Da2D5c9D49507ae7aE23B20D80aB39` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d7c3aa8e07ce738ef4c65e4782b6aaa3b29386e540b2004aaf3dd3027d3e33c) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3bf6208a13e7c043907cf232551da2ddfb70abf57087a5f8022b8d5703c17f7b) |
+| `0x2427eb69f4d8d924f73dDD6f8F67a4264C68824E` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3c4706326499dd674eeff025b9c936c279ee6975211aa0d30cf0e5e9a5dd25d7) |
+| `0x2539375a3c2aE0AbC9889a37527574820234ca25` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4a8e2f4430dc0400e8e9427b4ea391af7fda707095d8f3af5baf75bc64395e7) |
+| `0x2771aaf8C663C805d476d8bA98F1DA07C3682Ed7` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x00feb016a1ba2baec41f059152e19221016c72749ad30dfcd352c5310a00b73e) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc16d7c2973a8001c7f237a105c097911d75b1494dbf01de698f6bb845a904fcf) |
+| `0x2bd982675A76D6A5f7A92aEB373d6497b314bFFC` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbb6c41f0921d13ca55629de81b24d242374af4957c891cea6a6e761c0a7046d) |
+| `0x2E9A1DF351688BbF7a51b9E7cbd05BdD342d8De0` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cb21f8cded3613fe2babecc1cbe3bbda61db454e09288111bba6836b526115f) |
+| `0x2fc76CB1E8D8A68459331Ad2605EceFacaab19D0` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82001790e8901cc5fb2c875816470bec40d61dc6b73a12389313764a6f12d689) |
+| `0x310E10C61Ef660A21d841C91CECE579f91329E11` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a66ad4415b015c2c5b8a3f9a66e7f2b41d0651e6da82ff1b209cbe68fe2949f) |
+| `0x319F93a45ed510debb694c16395979e42a3bdE38` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a1d9f5e39e38b57bd8cbfb083de07855d9ddcdb4f2bccf0a496fa234b73f1c3) |
+| `0x331EFf559aff9e0BD0ff20Db792B1F96d1bb3526` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17fbe2d0a4c20135f2f7be131ee99e2d3a08d373f5a320f28ee23505faa145d1) |
+| `0x3BF4448aB2f104C8bbA2016D23bF3CeCe8bD7f7a` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfa53113eb7dd28c8d188b7f31048fe56221889f9962cf66c93f3fffe5ae176c) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62b55d7ade0cab3675eab58a7cc974adaa3d386cca802f98c96b59a383aba374) |
+| `0x3eb18D25b531691920ca3deA7593AC14f5942257` | L. James '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde8b2729da6275d0c49f7d6c4dfb13ccc067f1524f6bcdd5a8f03bb1f37e6b63) |
+| `0x3eb9A437cC03f8D1B906f8741996a9cbAEA2d409` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd874c0bc227c958c6acbdb3756ace8efcac5a6d2b32f485f1a72da739ba120a1) |
+| `0x3F2aB4Dcb334a293d01C94006c686a103Dd2487a` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe82f43c2fa36fe058c545cddf05ea36157e37600576a86e1b282ec22ad04b1da) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbbabbfc0270c6a726e1a928413dbb68ffe04f973f232c7817d5c3406493979b) |
+| `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c935693f30288f520cb21ce49795e99587a73642fb589142527b7098046fe27) |
+| `0x41Be249Ec5114527a3eC2429cD2297406F5f2b46` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8df2ca2f847f5ddf7eb755b4d48b70b68c69bc8eed84ac5e40be1b65aa798a6) |
+| `0x43D16CCd581E1D6A8d51768f75DdF09b79F4f856` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7589c0ed6a7706316cc4c67588d6a4c7c70ff07c9cc216ffa3331e6fd82589a) |
+| `0x4a35D36E9E481F22a2eAD65486Eb4f3269A4B5e1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8e688d549c04834fdd89050eaf083fad585e10a66c06c5a7ef16250ec4e6b81) |
+| `0x4b186daf983573600543680592EEe0fAc087fe19` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2346061b1a4a67d7f939848b9cbcd0a7793e632372e14c5ef12669c215a004a9) |
+| `0x4cF47A4c8A6b7Dc5Ef596046b5a5b5D3c2f3eB2d` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06885115011fab201986a1a7f8a41bd9696726e6caa2e66c7ccb869d4b0dc391) |
+| `0x4E011fFEa889a921FdBdeb879f1a17351DA47DEB` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x17ec2f53d09d32459ed86ff8305edb137c05ee93745a171986467fe07f8566b3) |
+| `0x4E6e17A4b5559FC0C7CA978b2cA8dB5006Bab2CA` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f3dda82cd1731025650578aff3bd9719041954eb9c8dec551d6a2a062237dfb) |
+| `0x4ECF8125DA1b307Bd0E1b1bCf20Fc9Bd4dFb2Eb6` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc281dcb97e738c5f5811c9cf2cb8517b2d8f736916494badca4472aa6dc350b7) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90bf86505f1bda4fdaf5baa44d3b409be18bc1f005959c9b60f02fb5600493c6) |
+| `0x59E861F18423Ec83d213F3E779ebB278B10296CF` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xae57ff2bdec4c2035746e9f3588182e620eb3ee2bfd55cbb5d1bc3f39d821380) |
+| `0x59F040ef3ffaaC5E72E8E295CdEEeca5a419AE26` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x479d1d7b8a32ca85ece141fbe71700be1b8863aaf6dc6faa73f9421291105bdf) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x10bb2945f4d461fb046e0bbafc29135df147578e1c2d17a8e7177f621bc7a48c) |
+| `0x5c90EA839d85E63c1eEAb85eBa5E2ffd9Fbae9d6` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1823ea690a6eb4bdb48cb3ecc8f8da55fd40027e262e77e2ab861662d4ed3e2) |
+| `0x62C1b5613915C73C608a222B9bd1606F26754407` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf5da34e76d9b5aaac9babf236b5e083e1f9a4c7d5dc51ebf80a0021b711236d) |
+| `0x6310bE9828090B16eadDEfFa7DBf396d20a50052` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5eb3212c19738fe62dc384521f5fe7249311045a90002df43ef79ba5beef9dd) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66cb73d868b21f3f998c09e3e607c51e865409578bb1a98c0d526b70e2a9cd91) |
+| `0x68b0ed37f59889A5651799AD5fb970d3eFbe220E` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9fa02305a0b9e59b2760ef8671828f798c78a1ae4686ca871a75b3f624b79a7) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6863a24dc4fdd1af6c773887412abbbeace7e324aab3ffa6c6c4458ef2c0fd15) |
+| `0x69c158f84AAD9fb0BcE0Fca6872E021E8b44c95C` | L. James '03 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf1c9b67797866ace1b5cdee9a4ff491d06faf8a1dceca5bc67609f13d89d9add) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda6181c359660fc6bd57ce0f1986c92055d83f3b79d08da80c769d9fcba14328) |
+| `0x73425d7Fc8125240dAdcF5EbAE3d97D99CB88dFE` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2841ed88d270500e5f5f38e9e16b5456b1ac93a8e942362bb97f41e4f0c88f03) |
+| `0x79bDa551Ac883d1D58A0B5d10750C4675669Aa14` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf84f14796fe7d730606d3982039bd6ce11f10bbe8f74b53468f75c788bec40a3) |
+| `0x7B8d49c57e77Ee9d9c50B2710C97Bbefa0797c53` | L. James '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x92a2a01e3bdc051dc901a5238a476c75e2ea11bb3f5f92e168f2552235ab958d) |
+| `0x7da291dE97F0a87798A98abc516c93C55dCD6664` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf389af9e8f9865e924f3e6013ce8871c137861b4c139f338b8231f22f4636083) |
+| `0x7Dfe8a39D0A397FDFA28AF3088C9d31418C88547` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0eea823335512a9fca63736d7070b4f94ea906c320350ae44d2bb840b0c5731c) |
+| `0x804D1565C103Df7aA2373d476e1F95AF1CCC8BaF` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86c9ef10bf694c47f61899b79ed4598322aea87c36394a546999d4d8172a6873) |
+| `0x8580b505809ddd653970d113Aafc3519eE095c91` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x562bbb8a691b73b31515218e6f62b304b1c5edc04f624c20597453c77bb2b9cf) |
+| `0x85d5C3BfD2aFd89DE76da6444865611d97b912ef` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1f030cb12533a8a93ea675a62c1622c29fb9f9a76257d268a84621d2ed622a3) |
+| `0x86B63EB15AaF945E2c3d58134AF993cB5f9fE08A` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87a8e7de8e0ce59a7596374c06421107fdb4dd1b2e2da74115d9f8d392eafa04) |
+| `0x89e7934023Bfc0e2a309D4589FF1bA20F429A0ae` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7653800ae0924ff73ca991826d581a10d3bbea9db34c16d94a44cb56d56cb658) |
+| `0x8a90d0Cb11b0158CFaCeB059028d44b0B9561567` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef8feaa00e5972a9bad7fd97da909463c7c623291c848787d421d86c77c05529) |
+| `0x8b1bd3539a54dF17F132895FBbe84F12f783FA5b` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe4868064c13b53ce99e7771680a5f926a5873b3887c1cef5f754e3020bbad531) |
+| `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1dfc805a81b9aaac1cfa8d0b09761f5e09590478d5d4328d7c5548d945bc998) |
+| `0x976393aD28639f0d27bB22BEB6412E309e71153d` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe911db8fb04e72d7f5720f68303f4dd40b9e68ac322ed0e83a80ca0e698b24d9) |
+| `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11c50171a814f060023fbe6fffc6d5d908f5b661a0ceb2e8342a61e9a112e54c) |
+| `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed0354db2f5d7e8f3f3b855e5bc57e525975057be6770375758d7690c537c701) |
+| `0x9b9A7f983D0dca2314B81dCB3bccaa1fB79DBBCb` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb555a54e4347af7cba836259e054992fa8e2f482ebc0e93f259530f24ce481c2) |
+| `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1345bf0788ec5e0726d6ab04504e63caaae9762027b43c79dc002012c8a5d84f) |
+| `0xA6D0EbCAe12988683ccd581a99DC93f868A43085` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ba33aca3a5e5d871492e00da8b03cb2db797011af6a9c40d38b150e9e00b17e) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeae6531a043c046b6ad7c965ba132471e112bc24c40dbdb7777193eba1aa955a) |
+| `0xaCad1Fbd4B2180E7baE87cA459B342551E71b460` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f94f86c7ee699d99b5845a3349d00577895d6e34322de825379448c7ac99fcf) |
+| `0xb02a0A87122C653eCB0FCe045Dc671cC5b9646f3` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3818780f612549d9957aae5185e40ca004d46c71df51f633d2cf79b7a279681) |
+| `0xB090471Dd1A9563eCbb079431D325BB3f5877b25` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32f0640de3e545e0db581937ca986d4de9ec0929e2d275b406240608a69ce65a) |
+| `0xB30d9cC409Cf5F33e43C2c7bb2e7204A21318484` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x754da88352c8ffb1a239dc6072f994ad8962992a2eecf7d1cd16df2dd0064e60) |
+| `0xb7aeC927a544e4E03977e3026327f0F1b9E6Efab` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bae11d25fb2464fe175bfee8e3a0b3a0694cf0cb95e0c7e74872f35ad564bf0) |
+| `0xBd6cDc382DA97a0F56EA989d76E8928410c087Bb` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1df8a9e75bb88a6c3b177dac46d81bdd33023aebb3decc9861018298e7281da7) |
+| `0xBE8f6B2EC0AF9F36Acacd64A91C0Bc53282c5808` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc212e8e15e90e3d896e969f9a6efd5053c085a58425d804c20afddfc8806a94) |
+| `0xBFE8650349062305189704E2b3E4F9Ca80b43c5e` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6ca0fe134d77291913688f78ba112a602209fb5c3c7e91a761e8bbc03da86bc) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59990b93dbdaaa7d95e879d61803d764f0c186d186ec440e0517ab44845c89b5) |
+| `0xc2BEDB8b4462322003C0D84DEab24a2269bAE474` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cc1d6738b626fa9c9defe815854b9fc8d15a5520ca2cfc881d3033266d64d2e) |
+| `0xC46eb85A3ad27B9E94929c9D55b6a5F9bd4608ba` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4cf4fff7d7fb216da474cca61fd409c29ccd5bb54f0f55d31d2c13e493e8ece1) |
+| `0xC7b1f6AF0B5ee58c34d2539b1EbF72a0F01feF36` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2088edf4feff66077957ac17163234454518de0a75fa3544b43bea68f1545002) |
+| `0xCa99583513d2621E32D17E59489C970000E204B6` | L. James '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7636971d670f0be82d65b2c2c5fd0ea4c5dad21e959c699ba9f0d4f839a23bd4) |
+| `0xCdF1A70b82050C886A81c7870ac7bF90B80cc101` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55e4771a9c59fd2bae11fe0773b45e7561d86fdf5f5982d7cb1ea9d1ec44aea3) |
+| `0xd2D58C32110Cac73b39B60318382aC27e8421D0b` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x063c5b7bbf935138791388e8c7b5078272478e6f5ae89ae5ea6526bc4d0b0b4f) |
+| `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x411e56e3f01b5b16947a85d7143c97edd29fdfb653df371943f1058b0ed42ba0) |
+| `0xd640A6F455c12D2e607aC3639ac83Ff1dE686aa1` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73495bb63d523d707f27a8a2a99f5c18ae5bfcaf0a53785fed2150d696b7e440) |
+| `0xD7B85709b8D9A0D8C2EC85066B34bcE7871C9E61` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x586cde42cd2cbf437fe3cd24a3fa3277202429e997b5a57522ba7e9e046d8a59) |
+| `0xD935B20D8057B95b2B86b710b45478D5b2C06968` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f94dada122a9ef6f7e6e5bb1d6263a38ca319488065624efd7230b223604df3) |
+| `0xdA2edd7A62915767BA5b9482A714DB233013b4D3` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85c49b9445a303ecc08adabfd83fd8c603274775dc4c47f6ef4830831cb17700) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2d8c566ba8030c9796fc0efd59e6e66d409c37f23a73ff2dee91936b8c13d6d) |
+| `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf640e5f9ff22e3deef8f0e2b037447b3bb0c3a4ca92d30ab48537e9bc86593de) |
+| `0xe8c3208c481B538c131F8CC5336FDB7d683E7D37` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e4baf3c44b98a55e3dc29afdb8a395d8036310d1045f372e1afceb1134b6ae7) |
+| `0xE9086d57f0F8ABdE8082636660F3b68d80B1397F` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c9148723304f255a85511d4d9d8737756eda834f652246dcc9c6b2faa9a3fc0) |
+| `0xEAE46B453a8df625e2E36746a698677413a25e74` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x44ab49c0ea032c896f21cff60d5b050367c92bf71f166833b30a23c6851d716f) |
+| `0xeF1Ed4C1396Bbf8d13C9CA896eB2935ba31F0a1b` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33f63cd686b861b7d3a98a52d1aae97301f315f84606cafa90ba69bb57b8996b) |
+| `0xF053553Afd11b6DEedc6E56357EE68D1d9435e3E` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67501d277c666119e9256d075a2d46b8cade2f06eaeb187ed923b2248b9d7ca5) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2972c96b554c5a8b14a01da2359a5486d56c124e07414fa9655c61171d13d460) |
+| `0xf455800469fF02D4D00BC60D1256e3F2b894C90A` | L. James '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa1ddac5d93a5cd7b3b2c9620dfd4ab7e98069b5dc73f3cf9ca85275aa0fc8d7) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | L. James '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2cad2c73466dde81c52ac46a0ecc86d40eb158cc393280c496d39ccb652efd49) |

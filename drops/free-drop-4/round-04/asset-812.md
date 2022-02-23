@@ -1,0 +1,392 @@
+# [Elimination Proof](./readme.md) / F. Tatís Jr. &#039;19 PSA 10
+
+|||
+|---|---|
+| **Drop** | Free Drop 4 |
+| **Round** | 4 |
+| **Started** | February 2, 2022 10:00 AM EST |
+| **Completed** | February 2, 2022 10:19 AM EST |
+| **Tokens remaining before round** | 7,680 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,840 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | F. Tatís Jr. &#039;19 PSA 10 |
+| **Internal ID** | 812 |
+| **On-chain ID** | 189 |
+| **Image** | <img src="https://tcdn.blokpax.com/957181fa-d3e9-4535-81dd-4e8ff811f177/4f8b21ed280a69e012fc01381c2b145af60899217f3cfb811110e554efb72c26.jpg" height="200" alt="F. Tatís Jr. &#039;19 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | **UNOWNED** |
+| 💀 | `1` | **UNOWNED** |
+| 💀 | `2` | **UNOWNED** |
+| 💀 | `3` | **UNOWNED** |
+| 💀 | `4` | **UNOWNED** |
+| 💀 | `5` | **UNOWNED** |
+| 💀 | `6` | **UNOWNED** |
+| 💀 | `7` | **UNOWNED** |
+|  | `8` | `0x0156C11A73B28084c9F04F28F73beCcCB784D1DD` |
+| 💀 | `9` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+|  | `10` | `0xD8DeF6ABd2E2BbBeBD07244c19342bbAD7890Eb8` |
+| 💀 | `11` | `0x4B0Ebca3730591DE0A7CabA75E41C1FAFb2B5761` |
+|  | `12` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `13` | `0xEa592F9866aC8E091E565e1Cbef6cD5d2Bfc4bC3` |
+|  | `14` | `0xfAC6ba019245EB73b168f40956745e0f65CbFb70` |
+| 💀 | `15` | `0x6F754f14f3ab4037C5C9DE8513c07893a37A5eD7` |
+|  | `16` | `0x704fE267Cb17934828d52807374Ef9Dd135849a0` |
+| 💀 | `17` | `0x70a062e6d07c5e01400A23C1507BA7b36bAf183e` |
+|  | `18` | `0x6b89f1467bdd28b0a86d452815C27Dbdf3Cd15E2` |
+| 💀 | `19` | `0x6B8E9EE3f68E002093C0646F500cfeD12168D168` |
+|  | `20` | `0x248BAd83E86bd0Ea007bF7926DbBB9D265759931` |
+| 💀 | `21` | `0x127Fa79f28a454633577134aE98405e2C3490699` |
+|  | `22` | `0x67BE56FD6CE9703D2A3F24dB6B9b5F1fbd1e4386` |
+| 💀 | `23` | `0x4a684F4fd99F59c4d2a3e456C27125258894c642` |
+|  | `24` | `0xce9f7C88dA17422C1A64A91651b1ab286B0653de` |
+| 💀 | `25` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `26` | `0x08d827D71f85CeFd00546F3837699929659e1396` |
+| 💀 | `27` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+|  | `28` | `0x36eF6472c9C6AbEA784Ea257A82c39821F6FB7ac` |
+| 💀 | `29` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `30` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `31` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+|  | `32` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+| 💀 | `33` | `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` |
+|  | `34` | `0x552f2B37ef086A6aC5c867026D95D4B05Ed00598` |
+| 💀 | `35` | `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` |
+|  | `36` | `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` |
+| 💀 | `37` | `0x93171109dccB003E477620B7b4d7C84E1feB351f` |
+|  | `38` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `39` | `0x7eBe58c21C473ad69746149ca531E7875B57AE72` |
+|  | `40` | `0x5573b3c83Cd737cAC32FFB8a85BD15e6948D25eA` |
+| 💀 | `41` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `42` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `43` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `44` | `0x6d1027484d76664978E5Ab4Dcd6Aa48c8dFDd3e7` |
+| 💀 | `45` | `0x3F2aB4Dcb334a293d01C94006c686a103Dd2487a` |
+|  | `46` | `0xd8d0eF90cAD6EB2277c7D3fc6391D1f50243A686` |
+| 💀 | `47` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `48` | `0xA8888a067125e0FcfE0d2215A726331dC21Bd991` |
+| 💀 | `49` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+|  | `50` | `0xA9F47C8168c4Fd422dc26b0A60BbcF0354EF041d` |
+| 💀 | `51` | `0xe2606941359e1f7403384D7D371aC298f6b915E4` |
+|  | `52` | `0x949C77441af57707a93FEd3cFba364a8aa488360` |
+| 💀 | `53` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `54` | `0x7B09226693B2c8C525d9A228B17FFCE684062Dc9` |
+| 💀 | `55` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `56` | `0xFA27294d1C36d686825Ac1f0e52B34c0Be707C6C` |
+| 💀 | `57` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+|  | `58` | `0x33839dAc204459338E81284577b8bbbd281bBafF` |
+| 💀 | `59` | `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` |
+|  | `60` | `0xf60952174adF391A51c5985079C7b92F5bAd47cD` |
+| 💀 | `61` | `0x401b49FBD372405659870f7F16cE3DADb479887A` |
+|  | `62` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+| 💀 | `63` | `0x1310Fc489d5966418A0196fC06690ec8E7079dcf` |
+|  | `64` | `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` |
+| 💀 | `65` | `0x876ba965A0fC55654317EF33e9995A66b72FaDba` |
+|  | `66` | `0xb7aeC927a544e4E03977e3026327f0F1b9E6Efab` |
+| 💀 | `67` | `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` |
+|  | `68` | `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` |
+| 💀 | `69` | `0x23803EAB0D4E3145D79Cc680E1251a1E1e5cd092` |
+|  | `70` | `0x583e94422cfE76aDB9d61F1Ae48947AaA573Cb76` |
+| 💀 | `71` | `0x0BddEE21F6A077340B667bE8952de763dbeBC899` |
+|  | `72` | `0x1d563253CF7f6e8B0Ca31773dC241C04C1446340` |
+| 💀 | `73` | `0x7eBe58c21C473ad69746149ca531E7875B57AE72` |
+|  | `74` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `75` | `0xe44d9843c854516f371693c13C71cA57fCc9073A` |
+|  | `76` | `0x1d1d086011dCc4eB4CA0E26537cEDea990F07cF1` |
+| 💀 | `77` | `0xBFE8650349062305189704E2b3E4F9Ca80b43c5e` |
+|  | `78` | `0x934d5A492d927CB55a9856961b88bA9358A00a71` |
+| 💀 | `79` | `0xBe86af648b3cdE716A54c1ADA0Cf75CCAC8e9A29` |
+|  | `80` | `0x4cF47A4c8A6b7Dc5Ef596046b5a5b5D3c2f3eB2d` |
+| 💀 | `81` | `0x2C51C0E567C14be137E2Aca6D4b08658b63F964f` |
+|  | `82` | `0x4adECBE702fbEF3F16dcC04cCedf0193fCDdd138` |
+| 💀 | `83` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+|  | `84` | `0x832Ec5E27489C71775835c85BD0a7307E2321FE7` |
+| 💀 | `85` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `86` | `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` |
+| 💀 | `87` | `0x94D308F55d1e92006dF50A6460Eb3dDD0b621c81` |
+|  | `88` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `89` | `0x9f5A34A4c4a7846Fd4841912F95432BdaD672E46` |
+|  | `90` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `91` | `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` |
+|  | `92` | `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` |
+| 💀 | `93` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+|  | `94` | `0x350e5B01eaab192b181b8348144E3767ed152bAA` |
+| 💀 | `95` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+|  | `96` | `0x504Ec3777FE65Ae61212b4760D2AA7b29794aB92` |
+| 💀 | `97` | `0xB2537D5cD7cb6338539120869995C1C749F2a627` |
+|  | `98` | `0xEf8297E863dd389eF50869493426c729243506E7` |
+| 💀 | `99` | `0x3173D4220349345Dc40C9F96472614C07869D69A` |
+|  | `100` | `0xE17e038559580f0ac673321D07471af5acb94eF2` |
+| 💀 | `101` | `0xFC4EFDDacd74240a629aD3c1383bc55c7a76f93B` |
+|  | `102` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
+| 💀 | `103` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `104` | `0xE74C9142b98bB85bdE035a98373C69177680e9a6` |
+| 💀 | `105` | `0x5B25adE8DbA55fe6D3D7F7719018504899B729e2` |
+|  | `106` | `0x48f36492E12219864b00960Fe93470BC2c605f41` |
+| 💀 | `107` | `0xf1A5Da6A31641d0069c1B3df76ABf00e0d559eAA` |
+|  | `108` | `0xb4dB1B1B094fECd589de12D0C2df54352aeaF370` |
+| 💀 | `109` | `0x6a023a8b1Ce4e45A2ee95C5dd0508FECcd3Ea389` |
+|  | `110` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `111` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+|  | `112` | `0x5335519dF4E3aAB79F4D2951305FcFB60f4635f1` |
+| 💀 | `113` | `0xe90A7Ab416d99AF530b9254a56bd137C2F99DbcA` |
+|  | `114` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `115` | `0xD4795CC7C4Bc7aeb256972686abcc6F260a7400C` |
+|  | `116` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `117` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `118` | `0xF42Bd948687D2eEf6370eA1334009b2D9Ef25eF6` |
+| 💀 | `119` | `0xeb1Eb54703C72636C12a4F449b271D38DF0ff14c` |
+|  | `120` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `121` | `0x8C01040b78c1005f2A368c1Dd1d31B2B1d0b7af8` |
+|  | `122` | `0xCbc427B68Af2991b0690b6C8374600BD5376876c` |
+| 💀 | `123` | `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` |
+|  | `124` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+| 💀 | `125` | `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` |
+|  | `126` | `0x50E9bF7Ff3314c3Cf4E6dAf29b9a40A7Af0F2832` |
+| 💀 | `127` | `0x8E2454BF19833e44eC7956022eb80504bf172884` |
+|  | `128` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `129` | `0xDB977847f66D5A4abC5AA9B30eC1c508305B4EEa` |
+|  | `130` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `131` | `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` |
+|  | `132` | `0x81421dB492BB51FebE43bF1F4EcD796e52aC03B0` |
+| 💀 | `133` | `0x210e35362fcDFb0e4Bc459C15314cC224898828D` |
+|  | `134` | `0x76226238bB882e730e80b6E561CD34488BE9da75` |
+| 💀 | `135` | `0xC4672eE68f715eF983E119D560371CB1014F2960` |
+|  | `136` | `0x86C97767b31af866BC03f0902496d149BB67e927` |
+| 💀 | `137` | `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` |
+|  | `138` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+| 💀 | `139` | `0x6cEdE1235abDC3bcC9Ce1d22050ffbe53aD75581` |
+|  | `140` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+| 💀 | `141` | `0x1F1cB235221B323BB696eaB460968fC2750df5f6` |
+|  | `142` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+| 💀 | `143` | `0x5012395c832803775fc8c44d102A1BD3f2Aaeb81` |
+|  | `144` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `145` | `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` |
+|  | `146` | `0x74Ef275FCf2DFd40A0026B218c19449859604A80` |
+| 💀 | `147` | `0x1Be0003C37de07e1bDdDa82f00D037Fb6B6Ef1C8` |
+|  | `148` | `0x8087F8217aEaCb03306DD4a9Bc06bECE6D92Aa67` |
+| 💀 | `149` | `0x31d4c4cC36f939978028Fa18e9270fddBE43E6b5` |
+|  | `150` | `0x5335519dF4E3aAB79F4D2951305FcFB60f4635f1` |
+| 💀 | `151` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `152` | `0xF076a485313E8653C9e911141E8839db8Ce301Ed` |
+| 💀 | `153` | `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` |
+|  | `154` | `0xD36436a4229661F3287C6df72E7d04c6da08dd10` |
+| 💀 | `155` | `0x86B63EB15AaF945E2c3d58134AF993cB5f9fE08A` |
+|  | `156` | `0x7F237cd1B448bCCdac634f8C5cFCdD963d39bDE6` |
+| 💀 | `157` | `0x7f7C22A50e8070598526FC911af54d36AE08eb9F` |
+|  | `158` | `0x0b24774Fb085fd7c787Eb1F332305310d365aB39` |
+| 💀 | `159` | `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` |
+|  | `160` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `161` | `0xEAfC93B48d9e8947fDc30f05D5b9a0772B71fe6F` |
+|  | `162` | `0x0730BAA929287cE3041d651F7C36Faa5B55E36d4` |
+| 💀 | `163` | `0x28fc41cb24B0565f161441b7E2bb8eEcBe2991F0` |
+|  | `164` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+| 💀 | `165` | `0x41221582D22fcd050F02AFB7cC8E4E6B4E940478` |
+|  | `166` | `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` |
+| 💀 | `167` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `168` | `0x40055D2381F4b9c497A725b9e89836588c359883` |
+| 💀 | `169` | `0xF4D7fA5a6bAD23b8E7D24DB1c112d47B1815Ed7B` |
+|  | `170` | `0x5509cecFD7E520Da92BD114DA73C576A90c2FF4a` |
+| 💀 | `171` | `0x772e46c3F273f39A64D15365D52225F414e34b22` |
+|  | `172` | `0x0291485B514A1682f11643C08b5e183be32575F3` |
+| 💀 | `173` | `0xE4FAA02721FC0B1D52d1e89977E4A86c45FfD146` |
+|  | `174` | `0x01273B577fb180C0623eDAF1693C648A89Ab5d20` |
+| 💀 | `175` | `0x3868EE975f8D8381e6210c67076B91C8632FF744` |
+|  | `176` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `177` | `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` |
+|  | `178` | `0xcAA69b62950397133EE8F094a3CB5CF60c2c5E9A` |
+| 💀 | `179` | `0x1A6008a97493305e7c169E0dAd55bE700520A2Be` |
+|  | `180` | `0x30d319A3f1Dd50849f5036aB1Ca7ca3aA39Ec259` |
+| 💀 | `181` | `0x638d0C400F09df59eA454aEdc70cf38E7a23b5D2` |
+|  | `182` | `0x17b9398770F33F0c042f0F13C510203BFDD811BE` |
+| 💀 | `183` | `0x257f0C9C72e6C20617746ED0D3fa1E61B9BcB5A9` |
+|  | `184` | `0x4cF47A4c8A6b7Dc5Ef596046b5a5b5D3c2f3eB2d` |
+| 💀 | `185` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+|  | `186` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+| 💀 | `187` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
+|  | `188` | `0x2CDEBdf087a332FbC8aa4845988a6B015B67fA62` |
+| 💀 | `189` | `0x3e2FE177D719edc3F9833cC2331a40D0468020F2` |
+|  | `190` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `191` | `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` |
+|  | `192` | `0x8A62E5De285E59D787ed7C7fD5062282CFf8Aed5` |
+| 💀 | `193` | `0x9cF54397aD9E7f05c0db35Ebf3aA66258e307054` |
+|  | `194` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `195` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+|  | `196` | `0x67a5A4C73d4F89aB3Fef7BBB8E4BC5Fa89c1b809` |
+| 💀 | `197` | `0xe3a216047043896483919b4da7520DC1F2Ee5e51` |
+|  | `198` | `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` |
+| 💀 | `199` | `0x6b2B26c73D1AeA7d9c550a4237Ba66795Fd32D4B` |
+|  | `200` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+| 💀 | `201` | `0xBA46059Cd2d43F23944ad213d26eCD3C4B560F05` |
+|  | `202` | `0xc1870Fba78A45a097c899A619fc51b8CE6dBFf5F` |
+| 💀 | `203` | `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` |
+|  | `204` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `205` | `0xbaB15dC79F464bcB1947c768A89e788ad0bD3547` |
+|  | `206` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `207` | `0x9B76DF1E17bc956f48551471F14534d844137adF` |
+|  | `208` | `0x8d0fD1213011613C70923E8670aCBDf0A7900784` |
+| 💀 | `209` | `0xBF3460E7F59b77efE6Be0c5FB39268F62334e07E` |
+|  | `210` | `0x3Cf1C3699594D9b814CC8d3BB55195C671ECA502` |
+| 💀 | `211` | `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` |
+|  | `212` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `213` | `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` |
+|  | `214` | `0x2719A4e595E713cDc7B9F24C47369799aaC4bAb5` |
+| 💀 | `215` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `216` | `0x8DbFa95C02871e227B587Ad56d53F3b670672B13` |
+| 💀 | `217` | `0xb63B1E13c8579E57F3b874EC2BA4F7AD9661d030` |
+|  | `218` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `219` | `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` |
+|  | `220` | `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` |
+| 💀 | `221` | `0xB0175ee089e5a27e9FBA8EEDF4b81C2Af12471cF` |
+|  | `222` | `0x7f7C22A50e8070598526FC911af54d36AE08eb9F` |
+| 💀 | `223` | `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` |
+|  | `224` | `0x099af829f6f67a7e43b946E309197DE23bEc9230` |
+| 💀 | `225` | `0x56F5E9a2e12BAF719E5890C5A6217bF3542ee7FE` |
+|  | `226` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `227` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+|  | `228` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `229` | `0xB1EDF6e68c707F9AaB654ffd821B332579f13b8A` |
+|  | `230` | `0x98f1Ac0F61e5726F278193926F94982346E40F8B` |
+| 💀 | `231` | `0xc6aa8B7c60e029DD1a5EeEa047651240e9ded30f` |
+|  | `232` | `0xD7f2e56732AB4373054d9508f89c20753fb98093` |
+| 💀 | `233` | `0x566f366206f1c546a9B4E36f7f767ea47Dbb0f05` |
+|  | `234` | `0xE6F4adCEd28A976f652a400412D0e19B403D1E6F` |
+| 💀 | `235` | `0x934d5A492d927CB55a9856961b88bA9358A00a71` |
+|  | `236` | `0x5F34fc5d980F85db7dCBb78E5c068C43FD3554Ae` |
+| 💀 | `237` | `0xD935B20D8057B95b2B86b710b45478D5b2C06968` |
+|  | `238` | `0x6327D5ADA2573C3B7795A6fc1D16aa91dFFB6E34` |
+| 💀 | `239` | `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` |
+|  | `240` | `0x441239472097AF2bf14AC7b46083a5Bb85074940` |
+| 💀 | `241` | `0x6310bE9828090B16eadDEfFa7DBf396d20a50052` |
+|  | `242` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+| 💀 | `243` | `0x6EFA2cEC6816D6E776Af9a336Be88E92F15B0c9b` |
+|  | `244` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `245` | `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` |
+|  | `246` | `0x60DE1D5D4c85A5B1Ffe79eDBD8D02153f46DDe43` |
+| 💀 | `247` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+|  | `248` | `0xC46eb85A3ad27B9E94929c9D55b6a5F9bd4608ba` |
+|  | `249` | `0x15b1Feae1B8eB522D951D7Dcbf1cB2d447C447b4` |
+|  | `250` | `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` |
+|  | `251` | `0x1E6281466f48360b914EcA98E6F197786728C04A` |
+|  | `252` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+|  | `253` | `0x5fBccfbC090f0086bfdABF1B9919e8Ff7a5daA4F` |
+|  | `254` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+|  | `255` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6dd1cbef84bef00ce8e5730a2ef6e0149ec96952ef3c0a334d1e2094a2d14238) |
+| `0x0BddEE21F6A077340B667bE8952de763dbeBC899` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x27ebaa9a956d3424b15985f82786a4ffa98bc37b1310ace6ca8739b4e0d97c91) |
+| `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3519eb0e19c0c83f04003610a95b075e4cecac2503a645bf89a695b6171142e8) |
+| `0x0Ecc0937F994eB552E4bED58bE6aCCDd3DA46193` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc01396010f75b301badfc1c0e3adf7e714f77675b74b8afc3ece4f4e60ea858a) |
+| `0x127Fa79f28a454633577134aE98405e2C3490699` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd08c8a7ee43c1c09e956c8643107159309647906b61b3466bebc53a61aeca87b) |
+| `0x130eDe58596A67305C83cB8e1F65F30d0224d1FD` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc209c13688f57214a2eb2280aa2757514b59bead0cf1b54f553159a324d6318f) |
+| `0x1310Fc489d5966418A0196fC06690ec8E7079dcf` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf33afda94ce916feaa1f60899c61a72526b351fec1150cdd71cd3ccfe351ff50) |
+| `0x1A6008a97493305e7c169E0dAd55bE700520A2Be` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x706db2122ff75843383bd43a02a682b6a1705258bcbed202b7f4915aa8f03421) |
+| `0x1Be0003C37de07e1bDdDa82f00D037Fb6B6Ef1C8` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc731b5e18875eecedf5e8baad67a7a3682e5e96cffe8d2fdb61b269182ba23f6) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x719cec570f716121fa85c307efd93a3bfb6cc0360de7039a02c1d3ab91793fc4) |
+| `0x1F1cB235221B323BB696eaB460968fC2750df5f6` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e596153743aa7025c4a95c4e6f68b8ea243924e395ea8c4cb5ecf414105979e) |
+| `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef0f4b889f9314d3dd9cca55d350c8b6e37ea04d90d07e492c1864c2e38c3af7) |
+| `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x167cf00267ececa0365e5e48e8ed98c513e57616d62cb2746a9fa25a70cb4abc) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa59d8d70d469974680bdc49e8b05371fd26f29834ca90830d730e2b8136bf94e) |
+| `0x210e35362fcDFb0e4Bc459C15314cC224898828D` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e778bf3cff4283814db3aab0af4113a6865fe191176f38579430a91e3fe6d84) |
+| `0x223dA53A3f35a2B965cFd6B29c8d72414cf5569d` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda088c2d2419e46093bb8ee8c4e1136aa2f7c0437f56ed57bf64e31e8b31d60e) |
+| `0x23803EAB0D4E3145D79Cc680E1251a1E1e5cd092` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed5cf98115c758d65859b31b124cc67e84bbee1aee1bb3ed532584eb0f8e4cc8) |
+| `0x257f0C9C72e6C20617746ED0D3fa1E61B9BcB5A9` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f76b61e42e9bd205be082281d6c891d84a8d8e426db07e11b8fbae31538882d) |
+| `0x28fc41cb24B0565f161441b7E2bb8eEcBe2991F0` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbe44f7e2d8f6216bd1602adafd061e25a191ae8e57599a114d64b23671bc829) |
+| `0x2C51C0E567C14be137E2Aca6D4b08658b63F964f` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x527bcac1d5d73a48c549803f6375707cbb35f95603af79b52be41e18b3e60e6a) |
+| `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa416575b69c17898ae8b4a35e51d791787110d18880671e079d4b47db30a9c1a) |
+| `0x3173D4220349345Dc40C9F96472614C07869D69A` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5b2e1a89f9ea5ae0eed75fb2feba09765241011ee9b076ac2c287d4ac3761c4) |
+| `0x31d4c4cC36f939978028Fa18e9270fddBE43E6b5` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc01718133a44d98bf449f99f49226f38fe9a0162897bf3295d7391cb3a2defeb) |
+| `0x3868EE975f8D8381e6210c67076B91C8632FF744` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91c5dec9d0aa33745c2b67b2de422f4c595f1f6eeb32c9f8c716d12a8aaf3dce) |
+| `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5edd23f3b7aa507ce7cac78ee9c8eb2b0903f7f464a2fad1342c18d21c1c9c9c) |
+| `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` | F. Tatís Jr. '19 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x59267ebb37c858580d6a2ed69a9e5c3148856645bf81416b7946e1f96f0e20bf) |
+| `0x3e2FE177D719edc3F9833cC2331a40D0468020F2` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b2a39fd805c0908e685977ac7e6119c6c5e42aada011822f99c977fe6ff0bfb) |
+| `0x3F2aB4Dcb334a293d01C94006c686a103Dd2487a` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x679e6ed0a60f37cf529641346b430616a53af9257f1bae4f082c98ddd49b2786) |
+| `0x401b49FBD372405659870f7F16cE3DADb479887A` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xacaf2b080f8291d2ea3f3d39cdd10bdab92e63ef0ec617f67103b17c01f95883) |
+| `0x41221582D22fcd050F02AFB7cC8E4E6B4E940478` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe81fe3d8d248b14f4e0ff2ec301466027ce26bf2caea5860ac87cff9a4c2cd03) |
+| `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdc177dace1cdfdf846e13b740bcf6fa893789a17f3f8c8a6465b77b915504cbd) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14b94e206911b46a33b392ff8ea788794110f14c634fd4f4cf4ebd5e257ddad4) |
+| `0x4a684F4fd99F59c4d2a3e456C27125258894c642` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa35ba13262a5f666756b9f8325663471dfe37f2a98e46e7530ea968e266c5ad2) |
+| `0x4B0Ebca3730591DE0A7CabA75E41C1FAFb2B5761` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb68d6c3f3229f787a5fc78c0c1964e167788b7b49f4188da006cc028bf553831) |
+| `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0667a6f130e984084b97e1a8d161b030949edb10892cde37c7e25afe2085ff62) |
+| `0x5012395c832803775fc8c44d102A1BD3f2Aaeb81` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9f524f4700b3f71bc85261ce1af94a1aec8f7dc0cd8f1e890a501fb7482fdd8) |
+| `0x566f366206f1c546a9B4E36f7f767ea47Dbb0f05` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde587441b2f1501ab23a8baf7f5b51734a5b1f0228301955ae2baffc62bbd325) |
+| `0x56F5E9a2e12BAF719E5890C5A6217bF3542ee7FE` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5a1a5b34bb5d511315d123c351ad289a173b3ca8830fd3ea0f006565a0ed8d1) |
+| `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe80230a2f07c386b1288581a6a91add359077797b0860c039074a678b137190b) |
+| `0x5B25adE8DbA55fe6D3D7F7719018504899B729e2` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf41cd8093c589984028454d261d71deb70a52c63b22fd5dfa29331bbfa26d3b0) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x771177c3cb3cfd975fc5f8ff48a4384bc8b96e2485541ebe126251b770ab4f21) |
+| `0x6310bE9828090B16eadDEfFa7DBf396d20a50052` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x058b88e8ac00b826b64c1b91205d5129577a2a9cba9172116e6dbf552f1b2f83) |
+| `0x638d0C400F09df59eA454aEdc70cf38E7a23b5D2` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb7afafe16bf6997161a0ef0f11b10c691f0698c1a8d7c470ae878373122f7049) |
+| `0x6a023a8b1Ce4e45A2ee95C5dd0508FECcd3Ea389` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29c4560aabd8b63b6363cab2c13e2543cf55b56be17701034fc15187355a35ea) |
+| `0x6b2B26c73D1AeA7d9c550a4237Ba66795Fd32D4B` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0feed3a45804f1783aa2f92d79e7be7f79c770b87e255cdfdcf70f7f46489b57) |
+| `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x56e6bd3ce524332d25adbba72608b9a12dd7b6c1270fb675cf96d1370602f37c) |
+| `0x6B8E9EE3f68E002093C0646F500cfeD12168D168` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06d949c0ff159fe08f0c8ea718b56a3a7c5bb9f016bc6aaf6f906ee58d93f70f) |
+| `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e6dc78bb26fa8922c1e907544bee1dac6202acc2e1d9f153fabc945445a86e9) |
+| `0x6cEdE1235abDC3bcC9Ce1d22050ffbe53aD75581` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfb1cdb284c07c855be98a5e5ca3b0dd4b325c958ca9ba24207d680a9d2d88c5) |
+| `0x6EFA2cEC6816D6E776Af9a336Be88E92F15B0c9b` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16c1bfaf851ee97d0ca60c11a79658a1d6a2211bd593fc1665f4cbeaee9690e8) |
+| `0x6F754f14f3ab4037C5C9DE8513c07893a37A5eD7` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0993e863c82aacafc42d611bb09d86726013686e4d34bcc4c554d89aace813e) |
+| `0x6fb7e74B25fD6556d742F3Be54Dcc8dE501f2442` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b9e38b8d9963f852e3c4d95664af65a86ceee40cec5beb5b0873422c56ed31c) |
+| `0x70a062e6d07c5e01400A23C1507BA7b36bAf183e` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf5ebd3bbcc7a539e697f811807be80de7c0ea47d2cd27cd020295c2dd350ddf0) |
+| `0x772e46c3F273f39A64D15365D52225F414e34b22` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd8837e0b4d9d670b3cb775e0bc6c163863a95fd469e1f7a5c0ccafd147b58673) |
+| `0x7eBe58c21C473ad69746149ca531E7875B57AE72` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x37d81cc2eca91f4914769968b1d74a754af66b3e9c58458a667a949f614517d8) |
+| `0x7f783E2cEca01651EE1146ae88915ef99A21d61F` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfbea19d5a18739f70d68cb12064530ca398503188b73bbe6d8bc9abaaba149a8) |
+| `0x7f7C22A50e8070598526FC911af54d36AE08eb9F` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaa4a20b824595a6fe840c16f8ddd622ecf9ba1f42cb9af28f9361437e62245e) |
+| `0x7fAeF9b8a8798c8EdaD02a3bbC9e627e5CD68AF8` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2647ba8e3b00aa65f15aedd97be21902e3e817e5e62796a397990e0597e29074) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cca1ed370cceaad652bc587cefd2d96856be7c5087f13513e8789132cb4fb5c) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85454fbdab3e699502b942a1177c0fc8aec4efe90004e0137d39a709ac4627eb) |
+| `0x86B63EB15AaF945E2c3d58134AF993cB5f9fE08A` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a959bae4eb931dd3ef6034fc445b37fc11068da3a5fc68529098db41e6bf8f4) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddb4961b8ee1667511d5bf5324a1e653ffc8ed022a2d599d26d0ff5d4472d15a) |
+| `0x876ba965A0fC55654317EF33e9995A66b72FaDba` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4255689c45cea3f1d1fc1addd9449665e9eecf9e7ed181b8c70a65ed3639b103) |
+| `0x8C01040b78c1005f2A368c1Dd1d31B2B1d0b7af8` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79727af9a7e2708d52baf4ff91f82f758661f0a193f04434d1035e8f9e5c2fee) |
+| `0x8E2454BF19833e44eC7956022eb80504bf172884` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0dab545f5cfbc67c2562afbd609f9f4ee5955ada04c8db1fac03108a820361a1) |
+| `0x93171109dccB003E477620B7b4d7C84E1feB351f` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8fe8aa40dac7d532649e1982ba85594bda0453b8702cc39c4feb487494a2f6c) |
+| `0x934d5A492d927CB55a9856961b88bA9358A00a71` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1a45f6f5a21c353370a198f0658230fe885c7a928843c37be245b39ff83ab381) |
+| `0x94D308F55d1e92006dF50A6460Eb3dDD0b621c81` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7f395c668043e80f5fdaa20feb60b6d0e81964ded4782bb4de109675226ef61) |
+| `0x9ADff5452203aBDF1A732fDe42a56a107FaD1941` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa412c62b2ea73fcdaef87ea578e7c7186703e170af9e9ff099095c9924bdbdbc) |
+| `0x9B76DF1E17bc956f48551471F14534d844137adF` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xff8e897bc70ac98c8c6ff75d4ba9b5765bcc5f9637f88948262495903bbda4e7) |
+| `0x9cF54397aD9E7f05c0db35Ebf3aA66258e307054` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8b9c73be62b6eae11b5142e29b2848a548861e176571f4b4b0848fd54a1fc97) |
+| `0x9f5A34A4c4a7846Fd4841912F95432BdaD672E46` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe93bc52ab91b0631d90a09ac1ec00d2aea2dcf61746acb7e6dcc17c7d7c1e26c) |
+| `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` | F. Tatís Jr. '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa2b9c234e505fc198b3f8eda2e021e2bdfca358a74045a7a4c7de018f07db1c0) |
+| `0xB0175ee089e5a27e9FBA8EEDF4b81C2Af12471cF` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3b1b15d572a50df42b5357210d52216fe7ae305e99b88180e524d32ed100f40) |
+| `0xB1EDF6e68c707F9AaB654ffd821B332579f13b8A` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2682980aa3769a043eda1af8b41bee5824ddd48f7553582abd7202952071c2f5) |
+| `0xB2537D5cD7cb6338539120869995C1C749F2a627` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70afb87d6b9c377fd7a89893194db8eaa665b891527fcd30b14a1c4749857e4b) |
+| `0xB3890bAa2cE5e2bBFE86125647f7a90564150587` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11799b2276af5a5112d0d41ef0e7e17f30a33eaa21c9225d4b002b65d25ac3b0) |
+| `0xb63B1E13c8579E57F3b874EC2BA4F7AD9661d030` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb500e08665b1e665aafc44f9132ae7a3f7c9d8215f8c5b63e341787d777269ab) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6df2501595bfecddbe6066d49c9c8fb5511e2f27a05bd9df1459e6749c64dbe) |
+| `0xBA46059Cd2d43F23944ad213d26eCD3C4B560F05` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x67b20f4eb341bc5e9d5fd8d9b2ee34abdaa2e314820f598d718f69538a5a688d) |
+| `0xbaB15dC79F464bcB1947c768A89e788ad0bD3547` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9414a81b7c572944be16c5947a249fe8952964903d463c1d13c1f1a5d6cfe39b) |
+| `0xBe86af648b3cdE716A54c1ADA0Cf75CCAC8e9A29` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a627d17efae2b6e60311bd7c18cd2f25673a85bfdb56707b5f469aaef1c7381) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec2383df0db698834633e93ee2ef85178ea1422797fff96605f90941d0304844) |
+| `0xBF3460E7F59b77efE6Be0c5FB39268F62334e07E` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x026771f32db4777ed97da841d08cc13296ec153bee56f38a453126bb0f20ec24) |
+| `0xBFE8650349062305189704E2b3E4F9Ca80b43c5e` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa140f8f83ee01f1c7f0a5c4ca09942f8d2eaf864a802918cb81d92747daee683) |
+| `0xC4672eE68f715eF983E119D560371CB1014F2960` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d463088495efa191b8b900449685853cd1fd0483c98e68aa98746b123bd1fe1) |
+| `0xc6aa8B7c60e029DD1a5EeEa047651240e9ded30f` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe066e55c69394a729ac533c272c55ec1604b371c6a6d11c1243d34842f6ef839) |
+| `0xD4795CC7C4Bc7aeb256972686abcc6F260a7400C` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33c0f39cd2d87ca0c59c24749d17fd098a85f31267f2e9b30abc475138a713c5) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eb6aab21f485a39d044cdfd78e88821797c15b8f006cab04249a42b48a30a08) |
+| `0xD935B20D8057B95b2B86b710b45478D5b2C06968` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0c37faf8a8b7e80da3b9ad8257af311efadb97d36fe2f292a5dc5302d0a4d6fd) |
+| `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xde95fb36ca51f3117bd70513d4c5585c247c7d05117b61cebe18860da5bc3653) |
+| `0xDB977847f66D5A4abC5AA9B30eC1c508305B4EEa` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9792fb3c07e7a7bf09ffa12a6d70a03d0276cc21fb90232da2fcf585d992bca6) |
+| `0xe2606941359e1f7403384D7D371aC298f6b915E4` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x819c1c117d22d7d636d87b7004084b320bd5381d7797b0d8632b0f4ca21731c4) |
+| `0xe3a216047043896483919b4da7520DC1F2Ee5e51` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c1741bf061b67b96d9b89e5e9df3b286ea87eeb8d86f63da031a2adc3767d79) |
+| `0xe44d9843c854516f371693c13C71cA57fCc9073A` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcaa581bf73772ea9a558f04713c794d7832f8585b9be536f73b1bf09f4af3b19) |
+| `0xE4FAA02721FC0B1D52d1e89977E4A86c45FfD146` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb2828590c5e386dc32275fafdf6fb3f1d9b2b2462157f33c0a26999d7fd32dcb) |
+| `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` | F. Tatís Jr. '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1f6f2c0ae8573c5672e5d05a0bb78ad531e8a3aa0ec399d8c9d71f4d38212bc5) |
+| `0xe90A7Ab416d99AF530b9254a56bd137C2F99DbcA` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23fb6d1a96e299ca4e28a3fa71f15f5f279b3e66590c5f4284034098d9f883e3) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd530279da23259c2da4f369713db7480545aa6bfb55fa24c1f6496f257fec90a) |
+| `0xEa592F9866aC8E091E565e1Cbef6cD5d2Bfc4bC3` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2601c0ac5ddfe3a276ae4b2637a91adf750a78ebb3462fffaaca5dd3400cbf2) |
+| `0xEAfC93B48d9e8947fDc30f05D5b9a0772B71fe6F` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x990cb35e1ef18be559e06e7b411d7faf45ddcff90e78c974cf655e2d22034482) |
+| `0xeb1Eb54703C72636C12a4F449b271D38DF0ff14c` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e1b066cead21875e9fc2749f6a33b8e0739351908ab6c0e0fd47f41f7c57572) |
+| `0xeB2fceCD55c7F763B8CC02A857c2c08A8b24a790` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d60a24c3e6417d1919a4e2a280f47e90a9503b5d32494a882a0cee15e4ff2fc) |
+| `0xf1A5Da6A31641d0069c1B3df76ABf00e0d559eAA` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c7ba15cacf736cb34890d57a5c86d7946589ab850dda395ea2e3d601d925cb2) |
+| `0xF4D7fA5a6bAD23b8E7D24DB1c112d47B1815Ed7B` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec0b466b423c287e72be1138bb358760442e284938300ed6bcaad44a2dd769a8) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x12fb32a5eabb6a60a94c9fbd82bd2d3bc777c0628b829db0543b0e762d63665d) |
+| `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x265dc4bc93d79d157bb581d45eac2d1008d6e777925374de379019e8a3d2e344) |
+| `0xFC4EFDDacd74240a629aD3c1383bc55c7a76f93B` | F. Tatís Jr. '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2fdafffdeba88d11f1d9318b050e5e46c745ec8ef87150b30f5f58845fbfb55) |

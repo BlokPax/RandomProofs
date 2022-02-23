@@ -1,0 +1,392 @@
+# [Elimination Proof](./readme.md) / Hero Geek #2
+
+|||
+|---|---|
+| **Drop** | Free Drop 4 |
+| **Round** | 4 |
+| **Started** | February 2, 2022 10:00 AM EST |
+| **Completed** | February 2, 2022 10:19 AM EST |
+| **Tokens remaining before round** | 7,680 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,840 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | Hero Geek #2 |
+| **Internal ID** | 843 |
+| **On-chain ID** | 193 |
+| **Image** | <img src="https://tcdn.blokpax.com/95718b19-e671-4947-ae99-6784a79cf274/b46f2395681c44ea2ae117203a3921b551fb2ab9dd5a7a457d6b157e548ed3e9.jpg" height="200" alt="Hero Geek #2" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | **UNOWNED** |
+| 💀 | `1` | **UNOWNED** |
+| 💀 | `2` | **UNOWNED** |
+| 💀 | `3` | **UNOWNED** |
+| 💀 | `4` | **UNOWNED** |
+| 💀 | `5` | **UNOWNED** |
+| 💀 | `6` | **UNOWNED** |
+| 💀 | `7` | **UNOWNED** |
+| 💀 | `8` | **UNOWNED** |
+| 💀 | `9` | `0x6E242b4105AF4575097D8844eD70D40A6Ad1e19f` |
+|  | `10` | `0x31d4c4cC36f939978028Fa18e9270fddBE43E6b5` |
+| 💀 | `11` | `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` |
+|  | `12` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `13` | `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` |
+|  | `14` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `15` | `0xbbeF6ebB2a650Ac6a4E76DBD2502bB48ba634e11` |
+|  | `16` | `0x2BBa72d4EBEC554af255AeB46dF1AEd98eb5e8Be` |
+| 💀 | `17` | `0xE1d8D257F5Ebd75e2d64b88Ea6A62Ff425b56a79` |
+|  | `18` | `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` |
+| 💀 | `19` | `0x23A17fD14CE3c135016A64555AAeBB2301998241` |
+|  | `20` | `0x3940fd487454c34399a5a3E1E43e481501CDEDE1` |
+| 💀 | `21` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+|  | `22` | `0x41a5C4d1C83dae9898e5627889AbE0314984E1Af` |
+| 💀 | `23` | `0xCBE5368959Df6234B1f2C6A7De7b86067Ae8AC1C` |
+|  | `24` | `0x9A44D3C93e326A754A2e479253709398370D59A7` |
+| 💀 | `25` | `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` |
+|  | `26` | `0xD7B85709b8D9A0D8C2EC85066B34bcE7871C9E61` |
+| 💀 | `27` | `0x73F877C2bE845faf12243B1b015a446776aCD557` |
+|  | `28` | `0xB0175ee089e5a27e9FBA8EEDF4b81C2Af12471cF` |
+| 💀 | `29` | `0x616CFf5dfA4B3ab68B565B3018161Eb28a95ae91` |
+|  | `30` | `0x8Ef2f42c3AEeD8e34BC3825f31B9187ca50d119a` |
+| 💀 | `31` | `0x3ECBecD2ac0986DA06Ca2987fF9234F3b7AB26c9` |
+|  | `32` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+| 💀 | `33` | `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` |
+|  | `34` | `0xF4D7fA5a6bAD23b8E7D24DB1c112d47B1815Ed7B` |
+| 💀 | `35` | `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` |
+|  | `36` | `0xa70503b3f008aE8B1dB5845c900711B11c6d7115` |
+| 💀 | `37` | `0xb3b421349234d74320d4315186ed9700430b738A` |
+|  | `38` | `0x379E1a1e1890DFD5b31c9Ec65EA08255b5A89a69` |
+| 💀 | `39` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+|  | `40` | `0x1580583bbd3A9B6cA9A417765B4ED79C4697D57D` |
+| 💀 | `41` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+|  | `42` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `43` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+|  | `44` | `0x2e74DAE5bdC2bF8976065300dE2B58Fcd7591360` |
+| 💀 | `45` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `46` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `47` | `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` |
+|  | `48` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+| 💀 | `49` | `0x643a5cD8d1619290DCB27bA070Bc8E93A85FF9b8` |
+|  | `50` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `51` | `0x41Be249Ec5114527a3eC2429cD2297406F5f2b46` |
+|  | `52` | `0x240A05E0C715D274557E57Fb0e68baf21bBe1414` |
+| 💀 | `53` | `0x13F708D584eAEA86024eDA15BBFE5746AB5d0061` |
+|  | `54` | `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` |
+| 💀 | `55` | `0x87eD780f96576D10C2A678782E95485045CC8623` |
+|  | `56` | `0x3aA57b5E1CfA09D2B7B81bdB2dC2afc779Af8c63` |
+| 💀 | `57` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `58` | `0xf13e9B19052759c7426709b9e2B6252661f72254` |
+| 💀 | `59` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `60` | `0xF6d770E7230AC0fa161F3260BfF5a30967060F51` |
+| 💀 | `61` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `62` | `0x93fC671085414502B3235FeE512623d5eF54D8B4` |
+| 💀 | `63` | `0xDBfd38628e4EB135330ED212c9E29f4b5CC25976` |
+|  | `64` | `0x22bFEd5cdf85674eC85BC1D14729D62c9D0623d1` |
+| 💀 | `65` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `66` | `0xd27c3A77051E9698d58BEa401DfD601dcCF55710` |
+| 💀 | `67` | `0xa2116eB15F9DA56190d5Ac7f500101558b707968` |
+|  | `68` | `0x1A6008a97493305e7c169E0dAd55bE700520A2Be` |
+| 💀 | `69` | `0x331EFf559aff9e0BD0ff20Db792B1F96d1bb3526` |
+|  | `70` | `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` |
+| 💀 | `71` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `72` | `0xC60146CAd000375610F7048538b0fD0DdADdD78C` |
+| 💀 | `73` | `0x130D59ecB907dA0f6001e4005c2B5F6671FFEB87` |
+|  | `74` | `0xDF62f731D281821518FEB71e9C08FB513C9794F7` |
+| 💀 | `75` | `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` |
+|  | `76` | `0xBFE8650349062305189704E2b3E4F9Ca80b43c5e` |
+| 💀 | `77` | `0xC7414626B1315D9D1A8426eACDB0972F656C2EbB` |
+|  | `78` | `0xa2116eB15F9DA56190d5Ac7f500101558b707968` |
+| 💀 | `79` | `0xd27c3A77051E9698d58BEa401DfD601dcCF55710` |
+|  | `80` | `0x158A6160A0b2A89c6751d68f6deE88d92348A44E` |
+| 💀 | `81` | `0x982CACf85e1c35672577ff2E8a6d126ec8A3138c` |
+|  | `82` | `0xDe4602aB833ea986531543d17772EC068cFaab96` |
+| 💀 | `83` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `84` | `0xC44bc03eA303B0A10508Ac7B3EB21786CD043BF2` |
+| 💀 | `85` | `0xFed7d8236bfA62A5AadCA195f5750349e25c1303` |
+|  | `86` | `0x1bC2385D9B13bF8567138B1aAFdfd99655C213b0` |
+| 💀 | `87` | `0x009b7050fFA5D0Edd0CBdEA16170E778E6266478` |
+|  | `88` | `0x1074d860B196250182a9BA10308eE3811e74DC29` |
+| 💀 | `89` | `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` |
+|  | `90` | `0x28fc41cb24B0565f161441b7E2bb8eEcBe2991F0` |
+| 💀 | `91` | `0xC105235150736441F6c22A465b1D77a23c15D3C1` |
+|  | `92` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `93` | `0x86b92f5335ea15Cac888A5F385530BAe96D0C8D0` |
+|  | `94` | `0xd27c3A77051E9698d58BEa401DfD601dcCF55710` |
+| 💀 | `95` | `0x94b201CCA8b7ab3828A8642660e3a8E29F105934` |
+|  | `96` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `97` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `98` | `0x36962d6d5Cc0374EeFB0bc0a05Aadf34144B33D0` |
+| 💀 | `99` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+|  | `100` | `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` |
+| 💀 | `101` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `102` | `0xc04FEFC730bA51276e4fAFdA24d9F0018F706287` |
+| 💀 | `103` | `0x70C42fA2D79e9a311F011D0348a584D30379F2da` |
+|  | `104` | `0xA7F35bbBD35104269dca184930415D3acFe350F5` |
+| 💀 | `105` | `0x191aB57985134C3c7F87fB60F9ae334eb21305C2` |
+|  | `106` | `0x30092C0AEbF582850729D7E391aed0789c1e7bF5` |
+| 💀 | `107` | `0xa83Ba84634A4272996e36ff8411b06379a3a4aD2` |
+|  | `108` | `0x02930e1915F1EE7E8e7b3Eab31ecB738805999E3` |
+| 💀 | `109` | `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` |
+|  | `110` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `111` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `112` | `0x9A44D3C93e326A754A2e479253709398370D59A7` |
+| 💀 | `113` | `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` |
+|  | `114` | `0xFB994f976a2d2941B9a8aD901cf2Ec26dD839c85` |
+| 💀 | `115` | `0xD7f2e56732AB4373054d9508f89c20753fb98093` |
+|  | `116` | `0xec0712dBBF6f3BFbcDECFED8483323B1460730C3` |
+| 💀 | `117` | `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` |
+|  | `118` | `0xBc93e95e5c76272baAFe9Ecae2589b7d437EbEF1` |
+| 💀 | `119` | `0x86C97767b31af866BC03f0902496d149BB67e927` |
+|  | `120` | `0x9f56F25341C94Eb27726C45FF1B8F9bF248bC659` |
+| 💀 | `121` | `0x76b86aA80d0B114DE6692fB6E71e6459B3a3aED6` |
+|  | `122` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `123` | `0x8A62E5De285E59D787ed7C7fD5062282CFf8Aed5` |
+|  | `124` | `0x68Fe2Bb85C5af9edc56bA468B1f683b7c50Ac598` |
+| 💀 | `125` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `126` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `127` | `0x3eDa6F8C0D2B746B91b955c4C61fe02C10881912` |
+|  | `128` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `129` | `0x233c9189c74C5b6268eBF66bcA721b7e34404B40` |
+|  | `130` | `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` |
+| 💀 | `131` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `132` | `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` |
+| 💀 | `133` | `0xaBF5c8cf58b406cb83BDE7e8b727892c92FAd7E7` |
+|  | `134` | `0x240A05E0C715D274557E57Fb0e68baf21bBe1414` |
+| 💀 | `135` | `0xb8D3C0309A5D8a5f0E2780f03980d9f3531f8bE1` |
+|  | `136` | `0x845ba17803945764Bcd1309265a908682272Bbeb` |
+| 💀 | `137` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `138` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `139` | `0x3b94D702C3F338C98cbafb75d5c9BA7c4a011AE2` |
+|  | `140` | `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` |
+| 💀 | `141` | `0x43D16CCd581E1D6A8d51768f75DdF09b79F4f856` |
+|  | `142` | `0x411Eb35FeD736a61995858606458564E05205A2B` |
+| 💀 | `143` | `0x6d1027484d76664978E5Ab4Dcd6Aa48c8dFDd3e7` |
+|  | `144` | `0xC3AE4D28C204Fb07B80CDd8b2D9aDA361D82992B` |
+| 💀 | `145` | `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` |
+|  | `146` | `0x6B3017d690626Aac585DDD6468FecE9AE6d76908` |
+| 💀 | `147` | `0x21b87bA1c4Da2D5c9D49507ae7aE23B20D80aB39` |
+|  | `148` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `149` | `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` |
+|  | `150` | `0x0c59304E92F005627CAc281549aC91F6aBC046bb` |
+| 💀 | `151` | `0x8b1bd3539a54dF17F132895FBbe84F12f783FA5b` |
+|  | `152` | `0xA2db1a3B24C499868eb6586e1a6F7Ac07A6B5031` |
+| 💀 | `153` | `0x81421dB492BB51FebE43bF1F4EcD796e52aC03B0` |
+|  | `154` | `0x1ed7664F2326Dc87f8f06Bb5d587Be2fBE37261E` |
+| 💀 | `155` | `0x6a023a8b1Ce4e45A2ee95C5dd0508FECcd3Ea389` |
+|  | `156` | `0x41b09B1A32b6B219f13538180FDb65775ec7f538` |
+| 💀 | `157` | `0x14D7f0216cF0B3213Ed46e0790d1d5B18DF59196` |
+|  | `158` | `0xE22eA84B0114FF6927952934c2143076cFB9457b` |
+| 💀 | `159` | `0x31819C882bb6B70B590443149db19f5F72c27c67` |
+|  | `160` | `0x566f366206f1c546a9B4E36f7f767ea47Dbb0f05` |
+| 💀 | `161` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `162` | `0x7Dfe8a39D0A397FDFA28AF3088C9d31418C88547` |
+| 💀 | `163` | `0x158A6160A0b2A89c6751d68f6deE88d92348A44E` |
+|  | `164` | `0xdC729b033D0E0c437180DC209a7ff0C733804559` |
+| 💀 | `165` | `0x394d7Aa5B9D6A72B7d0706ea2B8A9427cae58B7D` |
+|  | `166` | `0x5c05F4cCF3b31E631F49CC17434C2C0358c18A96` |
+| 💀 | `167` | `0xcB7ea5740283cbB040Adf6FD1D7d465400B5984f` |
+|  | `168` | `0xb81a27161261E342363C38a6445eBEa6432466A3` |
+| 💀 | `169` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `170` | `0x0bBCb63BCc18c798562C4c91211ED09c14E8c525` |
+| 💀 | `171` | `0xb3958c3FA997301a37DeAA6395938be8E250538e` |
+|  | `172` | `0xcF302aF4D00BFb4ad667b523105A423e6c6f9d09` |
+| 💀 | `173` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+|  | `174` | `0x5BDEceF29d62CCf04074742320375f4FAc54dabE` |
+| 💀 | `175` | `0x832Ec5E27489C71775835c85BD0a7307E2321FE7` |
+|  | `176` | `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` |
+| 💀 | `177` | `0x289B43826A4c3607E631446d33c227ea53138234` |
+|  | `178` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+| 💀 | `179` | `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` |
+|  | `180` | `0xe41cad427021d70F8Cf7a6cE04B700ca075bCa20` |
+| 💀 | `181` | `0x0D0b7d3F4accED1cE9025d11D868435e20EF6CA2` |
+|  | `182` | `0xCa8aa68297b37a2ea6Bd368B87F5B2441Eb82625` |
+| 💀 | `183` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+|  | `184` | `0x90129a712FD1a62B47db13479F791e140aE3f2cf` |
+| 💀 | `185` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `186` | `0x685B86f0d8f957a34D1109A0096979696136174c` |
+| 💀 | `187` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `188` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `189` | `0xdD60739D1470Be71F4A7Fc6743c7E5A2f26fC676` |
+|  | `190` | `0x3B59F550AE0fc851bB875927887957132e0eE8Da` |
+| 💀 | `191` | `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` |
+|  | `192` | `0x2539375a3c2aE0AbC9889a37527574820234ca25` |
+| 💀 | `193` | `0xC7414626B1315D9D1A8426eACDB0972F656C2EbB` |
+|  | `194` | `0xf368E47249378f6cb1847B0892669163d6e7967C` |
+| 💀 | `195` | `0x876ba965A0fC55654317EF33e9995A66b72FaDba` |
+|  | `196` | `0x7f7C22A50e8070598526FC911af54d36AE08eb9F` |
+| 💀 | `197` | `0x130D59ecB907dA0f6001e4005c2B5F6671FFEB87` |
+|  | `198` | `0xDE94947053F7754fe4B011bC1c3cd9B2D83525D5` |
+| 💀 | `199` | `0x0291485B514A1682f11643C08b5e183be32575F3` |
+|  | `200` | `0x0D2bd72F5F9Ddb8c41224Ba1A8e33822828AB3D2` |
+| 💀 | `201` | `0xdB7323E3aCA53DE0bF67875d06dfe453d6cfAe5f` |
+|  | `202` | `0x949C77441af57707a93FEd3cFba364a8aa488360` |
+| 💀 | `203` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+|  | `204` | `0x27C26d076b93fD972110796bC362ba9f2DE4E072` |
+| 💀 | `205` | `0x32fE2c38c11EadC164cfD9cd123eD36cA6Ce7A12` |
+|  | `206` | `0xd27c3A77051E9698d58BEa401DfD601dcCF55710` |
+| 💀 | `207` | `0xf8A250E4927821aF8B339B54C7bC0BcA24fD24AC` |
+|  | `208` | `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` |
+| 💀 | `209` | `0x610c3AfD7208095c121FF3697D88Be6bdBd6b42A` |
+|  | `210` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `211` | `0x98f1Ac0F61e5726F278193926F94982346E40F8B` |
+|  | `212` | `0x19E6b8cE9f758DC17d7778808CFbEA93276b4e40` |
+| 💀 | `213` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `214` | `0xB5Dee4B97cf477d976Ba7101ad5008336826D93E` |
+| 💀 | `215` | `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` |
+|  | `216` | `0x71523Cc04254eaCDc70426ca4C9b221d68BC9Ce8` |
+| 💀 | `217` | `0x83bA5345702c9b48976e2b473c027e1c2ee0dF8B` |
+|  | `218` | `0xFA2a93Fa238AA8Ea455140B427AA9c2b5e89aEc0` |
+| 💀 | `219` | `0xf5822116dD8fa87B56eb93500429f3dc27b8F610` |
+|  | `220` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `221` | `0xE6286D932D04e1987754c31282F7Fe0C188beef9` |
+|  | `222` | `0x6f41BA0dB3EBAA4c042D5206D2cA594770088795` |
+| 💀 | `223` | `0x2365cF3Ac2820c618EcB2B485a49ACD592e13F06` |
+|  | `224` | `0x9E98529e3dd657605AB604c6822107ad0f1c261A` |
+| 💀 | `225` | `0x6D8BD17f0b11B82f130A5e6168FEbB7fA47cA17c` |
+|  | `226` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `227` | `0xdcb22FE8A98D988bCfaae7Bac52f4d6050bbfC69` |
+|  | `228` | `0x16172942f16c50A18d7024d339a672E3650653D5` |
+| 💀 | `229` | `0x5282622605B7B596Cdd6DAF8c5DD19D6EF963B86` |
+|  | `230` | `0x63c5006bfD034F123c855f6e4485b87ad9ce6b39` |
+| 💀 | `231` | `0x7a8dcAD4B7FB8729Fc6C17C1FAf18271Bf99BEB4` |
+|  | `232` | `0x8E5b05f2b6Aea467a9bcfb4c8B3D27f934C60e67` |
+| 💀 | `233` | `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` |
+|  | `234` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `235` | `0xfECfe732d766A0E0aAA5c58AcD00681132171f0B` |
+|  | `236` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+| 💀 | `237` | `0xbAf592fE279F1864C617a1664083A5af35dee04e` |
+|  | `238` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `239` | `0xD7f2e56732AB4373054d9508f89c20753fb98093` |
+|  | `240` | `0x1F7a23e8aE9b7f91058DB896cCa7d4516d8FB851` |
+| 💀 | `241` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `242` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `243` | `0x0D2bd72F5F9Ddb8c41224Ba1A8e33822828AB3D2` |
+|  | `244` | `0x7A036c6c6a15E245827445B898267967d696E22E` |
+| 💀 | `245` | `0x73B035e5166bAde4E10Ff319F4BFac358EC46465` |
+|  | `246` | `0x8955D5a0Fc102E70EB6876D52Ef0270054E25Fe5` |
+|  | `247` | `0x73F877C2bE845faf12243B1b015a446776aCD557` |
+|  | `248` | `0xE976204DaC0a4411173B4E19778B073D5630277a` |
+|  | `249` | `0x23A17fD14CE3c135016A64555AAeBB2301998241` |
+|  | `250` | `0x9Ca3eFa0376214ca8d829C5e55a04fFF4e505887` |
+|  | `251` | `0x7ca586f8dEA3cD02D6593F28A400Fa6E35AD1A50` |
+|  | `252` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `253` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `254` | `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` |
+|  | `255` | `0x4E6e17A4b5559FC0C7CA978b2cA8dB5006Bab2CA` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb45a627973ded5fc02686bc8f7f21333cea49c5f03eb92ad27be44ba638c891) |
+| `0x009b7050fFA5D0Edd0CBdEA16170E778E6266478` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x73521adf1bd781c667e9e7c89d7e1c3b1ab52311f350b003b65121c44c2a341e) |
+| `0x0291485B514A1682f11643C08b5e183be32575F3` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x823b520d72973fdb97e1a64fc613c6ebcd0ee885e6277cbc1f31bd09317627f2) |
+| `0x03B3c007Ba61EfC9F82bD1DcF01dB692c3a5E1f6` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x717abd707ac5073486664c54ccbeb1294cc5a480d39a22bd43220fa1383eac90) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x31b5037ad99e01701b5ec1b3af945bc1ad5fd520e8e233aa23073fbada71eb72) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29ae08596fa7b4467671f3067aadbdb9f78ccc24b7f51c9d8619b656617b90bf) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec0c8ab4aa3c8ee99cbe96ee15c8359cba1c21d6ed79d343754eea8e84ff295a) |
+| `0x0D0b7d3F4accED1cE9025d11D868435e20EF6CA2` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x669d0ed4b5d2f836faabb393181bdcd57e9a0aaaf36bebabd8b04eb1fa25cab8) |
+| `0x0D2bd72F5F9Ddb8c41224Ba1A8e33822828AB3D2` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66561926fbffb17c68e817605e00b1d8a7a6851d892fc54006b2318b2a5d26d3) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3a1fc5a38dd303568dc6afccc242b85bc1fd38c4d2cccea6df64bf1c7893a6e) |
+| `0x130D59ecB907dA0f6001e4005c2B5F6671FFEB87` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0xde121b28be2b5dc1b2b6c5690265ba41a67e687d3eb7447c368b43f07b39f21b) |
+| `0x13F708D584eAEA86024eDA15BBFE5746AB5d0061` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f60e5e6a83b3007654b78c93eca1684cd4921e803d280308091f3b85b3a8feb) |
+| `0x14D7f0216cF0B3213Ed46e0790d1d5B18DF59196` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a200f0b6243ab55aeaac4dcaed48d3c11f767a8c55f0ea91f4bf4a52a31a085) |
+| `0x158A6160A0b2A89c6751d68f6deE88d92348A44E` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51ed76bade1a345774b418aca2636ac999de94acb71e9b98795727adec7cd9c2) |
+| `0x191aB57985134C3c7F87fB60F9ae334eb21305C2` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf21f42604231223939669f0228b9de7b8138a889998c8542102aa7d2d55aff68) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | Hero Geek #2 | 5 | [Polygonscan](https://polygonscan.com/tx/0x3dc8b622472679e7b527a01660e5883132c451423828a2286b16a3ef177070ff) |
+| `0x21b87bA1c4Da2D5c9D49507ae7aE23B20D80aB39` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75385f2cddf9ed78ca80b8be749abb497e60694ddbe9cd876f4841075fee48b7) |
+| `0x233c9189c74C5b6268eBF66bcA721b7e34404B40` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x161d0c35d77e904cbde634c5ce27250f4f5173861a1ccc375b522a585d660b77) |
+| `0x2365cF3Ac2820c618EcB2B485a49ACD592e13F06` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x363fcc01505ac541f541195e4d53d86b18ded1313a2dd4ea34dc9719a3036157) |
+| `0x23A17fD14CE3c135016A64555AAeBB2301998241` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24f428cfe652c403b1b901a9ad028dcf85c866820a8112259646ba65b49f1c73) |
+| `0x289B43826A4c3607E631446d33c227ea53138234` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c852225b6d1c6ec8ce709fe52d8793e9d17608cf9de92946a2fe3ea2ef5433d) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdeeb31e40b3262bf2205ed7d95cdad38cfd39aa36177202e310701c0c2588759) |
+| `0x29aA9d7515b515A1Fc76f1B3Fd3a061Ea64ce079` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x47f2866d27daadb58c1e7f45fbab9484df0c39a43313ccf6ad4442670e3f9fb1) |
+| `0x29f7ED66996d0899b485715CAfB95E109E81516e` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7b4056bc9dad158c64a16ec945d4cf91e6bf7724503b7debb762d4218405015c) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfa5d666c4cbd3aaf74d5145342e55dae197aecd70c509c0de479a18ee952c5c) |
+| `0x31819C882bb6B70B590443149db19f5F72c27c67` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b034fcaef7ca6dbc19e8dad51f6d8f97b7e752d6c9fec02c70dbac6856b6dde) |
+| `0x32fE2c38c11EadC164cfD9cd123eD36cA6Ce7A12` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0193b025959512d99beb28722f093c8955089a4f2cb0c136128b75cda94b36b3) |
+| `0x331EFf559aff9e0BD0ff20Db792B1F96d1bb3526` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0c83d262b5940be51d81f0e08715104017e7e6e979fe98f7c5a5e493ef04ae0) |
+| `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xca6c1b85ea176dd8e98767e1983a30559937b502c0ef057200981d3dcfaa36c9) |
+| `0x394d7Aa5B9D6A72B7d0706ea2B8A9427cae58B7D` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe93a0edf3683da5649bf09b8073415cb577d13d77741a05d63642bebfc0e06dc) |
+| `0x3b94D702C3F338C98cbafb75d5c9BA7c4a011AE2` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd16a21cf96cd2a1e5426bf68c0ec1f209b1aeea74d8e191b7b5019fca12a6dcd) |
+| `0x3ECBecD2ac0986DA06Ca2987fF9234F3b7AB26c9` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc12e1fef87a0ae4e12b68abed9e17f69a4c73e8e6a7ae67983f7f1442b81331) |
+| `0x3eDa6F8C0D2B746B91b955c4C61fe02C10881912` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x927b5cf28a6d0dc522e1cf6a88a8d491049d6ba7cc00049005764b567c68c254) |
+| `0x41Be249Ec5114527a3eC2429cD2297406F5f2b46` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81ac7cd14bd23cf02d5c79fc2a3486bfe9665389ef1f9e3cb7ed927c4264ee7e) |
+| `0x43D16CCd581E1D6A8d51768f75DdF09b79F4f856` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0118661f3af4425f796a68f38fd5c7d266dc12c7efccddca570b9fce5b5fc49a) |
+| `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cae504482dea0fb4b0fdc2daa431c4827b3dd0b070a35fdf136235f3bd87456) |
+| `0x4fF302cC4044b732DFB0cEde3b46A6E6dADBfB6f` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb9c36dfee369e046242ba60634b26ce76e927fbefbd1cb68f45ba2d2b8463d3) |
+| `0x5282622605B7B596Cdd6DAF8c5DD19D6EF963B86` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cbc116c2af9dec789b0c22b12e6229ce6b1aeb7eb2f8b8e82d2a72b40c15ee9) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9dd2bf8730415058fafd1ccbb15774635b131ee40aaae5f7a0deae909c4ac1d5) |
+| `0x610c3AfD7208095c121FF3697D88Be6bdBd6b42A` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3de17dc9166e2b232e9b53729081076c139fc8d5c276d0699be0b47557174066) |
+| `0x616CFf5dfA4B3ab68B565B3018161Eb28a95ae91` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf96c3c7edcc0b9f20c22075261cfea58bc948d43457d19f255d7c839863f2b59) |
+| `0x643a5cD8d1619290DCB27bA070Bc8E93A85FF9b8` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf028a8b77d3b45eb0a872e7ef481d6c1f2b8528ff5c4d46f5fb2fe9917c725b4) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x82cbe319321ba3345bf5b248ea122ec1daf5b7bb4b7a40c93c95cfb5f4bfcd31) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba6ef2362bad560bb6e9744b9fe19da26e853c0a1e578ffde59b59e909073c05) |
+| `0x6a023a8b1Ce4e45A2ee95C5dd0508FECcd3Ea389` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6751d8071e578e83a232b4b28a54db04e7e87539bc298bb9ab637e814be8ba25) |
+| `0x6B4D7841297a1dFA219664637f7CEc6406d7238f` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x820a836a43b30879bd404ec0c1c996e3bf100f056dba3d710089f96e0c5f7ec0) |
+| `0x6d1027484d76664978E5Ab4Dcd6Aa48c8dFDd3e7` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb9eb28e092f49e46972b1c14005996619cdc47f1e484fb526a977a313dd3e004) |
+| `0x6D8BD17f0b11B82f130A5e6168FEbB7fA47cA17c` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b3949a4012f50e79738e8f77dbba741004e3ded5e965f88606c083b6e65a6bd) |
+| `0x6E242b4105AF4575097D8844eD70D40A6Ad1e19f` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x259f85de2c94a51b28ce9e0e0d7c812b826766d446f7581301559db5b4b48f83) |
+| `0x70C42fA2D79e9a311F011D0348a584D30379F2da` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xce90f1fda04ecf42c8d64f9bcd4fedd3d1626471cdbe5740c629645aa407c23d) |
+| `0x73B035e5166bAde4E10Ff319F4BFac358EC46465` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b20c7465df1e134dee14ba225ffafd911d31bec9455db19f852b7da0f1e6312) |
+| `0x73F877C2bE845faf12243B1b015a446776aCD557` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8e95bb876fcf33744efe05326871301f9b396b5bd59b5bd86707dc1135d40b7) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa226dcafd1dc668b5d6228be46db641ae487c5462c6b1f0db61a0f9f4487005) |
+| `0x76b86aA80d0B114DE6692fB6E71e6459B3a3aED6` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69a5b5cd6d4b0a886942df2e54d204b16690b415a3262b0457797cc9d8e04c25) |
+| `0x7a8dcAD4B7FB8729Fc6C17C1FAf18271Bf99BEB4` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe81bec9fb6333f2cea88dcac4df31ec7ac91c659e1e5222a3f69b60c35419c25) |
+| `0x81421dB492BB51FebE43bF1F4EcD796e52aC03B0` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7f31d4a1e4f650223f4b3458bb69048c9ea119565a824ee57108d6018a378ac) |
+| `0x832Ec5E27489C71775835c85BD0a7307E2321FE7` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd858f0d8554c3556097777bcfa362a314739b92dd8ff12790319e8dfc02c47b7) |
+| `0x83bA5345702c9b48976e2b473c027e1c2ee0dF8B` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2729865e648a16cf9e27069ac17fedc086e20d9f408148818bbd2b7432a95cd6) |
+| `0x86b92f5335ea15Cac888A5F385530BAe96D0C8D0` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2c9511775d3bb3cc91b381dc7635effa183e1e0fe4b76eedb2883e70d761264) |
+| `0x86C97767b31af866BC03f0902496d149BB67e927` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2abb144875031a8a491c05d6f5c8c15532f002fb454fe88c7c49d9f781e6786e) |
+| `0x876ba965A0fC55654317EF33e9995A66b72FaDba` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x758b6e84d377f2225d3d3a01b2507701362ff7b9af2e7f31b79ca8ac10b9d854) |
+| `0x87eD780f96576D10C2A678782E95485045CC8623` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x265de60e23a557b04dc3febe58bff42773019799b14bdf8d6031886c45598f14) |
+| `0x8A62E5De285E59D787ed7C7fD5062282CFf8Aed5` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2157ac5ab1a925eeb34a67d42c411e0b566072707462214ce32d0f96e663167f) |
+| `0x8b1bd3539a54dF17F132895FBbe84F12f783FA5b` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdef0927db71e1a91e21dae4990040ac677b3fa6c057809482f276ff94c780319) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda440a6fbf6fec32a467084dda273b72d2eb2d644eeddc2363133e7a48792f45) |
+| `0x94b201CCA8b7ab3828A8642660e3a8E29F105934` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb0d8854bd6b314195bfb6de63bfc9c3ba37818d8923f8e7a9fa7f97146672c0) |
+| `0x982CACf85e1c35672577ff2E8a6d126ec8A3138c` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddf3d740e9f4180db5669df814c51368f483162c4984b1dec7a76d246bdb0a68) |
+| `0x98f1Ac0F61e5726F278193926F94982346E40F8B` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d033292340f49b91a4cf68b2a4527f9fe1100c7899f02ddb4b99f1c4d33f0b1) |
+| `0x9d8Ba623b6E9E1bE7aaDAB9e9dF55Df960E1B256` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2685a9c9deccc0f69ef67d37e4ba634f68be8ae44786a322d224394fa9e423d3) |
+| `0x9FcF5Bc6f122222249aF854E1796874E0301e6D5` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0x14757dd0526502f8ac154eca9eec937b9c3dbb06ea131786faca27b233ce3d88) |
+| `0xa2116eB15F9DA56190d5Ac7f500101558b707968` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x16026bbdedef245b8f296f9365c71fc609440d0cc9dc28f89c3dddd86e52b75d) |
+| `0xa83Ba84634A4272996e36ff8411b06379a3a4aD2` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x25ee0d071cebefe0ce7b3c5e5208a6b045dabfd40785927aefdfbc02a2bccbd0) |
+| `0xaBF5c8cf58b406cb83BDE7e8b727892c92FAd7E7` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d604fda944bc0cd7bf873f8cb8ff2b7e7799867cdfae2470b34c9d36f195234) |
+| `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59643ab073bcde56bf64dca96f65017fefa0a7636b09221e279ce6bf12ed38df) |
+| `0xb3958c3FA997301a37DeAA6395938be8E250538e` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9009d921060f4110135162c7dfd2d0f0e5eb9eafa0e809c704357e8709e4dc34) |
+| `0xb3b421349234d74320d4315186ed9700430b738A` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a36fb5916d8ea77d855d460c63c675a73aa57c1e53fc681750d6a7db630f1e4) |
+| `0xb474069eFf0f54295E54C6DfaD48811C7302fc8E` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6da2648ea20fc070b0459856c6000f75773554c7583ac3b57cf2404c2ffef04e) |
+| `0xb8D3C0309A5D8a5f0E2780f03980d9f3531f8bE1` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35d4f3a684942313b07f70d01e22b16c03e9b0ed8fcfbd36b534dd82f02fde0b) |
+| `0xbAf592fE279F1864C617a1664083A5af35dee04e` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd11a0d313d73c6a027116ae8c7e25ec6d427518cc84787b8a9a39a6c29785aa7) |
+| `0xbbeF6ebB2a650Ac6a4E76DBD2502bB48ba634e11` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x599a5c3396dc0c1cb58fa9e4bc4d40b1810a343a6cf7ff8ff0c25599e20ba5fb) |
+| `0xC105235150736441F6c22A465b1D77a23c15D3C1` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3a227cd9e7ef162d016f8c24fa769381ff92272f82b54b01365267fecf9584c0) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92797f9dd8c03999c4786a21abe6628cae64710683b1f4f1de9d570828eeccfd) |
+| `0xC7414626B1315D9D1A8426eACDB0972F656C2EbB` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd75685fe72ffcba08c74886ccec721e176ead5ba71bb306eab641e364685476) |
+| `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c5bc9cb9fbc0877367fb7ec2d778ea1e97b0be2b85058f71c090816dcf1274f) |
+| `0xcB7ea5740283cbB040Adf6FD1D7d465400B5984f` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x962dd833fc9df2636931896af7c3c1be87cf6d4d77d09dbcffca40f947ed2aaa) |
+| `0xCBE5368959Df6234B1f2C6A7De7b86067Ae8AC1C` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd328cba5c88070133b961f524b434fe409847271f942df73099d18096454fe4e) |
+| `0xd27c3A77051E9698d58BEa401DfD601dcCF55710` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe31ea23a46bbd376d43c5b79b0dd718d80a7c2656c38b9f378f73b8d78c3b7ee) |
+| `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0x68abb46dd37c49763b77502f389acdc2bda4de4dc3926556fd6bc282652c030a) |
+| `0xD7f2e56732AB4373054d9508f89c20753fb98093` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb9150674b48acc4b8677ac0929c7e9ebdd8b257b022e850d0ac5c72da5ab3807) |
+| `0xd99e3a5dEE94f0A6D561a24dC3085651D2a15A3E` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb42be71dc9ed7c299cf3904c4c7951b3a437492942a5240e184c010235643310) |
+| `0xdB7323E3aCA53DE0bF67875d06dfe453d6cfAe5f` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0936e40f59d9c9d8ad65832ce0ea67242fdc5509db34177192c0dff6b25d861a) |
+| `0xDBfd38628e4EB135330ED212c9E29f4b5CC25976` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b51eaad1279ca180a99151c43f18d29e17e30e7f22001f6d4dea8152323d076) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb12718d1a7f0254159533777a6f337887fa47c7939e588d04233e4ded53255b5) |
+| `0xdcb22FE8A98D988bCfaae7Bac52f4d6050bbfC69` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffd3b982148bfce1f5dc373f092883bddb065cd51f4272522f24a1ed55b115a2) |
+| `0xdD60739D1470Be71F4A7Fc6743c7E5A2f26fC676` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc01244f739b87b6457c05efb3229580bb68f2be5c8de4abc6de4ea29eb71822) |
+| `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x14f4ecda7a7d5d17bf4710caa216ca691ac081792578243ff5131605f8127467) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8d7883fc2d29a94a63a8be9070e5258e925abb5c5f3f56525282747284dcc67) |
+| `0xE1d8D257F5Ebd75e2d64b88Ea6A62Ff425b56a79` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8daafc8fe560497ed8927eab513934fc4b94d30c1ccb20e111fd2c086568aa02) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecb260e69573da3da2641513f407584a280e3e1ac11f716560de49c8eb9ce9f6) |
+| `0xE48Ea05b471e4B532da903cF6A3fe42FAf9d4894` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7a564fb4ef4978096a5da31464198fbcbf9da9677bf7947c7ba3b312731446a) |
+| `0xE6286D932D04e1987754c31282F7Fe0C188beef9` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28341fdb7199e0c42c1c4687cb439e7071bcf77f091e2a46f84ee9e26c4916ff) |
+| `0xe85A00F5492756c0c9B62aD8E14dEc78B6f0660F` | Hero Geek #2 | 2 | [Polygonscan](https://polygonscan.com/tx/0x4474351b565478fd5729b933d08fc78dd709f44e9aafec429a995511d9606c87) |
+| `0xEcc4613324659177AE0F3c9e38e8Ad34BD7f0C37` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa0f9b33ae61b4b4b58160c949f73e2eaac63bbcceca3deeecbeeb6f1b13883c5) |
+| `0xf4F35d84941B57B98F5493a82b09BFef560A2FEc` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e74e6fd27233c45aba8ea0bbe97f2409ea492bf2846929a9f94d95a88029005) |
+| `0xf5822116dD8fa87B56eb93500429f3dc27b8F610` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ed5b5f34f09747e814defc98da83589ff1457fb5e9f61662a5f17bbe40e8541) |
+| `0xf8A250E4927821aF8B339B54C7bC0BcA24fD24AC` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e6ba2398662e971db1f1465dbb3ddb8bd9f6b4755104321c414671325115942) |
+| `0xfECfe732d766A0E0aAA5c58AcD00681132171f0B` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0x783c11b2fad14df5daad7ee7d4a117827f26b1dd17026a9d41c487387dc30561) |
+| `0xFed7d8236bfA62A5AadCA195f5750349e25c1303` | Hero Geek #2 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd310a7f10ef4941db964ceb24df8c055d7b74127d2dd779c087198a928468b3) |

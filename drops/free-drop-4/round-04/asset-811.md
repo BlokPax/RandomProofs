@@ -1,0 +1,390 @@
+# [Elimination Proof](./readme.md) / Venusaur &#039;99 PSA 3
+
+|||
+|---|---|
+| **Drop** | Free Drop 4 |
+| **Round** | 4 |
+| **Started** | February 2, 2022 10:00 AM EST |
+| **Completed** | February 2, 2022 10:19 AM EST |
+| **Tokens remaining before round** | 7,680 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,840 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | Venusaur &#039;99 PSA 3 |
+| **Internal ID** | 811 |
+| **On-chain ID** | 211 |
+| **Image** | <img src="https://tcdn.blokpax.com/957181fa-d3f2-4521-b43b-4a83ce567524/b07c2c0979f7e6a45abdfa6e38d310ed7b660b11b118e9878ed41f27f7d095ec.jpg" height="200" alt="Venusaur &#039;99 PSA 3" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | **UNOWNED** |
+| 💀 | `1` | **UNOWNED** |
+| 💀 | `2` | **UNOWNED** |
+| 💀 | `3` | **UNOWNED** |
+| 💀 | `4` | **UNOWNED** |
+| 💀 | `5` | **UNOWNED** |
+| 💀 | `6` | **UNOWNED** |
+| 💀 | `7` | **UNOWNED** |
+| 💀 | `8` | **UNOWNED** |
+| 💀 | `9` | **UNOWNED** |
+| 💀 | `10` | **UNOWNED** |
+| 💀 | `11` | **UNOWNED** |
+| 💀 | `12` | **UNOWNED** |
+| 💀 | `13` | **UNOWNED** |
+|  | `14` | `0x1e4b125EB673F5A997346Cb2CA4122140D76A474` |
+| 💀 | `15` | `0xFc9dAc6d9fe69Ca81c3E0E868E86F732E3c1E397` |
+|  | `16` | `0x9Bc743169D503cCCa6767dEbD7840f03B6323dA3` |
+| 💀 | `17` | `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` |
+|  | `18` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+| 💀 | `19` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `20` | `0x30401B9684F5A7391D97433Bacd5550226a992AE` |
+| 💀 | `21` | `0x2a2cD02f6ded67D7b396C67CF31321ac30f86EED` |
+|  | `22` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `23` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+|  | `24` | `0x1424c1Db5Fe6681b788B29d135C47a90CeeD526E` |
+| 💀 | `25` | `0xC4672eE68f715eF983E119D560371CB1014F2960` |
+|  | `26` | `0xd27A1Bf5168d6991f54641e574c94537aC762E41` |
+| 💀 | `27` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `28` | `0xA06A66d8230feF52B815aFF621F8e9F041d37349` |
+| 💀 | `29` | `0xDE84561D47c6f2daB13887cC579ff35F9791A096` |
+|  | `30` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `31` | `0x55720123D8ED2079D99B183ef093B9d297be6048` |
+|  | `32` | `0x772e46c3F273f39A64D15365D52225F414e34b22` |
+| 💀 | `33` | `0xCcadA0b3DD7AF9D0384E79f3Ba508395620Ba167` |
+|  | `34` | `0xa1F87794045c742004286AFb484C93f7D57A92Ec` |
+| 💀 | `35` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `36` | `0x9a297967A5B1BFEB3819f61B2d76A2428b80BD62` |
+| 💀 | `37` | `0xfECfe732d766A0E0aAA5c58AcD00681132171f0B` |
+|  | `38` | `0xBE0161C90f48cf4acFF65e5DdaafbF9d8c372547` |
+| 💀 | `39` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `40` | `0xC577BF5Dd1b3075ae36dA501992619663595eDE0` |
+| 💀 | `41` | `0xD1DA798C2895058d988356C58df5EfA4C0710747` |
+|  | `42` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+| 💀 | `43` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `44` | `0xbaB15dC79F464bcB1947c768A89e788ad0bD3547` |
+| 💀 | `45` | `0xe5423A1b53E921F1A4E017B55131E9C9DDeE534D` |
+|  | `46` | `0x5E2E03Ab520d9975949F3Cd299c26638858267Bf` |
+| 💀 | `47` | `0x9Bc743169D503cCCa6767dEbD7840f03B6323dA3` |
+|  | `48` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `49` | `0xdE02aad69E71593AB95D6389195a2eED037872D5` |
+|  | `50` | `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` |
+| 💀 | `51` | `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` |
+|  | `52` | `0x950bFB1DEC44b9d186D2678723cac5D834e2E441` |
+| 💀 | `53` | `0x0576fEB0a20Cf5879249bc62E812B7398A016B4c` |
+|  | `54` | `0x47A94e4774C6B5f15a9893BaBCdC0307CFe94c2b` |
+| 💀 | `55` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `56` | `0xfD7FB52D82c60a570b194499795347f1E9643973` |
+| 💀 | `57` | `0x3d78Ad054f242ecB7fF1141A647C2E5791857f87` |
+|  | `58` | `0xD14aD0EEe955bf4f0790600595C5A0ceD9e8312B` |
+| 💀 | `59` | `0x5E3Bb9ffa698aE15672b03F38e8E562104b86755` |
+|  | `60` | `0xbF5434118630208825eed8E3B5E009d721aAf39C` |
+| 💀 | `61` | `0xDEf97AB83Bdd4Ad988E354d47dA072b704d9818d` |
+|  | `62` | `0xD1DA798C2895058d988356C58df5EfA4C0710747` |
+| 💀 | `63` | `0xf44409B81437E8c5443C17b0b5ab2b04944B4a31` |
+|  | `64` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+| 💀 | `65` | `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` |
+|  | `66` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `67` | `0x14ad1c68803c288d482ff620c9E1865224A81E62` |
+|  | `68` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `69` | `0xE1A413639f476334Af1Bda8c9a4673041855B4E3` |
+|  | `70` | `0xF42d9e603140726f3250506aa40447b45792a3B2` |
+| 💀 | `71` | `0x4AB4b9D8C0cb8647D56166c213c3dEA8c6BFC2A0` |
+|  | `72` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `73` | `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` |
+|  | `74` | `0xf19fbA9A9C7469BDba7A00929382b8f328DdD1e7` |
+| 💀 | `75` | `0x0765241F5bBDAb6B13C17F260F53D3853BfCD3b4` |
+|  | `76` | `0x8Be80472DdA2335066d0250562C85c02B9896404` |
+| 💀 | `77` | `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` |
+|  | `78` | `0x02f00623C415e19a5C455F084790214b5BAF1c75` |
+| 💀 | `79` | `0xBf939009Aa369eF8163dFF676F7240CdE7dC260C` |
+|  | `80` | `0x643a5cD8d1619290DCB27bA070Bc8E93A85FF9b8` |
+| 💀 | `81` | `0xeF1Ed4C1396Bbf8d13C9CA896eB2935ba31F0a1b` |
+|  | `82` | `0x98f1Ac0F61e5726F278193926F94982346E40F8B` |
+| 💀 | `83` | `0x3eDa6F8C0D2B746B91b955c4C61fe02C10881912` |
+|  | `84` | `0x41A3B54a98f123D2364e46D5c7BafCbD5445EF8F` |
+| 💀 | `85` | `0x504Ec3777FE65Ae61212b4760D2AA7b29794aB92` |
+|  | `86` | `0xb8D3C0309A5D8a5f0E2780f03980d9f3531f8bE1` |
+| 💀 | `87` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `88` | `0xa93B0DA95FA8624bc71D18376f163E26e22dbC53` |
+| 💀 | `89` | `0x41A3B54a98f123D2364e46D5c7BafCbD5445EF8F` |
+|  | `90` | `0x36eF6472c9C6AbEA784Ea257A82c39821F6FB7ac` |
+| 💀 | `91` | `0x87eD780f96576D10C2A678782E95485045CC8623` |
+|  | `92` | `0xBEaB4754596fb55cBA53B54a3d2037fB50a41fAD` |
+| 💀 | `93` | `0xC3AE4D28C204Fb07B80CDd8b2D9aDA361D82992B` |
+|  | `94` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `95` | `0x8e7089D5aC79945646159ee91906bbECf1253BF0` |
+|  | `96` | `0x15c891204A39e7ef53D4b30610A7eEfe589C369E` |
+| 💀 | `97` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `98` | `0xaF72F660B152C1Fd7fA4aD99103044CF10Ae650A` |
+| 💀 | `99` | `0x65E28326a02A8252fB4841e724878cbE61fe4186` |
+|  | `100` | `0x57ecbB91dE37750DD72036297f89Ec2f726f3EDd` |
+| 💀 | `101` | `0x8C2E41e1D51e1A18639925432edD50f3531bA772` |
+|  | `102` | `0xE17e038559580f0ac673321D07471af5acb94eF2` |
+| 💀 | `103` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `104` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `105` | `0x02F11Fe7A88805f3afbE76F28D0Ee7B090d4E99B` |
+|  | `106` | `0xeCa5D0b717FbC513802Bc809b2F4192EEC1821c6` |
+| 💀 | `107` | `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` |
+|  | `108` | `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` |
+| 💀 | `109` | `0x099af829f6f67a7e43b946E309197DE23bEc9230` |
+|  | `110` | `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` |
+| 💀 | `111` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `112` | `0xF1A5F4ac3f73a94C60612AfAE3fB2FC1636be4Ea` |
+| 💀 | `113` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+|  | `114` | `0xAeCa7B87eE9577d436B77Fa22c665E4dC9d738A1` |
+| 💀 | `115` | `0xEfD654e738e398c1a12476093C55Fac6959189c4` |
+|  | `116` | `0x310E10C61Ef660A21d841C91CECE579f91329E11` |
+| 💀 | `117` | `0x56F5E9a2e12BAF719E5890C5A6217bF3542ee7FE` |
+|  | `118` | `0x8087F8217aEaCb03306DD4a9Bc06bECE6D92Aa67` |
+| 💀 | `119` | `0xce3026CD1960E0182C59f4Ab0156F8c49a23C834` |
+|  | `120` | `0x248BAd83E86bd0Ea007bF7926DbBB9D265759931` |
+| 💀 | `121` | `0xD99F9B8E047750D0C717Da7DcA13d254747ED8A6` |
+|  | `122` | `0x2427eb69f4d8d924f73dDD6f8F67a4264C68824E` |
+| 💀 | `123` | `0xf02870466B35F1b828f7D45bB179ea0F912210B8` |
+|  | `124` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `125` | `0xBf939009Aa369eF8163dFF676F7240CdE7dC260C` |
+|  | `126` | `0x520d49EE807533eD1756958eA9312a07010081b8` |
+| 💀 | `127` | `0x5F4a5d9D99916E00D40aA33f21B74317187D1756` |
+|  | `128` | `0x8e7089D5aC79945646159ee91906bbECf1253BF0` |
+| 💀 | `129` | `0xA4Ff89873D382e10515109657cE036Bad292fD3c` |
+|  | `130` | `0x3dF489492B9067225a16280AA3B376357E2B24cF` |
+| 💀 | `131` | `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` |
+|  | `132` | `0x59E861F18423Ec83d213F3E779ebB278B10296CF` |
+| 💀 | `133` | `0xb25AF8e9a3Cbb835DDE881Ed613472f699c56aB9` |
+|  | `134` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `135` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `136` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `137` | `0xdF91D8B0c882941a713aa73C123236Ad9Cefd353` |
+|  | `138` | `0x2Cd1f020Bb107A254EeE3eb50b8cE0F4D63B3c6b` |
+| 💀 | `139` | `0xfa2ee4A43b5CEeD9d5c7C80A909eE462e4e64e08` |
+|  | `140` | `0x7ca586f8dEA3cD02D6593F28A400Fa6E35AD1A50` |
+| 💀 | `141` | `0x71E37987db37Cd9c182902490F0525E063949ede` |
+|  | `142` | `0xD34BE6cFF55008945694750f284D55b4B66Fdf4D` |
+| 💀 | `143` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+|  | `144` | `0xE7133349Df20c6c08e91E3265170ECbd55998027` |
+| 💀 | `145` | `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` |
+|  | `146` | `0xD0ec0DaD9a08C75a4B02259b86fCb98d5D69bA3a` |
+| 💀 | `147` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+|  | `148` | `0x82828a576cE5fDd08Ce0465b52cA4449E6381476` |
+| 💀 | `149` | `0xa70191Dc169E75890B70fAfB3725F7840f12A699` |
+|  | `150` | `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` |
+| 💀 | `151` | `0x2EE067b4556D7dAc74979a6D4B382B173d78EAf2` |
+|  | `152` | `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` |
+| 💀 | `153` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+|  | `154` | `0x62C1b5613915C73C608a222B9bd1606F26754407` |
+| 💀 | `155` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+|  | `156` | `0xB30d9cC409Cf5F33e43C2c7bb2e7204A21318484` |
+| 💀 | `157` | `0x127Fa79f28a454633577134aE98405e2C3490699` |
+|  | `158` | `0x429AF9695a3936E2F22D05694775d12237f2723a` |
+| 💀 | `159` | `0x05c2Ec15242CceeAeeCf7d78bd2985531E314849` |
+|  | `160` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+| 💀 | `161` | `0xa3B4aee56fE96b2E42E56039aa4cd2b0Ff343F00` |
+|  | `162` | `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` |
+| 💀 | `163` | `0x0D66ad3876bf3c618192F189a5930879a82b8dd7` |
+|  | `164` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `165` | `0x8948Be624A5d5a8346Be9D10F87C404cb734a3a1` |
+|  | `166` | `0x8Df27E9EdAa9F024c8eBa166D6d7dcA4D52a81dE` |
+| 💀 | `167` | `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` |
+|  | `168` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `169` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `170` | `0x45C2FFcf65758Cd57A0Ef4AcbAe35B350cC0Ad96` |
+| 💀 | `171` | `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` |
+|  | `172` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+| 💀 | `173` | `0x3ae5b095609F41Fa31b91bc3Aca98229D7C83eDd` |
+|  | `174` | `0x71ADDf4394EF4607314F076E00AfCC273D955aA5` |
+| 💀 | `175` | `0x7Dfe8a39D0A397FDFA28AF3088C9d31418C88547` |
+|  | `176` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `177` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `178` | `0x12b4b14F548b60B3e2F9cc67c8018eD0547f2524` |
+| 💀 | `179` | `0xdD400C20535Ace174C74eD0F4439d770B6569902` |
+|  | `180` | `0xcB1b7530E71DCEE30b637E8FD123A6FFbd240f75` |
+| 💀 | `181` | `0xE49adce2Fc301a882412A7a6c702f59324D9bB1D` |
+|  | `182` | `0xd0D300e6A77e1Eb78365018ABBC2Ca795AE064a2` |
+| 💀 | `183` | `0x62C1b5613915C73C608a222B9bd1606F26754407` |
+|  | `184` | `0x5E2E03Ab520d9975949F3Cd299c26638858267Bf` |
+| 💀 | `185` | `0x0deD693cD6c52379360Cca52173A6829c8fd1c49` |
+|  | `186` | `0x88f97B7A195856eE350e8718189fd62A53baFB31` |
+| 💀 | `187` | `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` |
+|  | `188` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+| 💀 | `189` | `0xcEc4A380377EF5416E379cEfFbf7BBb14408796c` |
+|  | `190` | `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` |
+| 💀 | `191` | `0x97b90243183B8FC9CA20E9892Cf6720dCbB29eC8` |
+|  | `192` | `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` |
+| 💀 | `193` | `0xd984D58b781296c06CC283E6e2032e1cbB58f5ca` |
+|  | `194` | `0xb9Bf0A871dbD2cB12848694220B1de477403bD0a` |
+| 💀 | `195` | `0x7B09226693B2c8C525d9A228B17FFCE684062Dc9` |
+|  | `196` | `0x5d8439e3Bd2b5c809E372153F0AcE95c9414Efa0` |
+| 💀 | `197` | `0x42194c295f52848A6876F9820BFc359900915501` |
+|  | `198` | `0xc1870Fba78A45a097c899A619fc51b8CE6dBFf5F` |
+| 💀 | `199` | `0x3ad1F6d9439a5428c95c3165002De532583d2b4f` |
+|  | `200` | `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` |
+| 💀 | `201` | `0xC60146CAd000375610F7048538b0fD0DdADdD78C` |
+|  | `202` | `0x161321Bb7D214073357ef7F04F07C7c12Aaa46EC` |
+| 💀 | `203` | `0x0D66ad3876bf3c618192F189a5930879a82b8dd7` |
+|  | `204` | `0xEAfC93B48d9e8947fDc30f05D5b9a0772B71fe6F` |
+| 💀 | `205` | `0xA7F35bbBD35104269dca184930415D3acFe350F5` |
+|  | `206` | `0x62C1b5613915C73C608a222B9bd1606F26754407` |
+| 💀 | `207` | `0xBA46059Cd2d43F23944ad213d26eCD3C4B560F05` |
+|  | `208` | `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` |
+| 💀 | `209` | `0xE8128507CB1DC59806E0FC43d7F3Edd692A82744` |
+|  | `210` | `0xC96F7040A36fe8B928cc337d32588968f081a613` |
+| 💀 | `211` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+|  | `212` | `0xBc7292A38899957EeB81ddF578272d4c8b7671B4` |
+| 💀 | `213` | `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` |
+|  | `214` | `0x44e64A1ad5d7959F64436797D13D5625fC95F0CF` |
+| 💀 | `215` | `0x85d5C3BfD2aFd89DE76da6444865611d97b912ef` |
+|  | `216` | `0xd8E13E9Ce7d7392803D318793478856899125D80` |
+| 💀 | `217` | `0xEe5d5F895494b472402A52Bdc2481A6c5D027B9C` |
+|  | `218` | `0x43b2948ddb95c13D8D8fD8854E9db28Bd448cC1A` |
+| 💀 | `219` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `220` | `0x1ed7664F2326Dc87f8f06Bb5d587Be2fBE37261E` |
+| 💀 | `221` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `222` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `223` | `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` |
+|  | `224` | `0x8e7089D5aC79945646159ee91906bbECf1253BF0` |
+| 💀 | `225` | `0xdcb22FE8A98D988bCfaae7Bac52f4d6050bbfC69` |
+|  | `226` | `0xF4320E9019eA981Da1B73728C4776ad5949458FC` |
+| 💀 | `227` | `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` |
+|  | `228` | `0x5635D87cc60DF64d14F5d46624e622b864876Abb` |
+| 💀 | `229` | `0x20DfeEd4bD0a027b31240a25Dd257E85A42bFFaf` |
+|  | `230` | `0x5012395c832803775fc8c44d102A1BD3f2Aaeb81` |
+| 💀 | `231` | `0x65eAA4B7b0177a42874341491A052E1F7bC410D8` |
+|  | `232` | `0x38Ef35f25a2597062dA4feFCE4a1633C15AD446E` |
+| 💀 | `233` | `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` |
+|  | `234` | `0xe44d9843c854516f371693c13C71cA57fCc9073A` |
+| 💀 | `235` | `0x35783187F5f51da14a1dE91F8c180E44d0C6922C` |
+|  | `236` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+| 💀 | `237` | `0xB2e96A6192876f04757985C4396520d9389617b6` |
+|  | `238` | `0x128504D0ca310905a78Dd8929999999281E471e7` |
+| 💀 | `239` | `0x23421ba1EfAcd112597ECdAdDE3034FF11Dbd167` |
+|  | `240` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+| 💀 | `241` | `0x3940fd487454c34399a5a3E1E43e481501CDEDE1` |
+|  | `242` | `0x407CaB23020c35A8FecdEE6D994D5ad245B8E7D4` |
+|  | `243` | `0x8A271DAD9e8aF0A8844561799ab0526F0379F180` |
+|  | `244` | `0x23838Ac25111f2fa3DeE98617307aC580569E87A` |
+|  | `245` | `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` |
+|  | `246` | `0x452C4014Cb53BF4Fd0423c4A09a61922c706C63a` |
+|  | `247` | `0x0Cbee0003bBCA8Db911712d1caC0984DbAa0d725` |
+|  | `248` | `0x5061DA66a4bF4D4a28273B83103da85b79395330` |
+|  | `249` | `0xC5c8996F3c44F48AC0bB66bCe0a0d404801Fdbf1` |
+|  | `250` | `0x133C5e571370F49661DB83B45aEB35B7bd879Aa5` |
+|  | `251` | `0x9fed0313d6634FD8915079CAbAD97C06e3694f7A` |
+|  | `252` | `0xD72ba05066dC199768752c74b1501b29497AAaae` |
+|  | `253` | `0x0765241F5bBDAb6B13C17F260F53D3853BfCD3b4` |
+|  | `254` | `0xA9D6Ee80f06d7f36C5454672Bc72bA290F8cb16d` |
+|  | `255` | `0x0576fEB0a20Cf5879249bc62E812B7398A016B4c` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46f1b3a231c217dc1c49650cadd92a08dee29708334eeeca2a9ceeabb4fdec68) |
+| `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x205ec6df06ea021b7caacb1dd6ace33d4e6bd9c9936ad37f321d268da950942d) |
+| `0x02F11Fe7A88805f3afbE76F28D0Ee7B090d4E99B` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08169535215c2be225043358a1edb5b64f68746754627f1938f3e9b5535742a4) |
+| `0x0576fEB0a20Cf5879249bc62E812B7398A016B4c` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55d1d04d4971375675ab56f9190fc7f109c99a960504ffdd171225eaaadad7ef) |
+| `0x05c2Ec15242CceeAeeCf7d78bd2985531E314849` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0176ddaa726ddde89fd13ad23f157dd0a1f490548f4ec419349b9a2d34f83ce) |
+| `0x0765241F5bBDAb6B13C17F260F53D3853BfCD3b4` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddd368fb124e09cb778cea051c021f24144aa563d6236ca3093dc9d04fb60855) |
+| `0x099af829f6f67a7e43b946E309197DE23bEc9230` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ddfb3bdbc2ccf13b3d6af2180176cc2a76aaf954c3cfadba01068f0479d67de) |
+| `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` | Venusaur '99 PSA 3 | 5 | [Polygonscan](https://polygonscan.com/tx/0x34121895187fb7c8b721fdff847c2c3b21ec3c1f35b8485723afa5ecd8050512) |
+| `0x0D66ad3876bf3c618192F189a5930879a82b8dd7` | Venusaur '99 PSA 3 | 2 | [Polygonscan](https://polygonscan.com/tx/0x11b6b8ba10a390f90e9c14ac51cdceb086d39729879501b623a3056724ee3e30) |
+| `0x0D953144C06Abc57823669F08c3Bd9b3793bCDa2` | Venusaur '99 PSA 3 | 2 | [Polygonscan](https://polygonscan.com/tx/0x88cee8175a5525a1421a876c7520142f80eaead522006cd216e16b1960ad1e32) |
+| `0x0deD693cD6c52379360Cca52173A6829c8fd1c49` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26e855158d9e459a9a27ec9fa334d346501c68433c7de3fb1ded6872081a1c90) |
+| `0x127Fa79f28a454633577134aE98405e2C3490699` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x287313249758db256836c0abb2630fbb227535bdfb6159b9b1f682368990ecac) |
+| `0x14ad1c68803c288d482ff620c9E1865224A81E62` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xee3450d6a398df8aff042f2010bcda8356262dfaf534941bdf4a3921859de1af) |
+| `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dcc10e95475e61b84b850cb6132669977c861c504ad18abe273ce75328f0e30) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb1e1fa1faa2f07c3faa82c75de01c1712a26c86937f455d822b5bd5cc19cff8) |
+| `0x1B924f17Eb53e14f23Fd247225f4D155aD8efF9f` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a52498e2358c58009f0bb8f5e365b8110a0699fa230c4172998ee1ccbe27924) |
+| `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x739acc3b1fb848bbba9d38aceb343d0056371aea9673d74d52177e0fcc6fb011) |
+| `0x20DfeEd4bD0a027b31240a25Dd257E85A42bFFaf` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xac98824f7f772d2102e634c7eeb2cf12c541319e1e26fc72ef545d0633daedd0) |
+| `0x23421ba1EfAcd112597ECdAdDE3034FF11Dbd167` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3f99a439a7f42327d19da99a5b7e6abe755c3b1e180ad18755585ac926643bc9) |
+| `0x2a2cD02f6ded67D7b396C67CF31321ac30f86EED` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x97b14ce4b3a611fd6a7945d24dffa9646050c213c12c63779690785a4e40127d) |
+| `0x2EE067b4556D7dAc74979a6D4B382B173d78EAf2` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe03aab0e11a93a3efa1f25fb36c0973b1385ce28d1a0fdb5f934230c13f58266) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaae304fdb0551510bf641af0f66a01eeebeab4d1015caec7adc9ad5b28cad97d) |
+| `0x35783187F5f51da14a1dE91F8c180E44d0C6922C` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3c71a3dc2f3dc7ceef7cceba838949a9412805915f69c0a7540e87151844b22) |
+| `0x3940fd487454c34399a5a3E1E43e481501CDEDE1` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ae5d07df4990542d2b61f62ae147695d7c29340b95dd95e728364f3af89d032) |
+| `0x3ad1F6d9439a5428c95c3165002De532583d2b4f` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x06707e3f1088a856482bdc43c4c9c45d46882151c2da1eae91605df1e75b5c34) |
+| `0x3ae5b095609F41Fa31b91bc3Aca98229D7C83eDd` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d07ba89ad61480433e62f3d79d2dc23c4cbf7fb670b84354f5a83639d7603a3) |
+| `0x3d78Ad054f242ecB7fF1141A647C2E5791857f87` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58ae4c74c8612d61f61ce1dc6f8ae0166e4ae6fdde3dbb389c3ebcbbd4b07f38) |
+| `0x3D9165494158Ed12bDd5C132c544fBbAC7D57220` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf228ea3c9be0ddba8c4ed8c952c1fe75db882bdf15e87f33998a3bdae94f7630) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0022fd8fb418303dea5165f17e58951eb0bf3fc95f9f599342d8028acc1b62ce) |
+| `0x3eb18D25b531691920ca3deA7593AC14f5942257` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8ba967876363d12e2947932322147e8d17d671ecc1a1a3a466f735a3b8866e97) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x707f60856920698e79ef3ae22b239a4c3751e5664fec9c26987b8f93d097b08c) |
+| `0x3eDa6F8C0D2B746B91b955c4C61fe02C10881912` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x41b60445d71fd07cf0940bf920f70e6e2cb28dccf7d04a893089ca195f9e53ca) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0327170891e54b9fd4e067e1ede92fe97edf7bf0a88e67b7f0051f68bae11259) |
+| `0x41A3B54a98f123D2364e46D5c7BafCbD5445EF8F` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5579e20f2f124c38ee7e8754efce62c4d557b2efded07a235aa89b330517b4a) |
+| `0x42194c295f52848A6876F9820BFc359900915501` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9cb41f12d6170035f165a55f1c26ea40dbe71793a00924c3c0e5388e09df94c7) |
+| `0x4AB4b9D8C0cb8647D56166c213c3dEA8c6BFC2A0` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe52b1694823b52bc38f419c115e2c984aaf4f8f86fac497e1d889796d13f1a2f) |
+| `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46adbc39ea46fe14856c89a7cf96b3f7dba0ddbef55f639257b34b1e8f265dcf) |
+| `0x504Ec3777FE65Ae61212b4760D2AA7b29794aB92` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdef046aa669495166bcd7a6ed95d557fd5188e5e0e65c24ba01aa57f803e5ca1) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdfffda1df68374fa80c16b2ddfb65f2716626f1c4253992485d4d7513defe670) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8bc160fd88f64f07f1ec1cddb374c9e4942d0732615991d161905acb9dbbfeb4) |
+| `0x56F5E9a2e12BAF719E5890C5A6217bF3542ee7FE` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9af463013b44f3cf83878ff39845ea77c2710175d294f2d97aff84c685fbf6e7) |
+| `0x5E3Bb9ffa698aE15672b03F38e8E562104b86755` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x419e44778f7ff9f97dbff85241585de2704d75ddad2b9458df609800bea1a7c6) |
+| `0x5F4a5d9D99916E00D40aA33f21B74317187D1756` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a44017b7ebab8f96075f495c5204d0e181464a37860a83daa7a7ee82cd4a740) |
+| `0x62C1b5613915C73C608a222B9bd1606F26754407` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x322821b68594eb9f584e6421f2db73a13a30511e1a8c11acf6c647907a3ee9c9) |
+| `0x6488625bFFF22128CCD2C169cfb818fdBf4DBD9f` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd82539a4aa5dd144e4f8ad68c74ed322c43db505a11b987ae0aba3f92424809d) |
+| `0x65E28326a02A8252fB4841e724878cbE61fe4186` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd739dbd5eb593268aaead0a03fb05749620cc2c43ce06239a5890d7b4d3d18a) |
+| `0x65eAA4B7b0177a42874341491A052E1F7bC410D8` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd12013970ca95fd45fa6bfa26affc5c679efa5f7dcb4b529e7cbe2d5b7efc049) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6a4175215a4b37bc31619c8749d3194ae41419fa74aa31739829b46a83cded3) |
+| `0x71E37987db37Cd9c182902490F0525E063949ede` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5185617ffd7782636590dfc3287c71252440239644259561c73c01ea5ba0f722) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | Venusaur '99 PSA 3 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6a4167bb98464e03e0865e17ed51e4c54d9c467339a3146d37fb1e46aa9093a4) |
+| `0x7B09226693B2c8C525d9A228B17FFCE684062Dc9` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x223b62d9cd915bcd457bec7060f88b7531d36dc148fe1d7c84cfb91d4c60e6ad) |
+| `0x7Dfe8a39D0A397FDFA28AF3088C9d31418C88547` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x822c94ba6ff0291c440abbcf034f6a2afc0bb66adb279a55c67f75057c721dd9) |
+| `0x85d5C3BfD2aFd89DE76da6444865611d97b912ef` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfed4ff892a425be759c4f5bf48ecfdf9aa6db49b9c37ba0ff070166505058655) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95640f06e5cc7863e3ee7cd3082866ccc99dee391dbe609719b52bcbe43bbccb) |
+| `0x87eD780f96576D10C2A678782E95485045CC8623` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x429caa305e3d7edacb9226111736072c2f299fa6cb8f655feb37f0b86303ce00) |
+| `0x8948Be624A5d5a8346Be9D10F87C404cb734a3a1` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95a790d37ac7dce668e50f687ca4b1039a346beb0cdf902f698cd44980fc1c57) |
+| `0x8C2E41e1D51e1A18639925432edD50f3531bA772` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc6790ba615677e4aee1f63bafde643f26a44bc68594d990838e211a707f5aeb4) |
+| `0x8e7089D5aC79945646159ee91906bbECf1253BF0` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x63c862720477481db8b684068fd825e06764a0adf192e9e516e0aba47409faae) |
+| `0x97b90243183B8FC9CA20E9892Cf6720dCbB29eC8` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4aa54c62dece97ca620e89bb2da336449001de8feac88fe2f34ca2ba3082b577) |
+| `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd7c59ba3be0aa74feaa295bce5e9c25e6ca9e94bde78d0d332e1b379f72dfc3) |
+| `0x9B9938AA67f4FcDe0D053D86c67C2Fb3a3c2B99C` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72b99bbcac97732776b148e90839ce700a76070b93e320786599b148f16e2ff6) |
+| `0x9Bc743169D503cCCa6767dEbD7840f03B6323dA3` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f209b6262403ca61677f75faf6e1b8860770b8ace03de5e107a82ffe7454f35) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa590274e7618608dafa9c508583fc0ce8f1b341bf0304db1e53a78f9680e5463) |
+| `0xa3B4aee56fE96b2E42E56039aa4cd2b0Ff343F00` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd5c383874d5bf2c7667f1639033eaf16cf3d3afbc1738b21a2a52551ee21947f) |
+| `0xA4Ff89873D382e10515109657cE036Bad292fD3c` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b51f99010dcb442424a9b8fada7882b0bdc82205149708dfb60332849167b45) |
+| `0xa70191Dc169E75890B70fAfB3725F7840f12A699` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x816eca8cdff4f950ea63cbc18610c8993cea65d0b661206eda4251840148efbe) |
+| `0xA7F35bbBD35104269dca184930415D3acFe350F5` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x212d14a1a97d8fe7b93091de6c0529bc7d7f17559860447fc47b62a6f2bae3f9) |
+| `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x229409de73ace3ecb9205f285e5e85e034953814b14eda3dc365eec15c100ed4) |
+| `0xb25AF8e9a3Cbb835DDE881Ed613472f699c56aB9` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c2fd1337a9af6baaeb7c106cc5c7285ad9cac7093d835cab24b57eb92ff4e2d) |
+| `0xB2e96A6192876f04757985C4396520d9389617b6` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2790c0a817c1e4eeb1ade6652eeb08a1211d3ca531fbdd1a3ce7b08060fd0eb0) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x483cdcac7e63f63ef7e4f1f60cd930bb4db937786fc82ba56d9a036e8ed7accd) |
+| `0xBA46059Cd2d43F23944ad213d26eCD3C4B560F05` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x94d6769affd753c34ad5f64bf67a8c7bfd497f8827e7cc638e390cdbd7fe5687) |
+| `0xBf939009Aa369eF8163dFF676F7240CdE7dC260C` | Venusaur '99 PSA 3 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6b033f150f85e6bfcd845e7576382bfbaa15a03bbc6a40d18df80ad60e7e4557) |
+| `0xc2199657E16AdCE8941F92Bf1BD545BB944F54D1` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b2e269c323fb4545194bff27af10c38ea8553a71c616f326cfb68d88885c7c3) |
+| `0xC3AE4D28C204Fb07B80CDd8b2D9aDA361D82992B` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30f7eab47154b80e8ad950d9266d11b85fdb2acf3962818db4cea84997d386a0) |
+| `0xC4672eE68f715eF983E119D560371CB1014F2960` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc9d6f836bd10c81538f528ff19bf2c8b93c66673e8095384f01be61d9c0db82b) |
+| `0xC60146CAd000375610F7048538b0fD0DdADdD78C` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a8346163ab9b7d41cd4e83cee8547c6442e8599c17ff2f0f5dcd2af2da05191) |
+| `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x773c5434575f60a98e67122035feb486da790d2bcba25a45bb855356d00d951f) |
+| `0xCcadA0b3DD7AF9D0384E79f3Ba508395620Ba167` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x349b520dbc62e82efe16fc25ee4fa6f12b6cbc35c656c85af68dafe7675f31cd) |
+| `0xce3026CD1960E0182C59f4Ab0156F8c49a23C834` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x54c4601aff696730f4e3126e454a4f8e5ff04a73dd517ff92f7e543fe19df5da) |
+| `0xcEc4A380377EF5416E379cEfFbf7BBb14408796c` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc93a3176cde16cf408ce4336fae320ebd43359e5eac150d243a6b6c29a7780f7) |
+| `0xD1DA798C2895058d988356C58df5EfA4C0710747` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4f7eed575772907484cf7900111c07010cb87c534c805ad664d7f78573ff78e0) |
+| `0xd984D58b781296c06CC283E6e2032e1cbB58f5ca` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1f267d18a975335a60e6108ce29a2a6afc21a0efc91095fd98f0f71583317282) |
+| `0xD99F9B8E047750D0C717Da7DcA13d254747ED8A6` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5eff864c258a3859af6a44d23c5e73e2f99e6e48269d3edaa4423cbeebf454c0) |
+| `0xdcb22FE8A98D988bCfaae7Bac52f4d6050bbfC69` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x01c0d4937b86949ad2edcbe6df8bf0d7b6af9f53f615f39601d5745ecb4a0aa9) |
+| `0xdD400C20535Ace174C74eD0F4439d770B6569902` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30b7f65cd029322c1f8b84d2764f40ce1f74e581a3589ebd4af70f2e196e4272) |
+| `0xdE02aad69E71593AB95D6389195a2eED037872D5` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6eaa35a5a2ec3a68461fff9e9961628cc31a01712e92d4498556ecda8a379b5b) |
+| `0xDE84561D47c6f2daB13887cC579ff35F9791A096` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ead6ff2306f868b4ebc1d96c63149f6024437e5b588e894322a111c72b47d93) |
+| `0xDEf97AB83Bdd4Ad988E354d47dA072b704d9818d` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2be3292a018e69095e6e31ba799af96ab2564c722209317a56ba9a7481b60663) |
+| `0xdF91D8B0c882941a713aa73C123236Ad9Cefd353` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ed018d57d39ee2494e77b0872ead4c308abc9c418aa2d71a920b7eeb38f1e03) |
+| `0xE1A413639f476334Af1Bda8c9a4673041855B4E3` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6131dbe98962eecc545e847a9e1d1a0c3a2ef275810d07c494e3d6f14ed6bb1) |
+| `0xE49adce2Fc301a882412A7a6c702f59324D9bB1D` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc1d5c2ca544131ed4005dc5370009a2be73fe78a4e7e50817c4584d685a55b54) |
+| `0xe5423A1b53E921F1A4E017B55131E9C9DDeE534D` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4899121a890bfd0c7b450c7632354f6e85ac586001bbd78754c27120b667c5a) |
+| `0xE8128507CB1DC59806E0FC43d7F3Edd692A82744` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb08079e58f4ff9b3d7aaec335cc80f5ffea192fbd9188e3b7482aaf96bfd9e7b) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa43818101b807695eee0826c8e054d120c7cb96445f41d199c4fcd8dddeb4ede) |
+| `0xEe5d5F895494b472402A52Bdc2481A6c5D027B9C` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x86c0b524766a48fe18890f3a94e7bd34af6b63123ff03ebba61c45c3ef37f09e) |
+| `0xeF1Ed4C1396Bbf8d13C9CA896eB2935ba31F0a1b` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3271c7ce4a1b90f637095ee888add037401d2b8bd43272f6956728e14e803652) |
+| `0xEfD654e738e398c1a12476093C55Fac6959189c4` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f209a7722782733d2812d5e7c5b0e1eade0d99239c38f5deb705513b56fc8c0) |
+| `0xf02870466B35F1b828f7D45bB179ea0F912210B8` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1a78a3e68e0818beb28543063a36fdacc8b1c23f5645f3110039db8451953cd) |
+| `0xf44409B81437E8c5443C17b0b5ab2b04944B4a31` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x84fb40598e98ee942ff7ee68a3a20efc97ad66cf6ac87de0883899c259082373) |
+| `0xf50Ac2425eEdc16eE2Fe37C7c3dC4a085A96Bf4A` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2eb334cc5276ce5c637d060b4366b656e6980818d2f1bcfd35feb9827433ada3) |
+| `0xF79Dbd7f85C2a35d0C83b589E6d67b8F7DD92824` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x501ba2db2b3c2bb012db50f254368b9cf4436b8522c1006194f106673f39de96) |
+| `0xfa2ee4A43b5CEeD9d5c7C80A909eE462e4e64e08` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ce4edcb2a8353d7d31aa67146144b5a3f35b6759e50d6fac861009516fafbf3) |
+| `0xFc9dAc6d9fe69Ca81c3E0E868E86F732E3c1E397` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x49bc68372da6a6b964edc9bd59d021e3d91ba87ce9ba40d37eed7507d2c72888) |
+| `0xFDeF46384620B1F0E13b2fEA0f55550159f0BD39` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6271d8138b5e38fc55839a9ee1f9dc36e729b0ce67a643fc5e8d9851631cea80) |
+| `0xfECfe732d766A0E0aAA5c58AcD00681132171f0B` | Venusaur '99 PSA 3 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c8a55897fc9cf8fa4c5bc51fa2facb2471f828809d58e4e23926150cbb3bc74) |

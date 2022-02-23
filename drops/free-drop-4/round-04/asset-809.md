@@ -1,0 +1,397 @@
+# [Elimination Proof](./readme.md) / H. Olajuwon &#039;92 PSA 10
+
+|||
+|---|---|
+| **Drop** | Free Drop 4 |
+| **Round** | 4 |
+| **Started** | February 2, 2022 10:00 AM EST |
+| **Completed** | February 2, 2022 10:19 AM EST |
+| **Tokens remaining before round** | 7,680 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,840 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | H. Olajuwon &#039;92 PSA 10 |
+| **Internal ID** | 809 |
+| **On-chain ID** | 191 |
+| **Image** | <img src="https://tcdn.blokpax.com/957181fa-d40c-488b-9404-5027bf46fa6c/a2cd9909ad83acbd98b1a94c2f58b2088e6071c32e978f50d8d5a384e8ce4bf7.jpg" height="200" alt="H. Olajuwon &#039;92 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | **UNOWNED** |
+| 💀 | `1` | **UNOWNED** |
+| 💀 | `2` | **UNOWNED** |
+| 💀 | `3` | `0xE6286D932D04e1987754c31282F7Fe0C188beef9` |
+|  | `4` | `0xF2A34C55C693CF0ca9Bb0c500E0D107e40d7B52D` |
+| 💀 | `5` | `0xDe4602aB833ea986531543d17772EC068cFaab96` |
+|  | `6` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `7` | `0xc6aa8B7c60e029DD1a5EeEa047651240e9ded30f` |
+|  | `8` | `0x793bc396DdE8C1b541b14cfCBCA381A54797385b` |
+| 💀 | `9` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `10` | `0x3eb18D25b531691920ca3deA7593AC14f5942257` |
+| 💀 | `11` | `0x5bfc9cE707D3D66e94cEe48A4460CfeE1dB70D7d` |
+|  | `12` | `0xbbeF6ebB2a650Ac6a4E76DBD2502bB48ba634e11` |
+| 💀 | `13` | `0x5D830F8B5fEf94a2661aD0cC44Feea8e6e2B0953` |
+|  | `14` | `0x3eDa6F8C0D2B746B91b955c4C61fe02C10881912` |
+| 💀 | `15` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+|  | `16` | `0xf8A250E4927821aF8B339B54C7bC0BcA24fD24AC` |
+| 💀 | `17` | `0x02F11Fe7A88805f3afbE76F28D0Ee7B090d4E99B` |
+|  | `18` | `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` |
+| 💀 | `19` | `0xd9bf1d37bb009783F6450e7d34E162D2EA9686Ec` |
+|  | `20` | `0xf9B46f7989A528104421E04E11d064E16b513a03` |
+| 💀 | `21` | `0x93C0377E8aCf7f1eF3f9ce7f516D6F8f13a7F30F` |
+|  | `22` | `0xd378CeA23357aa67B198a6df625C43f9C97B51e4` |
+| 💀 | `23` | `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` |
+|  | `24` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `25` | `0xeCa5D0b717FbC513802Bc809b2F4192EEC1821c6` |
+|  | `26` | `0x257f0C9C72e6C20617746ED0D3fa1E61B9BcB5A9` |
+| 💀 | `27` | `0x32fE2c38c11EadC164cfD9cd123eD36cA6Ce7A12` |
+|  | `28` | `0xc2BEDB8b4462322003C0D84DEab24a2269bAE474` |
+| 💀 | `29` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `30` | `0x782102D01e2465e8761e5526D61cd0Be4cfcFc42` |
+| 💀 | `31` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `32` | `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` |
+| 💀 | `33` | `0xd699c6331e1147e0D7211d171DC95fF86208015f` |
+|  | `34` | `0xA5043D0b68ecAd164Ee7EA1225B525a281d68F0D` |
+| 💀 | `35` | `0x643a5cD8d1619290DCB27bA070Bc8E93A85FF9b8` |
+|  | `36` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+| 💀 | `37` | `0x22bFEd5cdf85674eC85BC1D14729D62c9D0623d1` |
+|  | `38` | `0x836549132A57d93B1966105E30097076480658E6` |
+| 💀 | `39` | `0xd797000176455865AfF99245399D375e266a788E` |
+|  | `40` | `0x9D4C8010BD96b142eA258Ea2e6Cc5469BE555eAc` |
+| 💀 | `41` | `0xA06A66d8230feF52B815aFF621F8e9F041d37349` |
+|  | `42` | `0xB17FE2fAdE8A416678CE78C60A042b4a813E24Cc` |
+| 💀 | `43` | `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` |
+|  | `44` | `0x8d0fD1213011613C70923E8670aCBDf0A7900784` |
+| 💀 | `45` | `0xA6D0EbCAe12988683ccd581a99DC93f868A43085` |
+|  | `46` | `0xbEF3127B3f04805cA7Be920e2B168F50BF30dE10` |
+| 💀 | `47` | `0x0eD6aB327666bCEd8fdEDFE5BEd5D30C73d7B20e` |
+|  | `48` | `0x5fBccfbC090f0086bfdABF1B9919e8Ff7a5daA4F` |
+| 💀 | `49` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `50` | `0x41A3B54a98f123D2364e46D5c7BafCbD5445EF8F` |
+| 💀 | `51` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+|  | `52` | `0xD409B4dc6dd074ae6F5F65F264089A34dFC380d2` |
+| 💀 | `53` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `54` | `0xDe4602aB833ea986531543d17772EC068cFaab96` |
+| 💀 | `55` | `0x520d49EE807533eD1756958eA9312a07010081b8` |
+|  | `56` | `0xaF72F660B152C1Fd7fA4aD99103044CF10Ae650A` |
+| 💀 | `57` | `0x8580b505809ddd653970d113Aafc3519eE095c91` |
+|  | `58` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `59` | `0xc8c13e00F437B2B5Da380e323aBc9D42853B35cC` |
+|  | `60` | `0xc7F3EAeC5543cCe674c6383CffBE7366aC580ee6` |
+| 💀 | `61` | `0xF6d770E7230AC0fa161F3260BfF5a30967060F51` |
+|  | `62` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+| 💀 | `63` | `0x2BBa72d4EBEC554af255AeB46dF1AEd98eb5e8Be` |
+|  | `64` | `0x407CaB23020c35A8FecdEE6D994D5ad245B8E7D4` |
+| 💀 | `65` | `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` |
+|  | `66` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `67` | `0xF076a485313E8653C9e911141E8839db8Ce301Ed` |
+|  | `68` | `0x63740080d39aaCc676cb43E3c327F2BE59c9aC76` |
+| 💀 | `69` | `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` |
+|  | `70` | `0x163abD3A3bf80b23a43a05Bb5a90d3577e63fECb` |
+| 💀 | `71` | `0xf9E0a51BFeB558ED96562630B21A76dC2dCc52d5` |
+|  | `72` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `73` | `0xf9E0a51BFeB558ED96562630B21A76dC2dCc52d5` |
+|  | `74` | `0xe6e1b0fbC2AD4b6749dc1D9ca96a78fc22B0743d` |
+| 💀 | `75` | `0x2bd982675A76D6A5f7A92aEB373d6497b314bFFC` |
+|  | `76` | `0x28498993E4425e6BE06A25c756Fb8964d29295DE` |
+| 💀 | `77` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `78` | `0x906646c07054E94E353f32b4Cf977E1564CCeCCD` |
+| 💀 | `79` | `0x3A3749a566Eb6d8BcB598F403B09Fcd0235eBEEF` |
+|  | `80` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `81` | `0x2880D6feCc31d1386c313c3d5C9A644221724f23` |
+|  | `82` | `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` |
+| 💀 | `83` | `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` |
+|  | `84` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `85` | `0x78e87f0cC219E6557052B74EEdFd28963806f329` |
+|  | `86` | `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` |
+| 💀 | `87` | `0xaeDBAD9BB65c56861CE9B6528790281A92285118` |
+|  | `88` | `0xD3E126444F34AcBB7E50200ec0d7365183e6219C` |
+| 💀 | `89` | `0x68fAebCA9F5c4E55B60f90Dd481e81eC6b8Ed9F7` |
+|  | `90` | `0x8847A50B33C23d7A3A4b203963910A77008b8FB6` |
+| 💀 | `91` | `0xCBE5368959Df6234B1f2C6A7De7b86067Ae8AC1C` |
+|  | `92` | `0x615938018Cf8901e0a063a6B30f5121b3F048A72` |
+| 💀 | `93` | `0xdBEF425AEB796aa4c3e796B36AbB35E6BAc1536A` |
+|  | `94` | `0x7c8C109c2F9d7Bce9073EB8040B88EBb1A1cc649` |
+| 💀 | `95` | `0xF7F5280411b38bcdbce73592dBD2F83bbF915ABA` |
+|  | `96` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+| 💀 | `97` | `0x3eb9A437cC03f8D1B906f8741996a9cbAEA2d409` |
+|  | `98` | `0x81421dB492BB51FebE43bF1F4EcD796e52aC03B0` |
+| 💀 | `99` | `0xbd88f8c7B048D238D842BF418427eE91f7409a44` |
+|  | `100` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+| 💀 | `101` | `0x0deD693cD6c52379360Cca52173A6829c8fd1c49` |
+|  | `102` | `0x3ad1F6d9439a5428c95c3165002De532583d2b4f` |
+| 💀 | `103` | `0x57cfB347D1bF10ACC7A1E0340cf41E099AcCd716` |
+|  | `104` | `0x0BddEE21F6A077340B667bE8952de763dbeBC899` |
+| 💀 | `105` | `0xDb144bAE5f404C8f6c7F8797AaCEA19a7552Dc65` |
+|  | `106` | `0xAe86Fc86A1B1c06Dc68679f86A6D47246F891A77` |
+| 💀 | `107` | `0x70Ac7d839491D092f9c05A8757A3ec88E632Ce01` |
+|  | `108` | `0x6afF7684DcE8da0F0512fa7953cF4e12dFCaa384` |
+| 💀 | `109` | `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` |
+|  | `110` | `0x7076d68499f42246562Ef4E3C4b6E4E0Dc3Fd0E4` |
+| 💀 | `111` | `0xCcadA0b3DD7AF9D0384E79f3Ba508395620Ba167` |
+|  | `112` | `0xC136C21F5047D4a6CA2aB22D058e985669C4ABD4` |
+| 💀 | `113` | `0x436E56ecAA9578304BEEd6C80B29A0510DB66219` |
+|  | `114` | `0x23A17fD14CE3c135016A64555AAeBB2301998241` |
+| 💀 | `115` | `0xdA2edd7A62915767BA5b9482A714DB233013b4D3` |
+|  | `116` | `0xF1A5F4ac3f73a94C60612AfAE3fB2FC1636be4Ea` |
+| 💀 | `117` | `0x5D77138242534a08c07d34eFF158b8eE3393D075` |
+|  | `118` | `0x682Cad157D79d73Eb1D93d036B438d6F05084736` |
+| 💀 | `119` | `0xFabc1b50fDf4ba79E8225E5c776996DC478eF5ED` |
+|  | `120` | `0x59dd3BD6AdECdF8a988b602818A54C1Dc1cC4A97` |
+| 💀 | `121` | `0x22bFEd5cdf85674eC85BC1D14729D62c9D0623d1` |
+|  | `122` | `0x682Cad157D79d73Eb1D93d036B438d6F05084736` |
+| 💀 | `123` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `124` | `0x02481F182fd42b4AF66E083efCD8104072bC0C82` |
+| 💀 | `125` | `0xEcae71aa60eE8e8f3637DC91A821B119F43BCDB2` |
+|  | `126` | `0x436E56ecAA9578304BEEd6C80B29A0510DB66219` |
+| 💀 | `127` | `0x39c5fD2232DD4f017D06c4bd5e5c965CB21303CD` |
+|  | `128` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `129` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+|  | `130` | `0x62033f97B1B94283ed44D5c797dba70ad4B2359f` |
+| 💀 | `131` | `0x87eD780f96576D10C2A678782E95485045CC8623` |
+|  | `132` | `0xfbBF3C94bCce2BEeC3E48b6C21fD797eA505d0CD` |
+| 💀 | `133` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `134` | `0xb8a313c61e8C739e06A40Dd8DD48188820DD39Fd` |
+| 💀 | `135` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `136` | `0xc7CE056D67175c9044C4b2205162e92b9E4ABfb0` |
+| 💀 | `137` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `138` | `0x37741Ae1D1Fec3Ff7A4Cf4EDeAeF0A1e8dCFF015` |
+| 💀 | `139` | `0x0E3973fa100DDB8FA055D6322B1292Fc3f55FBB2` |
+|  | `140` | `0x74E57a7aBabb75B52F58957709d8333821706c7C` |
+| 💀 | `141` | `0x977db71313d539B9F87579Ee689b45575Af336d4` |
+|  | `142` | `0x2dadEc46E800FFf4C03A16337555c1B5723a32D4` |
+| 💀 | `143` | `0x1310Fc489d5966418A0196fC06690ec8E7079dcf` |
+|  | `144` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `145` | `0x73F877C2bE845faf12243B1b015a446776aCD557` |
+|  | `146` | `0x20DfeEd4bD0a027b31240a25Dd257E85A42bFFaf` |
+| 💀 | `147` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `148` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `149` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `150` | `0x380F41FD03a03D3ad288955558562c4B45F4a72A` |
+| 💀 | `151` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `152` | `0x5c1dfa6231687DeC783D234f65D153016F6203Fa` |
+| 💀 | `153` | `0x35d34778e064aDF44e96BdBCdd54df9DCD503a22` |
+|  | `154` | `0x2785b53b55Ff73e38800Bc9b29CA03869cb84F7d` |
+| 💀 | `155` | `0xf9E0a51BFeB558ED96562630B21A76dC2dCc52d5` |
+|  | `156` | `0x3F4A866D98ED0734D34fAC2bC5cd27652Bb3f5eD` |
+| 💀 | `157` | `0x9a631601AdaB55f708cAc19D40E864dF0C1d2c8A` |
+|  | `158` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `159` | `0xa41578F553CDe5a7dee1dcbD771744F6c5045bBC` |
+|  | `160` | `0x4AC23AD30C88f30Fa42A58eDBF4cc3806522D316` |
+| 💀 | `161` | `0xc50546981EbB808f092B6e0634100e8E664f5662` |
+|  | `162` | `0xB281E15F9eDc5ce46697FE7b4B9826Bc18B41DfB` |
+| 💀 | `163` | `0xC46eb85A3ad27B9E94929c9D55b6a5F9bd4608ba` |
+|  | `164` | `0x271443145fc0C2A502E5D89aD9D69048DC903f8a` |
+| 💀 | `165` | `0x2DdFd02d65Fb8D3A0593B3cbBCE5dD943073dbD8` |
+|  | `166` | `0x0D0b7d3F4accED1cE9025d11D868435e20EF6CA2` |
+| 💀 | `167` | `0x913147e522b53A438ED88DcDcc8Eb277C32F8fd3` |
+|  | `168` | `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` |
+| 💀 | `169` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+|  | `170` | `0x9e50BCfe389D514dF45951c26c24248c4B483c24` |
+| 💀 | `171` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+|  | `172` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `173` | `0x4487355D07198F46a3652675E6B13293eEcF6e9B` |
+|  | `174` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `175` | `0xFA27294d1C36d686825Ac1f0e52B34c0Be707C6C` |
+|  | `176` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `177` | `0xd4696EA395fFA58d7601Ef438cE65Ac468d639b1` |
+|  | `178` | `0x7378E1bA640218b962CB15c5481DC9C0cAc3f1D8` |
+| 💀 | `179` | `0x140e43A3a03697385Fb61b479Dad13D7f514b324` |
+|  | `180` | `0x1Be0003C37de07e1bDdDa82f00D037Fb6B6Ef1C8` |
+| 💀 | `181` | `0x2E9A1DF351688BbF7a51b9E7cbd05BdD342d8De0` |
+|  | `182` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `183` | `0x83D0A16Fc6C370b0b718e08Ef8613bCe209CA99f` |
+|  | `184` | `0xc01e0C8B8c4946116eb63CAD93F46Dcfd4033061` |
+| 💀 | `185` | `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` |
+|  | `186` | `0x466E5F1bBA6F04DA97afCb29EDB312A7f47C5269` |
+| 💀 | `187` | `0xc3f2CcB4D248eaA7C6DE41a9674daAB78067Fe86` |
+|  | `188` | `0xcec60e481C957D3eC2c73AFDF1f4F4A80F460B86` |
+| 💀 | `189` | `0x61E4D3a67Da08DDA9002B78DCE81E1E31D4e5191` |
+|  | `190` | `0x1580583bbd3A9B6cA9A417765B4ED79C4697D57D` |
+| 💀 | `191` | `0xe5423A1b53E921F1A4E017B55131E9C9DDeE534D` |
+|  | `192` | `0xD2A0510f42cA253ae267153A7a2BDbc17d1FcF6d` |
+| 💀 | `193` | `0xFabC36Cd760a9AC4F527471F0164C345f6aeDd3d` |
+|  | `194` | `0xf19fbA9A9C7469BDba7A00929382b8f328DdD1e7` |
+| 💀 | `195` | `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` |
+|  | `196` | `0xA6D0EbCAe12988683ccd581a99DC93f868A43085` |
+| 💀 | `197` | `0x685B86f0d8f957a34D1109A0096979696136174c` |
+|  | `198` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `199` | `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` |
+|  | `200` | `0xaF72F660B152C1Fd7fA4aD99103044CF10Ae650A` |
+| 💀 | `201` | `0xA5043D0b68ecAd164Ee7EA1225B525a281d68F0D` |
+|  | `202` | `0x78e87f0cC219E6557052B74EEdFd28963806f329` |
+| 💀 | `203` | `0xF4D7fA5a6bAD23b8E7D24DB1c112d47B1815Ed7B` |
+|  | `204` | `0x8F23194C54b32519E936888F58e7D2eDd2336224` |
+| 💀 | `205` | `0x0787E049Aab440c50a4018ce63906be1dFaE26bC` |
+|  | `206` | `0x9B1f4d0125208a794D5e8234164dEF41CE662Ae7` |
+| 💀 | `207` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `208` | `0x8D557952235c5a55D4d2C9BF43515df191E78455` |
+| 💀 | `209` | `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` |
+|  | `210` | `0xEf8297E863dd389eF50869493426c729243506E7` |
+| 💀 | `211` | `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` |
+|  | `212` | `0x5f3384CfD9B8A02D97cDB85Ac16db05F6349D50F` |
+| 💀 | `213` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `214` | `0xE6F4adCEd28A976f652a400412D0e19B403D1E6F` |
+| 💀 | `215` | `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` |
+|  | `216` | `0xae4EE05dfBfC50A51f6d91078cc90b6C82a0c612` |
+| 💀 | `217` | `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` |
+|  | `218` | `0xC65AC1B29Bf43C1871F6b040471B5f2a5e76ca9B` |
+| 💀 | `219` | `0x021376274693ff3d8f4581d4CF023ac50606F8b9` |
+|  | `220` | `0xefCc701B53A27B369D68397E075A129cEb8F74A9` |
+| 💀 | `221` | `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` |
+|  | `222` | `0xce39f6ced1831424e43Df92f8f00B173027Df0a2` |
+| 💀 | `223` | `0x5F8DeBbD9f5bfa429846Ff1db001b33347fB27e7` |
+|  | `224` | `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` |
+| 💀 | `225` | `0x5FF133951Ef0aAe0b2d0a84F2fB691c736F54a90` |
+|  | `226` | `0x864c47663f0E1D32AE2710463AA6A5c525CA5125` |
+| 💀 | `227` | `0x56dC55D96dA9142e8674E624C4B7D512683798b3` |
+|  | `228` | `0x41b09B1A32b6B219f13538180FDb65775ec7f538` |
+| 💀 | `229` | `0x61E4D3a67Da08DDA9002B78DCE81E1E31D4e5191` |
+|  | `230` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `231` | `0x9b523f7d73676b892f5e3d632ABc0c98d285D00b` |
+|  | `232` | `0x93171109dccB003E477620B7b4d7C84E1feB351f` |
+| 💀 | `233` | `0x205EFB76a9E41D81c3ae634F32BB5580Fe6Bde37` |
+|  | `234` | `0xE31bC4A71dfCCc46398BC334Ae485daeed861fCB` |
+| 💀 | `235` | `0x312DD3B07ddCa98C323c967223FcFfaf6267a1AC` |
+|  | `236` | `0xE6286D932D04e1987754c31282F7Fe0C188beef9` |
+| 💀 | `237` | `0xc01e0C8B8c4946116eb63CAD93F46Dcfd4033061` |
+|  | `238` | `0x4487355D07198F46a3652675E6B13293eEcF6e9B` |
+| 💀 | `239` | `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` |
+|  | `240` | `0x98ee7217F4c5f9f0d53f72b54eE8aCaeaD88bef2` |
+| 💀 | `241` | `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` |
+|  | `242` | `0xD8F79cdF75d14a29eb9b944D4977416997fA54b9` |
+| 💀 | `243` | `0x55720123D8ED2079D99B183ef093B9d297be6048` |
+|  | `244` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `245` | `0xaeBA3B527299eF448EEe5046a1662f8463cF0Ce9` |
+|  | `246` | `0x5F4a5d9D99916E00D40aA33f21B74317187D1756` |
+| 💀 | `247` | `0x5B3e06a62bD2e980DdA5ee9642D8F788D4fD5A88` |
+|  | `248` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `249` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `250` | `0x782102D01e2465e8761e5526D61cd0Be4cfcFc42` |
+| 💀 | `251` | `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` |
+|  | `252` | `0x3868EE975f8D8381e6210c67076B91C8632FF744` |
+|  | `253` | `0xD34BE6cFF55008945694750f284D55b4B66Fdf4D` |
+|  | `254` | `0xB3d85f18Aa0a4807Dada5e0d11d5370f34cB415A` |
+|  | `255` | `0xE669E9179ACF2B85A28825749aD2D8a6875f166f` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01A1384383BB9BbDd0fcD7ca639FebfC2Ff7Fb8D` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85cff97808f9547239baace24fa27f6bd13dad9d4fb58105c82c7a14be6fccd3) |
+| `0x021376274693ff3d8f4581d4CF023ac50606F8b9` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x70e91474f6ef47edfa54e988d7c9a4475df888824654bfc7a11ece81a6ca2d2c) |
+| `0x02F11Fe7A88805f3afbE76F28D0Ee7B090d4E99B` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e4d3f5f8a3073d984846b54eac6466d93e5b59bdf601be596715f97013c190f) |
+| `0x044aD88261dDCb91bEa4a94066d3eD4b4C4FB13a` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc29c324c50fee69a6cb86adb7034bc38f325823a2f0211e64bab615b9b5281ac) |
+| `0x0787E049Aab440c50a4018ce63906be1dFaE26bC` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3001c173b05d791e5fdccced12c7887b78e19ef21cb56df6dbb19c83600f4661) |
+| `0x0A00f2a39633E4106ad37cc4c4E10C7F30d77c23` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x412e5eb7e3e60a6b0d9a2f56d82d637c8a6afe2ea2fa5377650889ad69c4ad56) |
+| `0x0deD693cD6c52379360Cca52173A6829c8fd1c49` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x186ef62d56627aefb206bf8ec843bbcc4cd60b64d4d6944ccfb230771772aaa5) |
+| `0x0E3973fa100DDB8FA055D6322B1292Fc3f55FBB2` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9195490b50e89f5804001c36072fd981cc1c89a704935a6894ec7993627d155) |
+| `0x0eD6aB327666bCEd8fdEDFE5BEd5D30C73d7B20e` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb82c99e4e8c16ae4b69947c4d406746a04755cb9950de0cefef49a7672f2691d) |
+| `0x1310Fc489d5966418A0196fC06690ec8E7079dcf` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2aac08ca513c514fbde679740ecb515a31858ddc8bbe6c014b4b8ee1f70d1941) |
+| `0x140e43A3a03697385Fb61b479Dad13D7f514b324` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc99c626a705be2c9843ab9b2762990605b3d102b0a3ee694e1bbc4de650f337e) |
+| `0x14F3F766C7b3DB75021dBc48056E977a1a036B83` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8a05f6be0b61773caba71e6d52a820899a528ca6f340fc3b7102e57d7e300376) |
+| `0x205EFB76a9E41D81c3ae634F32BB5580Fe6Bde37` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0529d93ef072fedc711effbdc3eb03c3728185dff31de1516d223b0749821b2b) |
+| `0x22bFEd5cdf85674eC85BC1D14729D62c9D0623d1` | H. Olajuwon '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x36207a5ee7c53b4c090e191027536efe8b3136d8d5319aacb9985adcd544b9a9) |
+| `0x24F57bBD613271d42A2628Aeb0ad7b8eD7690EC5` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcb280911c4aa5d339c0110bfb3088b659ad3bc4f31d9ab07367a7659207f6a8a) |
+| `0x2880D6feCc31d1386c313c3d5C9A644221724f23` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x625075d9af2db97e96c45827e158a09458b71f919c9692b2e88a3ae0a165f1ea) |
+| `0x2BBa72d4EBEC554af255AeB46dF1AEd98eb5e8Be` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e254ad5f6bcdd9eb7eeed08c723af8e9a0128fc149153150b63fff981f5f2b1) |
+| `0x2bd982675A76D6A5f7A92aEB373d6497b314bFFC` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x03dafafc8d681599918242916549abb7994a08c03ab1e8e81fc7baef0f9c1fef) |
+| `0x2DdFd02d65Fb8D3A0593B3cbBCE5dD943073dbD8` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b00eef2ea86e9df1aedac01970d6c0a8241d62f671fe4788b38ec4740be930c) |
+| `0x2E9A1DF351688BbF7a51b9E7cbd05BdD342d8De0` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x302701a1b2ca2f460ee82f79984380fe1a7398eadc0a2d08ca58ae09d8c02599) |
+| `0x312DD3B07ddCa98C323c967223FcFfaf6267a1AC` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1caa21549193b26b5ffe772caa64a4b551128dca1b56c8c5ea8997c64618ccf8) |
+| `0x32fE2c38c11EadC164cfD9cd123eD36cA6Ce7A12` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1bb08105f3ef299a30be03646fb635e8b422169839fc33c44b830558da69ede0) |
+| `0x3516D0795d3515ACeD88F94d53978460efDBAb8c` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x78c8aa0c0e0b87134aeecd851a67af62a0c2fef4535fa4a39bb2de5b43b3670f) |
+| `0x35d34778e064aDF44e96BdBCdd54df9DCD503a22` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb6beebdc7dd1f90aebef3413b99763d7e89267e1d4a592028e8c14a78df7ac93) |
+| `0x39B1A836CefBB6B67654Ce9eb15087b7BbE1c536` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x770076461b7a98916236de42defee23d086450c69d95feb1af9ba32bcfe64726) |
+| `0x39c5fD2232DD4f017D06c4bd5e5c965CB21303CD` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f1848555664797649b6cee045b5cea4c3962960b6f09faad6ace5d14398054e) |
+| `0x3A3749a566Eb6d8BcB598F403B09Fcd0235eBEEF` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x381bbde9b8db6c3b4b34fbb0f41a1601afcb970190d30e2e693f12b94737841c) |
+| `0x3eb9A437cC03f8D1B906f8741996a9cbAEA2d409` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b3a7eb88f8978cf28e0314faddd20901118f24ef160a7ac17f1d883e95321c7) |
+| `0x436E56ecAA9578304BEEd6C80B29A0510DB66219` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa137fc547437c5616fa047e2ccca1d3ca2fe72f30687b6b8fd40e908f393ab17) |
+| `0x4487355D07198F46a3652675E6B13293eEcF6e9B` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffa7d8ac01acbfd16a24007ceeec879bb66998a1d03468c5fa53e0681b023c91) |
+| `0x4B4735BAAB40a2c897F671D0Ec8f6F90C542cfBc` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7bac70189a1f986eddadb4aec8627e262d78b5bc4a4aa50046f9a24678c9b763) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c048eee0385b4c553863c8f94f3d940e0d7e39aa1388c50e2687508bcdec7f2) |
+| `0x520d49EE807533eD1756958eA9312a07010081b8` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5af4175e5e8820dc9c9f0a0bb4f34bb32004ffdd06c98a9548446edcd57f2550) |
+| `0x55720123D8ED2079D99B183ef093B9d297be6048` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9024d93b05a4baa396b4e743ee0c21b9fc83fb1f66ffe8a4c3889bc95c8680d8) |
+| `0x56dC55D96dA9142e8674E624C4B7D512683798b3` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e8a091fb22c78daec7653d90c486dfa073837f37c8b06ca2521580eefdea658) |
+| `0x57cfB347D1bF10ACC7A1E0340cf41E099AcCd716` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6245ad70c9e127bcd66871679b19721e57d010570787f31ad2d0fcc4963ba05b) |
+| `0x5B3e06a62bD2e980DdA5ee9642D8F788D4fD5A88` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28c2315835396ac3459afc761f49d9859d9aa79e7ba0e32cf511cb034f5de590) |
+| `0x5bfc9cE707D3D66e94cEe48A4460CfeE1dB70D7d` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa4e66c374a9ea61b333309b45295f1119dfabdc79bfd8f22af19ef5f4efba483) |
+| `0x5D77138242534a08c07d34eFF158b8eE3393D075` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x822b6a8d23fec8c3cd0b098b9586214cde6fda200252f3ab7b7fe6d44076e289) |
+| `0x5D830F8B5fEf94a2661aD0cC44Feea8e6e2B0953` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x848875825cf56285835c7b6b3df2e5630ca7fd48eb2141cbbcec75ff7bbfb612) |
+| `0x5F8DeBbD9f5bfa429846Ff1db001b33347fB27e7` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90c21a90693f64f5ec41ff6c034c5cd54f73770c5f28399e816398cecfc74c25) |
+| `0x5FF133951Ef0aAe0b2d0a84F2fB691c736F54a90` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x451e4bb152aac31850dc876ce2d28d22c5b06a6be300aad0e52dd0d7893b8b96) |
+| `0x61E4D3a67Da08DDA9002B78DCE81E1E31D4e5191` | H. Olajuwon '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x02b2a8b3b4be1b8661b0fd5c516b93acd5d8147ffe39aa07ba022338bdbf084d) |
+| `0x643a5cD8d1619290DCB27bA070Bc8E93A85FF9b8` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0865234abce5cf8e0ce71e044ce8bb096062f00d57688498b3430d76e1280bb0) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf36664eb26af2398658fb28e0086710a4b2fbab7c38efb181d98cb15a7a1e671) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | H. Olajuwon '92 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3c1151b3c49c1940778195f214c9bbbc8318936dc94c250ddb60f2fb49081189) |
+| `0x685B86f0d8f957a34D1109A0096979696136174c` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7fe044c5966130595fe0fa7a528449aefbfc18f15e04e3dfaa96125ba00d46f) |
+| `0x68fAebCA9F5c4E55B60f90Dd481e81eC6b8Ed9F7` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6b783f85c17841d6ae84900091d29c49f4f6346c5ec3bf06949d59ec38ff3e94) |
+| `0x70Ac7d839491D092f9c05A8757A3ec88E632Ce01` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1228a37d9277f605a2e9c0640ebb235b5ea8d72e818ce9a401e41116f5a5d688) |
+| `0x73F877C2bE845faf12243B1b015a446776aCD557` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4b3170307d047e55db51f3e0cc146de734f97db1090ba208d55bd45c9f0ebc3) |
+| `0x78e87f0cC219E6557052B74EEdFd28963806f329` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f20390efbbff40d46349fa69d12d86b39fc235a9c068038ec4be71c5c91e193) |
+| `0x7D750064B9cf62F49b2cb9afD0482E458DDac635` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa53c00af6b69672936ae55df6e7582d3bb6490f73e5de08e4465fe46e6bcc70b) |
+| `0x83D0A16Fc6C370b0b718e08Ef8613bCe209CA99f` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa10949b5f6009a99a7ccda8ba1cca6c2accf17413345dc6c71266aba40fbeb8e) |
+| `0x8580b505809ddd653970d113Aafc3519eE095c91` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85ff190d3f8209893f24264d814532aab63b373f727fcebc6e7857cfd36c8233) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b43a8e1c503825d7683841454f80c8970296fac6c232f1867f534195e36229e) |
+| `0x87eD780f96576D10C2A678782E95485045CC8623` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x59b9cd12a93a518ca5c3ef9508550a6c6c49710a75cd77e103057faeff758429) |
+| `0x913147e522b53A438ED88DcDcc8Eb277C32F8fd3` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4a2ba918692b56ba83d5eacdbfb8ad2fc469339396453d0f2675d85c00da8e76) |
+| `0x93C0377E8aCf7f1eF3f9ce7f516D6F8f13a7F30F` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d9a37bce384a9a1a83623b98770822463774c74d4bb66366e054c26cd116af6) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x95c88541fa6e7d1558a76f2be4b4fab233c0634a689c05e444bed2b3cb0c0efd) |
+| `0x977db71313d539B9F87579Ee689b45575Af336d4` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0f53cf5a5a276300925904510e7257d0b90142cb0de3d721b805dba0e4743efe) |
+| `0x9a631601AdaB55f708cAc19D40E864dF0C1d2c8A` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f1b0c0c1e19ff8beb354d4d1000105a4ab6bda6bdc36a53e8fe37d57a6d22fb) |
+| `0x9b523f7d73676b892f5e3d632ABc0c98d285D00b` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4615e892a354ea24b0ccb2fc56a022f49b46e8d157a125632cc6e51004b9b74) |
+| `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa68373eef17cc3ecb2225cf563a2708de3faeaf948cb20d67feade08153e4e44) |
+| `0xA06A66d8230feF52B815aFF621F8e9F041d37349` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1949d5ccf08516bc2f62e3a6f8d92998b2a7be09a6b12fc9fb4d20a08f7116e7) |
+| `0xa41578F553CDe5a7dee1dcbD771744F6c5045bBC` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0469d525780a8beb680533008b0444ba757920977dd8e81e7c8f86c62025e296) |
+| `0xA5043D0b68ecAd164Ee7EA1225B525a281d68F0D` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1130d585b60f791677ecba15c33741ef770b495bd6ec42786cfee62cdac0bbe4) |
+| `0xA6D0EbCAe12988683ccd581a99DC93f868A43085` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x50df51667c33bf1106fdb5fbcdeb68980a7db57486d4c9113ff7016777499f57) |
+| `0xA71d962bbdA4566C6A8Ca47D0FB86b57EB2d5F66` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd90582b19ff87c3955b7a0dfa2ac96e6d75fec26c4641b2675d318e14c7bc4b) |
+| `0xaeBA3B527299eF448EEe5046a1662f8463cF0Ce9` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6317a06e0a3e0fdca105889cfadc579b45efb5b0d0b4244791c5649bf63a8974) |
+| `0xaeDBAD9BB65c56861CE9B6528790281A92285118` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0956d915eb204f73107558760707a904d948bd9755e4d9257b7e205239ee1fe) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | H. Olajuwon '92 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x3198af5563c5b6b5cc917df3bca077fa64aa5fca40463e4d53fd9f6d92014ccc) |
+| `0xB0E3f89f2414f775Ca2FbCf9b7AeEC820A8A8160` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e159e6f05435154d517f977c6b3021c07354f69ffba799440f0e6b16985bc91) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc8d1155e8bc713929b9c876e50da9b72a2ac65603a037d80aae253e3ec511346) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf6d3fac43b87037a090e80008c2c12fba86364a68342abcca988dbe62206f863) |
+| `0xbd88f8c7B048D238D842BF418427eE91f7409a44` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23c8045d7b646349704b3cf366cffe300a448e619b8f73723872535c53332b27) |
+| `0xc01e0C8B8c4946116eb63CAD93F46Dcfd4033061` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad7479637db8f8fd3c296de625e04169bf7e8e5107d852e6123dbf5b9bb96564) |
+| `0xc3f2CcB4D248eaA7C6DE41a9674daAB78067Fe86` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8dd159434b9fb8f207a9038d6fae19905bf3fc1a606e25f1d8c4ca623ef5d141) |
+| `0xC46eb85A3ad27B9E94929c9D55b6a5F9bd4608ba` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa80445e004269f83dbfe16a8e4f8b7b99a1d82ec03645646457e4bb49f77e7f6) |
+| `0xc50546981EbB808f092B6e0634100e8E664f5662` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcacaeb1e7fdd45ae0a2a7f93106347e4990c5cae7956ef8e3339cd3e5837a0df) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e62c8597c74817b9995e861c010276a221bec3936ab4f49dcf95117e1867636) |
+| `0xc6aa8B7c60e029DD1a5EeEa047651240e9ded30f` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d6d65d72ef969dfff63559ba0f977defadd53a3145673a64da8b96530cac643) |
+| `0xc8c13e00F437B2B5Da380e323aBc9D42853B35cC` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc74c4a13f4fbd0d10887fac0be7f8711643f3c8005f5f4a2d08ce0a199ccde29) |
+| `0xC9315b35b8DCc109e7b0471A704EcF84A5E8564F` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe0f0e837dcceda15f14a1ff25c4b7ea2ad6fea2ab30183b7a7573a035ae2ce26) |
+| `0xCB7065677fc683721e2E95DCcF592c123A68d1b7` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaad38ab981a6a970184cb3cb558935561bb5aaaac0b2e01d0f7e0c3b96799ec3) |
+| `0xCBE5368959Df6234B1f2C6A7De7b86067Ae8AC1C` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe95ae3e52c6c34bf37516f602b159b23caed6cca6933937fb2c9e46cbdb2a616) |
+| `0xCcadA0b3DD7AF9D0384E79f3Ba508395620Ba167` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x360d3a7d6617cf920d71d4a8f08cb4bd06a6614b35ed9f1aef0bd67f5fc9b308) |
+| `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ccce3df2b8a54b81a544986ea471ee770c1f639add4a4c316be584e17c0af0f) |
+| `0xd0f1b4cd3c3A484A6eE1Cb77DDa6490cB149A920` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0212e04ec36c9127a0d8a3a14b08b2e11a4f9e3236562999cdb8652916f495be) |
+| `0xd42a85725e1D8b2644dBC9011C5d920DBAA2A625` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0edf47bf2d8fd3627b5398442dd84ca3f924fe0c861ddc32f7f7f836d8e9d59) |
+| `0xd4696EA395fFA58d7601Ef438cE65Ac468d639b1` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf03937ad6f27af11cc7929f0b02fa4cf622d5e3b55f230970773ebcd62600728) |
+| `0xd699c6331e1147e0D7211d171DC95fF86208015f` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x37213f6e771fc8497b9c5508a0e97b48c38b4347e1eac2c6a5fe76030b6c534e) |
+| `0xd797000176455865AfF99245399D375e266a788E` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b8683656e815f3a4e398a0614f588e52cf6665313e0867c87467610a678cfb4) |
+| `0xd9bf1d37bb009783F6450e7d34E162D2EA9686Ec` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe558fcb4ad3e5edaec36293412af1ccaaf6d2fd67b5edbdf23b59c08d12c63f3) |
+| `0xdA2edd7A62915767BA5b9482A714DB233013b4D3` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c93a33df8ed8ca5feb644c5c8a710c2e2d1170e74e79862d7ac6fcd55536f55) |
+| `0xDb144bAE5f404C8f6c7F8797AaCEA19a7552Dc65` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed4edba6059b595e856d3fbed17b0db298bfd9a225d44392bb0eadf073b93ee0) |
+| `0xdBEF425AEB796aa4c3e796B36AbB35E6BAc1536A` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a34198f7825305cb20883b62bd2cedda826148488aeda2ddb5cd9139cddc05e) |
+| `0xDe3465C6359d1B51D881aBd934BEb81805DFB1Ba` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2dac1e09964f49db56a59d831d4ffb00fd25b67a0db5d6f55ba8f38d9bbe0760) |
+| `0xDe4602aB833ea986531543d17772EC068cFaab96` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9140398e59d614e0a9cc6a8292e67a78abba6b06320e3f8db5b463391ca68026) |
+| `0xe5423A1b53E921F1A4E017B55131E9C9DDeE534D` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f2b1838c181f2e4f1daabc2792313cbc31d1209a23d1f42aeb3874cb87289e3) |
+| `0xE6286D932D04e1987754c31282F7Fe0C188beef9` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66e0be95ea0353ecfdd114d5b0f9ba54418563f9a7a85c29978355f4a7133aa8) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1d53dbafeac4ab884cb6eba73095e10b9c75c247312ecc0683418d4783905252) |
+| `0xeCa5D0b717FbC513802Bc809b2F4192EEC1821c6` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x673ca227b5ce1492840b478d8a141358f31e613fa73dbeded5227314fb2f3fa2) |
+| `0xEcae71aa60eE8e8f3637DC91A821B119F43BCDB2` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ba57d291e05929fc95649a7c589ebaa1a7229dfb13d21bd603c85a035052da6) |
+| `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30c03f3821ece139fcf03b81c97e779c3d5bcdf4b1f8e6a09299ce89455b37f3) |
+| `0xF076a485313E8653C9e911141E8839db8Ce301Ed` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x265c81952904d4355d20f572d014a9b7d5553cb9a339e7f3469eab272cd08ac4) |
+| `0xF4D7fA5a6bAD23b8E7D24DB1c112d47B1815Ed7B` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9193eeff06dfe71def704bceed6842b2f14bda36587af9b57e42f7ee36a8fed3) |
+| `0xF6d770E7230AC0fa161F3260BfF5a30967060F51` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2c5ac2128bd77d3256e73e8cce4b5e8a980c5d4f7fe580b6fefb15af40b9855) |
+| `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfd215d421586b49e4a97215807b1392897118593e8b6f06907082267544188a) |
+| `0xF7F5280411b38bcdbce73592dBD2F83bbF915ABA` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6533540e2933faef4fbcf4c80edd00b7426e9afe99df3d2e392bf9bca0d4c644) |
+| `0xf9E0a51BFeB558ED96562630B21A76dC2dCc52d5` | H. Olajuwon '92 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x49a8bca25d7d0ae9f9abf959f130a96dda39036765acc265a6e6052cc37e59f2) |
+| `0xFA27294d1C36d686825Ac1f0e52B34c0Be707C6C` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x32076769b966c7c502b94959d2121750f9be5cd8bb86c75faa33225a7046b69b) |
+| `0xFabc1b50fDf4ba79E8225E5c776996DC478eF5ED` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c9bf501285fa35eb4d07b57590e4328467e732ac587cebc072442c4fc329417) |
+| `0xFabC36Cd760a9AC4F527471F0164C345f6aeDd3d` | H. Olajuwon '92 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e566d270a9b5ea7e952998fd7352c3cfecfc0343efe3d73008cb6c3d1158377) |
