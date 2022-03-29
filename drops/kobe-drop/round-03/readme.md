@@ -1,77 +1,82 @@
 # Elimination Proof
 
-|||
-|---|---|
-| **Drop** | Kobe Drop |
-| **Round** | 3 |
-| **Started** | March 22, 2022 10:00 AM EDT |
-| **Completed** | March 22, 2022 10:01 AM EDT |
-| **Tokens remaining before round** | 640 |
-| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
-| **Tokens remaining after round** | 320 |
-| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32 |
+|                                       |                             |
+| ------------------------------------- | --------------------------- |
+| **Drop**                              | Kobe Drop                   |
+| **Round**                             | 3                           |
+| **Started**                           | March 22, 2022 10:00 AM EDT |
+| **Completed**                         | March 22, 2022 10:01 AM EDT |
+| **Tokens remaining before round**     | 640                         |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64                          |
+| **Tokens remaining after round**      | 320                         |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32                          |
 
 ## Assets
 
-- [#1 - K. Bryant &#039;96 PSA 10](asset-1285.md)
-- [#2 - K. Bryant &#039;96 PSA 10](asset-1286.md)
-- [#3 - K. Bryant &#039;96 PSA 10](asset-1287.md)
-- [#4 - K. Bryant &#039;96 PSA 10](asset-1288.md)
-- [#5 - K. Bryant &#039;96 PSA 9](asset-1289.md)
-- [#6 - K. Bryant &#039;96 PSA 10](asset-1290.md)
-- [#7 - K. Bryant &#039;96 PSA 10](asset-1291.md)
-- [#8 - K. Bryant &#039;96 BGS 9.5](asset-1292.md)
-- [#9 - K. Bryant &#039;96 PSA 10](asset-1293.md)
-- [#10 - K. Bryant &#039;96 BGS 9.5](asset-1294.md)
+-   [\#1 - K. Bryant &\#039;96 PSA 10](asset-1285.md)
+-   [\#2 - K. Bryant &\#039;96 PSA 10](asset-1286.md)
+-   [\#3 - K. Bryant &\#039;96 PSA 10](asset-1287.md)
+-   [\#4 - K. Bryant &\#039;96 PSA 10](asset-1288.md)
+-   [\#5 - K. Bryant &\#039;96 PSA 9](asset-1289.md)
+-   [\#6 - K. Bryant &\#039;96 PSA 10](asset-1290.md)
+-   [\#7 - K. Bryant &\#039;96 PSA 10](asset-1291.md)
+-   [\#8 - K. Bryant &\#039;96 BGS 9.5](asset-1292.md)
+-   [\#9 - K. Bryant &\#039;96 PSA 10](asset-1293.md)
+-   [\#10 - K. Bryant &\#039;96 BGS 9.5](asset-1294.md)
 
 ## Overview
 
 ### 1. For each asset, we assemble a ledger that counts each token remaining by wallet address or custodial owner. Then we shuffle this ledger.
-- The number of rows in the ledger should equal the number of tokens remaining. For example, if wallet A owns 5 tokens of a given asset, wallet A will appear in the ledger exactly five times.
-- The randomness in the shuffle comes from the Mersenne Twister algorithm.
-- **Note:** If tokens remain uneliminated that are not owned by anyone, they are flagged as `UNOWNED`, sorted to the top and set to be eliminated first.
+
+-   The number of rows in the ledger should equal the number of tokens remaining. For example, if wallet A owns 5 tokens of a given asset, wallet A will appear in the ledger exactly five times.
+-   The randomness in the shuffle comes from the Mersenne Twister algorithm.
+-   **Note:** If tokens remain uneliminated that are not owned by anyone, they are flagged as `UNOWNED`, sorted to the top and set to be eliminated first.
 
 ### 2. Create the hash.
-- We use the hash as an identifier to attach to our random number request because that way we can prove that the random number we used to eliminate tokens is the exact number tied to this elimination.
-- To build the hash, we start with this object:
-  ```jsonc
-  {
-    // The salt is just some random data to make sure this hash is unique.
-    "salt": "rB5wFwvSBTLV210B9keWPnP8kb7osho2umgE4TtIYtVHhNpVAmRyC7YbyurnXUrT",
 
-    // The collection_id is our internal ID for the drop. It will not change for
-    // other eliminations in this drop.
-    "collection_id": 22,
+-   We use the hash as an identifier to attach to our random number request because that way we can prove that the random number we used to eliminate tokens is the exact number tied to this elimination.
+-   To build the hash, we start with this object:
 
-    // The round is what round of eliminations this is.
-    "round": 3,
+    ```jsonc
+    {
+      // The salt is just some random data to make sure this hash is unique.
+      "salt": "rB5wFwvSBTLV210B9keWPnP8kb7osho2umgE4TtIYtVHhNpVAmRyC7YbyurnXUrT",
 
-    "ledger": {
-      "<asset_id1>": ["<entry1>", "<entry2>", ...],
-      "<asset_id2>": ["<entry1>", "<entry2>", ...]
+      // The collection_id is our internal ID for the drop. It will not change for
+      // other eliminations in this drop.
+      "collection_id": 22,
+
+      // The round is what round of eliminations this is.
+      "round": 3,
+
+      "ledger": {
+        "<asset_id1>": ["<entry1>", "<entry2>", ...],
+        "<asset_id2>": ["<entry1>", "<entry2>", ...]
+      }
     }
-  }
-  ```
+    ```
 
-  - We minify the object (which is reproduced [here][ledger_full]), `sha256` the result and encode the result to hex.
-    - Thus, our calculated hash is:
-      ```plain
-      2e8a841f49a37f8b097b7f46b6e1d0cbc1f05d699f12d47bc8f47bc2c209914d
-      ```
+    -   We minify the object (which is reproduced [here][ledger_full]), `sha256` the result and encode the result to hex.
+        -   Thus, our calculated hash is:
+            ```plain
+            2e8a841f49a37f8b097b7f46b6e1d0cbc1f05d699f12d47bc8f47bc2c209914d
+            ```
 
 ### 3. We send our hash up to the on-chain random oracle to get our random number.
-  - The transaction hash to retrieve this random number was: `0x4cb45e75cb207cc2cd942a0350f5435b2339e98a936996e54d1db0b40bc8acc3` ([polygonscan][random_txn])
-  - The number we retrieved was: `2568573208969938242297612576709674007399049183744699213679628620219033543034`
+
+-   The transaction hash to retrieve this random number was: `0x4cb45e75cb207cc2cd942a0350f5435b2339e98a936996e54d1db0b40bc8acc3` ([polygonscan][random_txn])
+-   The number we retrieved was: `2568573208969938242297612576709674007399049183744699213679628620219033543034`
 
 ### 4. Determine whether we eliminate evens or odds.
-  
-  - Our random number was **EVEN**, so we eliminate tokens starting at index 0 (the first row of the ledger), then 2, then 4, and so on.
-  
+
+-   Our random number was **EVEN**, so we eliminate tokens starting at index 0 (the first row of the ledger), then 2, then 4, and so on.
+
 ## 5. Mark tokens for elimination.
-  - For each asset, step in order through each row of its ledger.
-    - If the row is `UNOWNED`, mark it for elimination.
-    - If the row index is **EVEN**, _and we haven't yet eliminated 32 tokens_, mark it for elimination.
-    - Otherwise, this token makes it through!
+
+-   For each asset, step in order through each row of its ledger.
+    -   If the row is `UNOWNED`, mark it for elimination.
+    -   If the row index is **EVEN**, _and we haven't yet eliminated 32 tokens_, mark it for elimination.
+    -   Otherwise, this token makes it through!
 
 6. Eliminate tokens, burn them on-chain, and we're done!
 
@@ -82,6 +87,7 @@
 You can find the exact ledger we hashed [here][ledger_full].
 
 **Expected Hash (hex-encoded):**
+
 ```
 2e8a841f49a37f8b097b7f46b6e1d0cbc1f05d699f12d47bc8f47bc2c209914d
 ```
@@ -98,7 +104,7 @@ The hash you get should match exactly the one above.
 
 # References
 
-- Random number transaction: [Polygonscan][random_txn]
+-   Random number transaction: [Polygonscan][random_txn]
 
 [random_txn]: https://polygonscan.com/tx/0x4cb45e75cb207cc2cd942a0350f5435b2339e98a936996e54d1db0b40bc8acc3
 [ledger_full]: ledger-full.json
