@@ -1,0 +1,109 @@
+# [Elimination Proof](./readme.md) / #9 - K. Bryant &#039;96 PSA 10
+
+|||
+|---|---|
+| **Drop** | Kobe Drop |
+| **Round** | 3 |
+| **Started** | March 22, 2022 10:00 AM EDT |
+| **Completed** | March 22, 2022 10:01 AM EDT |
+| **Tokens remaining before round** | 640 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| **Tokens remaining after round** | 320 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32 |
+| | |
+| **Asset** | #9 - K. Bryant &#039;96 PSA 10 |
+| **Internal ID** | 1293 |
+| **On-chain ID** | 309 |
+| **Image** | <img src="https://tcdn.blokpax.com/95d5aeda-8542-4048-840a-bec5756477eb/96cefdcee1984b0d64a0ccb1b4fa7493316d4cf03b0ed4262c3433b97c096038.jpg" height="200" alt="#9 - K. Bryant &#039;96 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `1` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `2` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `3` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `4` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `5` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+| 💀 | `6` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `7` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `8` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `9` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `10` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `11` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `12` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `13` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `14` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `15` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `16` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `17` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `18` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `19` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `20` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `21` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `22` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `23` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `24` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `25` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+| 💀 | `26` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `27` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `28` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `29` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+| 💀 | `30` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `31` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `32` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `33` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `34` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+|  | `35` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+| 💀 | `36` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `37` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `38` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
+|  | `39` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `40` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `41` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `42` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `43` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `44` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `45` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `46` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+|  | `47` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `48` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `49` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `50` | `0xe7003386e12DD2915639A8A6a017fCE86B388D21` |
+|  | `51` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `52` | `0xC153C1D6d65a97463032Bc918695F34AAba270E2` |
+|  | `53` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `54` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `55` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `56` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `57` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `58` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `59` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `60` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+|  | `61` | `0x65716C431242F309E5F4cF63B4C513D508af7662` |
+| 💀 | `62` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `63` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x882b7c519ebdbeac185804c48cf2d22ae94c2765468d815a24e201ae4dcf6eaf) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2b2068c4b917e7803eb8e1ed3f85369c55ad5ee14466fb92a04ba1174a4c732d) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fb630ec3558f2dd7c87df1a2987348918cf744e371b1b05d30525dab5b6bead) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | #9 - K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc92a88f3c9f15a6d9fa278e12b5ca6c9cb42c6b861b02bed4c7b8f1c362f445f) |
+| `0x65716C431242F309E5F4cF63B4C513D508af7662` | #9 - K. Bryant '96 PSA 10 | 9 | [Polygonscan](https://polygonscan.com/tx/0x66d9b6249dccd35fc567b72e2ad630d60dd82868704154a68e97b7c6ceaeeb92) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | #9 - K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x01ea9c09c254fb1310a46a490cf3f7674f4f0e7e2ff81201f2874fd2f34736c3) |
+| `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb3f949f1825ea4c9163be2863107a24738c87164c4b56445e139f71330d575fd) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa72bc33ab66c9021589f18bd752da507a824eab8a7e9c3331edc8230c7663254) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0485c0baeb6fa8f043cecb9e8bb7650f336b04f5a767ecf9cc5096c6398a76bd) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7a34433b7768ee05706737f00ea75af21010dd92851a7b8d963dd323f4a1d4a8) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4297309c20b62b8b9d9a1bd545dc327400608e878d1ae9045a1cf6ca609d9d9) |
+| `0xC153C1D6d65a97463032Bc918695F34AAba270E2` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9f7d515f63a6c071d1ae835e5a63738dd6667a4486b4b1442f1b7bd8ac2eb8ff) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | #9 - K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe794bf6590b9897df0030881197ca5fada2ce2dca3730ae96ba20ad28ef69248) |
+| `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` | #9 - K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x67e20be4459865525a930e264a9c47636101cb30d5c744ceb658eeb6904c71cd) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | #9 - K. Bryant '96 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xa3310946bdf028311368a60530946199db6e42354c740c4f6ad016fab668e7f0) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | #9 - K. Bryant '96 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e3329adcd72559d9ddac0e548a87a6d514fdf3fd0ee55ac087ab259c8897aa2) |
+| `0xe7003386e12DD2915639A8A6a017fCE86B388D21` | #9 - K. Bryant '96 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xef3237c5c99b3738a3939379f4669b5c5b60817127d6980ade91352dfec55881) |
