@@ -1,0 +1,343 @@
+# [Elimination Proof](./readme.md) / Legend Geek Mint Pass
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 4 |
+| **Started** | April 1, 2022 9:00 PM EDT |
+| **Completed** | April 1, 2022 9:03 PM EDT |
+| **Tokens remaining before round** | 6,656 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 3,328 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | Legend Geek Mint Pass |
+| **Internal ID** | 1384 |
+| **On-chain ID** | 330 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5f13-483c-a372-7e1559ee1ac9/9e49f546dce7a7d7abbb8bdf7d1b6a4c668043c53ba6f37e15df51cc4ee52b26.png" height="200" alt="Legend Geek Mint Pass" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `1` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `2` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `3` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `4` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `5` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `6` | `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` |
+|  | `7` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `8` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `9` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `10` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+|  | `11` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `12` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `13` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `14` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+|  | `15` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `16` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `17` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `18` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `19` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `20` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `21` | `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` |
+| 💀 | `22` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `23` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `24` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `25` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `26` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `27` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+| 💀 | `28` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `29` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `30` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `31` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `32` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+|  | `33` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `34` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `35` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `36` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `37` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `38` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `39` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `40` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `41` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `42` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `43` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `44` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `45` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+| 💀 | `46` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `47` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `48` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+|  | `49` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+| 💀 | `50` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `51` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `52` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `53` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `54` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `55` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `56` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `57` | `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` |
+| 💀 | `58` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `59` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `60` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+|  | `61` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `62` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `63` | `0x9b33Ec4a8BBCE406D5783fee3B071E440B0405Ba` |
+| 💀 | `64` | `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` |
+|  | `65` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `66` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `67` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+| 💀 | `68` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `69` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+| 💀 | `70` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `71` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+| 💀 | `72` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `73` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `74` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `75` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `76` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `77` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `78` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `79` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `80` | `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` |
+|  | `81` | `0x29f7ED66996d0899b485715CAfB95E109E81516e` |
+| 💀 | `82` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+|  | `83` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `84` | `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` |
+|  | `85` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `86` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `87` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `88` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `89` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `90` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `91` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `92` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `93` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `94` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+|  | `95` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `96` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `97` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `98` | `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` |
+|  | `99` | `0x93579278f379D2CCf20E3Ff02132C5adf0696665` |
+| 💀 | `100` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `101` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `102` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+|  | `103` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+| 💀 | `104` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `105` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `106` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `107` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `108` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `109` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `110` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `111` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `112` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `113` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `114` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `115` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `116` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `117` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `118` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `119` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `120` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `121` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `122` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `123` | `0x56B6673c3bc30Fbd588EA60BD32228AC1947387D` |
+| 💀 | `124` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `125` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `126` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `127` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `128` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `129` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `130` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+|  | `131` | `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` |
+| 💀 | `132` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `133` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `134` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `135` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `136` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `137` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `138` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `139` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `140` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `141` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `142` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `143` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `144` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `145` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `146` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `147` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `148` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `149` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `150` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `151` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `152` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `153` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `154` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `155` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `156` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `157` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+| 💀 | `158` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `159` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+| 💀 | `160` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `161` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `162` | `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` |
+|  | `163` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `164` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `165` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `166` | `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` |
+|  | `167` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `168` | `0xEcae71aa60eE8e8f3637DC91A821B119F43BCDB2` |
+|  | `169` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `170` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `171` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `172` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `173` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `174` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `175` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+| 💀 | `176` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `177` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `178` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `179` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `180` | `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` |
+|  | `181` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+| 💀 | `182` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `183` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `184` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `185` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `186` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `187` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `188` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `189` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+| 💀 | `190` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `191` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+| 💀 | `192` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `193` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `194` | `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` |
+|  | `195` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `196` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `197` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+| 💀 | `198` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `199` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `200` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `201` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `202` | `0x03E612d21eCC45087066a558Fcd7b87735882615` |
+|  | `203` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+| 💀 | `204` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `205` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `206` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `207` | `0x6C7E4575bE493072D32D05B3f587b27aeC78393b` |
+| 💀 | `208` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `209` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `210` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `211` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `212` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+|  | `213` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `214` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `215` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `216` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `217` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `218` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `219` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `220` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `221` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+| 💀 | `222` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `223` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `224` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `225` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `226` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `227` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `228` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+|  | `229` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `230` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `231` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `232` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+|  | `233` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+| 💀 | `234` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `235` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+| 💀 | `236` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `237` | `0x07b3Ef7e4B1dde45A0Af88e0ACB83661635c96EF` |
+| 💀 | `238` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `239` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `240` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `241` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `242` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `243` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `244` | `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` |
+|  | `245` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `246` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+|  | `247` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+| 💀 | `248` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+|  | `249` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+| 💀 | `250` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `251` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `252` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `253` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `254` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `255` | `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0372eb65f115f4B79cfCC7F9Dc796E4F161Cd7F9` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xdbf88314bc5c6b040f90d0930bd43e4203a9a29bec886f7e44d5b98632b7a77e) |
+| `0x03E612d21eCC45087066a558Fcd7b87735882615` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xefbd5acb3c12fbc27f53f0bf9af40dbedf5b35b758acf08d963cd46aa7f5d141) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | Legend Geek Mint Pass | 5 | [Polygonscan](https://polygonscan.com/tx/0xc0c8efe9f98dff8a0bcaaac64e83dc23313ee8dabe179c350b63a42cca31a514) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x36d33ae43c40d3ab9e370d82aa3065abe0dc874e23bd529f3743f40811beb0f6) |
+| `0x0cDa5F68Bc4247B87830040b845D1471C22068B9` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb7fecf9754f3e7a8e32d48a8e35cc8fb3a8c1c6dc8d6f8d1f8c30472a1106d5) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | Legend Geek Mint Pass | 2 | [Polygonscan](https://polygonscan.com/tx/0xbf8a29894a8264f1929953814bd9c6ec6437f749d113df175b2b5a6d5b17c5b8) |
+| `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x27b0ad6d65c507484c894c3fe1af83659b7f26b9bab511fd0143d0f8789148ec) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xe5caec560134e87c78aa9c5a81e12425260d5decf241965ff7e6e0fac4653dc5) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x59059a7acc3c8ddc8fe32bee5243553c2444040f831438208eb3e08868305446) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | Legend Geek Mint Pass | 7 | [Polygonscan](https://polygonscan.com/tx/0xe57bcec930a8785af24d8c939f6df9832d6c2530361924c96f55acf0998db456) |
+| `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b470766487145b6bf71ad1dfdac9c3ea72caed376ea5e0fe7058113b15d8581) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x1b8494df8549c1bf8ee43784f11298061ea56e83b7c213dfe6bc24b1aa047918) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x96a592aca0ca1c99c5b865097718c28ba558b0fc462fa3acaf89b242f7fc98bc) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9e34efebdcbcb31a51f1f99077244b9bddc33b4d7100d184e6e1034193e7571) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xe2bd77a197dec0fa1ca116d4b0dd5c75c9bfa68be0dffa977853a9efc5a530d6) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | Legend Geek Mint Pass | 4 | [Polygonscan](https://polygonscan.com/tx/0xcc844d5e943f7e7a6fa5648bf8721aab8fe0b9c18e7e98db089914208c565758) |
+| `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` | Legend Geek Mint Pass | 2 | [Polygonscan](https://polygonscan.com/tx/0x192d2f742ff80df9cc99c858b4210ee966d3523135bf6d8cf6333f75470b6371) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b757ab826196ce17e77bbe706739a9d7128e924848909fe253a9f1647db5ba5) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7e038c43e1d7258a2e21d752ce095a3b1ce21b7ea4714ae5247f4098d24100a) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ece16e37f3fc4779e13690ffcc93f3d4655872d2fe944f8e9ab57c6f11105c8) |
+| `0x58B6d8059488cfC751C7E0A3bCf6bE3BD4cd799E` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e651ea7829254b0a172bbdde0cc7d3305edf44e919dcdfcf251a33e536653bb) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x040cccecb17c8f380e80ca80cfcfebc425572698e339e561b6dc1ede33e9822f) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x619dbab4231a835c9ae12972523d56bf48017cd0b445247d5fbd4c2fbd031dfe) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xe599d5fde5cf15afe58b11d37aa4a742a040d581331696e452ac64e4ab47fb32) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x82038d6408209cd30001040b7126dd56caec8d8665c4ad5848d0c39bbed7a10b) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | Legend Geek Mint Pass | 6 | [Polygonscan](https://polygonscan.com/tx/0x8a87220924ddf1eebca990d06ae46bee832e7835deded66870778d170fe095b1) |
+| `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` | Legend Geek Mint Pass | 2 | [Polygonscan](https://polygonscan.com/tx/0x4a8605f53bac4386a2e23a2a53355cbf472c17eead9e8fa7405137b3ebadd42f) |
+| `0x75258501fBd29B6DdCC40ea63397fF9B3c574563` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xe9b7ec1539be6722011d674b9f695eb931cb5565278479e2729318f589fbb9b5) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x55ecb23a38e018e38a8f3e6bdcb40bf0a650cfa43fbf541e092013bf3472eee5) |
+| `0x78f83c993fd415CE8505339F1ac9295a3F1d9695` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xdba23e737bc7008ed609b348c1490884af2182f31f72cd20bc199a4cf77da4a7) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x29780a9b2190b1f222d050343d2df8fdf34d29f46d2d754993a9334e6202af51) |
+| `0x80897bF90f9bd0D8683173DD8bac72CAe949F08E` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xfdb2acecf3f28789a9a52179c0296f7dbbb889bef02e875763b22accee06dac2) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x54988081d0b1f7ee10bd350ebb7815206be4cc2e4c61ff4d2393e6fe69125e7d) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | Legend Geek Mint Pass | 8 | [Polygonscan](https://polygonscan.com/tx/0x283a86145fa874ab65d1e316a18a35525768beaa79da7a268f6520f2e2351908) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x492057377b9b506da8e89532b70c020d5dbc24f890990fdfbdf595b7744bda7c) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4d5f6b8a6dc2754e1ae4398bfe382189d20f4acc99d41b3152ed8e532a2a374) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x92799c13181776db4242a785cffc85e6bf33f410180ea6b2751fc15c7553f2bd) |
+| `0xA68205dF9Ad19a03bB223D29183c313280CC68d7` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4a839cf989c11be8d597bd2bdc8df7a39279bde362cdaae4254ec2e6615519b) |
+| `0xABF8cfE66d4F345e677d0Eb2778488f9B73e9a15` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2ebd39fa6d72b60f63c1ad6e691fb4a6ea60e9a2ed9192220a7db85cd982c52) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xa9e168a3e31c97879553e22006abc94495c86ab856a5d3f2b64a70f9a39a64c4) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a3f612763c98ae5f05ba482810f387aa86042e77c95a570ebb3cd70fcb77eda) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x12295073dd42d2507e13427aa8f553841284dbe09a9011c00c3aa1a5054fe780) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x13e5d6d7fe2f03ffc716d98ff26fd8db1f007568938ea748f59340ee4757b05a) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa07d3bba136155ed83eaffc0ee3c47f3d434cf5f6622ae8c27b2dfdf60f3d14) |
+| `0xC6743aA22DA2FcC0F12bb38b8d310F72885C981C` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fff504315a383ccfc84173302855be009cdc75ef76f77fc90c172b3f5162869) |
+| `0xCa99583513d2621E32D17E59489C970000E204B6` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x75acffde9ea916401d58bf773f6710e6f731ca0653c65e3f42b07abc5bef020f) |
+| `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` | Legend Geek Mint Pass | 2 | [Polygonscan](https://polygonscan.com/tx/0x20ce427de0d3b37cfe297372109613a1b90083a81787c2211999bb5107237b8e) |
+| `0xD08F599778707a5D9D7Ecf8b2b2ff92393BC81f7` | Legend Geek Mint Pass | 26 | [Polygonscan](https://polygonscan.com/tx/0x0366724f0d34a5cbe7ba90d4a374278af62bb79cc5e0c3fb8263906e9e84680f) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xbf02669d623400ca84358171321d247713a8857ad3c48c48805b349c0fd41aa6) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | Legend Geek Mint Pass | 2 | [Polygonscan](https://polygonscan.com/tx/0x882adafe49e601cb4ba44cdf3012b56e0d4c26ae69e4f97d2ff9e8b9e811c063) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x5355c1809ef16b3dc69ad1954937c9479eec335521becbbb53a04e6948ef4813) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x6aa7ba7c8d81a348cb5e6960e282818172ddc2df10646aa813ed01aa2b67d161) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xabe1e397bc2a76d7e14bc452641934e7703ba032741e3da148e234f0d323bdd8) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | Legend Geek Mint Pass | 15 | [Polygonscan](https://polygonscan.com/tx/0xc7f30bd6f9d044da988ae7c88939bc1f7b4bfd594f2dd9583e4ea6bf7258c091) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7c92011eda30c24be67c77c3e935d9f234590fcf122b2fa0ca90c2257e6f207) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ae23d4a90b714bce5c58d55ec371f48e52de169967d0006ffe5b1d157120548) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ca203699e3a9be67c008c7e3cd32af53a49f48fc25a1d07beef72271983f6e1) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0x17bee95ffcdebc98196e41d6d640d5e5da10b6a28ac50f4ef0596d75160d897c) |
+| `0xEcae71aa60eE8e8f3637DC91A821B119F43BCDB2` | Legend Geek Mint Pass | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb017e95b1da53b683ba5c1fc5a8965d0f772259561fb8cd57a0c00c415833b3) |
