@@ -1,0 +1,194 @@
+# [Elimination Proof](./readme.md) / A. Pujols &#039;01 PSA 9
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 5 |
+| **Started** | April 2, 2022 9:00 PM EDT |
+| **Completed** | April 2, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 3,328 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,664 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | A. Pujols &#039;01 PSA 9 |
+| **Internal ID** | 1370 |
+| **On-chain ID** | 316 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5ef0-4cdc-984f-aa8ee5fcbdaf/d1f5d65a590df6d43160e1ce4ea60338f228ded0a1e93446da8e9672d9c241dc.png" height="200" alt="A. Pujols &#039;01 PSA 9" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+| 💀 | `1` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `2` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `3` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `4` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `5` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `6` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `7` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `8` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `9` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `10` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `11` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `12` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `13` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `14` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `15` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `16` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `17` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `18` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+| 💀 | `19` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+|  | `20` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `21` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `22` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `23` | `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` |
+|  | `24` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `25` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `26` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `27` | `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` |
+|  | `28` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `29` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `30` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `31` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `32` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+| 💀 | `33` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `34` | `0xBD4048c803138bD4C37E54d2d5A7e7A06490dFdD` |
+| 💀 | `35` | `0x41221582D22fcd050F02AFB7cC8E4E6B4E940478` |
+|  | `36` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `37` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `38` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `39` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `40` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `41` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `42` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `43` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `44` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+| 💀 | `45` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+|  | `46` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `47` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `48` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `49` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `50` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `51` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `52` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `53` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `54` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `55` | `0x7eBe58c21C473ad69746149ca531E7875B57AE72` |
+|  | `56` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `57` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `58` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `59` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+|  | `60` | `0x8F35E31E31A2475908881B063Be05eb15b7a2624` |
+| 💀 | `61` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `62` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `63` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `64` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `65` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `66` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+| 💀 | `67` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `68` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `69` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `70` | `0x0CD9587628D753CB5CB2e5d4ABA7D573E3250dCa` |
+| 💀 | `71` | `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` |
+|  | `72` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `73` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `74` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `75` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `76` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `77` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `78` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `79` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `80` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `81` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `82` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `83` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `84` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `85` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `86` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `87` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `88` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `89` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `90` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `91` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `92` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `93` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `94` | `0x7da291dE97F0a87798A98abc516c93C55dCD6664` |
+| 💀 | `95` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `96` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `97` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `98` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `99` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `100` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `101` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `102` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `103` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+|  | `104` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `105` | `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` |
+|  | `106` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `107` | `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` |
+|  | `108` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `109` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+|  | `110` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `111` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `112` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `113` | `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` |
+|  | `114` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `115` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `116` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `117` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `118` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `119` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `120` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+| 💀 | `121` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `122` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `123` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `124` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `125` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `126` | `0xb529e5F0598343D00508909c04AF86bABB0B981A` |
+| 💀 | `127` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad487260bc81ce41f884f5abb725cd47ea8ca16f70768a7865e453422992c4d7) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc70f3de51a79e63658701069cd62faeb53cb99c4040d477ee01e8cc3e14bb11b) |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6d908606e15ea87c0fb0caa03db39a0856ded7c9cf14b09c4224de34ca37fd15) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5cca34c09725731a6577c0ee5f5d4086ebdcdeeef40c0c7b245c08ab6676ff3c) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd18a820629b6238b81c51d6c9df74abfb66e99fe090372194c1186e5234dac07) |
+| `0x0CeB2eC4c46d919a72b931fB992E42Bc2e5bA8dd` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d8043c11bf0ab75b5f29c4f1b67c7363f6366c77f9037ceace9467ae43c428e) |
+| `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf3b22b14c3a443fb4ec272e61482b44e160234109a1c2f53b081f3b7fe512a5) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc0111ee8c2ab904cf721852f3808eb37985ca6cc7e88d268f097e9a6b5db3958) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0ed5218e0380e4d4816bfd85abb948f37fc026daafe514133ab8b6881d58cc1) |
+| `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc71e285e7d210b566e43bbf9550effbf0c90c74dd7350d556eb9e59198f207f4) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa30eabc9c70ed17a17126da06ae2d2a33d411b07d9c22e14831f464822fa04e9) |
+| `0x41221582D22fcd050F02AFB7cC8E4E6B4E940478` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc2e2ae1ef6d17650697dfe72d4454def0a09db325f301a017d12a762b1e7b86) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe27762191760428cce2b2af14fe64a5ecb5ea33512f0052ee02b303d447e5051) |
+| `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xccbd823dd385e37ac43fa22eb2eb987a25054839a86a38c393b533999aaeca8c) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x543bd03a1186ab9b04504d78e0118cca3dda5c1d8b5e342f988543de2c3a3345) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x107097f9a182122fb27d04b3b288ae24880f2b2d42f089eb4e92df7112d109a8) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5ed3952132c09d772a61473002623a1f3a545322e70c25c44393678cd6d985ed) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | A. Pujols '01 PSA 9 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1fe857932dd37b7fc2a3fd17b629067fd4db461b83c4afbb6ef9436fc00a0fb1) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcfa5a39ac73b6fdb123ae72b4dc5b7f7a9d056a17f76b2b61c34990a875a0c5c) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1c136624f0a5f3b9ebd90058b169c71989dd09501b559e6f2a1ada7b943195e) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | A. Pujols '01 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x01c332b5bcbcd973a2220ba75f796d70b852cfc8a2336f95cbdc9129d29ab78f) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb6ff80b7b3384f15d03af168babf9f48b1a42b6128f972f86566891d87a8dcf) |
+| `0x7eBe58c21C473ad69746149ca531E7875B57AE72` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x989f743f263c565e0321bee5798e0bb16558c80523bd9d2520551ea5b2ec4e87) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0805f75f997b71df8bdfedf198950b910a88473b7f40507967bccfeb98c5017e) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d68021b60995045792058e363a5815855d2de09f6545cb8f4abdc0b54aa64be) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | A. Pujols '01 PSA 9 | 7 | [Polygonscan](https://polygonscan.com/tx/0x496ecf9a1663fdd3f3bfb089531d90fb2ee713c93606acdacd26451695fec518) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | A. Pujols '01 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9f202314370591f50e91cf7e11f9c9dca043bcc1e98a9af7663c04f812077753) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | A. Pujols '01 PSA 9 | 8 | [Polygonscan](https://polygonscan.com/tx/0xbfd09528026b334508e36283b3785e0bdebac1d1a9e4297e3d631af0cafc4fc9) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8735ab029f3e344e5ec11caa81f30e9da43871445500adcc23b78da9046d4f6f) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | A. Pujols '01 PSA 9 | 4 | [Polygonscan](https://polygonscan.com/tx/0x05a696bff9a66031093a88046ebe9df6f6e5e700e858d35de46bedcc7e803bcc) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | A. Pujols '01 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1bd67a1f1c4afb5def4303be3f0303f67573871737c0a33e578448755d28d50d) |
+| `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2925041f767e89749d0a19c87e26130f97d82e66386892599af32e3010d617a2) |
+| `0xD140407bfE76Ab48081b3dc063ab2e1ac2F05b5D` | A. Pujols '01 PSA 9 | 6 | [Polygonscan](https://polygonscan.com/tx/0xe513de00a8538497716cea61beebea7c0b82ac5461818ff7b65e6a3cf8d9f39d) |
+| `0xD69916abeb9fCbF6A7D01D02E575c398Dc51f9E7` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd80cb8259710820da0b4c7259f9222b13499637ac7fee5000978a69fd25505f9) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ab2404dac3c1c82c013be943d3c287d2c75590ea69337031e221bfdfa15732e) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6ba19b338261b764913d4f259a25b9a00701aa7880905ea5577da0db66876cdf) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa467fdc70640046c12684cc44bb7a989ea8eca9d47ae47a00defebe2b043b316) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | A. Pujols '01 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x060a6feeec237ceb5e48466860ef2944db9ef2eab91a91c109c021d965a4a437) |

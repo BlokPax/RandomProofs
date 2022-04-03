@@ -1,0 +1,189 @@
+# [Elimination Proof](./readme.md) / Black Lotus R A &#039;93 BGS 8
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 5 |
+| **Started** | April 2, 2022 9:00 PM EDT |
+| **Completed** | April 2, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 3,328 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,664 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | Black Lotus R A &#039;93 BGS 8 |
+| **Internal ID** | 1375 |
+| **On-chain ID** | 321 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5ebd-44d0-b2a9-7c82b8880861/bc6a47df3ab6da99e17c64bfcffde704ed7647974e30527ba65a38f8a23b6291.png" height="200" alt="Black Lotus R A &#039;93 BGS 8" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `1` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `2` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `3` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `4` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `5` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `6` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `7` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `8` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `9` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `10` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `11` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `12` | `0x6B721CdAc4D2e74f61061c2b3a8e7C17ebFBD87d` |
+| 💀 | `13` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `14` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `15` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `16` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `17` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+|  | `18` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `19` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `20` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `21` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `22` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `23` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `24` | `0x216B8F32E70A15Da088d157fbcff7c39057ACe34` |
+| 💀 | `25` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `26` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `27` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `28` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `29` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `30` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `31` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `32` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `33` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `34` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `35` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+|  | `36` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `37` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `38` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `39` | `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` |
+|  | `40` | `0x117742c41c9D5b11a20F5faDC5027b06B0945BfF` |
+| 💀 | `41` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `42` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `43` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `44` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `45` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `46` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `47` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `48` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `49` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `50` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `51` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `52` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `53` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `54` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `55` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+|  | `56` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `57` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `58` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `59` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `60` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `61` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `62` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `63` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+|  | `64` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `65` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `66` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `67` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `68` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `69` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `70` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `71` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `72` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `73` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `74` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `75` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `76` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `77` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `78` | `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` |
+| 💀 | `79` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `80` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `81` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `82` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `83` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `84` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `85` | `0xdbb5411B417AD135eedecE5488ef305825CF8C77` |
+|  | `86` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `87` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `88` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `89` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+|  | `90` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `91` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `92` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `93` | `0x17E411390B57D6f6bA8952A77E40eefC2969C851` |
+|  | `94` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `95` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `96` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `97` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `98` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `99` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `100` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `101` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+|  | `102` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `103` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `104` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `105` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `106` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `107` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `108` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `109` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `110` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `111` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
+|  | `112` | `0xD66d7E532Ab80b680ffA96b10dffBA025316b8B9` |
+| 💀 | `113` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `114` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `115` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `116` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `117` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `118` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `119` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `120` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `121` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `122` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+| 💀 | `123` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `124` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `125` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `126` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `127` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x103a999b4b51b0808250ccae63064d4f63b15f98ff6233b927df3f98c754818d) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | Black Lotus R A '93 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf1294ac2246c60fa2d082ed825efedf384f76b6b35548e0b20dc2879b45435a2) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6635bafe70879150145e382bb46fbf40a755be27512ef493eed70f904a793b78) |
+| `0x17E411390B57D6f6bA8952A77E40eefC2969C851` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x22ef2f8fd2944cf48e371a0c03f9c820388a6bb28bd0e418600c1c8d3ddece66) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x24da37b60082980a3d8303f56625d684f5e5c7030d73f321039a1be08a507962) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31baa625e7f3af2a70bf7d7eae2f7bf1dc322cd6ae28243f7f84c068b802233f) |
+| `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0c3fa0df7461427da727dc01b956888dca0a31c288d722d790746b123632790) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08d9b9bcf65a4330258e107fec0185f326821242b29c56bb286342b0485bca67) |
+| `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b95ab97bddb13624889058a08a33c8a87a2fb757db06b548d4678c869edea1a) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | Black Lotus R A '93 BGS 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x9c7bab298e7e9a710f6ccdc4d7ecadf088688ec39a2b594019425933ec9790ba) |
+| `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cb460565f00e2dff2ec8a7766983dacb28ee0b266613716756193970a7131f4) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8babcf3079699852bf0816fe1dc9bb566e812e0c6e8adcf5441c8b28bb2370c4) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2a85d70c2f16134788d765eee86b32e021c426941052272f39fc810988f69d6f) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | Black Lotus R A '93 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0x0ff846844af1ff42302dd49dd6070dc03e87a84669c7406ea82630d81bc6408a) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9aa11bb7619c5b929ba167fdb96afe7cc7444ff3d4237990cb04534edf5f6e70) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbd552fbae24b30f7981ad636c35b2fbb125d611fe6f5d63eb1ceb015c007c89) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf8839c1b4e80f88e900d8a7631846996843c418cf0f6f90d942168ac95b569bd) |
+| `0x6B5224dC65817c591d1925523252EE9b58391E0F` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x2e54db250a8a4dd1ec48024779645c997da6723837652ad6334090e0494ab609) |
+| `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x791dddbf3cc7e65cd2c522f9bc78c3fbb0aea771fff877879a81e1626eadb367) |
+| `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x90003fdae4cb215e536ad56ab2f00b503ff27675d1685002a30584d3ad48c7f3) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3db592009f23cc7f15ed8cdcdd32673399aa61307693f0e5ef98b05e5b86677) |
+| `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x316ed7a681d41e5d56dd036665578225d7bc147bfac52c9723affb7bb7e53ca0) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d2abf416db78a5cdd6105f477cf861c1df30b36fc1537a884ed0be9219b765d) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | Black Lotus R A '93 BGS 8 | 15 | [Polygonscan](https://polygonscan.com/tx/0x5413d03d671bcfa205f5383d03f2a7e3dded562a21a62da30c9b4be5990bf661) |
+| `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1e4b5a5f4efa4bd699e460e112c808fd14d56ed8e66bc2322589ba88630729f7) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57a257e68731f23beb7166eed80159deee76ac1b0da527811325199c69685ec5) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6825b75afed3cff009bdc3b553382dd5eb090eb5b577c83257d55c5faaa948d8) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | Black Lotus R A '93 BGS 8 | 4 | [Polygonscan](https://polygonscan.com/tx/0xb92ad2580798d0759a9f168c144d771439db527bb2bc8ba6af778de95b47899a) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3d713e3442fb860e6b1e4f5e869252b3678911ba8ced50a3b2b5c8ebccbedd0) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | Black Lotus R A '93 BGS 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3577e7ca008c492f534349ca846ca75344cde3ca10ee937297963cfadda4462a) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x147f3d3a6d1b4a6b02e206fdf68e0a218825e547f6c04815b90e39c3cc4e1d5a) |
+| `0xdbb5411B417AD135eedecE5488ef305825CF8C77` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xae87cf28f6a17a810155f44198b51a7f482148f3105fbc546f7d63aa8c63e191) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | Black Lotus R A '93 BGS 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe698c804d3e559e460529ce40587399654a2328660e4eda6254332327999c1c7) |

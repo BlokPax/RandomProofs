@@ -1,0 +1,187 @@
+# [Elimination Proof](./readme.md) / S. Crosby &#039;05 PSA 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 5 |
+| **Started** | April 2, 2022 9:00 PM EDT |
+| **Completed** | April 2, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 3,328 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,664 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | S. Crosby &#039;05 PSA 10 |
+| **Internal ID** | 1392 |
+| **On-chain ID** | 338 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5ef4-443d-8a1d-7d6efc6d4f24/ace0c3d0094466d66c3596e82d4a289483bfe9ba4f27c044a5bd30540c0841a8.png" height="200" alt="S. Crosby &#039;05 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+| 💀 | `1` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `2` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `3` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `4` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `5` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `6` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `7` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `8` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `9` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `10` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `11` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `12` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `13` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `14` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `15` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `16` | `0x16e9Cfe34541d8601Da1fAb1707FE2B1b867887F` |
+| 💀 | `17` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `18` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `19` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `20` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `21` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `22` | `0x4f79e9Ba5E41E1b19938002341b6Cd223f84AB76` |
+| 💀 | `23` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `24` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+| 💀 | `25` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+|  | `26` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `27` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `28` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+| 💀 | `29` | `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` |
+|  | `30` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `31` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `32` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `33` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `34` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `35` | `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` |
+|  | `36` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `37` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `38` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+| 💀 | `39` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `40` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `41` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `42` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `43` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `44` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `45` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `46` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `47` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `48` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `49` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `50` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `51` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `52` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `53` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `54` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `55` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `56` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+| 💀 | `57` | `0x874164d037093A7C8f2EA7918A77E1A562A70E71` |
+|  | `58` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `59` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `60` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `61` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `62` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `63` | `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` |
+|  | `64` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
+| 💀 | `65` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `66` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `67` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `68` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `69` | `0x87B0F98A4a5DFaE319185b3248177370B136566c` |
+|  | `70` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `71` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `72` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `73` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `74` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `75` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+|  | `76` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `77` | `0xb529e5F0598343D00508909c04AF86bABB0B981A` |
+|  | `78` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `79` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+|  | `80` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `81` | `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` |
+|  | `82` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+| 💀 | `83` | `0x8F35E31E31A2475908881B063Be05eb15b7a2624` |
+|  | `84` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `85` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `86` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `87` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `88` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+| 💀 | `89` | `0xC03C278662c0026AAE447488048C4796Df771927` |
+|  | `90` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `91` | `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` |
+|  | `92` | `0xf0955C41CCA0b2440E32F952a05Dd6d7D697c3F0` |
+| 💀 | `93` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `94` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `95` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `96` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `97` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `98` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `99` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+|  | `100` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `101` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `102` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `103` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `104` | `0x6B5224dC65817c591d1925523252EE9b58391E0F` |
+| 💀 | `105` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `106` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `107` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `108` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `109` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `110` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `111` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `112` | `0x6f87E325016bD54a9C778fF014C7CF2B84608f9f` |
+| 💀 | `113` | `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` |
+|  | `114` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `115` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+|  | `116` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `117` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `118` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `119` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `120` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `121` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+|  | `122` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `123` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `124` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `125` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `126` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `127` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | S. Crosby '05 PSA 10 | 27 | [Polygonscan](https://polygonscan.com/tx/0x77b1e7716f421457810f037fb864bfead0ec20dd20ebdac9b59ee93cd6f79059) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf1e95de74f01617ed54eb5e906fb41a73e57c97ad08e857fc49a4da370d8c9f) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | S. Crosby '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1a86f4a98e5fa59d7d65cf14059453b769d4f2c9f114503c9ae1fb94049650a8) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd1e62b19e173cd9a50e6fd678c2f87ac6f5703e8ea94942f147e53350e62b5d) |
+| `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x88d1ca81b122cf4294879618d92552ed3eb423299e03ff37b55a390dc79ce7f0) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9735de7a2c46270b308329415e8a73158f706ebed842066d7f6163336fc84c9d) |
+| `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf4457846fcfc049a5690117a8a1859b9a1466aa8e4b12ab1537e5375776457ec) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | S. Crosby '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x510dbccc457bb8354d63c72d3992f44b6716d36ce1c2388a9f5a72f60d235830) |
+| `0x5ABD6A48AD5AD6100DdcD5438B8a2488E5C083f1` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x77fca7a5cb2f84d78b3e2c81b31218cb184e52442d8f52d1c494aef00975fd4f) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ba4db11aa27a5f45a17c05abae9b082f47512b39f41b83b506581bba5904d8b) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfe0df84da0433bcf26031582d69c4dd31a30059f56b9eb6304cbedcbd298e4ac) |
+| `0x6b3613B94E93ebf6b2eF9F5EFD179C3600aD72DC` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb61b25658106d1789ae56bc1c25c81116d86e80092139043f41c236bedead8e8) |
+| `0x77C7d2e9ea6597B927A64d46308ac4d5De4655fd` | S. Crosby '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3ef9cc384452124f7f553bcba4dbb2ef99a5d967423565feb8a39e22dace8e8d) |
+| `0x7A31998C3dab70E712b0Eed297820BD766cb6DBc` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa8c80f4ba9141e2d395ea306d327a67cbbe4c04cc32785f7752d14bd3004aa1) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x75aac6511bf0d15dd745d404010ad6700a300ffb0b762aa069d9845d55d253a1) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | S. Crosby '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6caabd200dd0acbc4ab5cb107b58536dfe1ac8dacc884bb43dcc0795d4d5947e) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb77f53b8abc6c7edf0edcb08eda7d39196bd1de39da894f574b6777e1bfbeb6b) |
+| `0x850782620CC5A4f4119bf68bF9Cdde520e9b8f21` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd940dcb151014d3e167006a13bdfffabfe4a93120460d6cd344df5b1ed5b62ca) |
+| `0x874164d037093A7C8f2EA7918A77E1A562A70E71` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x04606188bc6c0b22bd6dfdaebb22bdf5db9b4dd938cb975fc60ed5372c3ce792) |
+| `0x87B0F98A4a5DFaE319185b3248177370B136566c` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e770b0fe7fbe5a7673f9136dff4c5d9c8475d4912911169a47061a455fbfd5a) |
+| `0x8F35E31E31A2475908881B063Be05eb15b7a2624` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0fa222bfda8f9f077287b362c817e51fd00d4dd75e9eec20092ab6fad1d87940) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | S. Crosby '05 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3b81ca81f3789f6efc0bb8d5c656d670ede91f9a4427ca6e42690813462a80a8) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6a67376804718142d1f0d5062f3e8713ca4b770b03f031192512c5ff6469bcab) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6983b40e1fc6dc4237bf9d5bca93ca86f89ea896eda1d8c57075c548802bc4d0) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x96780c6fab947a60058327684d85f4603d71b62089f7941e016942bce1e29622) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1acb2ed27b56efe4163bd8fea93ced0c0438eb5a4f18a324411c3eb046cd7736) |
+| `0xC03C278662c0026AAE447488048C4796Df771927` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb78c9ac65dac79f9e9226c0ad296743c6c84b44b412fb5c1e29de7a12dc75d2d) |
+| `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc436d7316244cb92546a43633b667ad70206b44ad4e2f672bb4a455ff83f6301) |
+| `0xDFf18CaE75A0C141e1F67601967A2Aa36F75bE33` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x46409ea44ee1f001766e8cfdc361cb18f323f573402ecc0cbd3276c513de9ae0) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | S. Crosby '05 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe836d592549da0e39b08213baec3f3c83e5e282a02f83070c7d11e05bf388d48) |
+| `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` | S. Crosby '05 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xe2c0cdacb9e5e9147abb91a87f500a6d40b24bd00cf9e2dd31bd56ee2b2c73d5) |

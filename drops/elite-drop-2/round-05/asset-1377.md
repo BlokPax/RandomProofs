@@ -1,0 +1,193 @@
+# [Elimination Proof](./readme.md) / C. Ronaldo &#039;06 BGS 9.5
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 5 |
+| **Started** | April 2, 2022 9:00 PM EDT |
+| **Completed** | April 2, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 3,328 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,664 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | C. Ronaldo &#039;06 BGS 9.5 |
+| **Internal ID** | 1377 |
+| **On-chain ID** | 323 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5eea-4e8c-9eed-225ad60e5567/759466ee624c945cfd0613f48e10f4393071987f004873d4c1be01e19ce24a91.png" height="200" alt="C. Ronaldo &#039;06 BGS 9.5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `1` | `0x87B0F98A4a5DFaE319185b3248177370B136566c` |
+|  | `2` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+| 💀 | `3` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `4` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `5` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `6` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `7` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `8` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `9` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `10` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `11` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `12` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `13` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `14` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `15` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `16` | `0x1DD8A8E09E8aEfd15cC2b85eF082B4517AbcfF50` |
+| 💀 | `17` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `18` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+| 💀 | `19` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `20` | `0x5055a4201654Fdf2609151001ABcF5A55B55Ac85` |
+| 💀 | `21` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `22` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `23` | `0x0CD9587628D753CB5CB2e5d4ABA7D573E3250dCa` |
+|  | `24` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `25` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+|  | `26` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+| 💀 | `27` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `28` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+| 💀 | `29` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `30` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `31` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `32` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `33` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `34` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `35` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `36` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `37` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `38` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `39` | `0x8F35E31E31A2475908881B063Be05eb15b7a2624` |
+|  | `40` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+| 💀 | `41` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+|  | `42` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `43` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `44` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `45` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `46` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+| 💀 | `47` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `48` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `49` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `50` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `51` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `52` | `0x6d77255fcC5c3871bbf2b008e88e1aC8AEC831D8` |
+| 💀 | `53` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `54` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `55` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `56` | `0x87527d59a9453B12ACeBA4623320EA9BC27c0B65` |
+| 💀 | `57` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `58` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `59` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `60` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `61` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `62` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `63` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `64` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `65` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+|  | `66` | `0x579Cc717BBcC333acF4a6fC22AC3748F532852B3` |
+| 💀 | `67` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+|  | `68` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+| 💀 | `69` | `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` |
+|  | `70` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `71` | `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` |
+|  | `72` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+| 💀 | `73` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `74` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+| 💀 | `75` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `76` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `77` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `78` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `79` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+|  | `80` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `81` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `82` | `0x4AcDaDc7a4DeEb0C403e323ee84869a46C05530E` |
+| 💀 | `83` | `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` |
+|  | `84` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `85` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `86` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `87` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+|  | `88` | `0xE2FAFD33158Eb2aF88DCc2f0fBB792b49c30Ea33` |
+| 💀 | `89` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+|  | `90` | `0x606fAA5C30416A54552b73c16065A9ae35d49B51` |
+| 💀 | `91` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `92` | `0x7a95dC3d041Bc46aA212512b6d5ea3aE8e2Aa874` |
+| 💀 | `93` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `94` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `95` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `96` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `97` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `98` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `99` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `100` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `101` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `102` | `0x24803CCcFe35207cC07aFBCF5f5B041b03810D44` |
+| 💀 | `103` | `0x87B0F98A4a5DFaE319185b3248177370B136566c` |
+|  | `104` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+| 💀 | `105` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `106` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `107` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `108` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+| 💀 | `109` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `110` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `111` | `0xb529e5F0598343D00508909c04AF86bABB0B981A` |
+|  | `112` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `113` | `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` |
+|  | `114` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `115` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `116` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `117` | `0xF011f87861B6f9999FB83517a8719c550B028621` |
+|  | `118` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `119` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `120` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `121` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `122` | `0xa272A64ac4999ABB1200FFdA5860855B3f5793b5` |
+| 💀 | `123` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+|  | `124` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `125` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `126` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `127` | `0xb529e5F0598343D00508909c04AF86bABB0B981A` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | C. Ronaldo '06 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x4a48a32625f8e47c6adcb21dec935381c0a45c3c386f2b0ff56c044d30068db1) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9b183f42e7eb3588dd3c076b5952e9e96703c288303b504749592bd63a76593f) |
+| `0x056e2Bd65fe2d6Baaf3097809843ed860145d334` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x266df963d5dd609601dd7e8a94f55a0387f1ef26879945a54cf418e2f0486594) |
+| `0x0CD9587628D753CB5CB2e5d4ABA7D573E3250dCa` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5c195fd1f656109d6c85baa5eb063d79b7217ec488c0004f62bd8380c4723959) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3a63433bf31f74e10de83b25704072cd7d2a4ff677e4f2e89c40cdf16b8e884d) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | C. Ronaldo '06 BGS 9.5 | 13 | [Polygonscan](https://polygonscan.com/tx/0x4b935346d630166fc8f6d2eb958bb823702fc62d52afaa293bf541608dcbef66) |
+| `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda2f230dbeae031ec0e35e48af384ba2ecc0f9864b410bccfcf7d548e8ae3265) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9763a08ba970c388d906aee17cdb7c2a1cb79aab3f73f8b68c1f7bc9eee4a0cc) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x475ee99c26863c3a0bad258cdc540af252d1f266d0c184aa6cef2ad2b1e3e144) |
+| `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x57993965f363c5bad6276457b0a961e8824db9b1c66ed7386fbb70eed591135b) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd8d0fb4720e833301a43c4a8bd2c25f80392469a2c8ff71b0a714c514e18ca7) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8185c0b794efc53f34b5d527c8a5bab81660c64caadbcc758907900c8c29eaed) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98e0fe53fed81c28d9c08ee4e29cd93c510584d6151511a903af13308fd7992e) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xffb5cd9ab29f24f76f9d7a917fbde6f5aede198888c8c202c0dd8d56bd60e9cf) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4c7f8c6382138e0b5dfe72f939bf694eafa7ec3bbf663c538005f3a5205679fb) |
+| `0x606fAA5C30416A54552b73c16065A9ae35d49B51` | C. Ronaldo '06 BGS 9.5 | 4 | [Polygonscan](https://polygonscan.com/tx/0x7fd6ac75bb07fa5bcc8e3084cf012396d730e66795f278560285b3f5322cc78d) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2c89ad3f3d065e460dd7e213c7439c18631dbf2606d026db7edeb4783eeab4b4) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaba33f2b775053a619b708ffb194dfc8d0efb619fb036589ff86f51b9ea77e5d) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7cc3167f993945b7b1707770acb2daebba85e95b9aba2a4147b3a4dc4829ca0c) |
+| `0x87B0F98A4a5DFaE319185b3248177370B136566c` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31b41c092c361f2180a21798f98917e39f219da191a2bb07cf6d9bf3376cda92) |
+| `0x8F35E31E31A2475908881B063Be05eb15b7a2624` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc2ca966eec5f508a5b634297658827ea32b7f43976c486e6f2e1b483119f0c09) |
+| `0x9081E7ad50188dF1589B8b9Fb7ad0f26E3b3028A` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3662b508780bbc9fbb06c026af25efd33149dcd04e8376705485e87cc2ad9c1a) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7677e0f119c120aea74adddba29432f2907a588e57aa97dac1a7f052718dcc7b) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc3e29fb3c24f8d7add3074a1c28d0302e1925f728289c769fcf5a41c20a36d7) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xecda5f1f35d5585bc481241f9d86a0d46a8db20175601ee3a6ec6ca741be954e) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x675eea4297a810f9b439390b35212d09c7dde61479878796f9fdea0f537dada2) |
+| `0x9ECaC86ecC46aEd3c4a7097bE048280FC8d81a70` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa06c05a34e5de3392126fada07372bfdba7bf7b8e80da4b5a628e0aee0ed1b2b) |
+| `0xb529e5F0598343D00508909c04AF86bABB0B981A` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x751adc05ecf9212fb891f53996dfa3464fa0638aeb09018a1d06a5a067e87ee1) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5e22a7344dbc5501e2bb592deaae8f6768ba1829a44c81fae1b5179af64567c5) |
+| `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x85cc9ff5f9719bbe48599db41e443793f7f0ffd95f3e92b163744b5444cd16e1) |
+| `0xc38f32CDadcec1897236019FC871e35C97b1B4DC` | C. Ronaldo '06 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe36c3c66c5a5a09716ff2de4f8068a0da6684286a89ea871bc5959b95d08da1c) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | C. Ronaldo '06 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xf1a584d5b8d918ca1f045d2b7867edb35382246b3be6a21da9167df683aebbb5) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf59ba6b9cc5d8bcea5ad47732a6938ac9c771b39d4d1b6f741a99f93304c7c51) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x422e3f5714b8b9bb642ffb75ced035a568875ef721eba4db4367d9d7f2d48de5) |
+| `0xF011f87861B6f9999FB83517a8719c550B028621` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x056a8d747ea5bff8b14711e00e2892aa0d2438cd11cc6794d40399a76a57aff9) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcec77ff5d123ec6e0aa57aa844cc2c3f73af69fcaaf1af40adeeaf4ff0adab61) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | C. Ronaldo '06 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5a2932e989e856689037f4beaed8dfe0d27125f40df5b4e9bea94ce2c50b3363) |
