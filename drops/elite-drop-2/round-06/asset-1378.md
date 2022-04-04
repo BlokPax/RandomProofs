@@ -1,0 +1,111 @@
+# [Elimination Proof](./readme.md) / D. Jeter &#039;93 PSA 8.5
+
+|||
+|---|---|
+| **Drop** | Elite Drop #2 |
+| **Round** | 6 |
+| **Started** | April 3, 2022 9:00 PM EDT |
+| **Completed** | April 3, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 1,664 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| **Tokens remaining after round** | 832 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32 |
+| | |
+| **Asset** | D. Jeter &#039;93 PSA 8.5 |
+| **Internal ID** | 1378 |
+| **On-chain ID** | 324 |
+| **Image** | <img src="https://tcdn.blokpax.com/95e5eeed-5edc-4a2b-877f-a2692f439a3b/a0e8a5b5e51914f28902a2c424ed04846c166925bf4a12f043bb29b3b569f9e3.png" height="200" alt="D. Jeter &#039;93 PSA 8.5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+|  | `1` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `2` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `3` | `0xD2C73fa1e5BA87363Fc603B68a35f4Bc77aF846A` |
+| 💀 | `4` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `5` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+| 💀 | `6` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `7` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `8` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `9` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `10` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `11` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+| 💀 | `12` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+|  | `13` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+| 💀 | `14` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `15` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `16` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `17` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `18` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `19` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `20` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `21` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `22` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `23` | `0x1Ce91BAAf21eE8185A587223aA5505111FecCC8C` |
+| 💀 | `24` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `25` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `26` | `0xB1981a76F62972A2f03e07a0B66c317737DcA189` |
+|  | `27` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `28` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `29` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `30` | `0x68d814e8Bcc971df740FA8B5610C290284012781` |
+|  | `31` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `32` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `33` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+| 💀 | `34` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `35` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `36` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `37` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `38` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `39` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `40` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `41` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `42` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `43` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `44` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+|  | `45` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `46` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `47` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `48` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+|  | `49` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `50` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `51` | `0x2b604baEe38Fd5d9eF2b236e4d8462C27A66aD5d` |
+| 💀 | `52` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `53` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `54` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `55` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `56` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `57` | `0x2c0485f3333CA8B4E797608Fc5c959D664c3Dbc0` |
+| 💀 | `58` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `59` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `60` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `61` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `62` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `63` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | D. Jeter '93 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7ede2c60189f4b66fd09f49a610dbc0571843c4f1db1511e32bb2854a9ecff73) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xed4b819771d2d215c5df4e8c9f880c680303e2526432da839a71dbfa95173284) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d066b7b2dac270a92255bdd09d5ff4775ddfd71434cb6046400d93f4ee07ad0) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0da34865486a157177ecf6249c8807fc2fc4e985e418e79b0d4a0756008c1b9) |
+| `0x14D7dCdA5Ef603db690522f87334478fd20327e1` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7ec7d8a77f012370484b44786c45bc25ef6c175a29b7b6d0434dd7b18d5d81b9) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x986a703777baccc6d28934fd7f7a68e863074ae39c72b18255215df92a2482b4) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x257433a6cb4e55e1321881349aa420338c02a42902baea503d84696f9fbba9b9) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | D. Jeter '93 PSA 8.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x2cf4e5afa17cc177291cbed4ee6c6f3adf5e4abce88102ad6d20b37b1c1347f9) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x809b18d3d36e8ec9dbedb3c173a7b6bc778c0bcbb6e98a53f11950dbf43bd652) |
+| `0x68d814e8Bcc971df740FA8B5610C290284012781` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc29850f310f3c515ff9328ce204380bdcaea34b4e1912af9bf9f5010edabc93a) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb39a4f9ed6246420fc99591fe7711bf319371aa76fd2fce6c991eb236bfcf83) |
+| `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` | D. Jeter '93 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xabb928a216c366c34bf0a67b798cb5f03a04071202757088650ad46fc9ea464e) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | D. Jeter '93 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6c337a03efac0c3149a77ec2b2498e4cf9dce6a300448e31f9d6df6580613065) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1c979428261e2a2ca7bded002db224920e5e370da5883a1668561c0cbcf7a425) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd2685d3d8a83328ca9510cbecf32c327911f1b25ff0825c1c5b2a0ec1784174f) |
+| `0xB1981a76F62972A2f03e07a0B66c317737DcA189` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4292f67bd4ec8cf6cc42ab949b521dd556f6e0f1111f75c83dccbbd97eebf3ef) |
+| `0xCa99583513d2621E32D17E59489C970000E204B6` | D. Jeter '93 PSA 8.5 | 6 | [Polygonscan](https://polygonscan.com/tx/0x40f66593027dae21d3d7919df39223b1e7c7ed330b15a0e380abe76a220d15b4) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | D. Jeter '93 PSA 8.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc270c3ba82448ec71183a9c0a39704437ff10b95393165955e3b93c1412482ff) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | D. Jeter '93 PSA 8.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6571a88d1a958bea3dff8c65e3a4578afe82227014ef76c1de1c47612edf2d00) |
