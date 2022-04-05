@@ -43,6 +43,20 @@
 | Tom Brady Debut Ticket Crowdslabs Unit | 293 |
 | Elite Drop #2 Instant Winner | 50 |
 
+## Eliminations
+
+- [Round 1](/drops/elite-drop-2/round-01/readme.md)
+- [Round 2](/drops/elite-drop-2/round-02/readme.md)
+- [Round 3](/drops/elite-drop-2/round-03/readme.md)
+- [Round 4](/drops/elite-drop-2/round-04/readme.md)
+- [Round 5](/drops/elite-drop-2/round-05/readme.md)
+- [Round 6](/drops/elite-drop-2/round-06/readme.md)
+- [Round 7](/drops/elite-drop-2/round-07/readme.md)
+- [Round 8](/drops/elite-drop-2/round-08/readme.md)
+- [Round 9](/drops/elite-drop-2/round-09/readme.md)
+- [Round 10](/drops/elite-drop-2/round-10/readme.md)
+- [Round 11](/drops/elite-drop-2/round-11/readme.md)
+
 ## Overview
 
 ### Building the card list
