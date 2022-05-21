@@ -1,0 +1,343 @@
+# [Elimination Proof](./readme.md) / VeeFriends Series 2 - Like a Sponge #35902
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 4 |
+| **Started** | May 20, 2022 9:00 PM EDT |
+| **Completed** | May 20, 2022 9:04 PM EDT |
+| **Tokens remaining before round** | 9,216 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
+| **Tokens remaining after round** | 4,608 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| | |
+| **Asset** | VeeFriends Series 2 - Like a Sponge #35902 |
+| **Internal ID** | 1788 |
+| **On-chain ID** | 383 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-1846-4789-9f2c-306383015c6a/01250b10f08464c403067203698c6facd2cc06424789dc492303381cd0ba5e74.png" height="200" alt="VeeFriends Series 2 - Like a Sponge #35902" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `1` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `2` | `0xFa617ffBe8d2E3A63083d3b316F416f51d1514BA` |
+| 💀 | `3` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `4` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `5` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `6` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `7` | `0x24Ab39D72F271743948514893C6eD9f74f9edE8E` |
+|  | `8` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `9` | `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` |
+|  | `10` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `11` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `12` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `13` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `14` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `15` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `16` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `17` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `18` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `19` | `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` |
+|  | `20` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `21` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `22` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `23` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `24` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `25` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `26` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `27` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `28` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `29` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `30` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `31` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `32` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `33` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `34` | `0x16172942f16c50A18d7024d339a672E3650653D5` |
+| 💀 | `35` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `36` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `37` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `38` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `39` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `40` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `41` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `42` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `43` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `44` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `45` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+|  | `46` | `0x856e4119E8A49fe269b43270F91aE81F374Ca492` |
+| 💀 | `47` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `48` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `49` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `50` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `51` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `52` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `53` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `54` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `55` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `56` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `57` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `58` | `0x5563456491dd87cCE83279816caedefd5E9f2d86` |
+| 💀 | `59` | `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` |
+|  | `60` | `0x5bfc9cE707D3D66e94cEe48A4460CfeE1dB70D7d` |
+| 💀 | `61` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `62` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `63` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `64` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `65` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `66` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+| 💀 | `67` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `68` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `69` | `0x87B0F98A4a5DFaE319185b3248177370B136566c` |
+|  | `70` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `71` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `72` | `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` |
+| 💀 | `73` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `74` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `75` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+|  | `76` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `77` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `78` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `79` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `80` | `0xd868744a95dcD47D22B09e18Fb1BaD723c4C6A21` |
+| 💀 | `81` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+|  | `82` | `0x7583a7293A8f2Bd0bd43Bf1Ff4E3C946cdd47235` |
+| 💀 | `83` | `0x01904198c337e118027ae7d5c51D9C907fb44b5A` |
+|  | `84` | `0xec304f83a2201D1B093C731275375C2349B58664` |
+| 💀 | `85` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `86` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+| 💀 | `87` | `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` |
+|  | `88` | `0xBf026e20acfAf39FEbbb23bA953A9dA91ED0fA8B` |
+| 💀 | `89` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `90` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `91` | `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` |
+|  | `92` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+| 💀 | `93` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `94` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `95` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+|  | `96` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+| 💀 | `97` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `98` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `99` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `100` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+| 💀 | `101` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `102` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `103` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `104` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `105` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `106` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `107` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `108` | `0xAF8A36FE886871d052C890b0fd4C6bD63be6fC26` |
+| 💀 | `109` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `110` | `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` |
+| 💀 | `111` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `112` | `0x224b8efD19Ebfca0b7309741918f0c1eE53bF208` |
+| 💀 | `113` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `114` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `115` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `116` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `117` | `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` |
+|  | `118` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `119` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `120` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `121` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `122` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+| 💀 | `123` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `124` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `125` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `126` | `0x6d83BEB59d9204509424a8B9563D0Df155B7f2BF` |
+| 💀 | `127` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `128` | `0x24Ab39D72F271743948514893C6eD9f74f9edE8E` |
+| 💀 | `129` | `0xc6Cc979B0cA1919c0F4Da4351A486eB74fb2343B` |
+|  | `130` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `131` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `132` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `133` | `0x24Ab39D72F271743948514893C6eD9f74f9edE8E` |
+|  | `134` | `0x856e4119E8A49fe269b43270F91aE81F374Ca492` |
+| 💀 | `135` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `136` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `137` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `138` | `0x8e7D0Df0d2100C8F19125c151aF3CDE424B61542` |
+| 💀 | `139` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `140` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `141` | `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` |
+|  | `142` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `143` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `144` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `145` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `146` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+| 💀 | `147` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `148` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `149` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `150` | `0x40EF6Da2A216ae3FdFB660F14ae8F98B1e557bF5` |
+| 💀 | `151` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+|  | `152` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `153` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `154` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+| 💀 | `155` | `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` |
+|  | `156` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `157` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+|  | `158` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `159` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `160` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `161` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `162` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `163` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `164` | `0xD5600FB9aa9b80DEB070709611d5abECb6C10139` |
+| 💀 | `165` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `166` | `0x77F2eB1Ad6b3960462Ea4588ce50fe5a39F9CCb2` |
+| 💀 | `167` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+|  | `168` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `169` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `170` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `171` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `172` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+| 💀 | `173` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `174` | `0x3A21434e4A5d1220d8Cfd404cCe5EE570d5843c6` |
+| 💀 | `175` | `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` |
+|  | `176` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `177` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `178` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `179` | `0xC19f526A27DDa0B357F8A748B8691FbFBCad561B` |
+|  | `180` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+| 💀 | `181` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `182` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `183` | `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` |
+|  | `184` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `185` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+|  | `186` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `187` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `188` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `189` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+|  | `190` | `0x3d1504E670d990a83aB62993714B723AD11F9500` |
+| 💀 | `191` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `192` | `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` |
+| 💀 | `193` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `194` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `195` | `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` |
+|  | `196` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `197` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `198` | `0xaCC20775f89769A62D6A4A141Fdc440f71705e7d` |
+| 💀 | `199` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `200` | `0x27e19650a380c5c769C9fb4E1AC765d29adEAE0d` |
+| 💀 | `201` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `202` | `0xC19f526A27DDa0B357F8A748B8691FbFBCad561B` |
+| 💀 | `203` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `204` | `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` |
+| 💀 | `205` | `0x41b09B1A32b6B219f13538180FDb65775ec7f538` |
+|  | `206` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `207` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `208` | `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` |
+| 💀 | `209` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `210` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `211` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `212` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+| 💀 | `213` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `214` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `215` | `0x4f79e9Ba5E41E1b19938002341b6Cd223f84AB76` |
+|  | `216` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `217` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `218` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+| 💀 | `219` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `220` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+| 💀 | `221` | `0x01904198c337e118027ae7d5c51D9C907fb44b5A` |
+|  | `222` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `223` | `0x5591e528bf707Ee84E0E5a83a3ec1Ec64d2ea407` |
+|  | `224` | `0x827d8Cd0bdF88B2FFce2B14caDB1930c4B46950b` |
+| 💀 | `225` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `226` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `227` | `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` |
+|  | `228` | `0x77cCbc0B3918e5575d970878cDd293e4aeB8b9DE` |
+| 💀 | `229` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `230` | `0x4C99CE22f2f9175e7E7D8a5Eab1FE401618Bc7e8` |
+| 💀 | `231` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `232` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `233` | `0xc6Cc979B0cA1919c0F4Da4351A486eB74fb2343B` |
+|  | `234` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `235` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `236` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `237` | `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` |
+|  | `238` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+| 💀 | `239` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `240` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `241` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `242` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+| 💀 | `243` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `244` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `245` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `246` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `247` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `248` | `0xC74464cE1B8D30af96016c0e744F3C1988952a4f` |
+| 💀 | `249` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `250` | `0x41b09B1A32b6B219f13538180FDb65775ec7f538` |
+| 💀 | `251` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `252` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `253` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `254` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `255` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` | VeeFriends Series 2 - Like a Sponge #35902 | 3 | [Polygonscan](https://polygonscan.com/tx/0xccda721b67b47a683cec286b0f1aa362f66be01d38da7aa3d8e0f6b301ae9e3a) |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe8f9e8c83bae567ab515cd7c523a780ea4819d3f7ac76fb7471f0bdbd39e297d) |
+| `0x01904198c337e118027ae7d5c51D9C907fb44b5A` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0xe7a22f41be8d9970174d5f82f2e81c0edbff45cdcc5c161ec06416abbfc11b84) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | VeeFriends Series 2 - Like a Sponge #35902 | 8 | [Polygonscan](https://polygonscan.com/tx/0xe421d1f219991e49ec78713f4d91b83ac06018ffe7c6f06e966b50d5f76f8086) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | VeeFriends Series 2 - Like a Sponge #35902 | 3 | [Polygonscan](https://polygonscan.com/tx/0x1f04d11503db698f3fc5c4ec8f8c1ed897b80ae06136cbf7f0eb7cceb7676c06) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd377f047ee5edb90d8c80ddf63fa160651a9f82fab3ebbf49b4c45d7d6c3bf9c) |
+| `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbd6b3d67e0c9df11483ac15689c9fd0292c83b43359b5ebcde7d5db71b5312b8) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0xdeb4e411cd743fb6262e6e8723144e736c8b960f6c9ab62bfcceea73045d897a) |
+| `0x1Eea77579f542a975cE8f0591dA0aEF48293B4Cd` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7b97b3b60ababd478bca7651de7f71a3d6ef61f3c593a2f0265cf741193e4af) |
+| `0x1Fc4BC3B9cca5A9b86C8D5f6fa592aF999561F28` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb3cc5f2e3109ccea92deb851b447960dbbcebbd4aa8b870469325b152d86451) |
+| `0x24Ab39D72F271743948514893C6eD9f74f9edE8E` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0x840d4d8de58e4530c0a0de31187ff25ff6bf8f4fea3f8de2370b105edc83229f) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x98610cb2b7227d69484a3236c946c7a2abe296a6447a3b3f08166cdeb20d673e) |
+| `0x2a7b8d58C7710ba1BfEC4fa8E91aAbef20D74228` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8159eebe7c17cb34bb29da2dc9030d6b3894d5065cafeb33142efcb65344912d) |
+| `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` | VeeFriends Series 2 - Like a Sponge #35902 | 3 | [Polygonscan](https://polygonscan.com/tx/0xaeec4686b8874436ec871ff67219af2c426618487ad9298e2807bea8f9068c26) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x316b58c6d78e7007ee017f1e6cf4dfa097928bf0f4060d3193f8d439c8c3f338) |
+| `0x41864DEEe8de12716eF1B53Ad2221E8f9B78e8f0` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d6fa3afd24db83e36706dc5839edeeb2cbdd4195564234400f059598ceaa50f) |
+| `0x41b09B1A32b6B219f13538180FDb65775ec7f538` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8f73a9ad2090ecb0fc871553e1186f4a5427132775f00609fdf3b810bf1663d2) |
+| `0x4f70A8C1747626fA8b2b5968AeF8E3bDb3eAe7BC` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5b3e5171d11a0c64e9ed54ccdf81cb715fd18a0f2b64da7f015ff2b2f617fb69) |
+| `0x4f79e9Ba5E41E1b19938002341b6Cd223f84AB76` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd04e5d6aa43822cd4a3e6c67f5214abf39b7787b75c58552f7211c52373241d9) |
+| `0x536236352627A0CD16a2Fa98660F7aD99aA7fcdb` | VeeFriends Series 2 - Like a Sponge #35902 | 6 | [Polygonscan](https://polygonscan.com/tx/0xdb39be66077b73601e7075ba5f6d708e920df3079c8e7b2e41fdf0b1e9498e74) |
+| `0x5591e528bf707Ee84E0E5a83a3ec1Ec64d2ea407` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30840e3817b8e0d6cd7b688c0a6e95fd61a602db46473ceeaafe9367f5d2e05d) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8c022c6dbcb54ca9c515915594f1d3c814f5a64d59010a45c2ff05fdda7dd708) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1da0923de0690b43c90d030e4b6c393e2f9ccb3ce41cb159dcd3da5aedac9156) |
+| `0x60c93E104b7fCA80976857d02E2e1bcEc88d2699` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x02481652e0ec70d3323035f72d012f53b4199520ce54a424582ba9f0615d9476) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd49954c075a04e676e8b6b719f756f07833a2c4e37228591d403580e04b09ad) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | VeeFriends Series 2 - Like a Sponge #35902 | 15 | [Polygonscan](https://polygonscan.com/tx/0x6a9a7400820815e0b14286257cdc9eb7bf916acc44f7824e4ad2b82d2ea58706) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe02972a860c25b2b14a889637754f53ae9b6eb99a6de32ae6265fd55d93bb2cc) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55e0fe74d6c7201967e5db5486d0c176d13b5b783887b52f3a95bff8af22e6cc) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe130315be8fee61af980313c5456b82ad7aef784dc37f4c4366911cc6a43314b) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcc3295b84c3f0fc9621516eadbbe0c763ea9aa4c2446262354bfee2654cc2645) |
+| `0x6edA7A7E0b2d4B24a75E8FBBf49753263F692B6e` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7124fa96118f19ed191b582ef9381c46c39477280663f065bec602bf36207ad) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd147d2269ddaeb5bed406f600c916c295b070a51a86d7d5120197f94277e201a) |
+| `0x76Ba8674F08B13d6F78D74AA00c594cC9eD965D5` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x80b789ee37d33b99291cc8364eea7ecd3f5361a7be32a15ddcaf19cd887edd55) |
+| `0x777b43699B854e3688E9B3a8cD3cDC1f419977E6` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf828a49ee04fb1f7a45521455dff469735d3a6096d1e09d69a3eb661ad7c378b) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ffdcecc9634c2b3b3f5df4398ee817bc4b7f3c30fe8a805ff0592e310576b9b) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | VeeFriends Series 2 - Like a Sponge #35902 | 5 | [Polygonscan](https://polygonscan.com/tx/0x7db1c6af8a831b238352d1ef58cb424764a6f0d655e8b8a42c62ad8482d3c239) |
+| `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` | VeeFriends Series 2 - Like a Sponge #35902 | 14 | [Polygonscan](https://polygonscan.com/tx/0x5c666d73c566ff1421d4c7ea01086dcc8d974ac8069d7e4aef70d4bbb13f6c30) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0x423d2186a67058bf73ebe7b301a73d6b1d4fdaf5bf97c1d97cf686f6bbabdef8) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9abca1db5d9f1c6a345c14deebadabfe22eeac83d410e26bdc3d9f41c50d145) |
+| `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xec426786ba0d6970d125546c4e2d2fecbc70a74df12a5bcd82c651317fc9a9d0) |
+| `0x87B0F98A4a5DFaE319185b3248177370B136566c` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3933d03bcdde76e72647717bf820a08f1dba72491dbc358c25b0950ade09f61e) |
+| `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x39887c0311a6d2d48028b2584698e6b98eeede11e99ff4398c33155dc241df4d) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf99f42b2ce7f79359b23ca1d244f6ef66a6d205772734518e8a2ba2354e86e92) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbb39650c239bf7ca93df52fe7a1dbc817ccc0d1c43532dfedbd7e6c4bce104c3) |
+| `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf3314f9aa4835cb020adf8f08e117391a97d776007e9c52b06f4a6f6e375075) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | VeeFriends Series 2 - Like a Sponge #35902 | 6 | [Polygonscan](https://polygonscan.com/tx/0x840dea0518a41330fedd39a4f58f385c3435bdbc4f1c09a79287601f62d0067c) |
+| `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xacce13e64411d9c67b80724506aa34e395683a2907513325de8cad945892d31a) |
+| `0xC19f526A27DDa0B357F8A748B8691FbFBCad561B` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf2b9bc9efa99935fc84e0a0942191bd7d33f8be942f3872d8aa8a3d4937824bc) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3ffd726e81815a93da15761db87d0e337323aae814c5e4c490d5dadd5e08a185) |
+| `0xc6Cc979B0cA1919c0F4Da4351A486eB74fb2343B` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd053af4828cfb1e3cd63d87ee4fcbafe5d80d7e3feae69e065ca57c64e730f8e) |
+| `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x930cc3601e6b38dc7caee4134efbd6bbfcc916528c007ae93566769088060775) |
+| `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2f8cc5da39a10ab00dfc0c2f5e403fd0969ce3062489ec3b545268e545a6d322) |
+| `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x30c5b93f51b105382312ac082c9d883e0368195827275bd4a6246f1a26d861df) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0x7773da44937461be99bb5b19ec1a56a2b8ae7fd2d04c75aac5b0845e7afb9968) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0x233034e4226cbea6e31b71c213ddcdd9702c2dd281263903af275f57fea5e6b1) |
+| `0xeac54E053b41EDE4A6Dc3510254ea127304c8785` | VeeFriends Series 2 - Like a Sponge #35902 | 2 | [Polygonscan](https://polygonscan.com/tx/0x81024a970fc3efd996c79e1dd53d83b5ea650da2467d24fff0b6e7137c99ca45) |
+| `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` | VeeFriends Series 2 - Like a Sponge #35902 | 5 | [Polygonscan](https://polygonscan.com/tx/0x168b1aef8b04d3668ae23cd13cba727c729a23b017a018ad072629104d7f7678) |
+| `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` | VeeFriends Series 2 - Like a Sponge #35902 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc00cf1eaf67e37f9fcbe6ef9dfb7e5190092c2b8ea3940264c38098be9cc1550) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | VeeFriends Series 2 - Like a Sponge #35902 | 4 | [Polygonscan](https://polygonscan.com/tx/0x149bac85fcf6e0441a90d3045c467cef65d2c7a95071b41b1ca7e44ce8820ac4) |
