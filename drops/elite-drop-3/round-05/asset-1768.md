@@ -1,0 +1,187 @@
+# [Elimination Proof](./readme.md) / J. Herbert &#039;20 PSA 9
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 5 |
+| **Started** | May 21, 2022 9:00 PM EDT |
+| **Completed** | May 21, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 4,608 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | J. Herbert &#039;20 PSA 9 |
+| **Internal ID** | 1768 |
+| **On-chain ID** | 363 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-1842-4f5a-b0eb-51d9e32081c7/b5f4763b4fffe8ac2ffb2f406c62eb72a3b782b3a23cb895586474432a2c922d.png" height="200" alt="J. Herbert &#039;20 PSA 9" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `1` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+|  | `2` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `3` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `4` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `5` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+|  | `6` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `7` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `8` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+| 💀 | `9` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `10` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+| 💀 | `11` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `12` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `13` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `14` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `15` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+|  | `16` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `17` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `18` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `19` | `0x01904198c337e118027ae7d5c51D9C907fb44b5A` |
+|  | `20` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+| 💀 | `21` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `22` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `23` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `24` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+| 💀 | `25` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `26` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `27` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `28` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `29` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `30` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `31` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+|  | `32` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `33` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `34` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `35` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `36` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `37` | `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` |
+|  | `38` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `39` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `40` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `41` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `42` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `43` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+|  | `44` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `45` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `46` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `47` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `48` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+| 💀 | `49` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `50` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `51` | `0x856e4119E8A49fe269b43270F91aE81F374Ca492` |
+|  | `52` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `53` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `54` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `55` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `56` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `57` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `58` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+| 💀 | `59` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `60` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `61` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `62` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `63` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `64` | `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` |
+| 💀 | `65` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `66` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `67` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `68` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `69` | `0x92D86AD7201937784D8cb7E9b4758fF30033b2B0` |
+|  | `70` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `71` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `72` | `0xdA49D50d6AAD15D90255a5f3386B2e7deB87811e` |
+| 💀 | `73` | `0x181E63F9c0ab25001949E3c8F7FD4783CC03B9FA` |
+|  | `74` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `75` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `76` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `77` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+|  | `78` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `79` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `80` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `81` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `82` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `83` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `84` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `85` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `86` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `87` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `88` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `89` | `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` |
+|  | `90` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `91` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `92` | `0xae83e14eB67a03BCC10AE1E9a3f156d0aD7AD30c` |
+| 💀 | `93` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `94` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `95` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `96` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `97` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `98` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `99` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+|  | `100` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `101` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `102` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `103` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `104` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `105` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `106` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `107` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `108` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `109` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `110` | `0xF559A3DCfA31F79291df1Fa23765000ddc281EA8` |
+| 💀 | `111` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `112` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `113` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `114` | `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` |
+| 💀 | `115` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `116` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `117` | `0x782086FEF17b8D732e3bDb2896FFbBABb23E8f10` |
+|  | `118` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `119` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+|  | `120` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `121` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+|  | `122` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `123` | `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` |
+|  | `124` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `125` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `126` | `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` |
+| 💀 | `127` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x01904198c337e118027ae7d5c51D9C907fb44b5A` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8cad5280526c7cc81f89f7c5dce24c4b9d81bddb21e0dc194385e1e2c9290792) |
+| `0x06E02A128f1a2ce8e9a637E2Aef14bCD42408F90` | J. Herbert '20 PSA 9 | 30 | [Polygonscan](https://polygonscan.com/tx/0xfd86e3dddaf0ff685418962cc5d13d32655a11bf82e3f7a001516fabf9af73b9) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4218f0c3a54d571074a9c02e46c508630011e9c42c022e8594e26ff698110678) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeebda157cb7c50a11707895dbb251760452b47bc11ce97c55b82c511ad2a20ca) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5960b3537d340bd086c33fab29160f2616e23b6d73e972d46a814fb5aaa6e040) |
+| `0x14D7dCdA5Ef603db690522f87334478fd20327e1` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbe2f1659beaa3ef4f6523f4c1518dc7b5d940f37b5a4aeb454cbec33eeb5381e) |
+| `0x181E63F9c0ab25001949E3c8F7FD4783CC03B9FA` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x850f1b48393ba77c98576a0b693ac9d93dcdb7c64fe492f680db47b1b46785de) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xef9b27d4d8fa379291163488961dd8bb1ace63b0fce89d73af5cc780eb2a9695) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | J. Herbert '20 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0xd4cc92ede17012a2034b962e37984efbe491e94c0f1bcb4284b2fff7e3d82072) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | J. Herbert '20 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x64574181d6136dcb48a62c4b0e7c36ce6c878e3762b0a1d72baeb86fedba3542) |
+| `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1af15e31674df4ba8aef21f65fa54974f588cb3cfa91212a3e9dd9e449d545c9) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd0253444f624c7489076f06c2e2c3dfa798a83f6c46a6051a9f4410347dcddd2) |
+| `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` | J. Herbert '20 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x315b4b1d8cbcf6820349b1f83df1dc019a07d3ac59550750e8e56547f4520f51) |
+| `0x782086FEF17b8D732e3bDb2896FFbBABb23E8f10` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbc59201be4d02cd173ad7894b5eb20b74ded6274c1c5c7fbc1d139cb0382cbff) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1713ce8a5cf6b3fa9b05e60bb48105107711d9c78089cb28b0e1097c875f4601) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc7ea09975988c7bc84394e97a608a4cf906e39ceefe2fd34133e348417d09c2d) |
+| `0x856e4119E8A49fe269b43270F91aE81F374Ca492` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc66384f26e15c909ae0429974fdf5d55ed1d0a60231d1b79575cefbba0b007f0) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | J. Herbert '20 PSA 9 | 2 | [Polygonscan](https://polygonscan.com/tx/0x5985d49cb5b4c340222e1e849ffd97f4fdd35aa14d589aa45fdc07134bbac445) |
+| `0x92D86AD7201937784D8cb7E9b4758fF30033b2B0` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ee023a30797d26f6dac49ed5fa47b8959ffb6e724afa5096da0ca03760397aa) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9c206a7e11a7ea56d87ec8afeb4695a889fb81516cc6951628b4a7cd507c443a) |
+| `0xA335ADE338308B8e071Cf2c8F3cA5e50F6563C60` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e6ce60e839dc8bbd818b3c8243f27ab918b7d893fa9a6b2c57b0cc5e4a802dd) |
+| `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa416518663211a9172bfcb889ca1b23ae0810bd84d71066f135b948991e72786) |
+| `0xCCC5ab36796Ad330860733480C6c9649c8DE9af6` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b893c50bde309e5dd12aa49178e7d21f6914ce4962af18f6fe928bcf7cce8fd) |
+| `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe1937c9fd4dad1f205c2ce10630ea3c354f85233bd6e95913f483044e62224ac) |
+| `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb92fa16228545beea23e690aeb2fa05269cede00f90ec1e9e4c6364c90ee1b6) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ed7da17c3d788365702b4a3fb4be9c0f417ade66a4474fa63b54e2aa76726e2) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfbdefc375de0777b186e118ce49cf758744f5bee5aa25e7bc9fc0c59d445c266) |
+| `0xDC1ee4924fe15141636E5ca40D089010446a2A18` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x246e54bec7df73e03353d9410dab087077e325f4709bc90d3e6e8217e26cdd97) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1cbd9b23906d206563429d69b5e991f4ad9ab2e0616c7cc4ca69de66ce61aac) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b0b05644336713dc878743619289c17a99da04fd11307a71333d833dbfe3544) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | J. Herbert '20 PSA 9 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc3bbcddd98216abca17a604b3fb28f7078765ed891086daa2600ecde45d9a54) |

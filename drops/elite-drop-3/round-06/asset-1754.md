@@ -1,0 +1,106 @@
+# [Elimination Proof](./readme.md) / A. Judge &#039;13 BGS 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 6 |
+| **Started** | May 22, 2022 9:00 PM EDT |
+| **Completed** | May 22, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| **Tokens remaining after round** | 1,152 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32 |
+| | |
+| **Asset** | A. Judge &#039;13 BGS 10 |
+| **Internal ID** | 1754 |
+| **On-chain ID** | 349 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-185b-462c-9597-546c59331d3f/5c772e8fc6676c92eccc930c35ee01b6fc212a7e2227406ce23b1b144ffbcf5a.png" height="200" alt="A. Judge &#039;13 BGS 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `1` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `2` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `3` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `4` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+|  | `5` | `0xf2716C023a8c97e1993D4eb23cdF56AF4a9362DD` |
+| 💀 | `6` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `7` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `8` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `9` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `10` | `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` |
+|  | `11` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `12` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `13` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `14` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+|  | `15` | `0xB9927D48A5ef942f6728BE07b964fCBEa8F92FF7` |
+| 💀 | `16` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+|  | `17` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `18` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `19` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `20` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `21` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `22` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `23` | `0xb9dE563Cf2730bb9DB3bd27709D8816c80C9A3b1` |
+| 💀 | `24` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `25` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `26` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `27` | `0xc1B3234aAcBbBa7FC551BA4434de4C5050aC6092` |
+| 💀 | `28` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `29` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `30` | `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` |
+|  | `31` | `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` |
+| 💀 | `32` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `33` | `0x77cCbc0B3918e5575d970878cDd293e4aeB8b9DE` |
+| 💀 | `34` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `35` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `36` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `37` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `38` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `39` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `40` | `0x437C8845c1CDF472dd79711e950D5a661759c014` |
+|  | `41` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `42` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `43` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `44` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `45` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `46` | `0x437C8845c1CDF472dd79711e950D5a661759c014` |
+|  | `47` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `48` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `49` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `50` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `51` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `52` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `53` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `54` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `55` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `56` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `57` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `58` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+|  | `59` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `60` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `61` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+| 💀 | `62` | `0xCa99583513d2621E32D17E59489C970000E204B6` |
+|  | `63` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7f832e1a59ff27182f25866eb8e797c419334921ba3226b5d299f5a9e7043fc8) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x69dd35bc81525db8fe8ecf0a06614a39399422ec6fdbe43cd3115521e9b32c1e) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6e644d9e18f2d5166b0cd9417bec69890828bb0dc4b7904face21e57204b52f0) |
+| `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xefd84f172dc42c40d8549f2bb3c1285f88e90825b24821e0bd378d625cdfdc8e) |
+| `0x437C8845c1CDF472dd79711e950D5a661759c014` | A. Judge '13 BGS 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x0bbea4547d5b595d1e0ac0c586cf3afbd9ba0d17962e6f941ed5d290cd6dd05b) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x62ffe47803eb7186e65ac9d8d20dfd3083290ccbf0f6de9b9878c267e614c461) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc4103edd509c155664ca91f9f0330a2107eda2d9fc35225a3af8e7201d3afa0c) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0a70ab07a68f1e12f9eb2d79f8c017478340c40298bc5d440cec4b76cd8e4c01) |
+| `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` | A. Judge '13 BGS 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0xf8462527f0138363ab96f0fa7a1172eb4328222dfcaa8c17a73240acc35f0748) |
+| `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x35940dc21ba6b0e48d20f4c7c88ccde23986ee3db6139c7e226797c5b57f20cd) |
+| `0xCa99583513d2621E32D17E59489C970000E204B6` | A. Judge '13 BGS 10 | 11 | [Polygonscan](https://polygonscan.com/tx/0xb63fb0252be5c3db43530a2d9af5f21179afcb4902156e3604e07964fb1bd5a5) |
+| `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xafb73092ff5c988d684465d000ad8b719c298387bfbc7fc5e0eeb3444332cecc) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85438fb23e877a843f2451878817b07d44ffeeee639c9c7605c74f04502a5a1a) |
+| `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` | A. Judge '13 BGS 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3b0c4c75633532afd98db85ebd3ed4ae7f1fb53c4cc12503dae9d946b0a29ff3) |

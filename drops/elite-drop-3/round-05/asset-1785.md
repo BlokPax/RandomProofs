@@ -1,0 +1,190 @@
+# [Elimination Proof](./readme.md) / T. Hawk &#039;15 BGS 9.5
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 5 |
+| **Started** | May 21, 2022 9:00 PM EDT |
+| **Completed** | May 21, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 4,608 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | T. Hawk &#039;15 BGS 9.5 |
+| **Internal ID** | 1785 |
+| **On-chain ID** | 380 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-1887-49f9-9264-e2176f9b9e50/b845d8cdccae6f38e3bcab738d6324cbe62c4d6c739f1f0da081e553458edfeb.png" height="200" alt="T. Hawk &#039;15 BGS 9.5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `1` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `2` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `3` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+|  | `4` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `5` | `0x8e7D0Df0d2100C8F19125c151aF3CDE424B61542` |
+|  | `6` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `7` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `8` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `9` | `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` |
+|  | `10` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+| 💀 | `11` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+|  | `12` | `0x75CeaA6bea38B8BDe7Eb7ca2a33b85adBd104cCB` |
+| 💀 | `13` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `14` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `15` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `16` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `17` | `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` |
+|  | `18` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `19` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `20` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `21` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `22` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `23` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `24` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `25` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `26` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `27` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `28` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `29` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `30` | `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` |
+| 💀 | `31` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `32` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `33` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `34` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `35` | `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` |
+|  | `36` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `37` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `38` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `39` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `40` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `41` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `42` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `43` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `44` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `45` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `46` | `0x01904198c337e118027ae7d5c51D9C907fb44b5A` |
+| 💀 | `47` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `48` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `49` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `50` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `51` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `52` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `53` | `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` |
+|  | `54` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `55` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `56` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `57` | `0xAF8A36FE886871d052C890b0fd4C6bD63be6fC26` |
+|  | `58` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `59` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `60` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `61` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+|  | `62` | `0x93e4Cb1F6EC295A39BD4EBB3C2E8eC0D8D68ec6d` |
+| 💀 | `63` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `64` | `0xDC1ee4924fe15141636E5ca40D089010446a2A18` |
+| 💀 | `65` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+|  | `66` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `67` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `68` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `69` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `70` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `71` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `72` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `73` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `74` | `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` |
+| 💀 | `75` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `76` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `77` | `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` |
+|  | `78` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `79` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `80` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `81` | `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` |
+|  | `82` | `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` |
+| 💀 | `83` | `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` |
+|  | `84` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `85` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+|  | `86` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `87` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `88` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+| 💀 | `89` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `90` | `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` |
+| 💀 | `91` | `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` |
+|  | `92` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `93` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `94` | `0x856e4119E8A49fe269b43270F91aE81F374Ca492` |
+| 💀 | `95` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `96` | `0x8DAb4aC9c8231253eECeD3aB79AceF55FEDAc3F7` |
+| 💀 | `97` | `0x35051A83DAF7BA5df66Ca333DC3aE8F961474004` |
+|  | `98` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+| 💀 | `99` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `100` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `101` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `102` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+| 💀 | `103` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+|  | `104` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+| 💀 | `105` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `106` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+| 💀 | `107` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `108` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `109` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `110` | `0x16172942f16c50A18d7024d339a672E3650653D5` |
+| 💀 | `111` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `112` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `113` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `114` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+| 💀 | `115` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+|  | `116` | `0xc2d3fdb3edf3f9aF3cc70ab666c8656142214FAa` |
+| 💀 | `117` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `118` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `119` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `120` | `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` |
+| 💀 | `121` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `122` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `123` | `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` |
+|  | `124` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `125` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+|  | `126` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `127` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` | T. Hawk '15 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x881b2e092ca5ce270be5f3a4283fab702ef6973b02a9b425b301164d210ac1e8) |
+| `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4fc847c42d6f60da019d61d90d11db0c0b929bf09b273bed4df6fcfb8b1b97d0) |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x812c43ad2d391887547bf8bae17b17ff01b7c39df0fac6b24702f44c7d814e2b) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3e8c0bf7fa7b11c9527cbc03ce04f59b55852652c2f7ff52460ecf9c744f472c) |
+| `0x0f5881bfCfEAFDfCb489263b6f283f60E6B63694` | T. Hawk '15 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x6c04c61a44c4569d8e61c61d00afb14b47b31b20966f9e4e77652171d528159b) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0aaeb58fb347a8e4b4f53e97e02b6f45c81d138b90d49e1f2aa2bf801b5aaffb) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | T. Hawk '15 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x657f585bf1d645382af4944f0862ea7327dc926d3c002d90bc7cc53baff83f9a) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd136163a238e2792c6521c98bf6ae455b352d88fd0d12956f8d5fd3b036cc2d3) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ea7ab6cfa8f6042860df2902310c8163f7864ec04d0f9259fccbe45f43c237c) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8def84a562d7e291bdaa7f50ae613adce09bbf21088ba631eb03f904de5a7d35) |
+| `0x35051A83DAF7BA5df66Ca333DC3aE8F961474004` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x99986433cfea0c72be800a56370b866ec00a58e50875e30cbb0787881b809422) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb77a956f1790bd07362a45589ecea2c87515bbe8d1e232671b04a1094b559fc2) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | T. Hawk '15 BGS 9.5 | 10 | [Polygonscan](https://polygonscan.com/tx/0xd407ec6cd8d5705815985bddbee95b3fe58acc387e2bdd4517de2b2168bdc50e) |
+| `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` | T. Hawk '15 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x1efe2b70ec2d9eb48e80c89cfe04cb13c12a2696e281e6d9e1216cc367d3ea01) |
+| `0x5Ab68b68757Ea098F174ece3ED70A767e3bB5b99` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d3aee50abb3a14d5b66180418af134420d0cef6cc4b751d1347a4715077d072) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaf411b7bad83ae86c4b97fce0b253b2c2ec806fcf41f497d746274015ddba29f) |
+| `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb4a8fe4d10f9565a7cbdc0ac17e0f1614b8316d6f976de8376fa0394e208600b) |
+| `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb64216b2143e0909be602a6c14193e05ff27027eb35ad8bce11c517f3406aca6) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe34a73e71401cff3f28624f3bd99547b04ab117bec72f92646b91207cf260d11) |
+| `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91cb7cbe2b7b8778f69b53267c09e12cdb7ff17479652b25f4792bc09a7319db) |
+| `0x8e7D0Df0d2100C8F19125c151aF3CDE424B61542` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe83d84f0754f44579c99749abd900ee50036804626b413877934f62b1e3d9856) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ca6415ba1b64ab8f4610f1f2682c426263522cd3b79c8a0d094617695537dbd) |
+| `0xaBC3B50B3B8f78e8d416a6eF4cEE1b8C9A0e94Bb` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeed62f8c1a0c927e20049644bd6dca136b63b170b38869b3837ea66e7164a5c9) |
+| `0xAF8A36FE886871d052C890b0fd4C6bD63be6fC26` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x063723866dba954faa7ad17938344a66e584b5fbf50cec89e45060559268a210) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x679c11ff97d87bb0f80585eb726fe1de8351af71875404896a36473bd7745fe4) |
+| `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbbdb5e6b6e00fab0b8e64b4f46a3c24122af0961454158f46e0c7191fc405af9) |
+| `0xd1aAE87720b7960bf0cbE8e7b5A316AC375826D1` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc365aab9a836827662d1f57d5e7c47887140937cd5c83a4d92c0b6623ddbd5ea) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd365a49b3059cd0e98ce82d90fdd96d768f2837a100260cd485db1fe9e02c3c0) |
+| `0xd8950BF0e05D4C9035B50e481bD8CC7c6Ab976a5` | T. Hawk '15 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0x6edaf7e78d9584ce65f9d509615248c127c80c3c36af02c8275ecaffbbc2ccbc) |
+| `0xE08232CC25479f5Fc3E9cA3F4EDbb045490ea360` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0aa07283da6ef54bbf6ae12c2d01fb82efaee12f5fba0cfd00fc1dd66889a02e) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe937b4c8d635294fadfe2e44d70d5f2ac1cce89a1334ab1262a3448cbb71b433) |
+| `0xe3cDb7Fa376eAf2120a71C2b5E5981Bb04b357Cd` | T. Hawk '15 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9e70252e75c6c4e8bb0fb1c0da22cb8bc39d16bf31faa84b614b9f881a81793e) |
+| `0xefAcffF457a83A5759bbb7eaADa8C4Bf513FdA0C` | T. Hawk '15 BGS 9.5 | 5 | [Polygonscan](https://polygonscan.com/tx/0x679c688ff1d5884d07a69e80b35bfef374a94460636c6113c5516bed28f089d8) |
+| `0xf6FdF388843ED9Eae555e65fAE38fE984eFE3312` | T. Hawk '15 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x038d1a155a237b529db447a28263f5b033a6d22bfc84c86ed6782d82a83e6885) |

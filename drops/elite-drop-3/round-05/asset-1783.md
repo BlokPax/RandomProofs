@@ -1,0 +1,194 @@
+# [Elimination Proof](./readme.md) / S. Mario Bros. &#039;85 WATA 8
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 5 |
+| **Started** | May 21, 2022 9:00 PM EDT |
+| **Completed** | May 21, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 4,608 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | S. Mario Bros. &#039;85 WATA 8 |
+| **Internal ID** | 1783 |
+| **On-chain ID** | 378 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-189a-4d7a-81a6-fd4b31f78233/276565c95656c4433f1a0d850bc4f37dfd8743dd7ba890c3cd8c1160421f2c19.png" height="200" alt="S. Mario Bros. &#039;85 WATA 8" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x6adBe9b23Cd131743cef4e57A0A84Fed3c3c79dD` |
+| 💀 | `1` | `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` |
+|  | `2` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `3` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `4` | `0x2364A06924D23fA4CdC9e950031D7aba0AD194e2` |
+| 💀 | `5` | `0xD5600FB9aa9b80DEB070709611d5abECb6C10139` |
+|  | `6` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `7` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `8` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `9` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `10` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `11` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `12` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `13` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+|  | `14` | `0x9b65F193bB44cDCDe20fd6C72A73f1c99d258B99` |
+| 💀 | `15` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `16` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `17` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `18` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `19` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `20` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `21` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+|  | `22` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `23` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+|  | `24` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `25` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `26` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `27` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `28` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `29` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `30` | `0xe51c820bf454a7e208529874b7B38FBdc7de9D6D` |
+| 💀 | `31` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `32` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `33` | `0xA99F458a0465Af30f09C42f22d22b6269D93046b` |
+|  | `34` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `35` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+|  | `36` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `37` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `38` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `39` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `40` | `0x83FFE44de15601E77acF0a0dfA75D94AfE7f41AA` |
+| 💀 | `41` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `42` | `0xd285D2719BCA1183D834CC27C9284B16529009ab` |
+| 💀 | `43` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+|  | `44` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `45` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `46` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `47` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+|  | `48` | `0xd34EBdd800bD82F62240b65663C497803D6bB8c1` |
+| 💀 | `49` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `50` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `51` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `52` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+| 💀 | `53` | `0x682Cad157D79d73Eb1D93d036B438d6F05084736` |
+|  | `54` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `55` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `56` | `0x3ed4D441CfDA30581aA06E87AB6bA0ec85fa8e16` |
+| 💀 | `57` | `0x02581CBb5C51E2455574c467031478bE719Da81F` |
+|  | `58` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `59` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `60` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+| 💀 | `61` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `62` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `63` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+|  | `64` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `65` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `66` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `67` | `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` |
+|  | `68` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `69` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `70` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `71` | `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` |
+|  | `72` | `0xcEF47173cA17924c89726d915cC954FBfeA1C3EE` |
+| 💀 | `73` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `74` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `75` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `76` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `77` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `78` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `79` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `80` | `0x5183bb89e37EBbB4fD53a8d760dd3A0AA4d8873A` |
+| 💀 | `81` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `82` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `83` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `84` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `85` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `86` | `0xd13941AFF67C8fAa48b9AE1EB605FfB42CBc3eF7` |
+| 💀 | `87` | `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` |
+|  | `88` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `89` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `90` | `0xE4a3BD595F700c7b02800E80dA065f017EA558b1` |
+| 💀 | `91` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `92` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `93` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `94` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `95` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `96` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `97` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `98` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+| 💀 | `99` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `100` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `101` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `102` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `103` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `104` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `105` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `106` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `107` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `108` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+| 💀 | `109` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+|  | `110` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `111` | `0x782086FEF17b8D732e3bDb2896FFbBABb23E8f10` |
+|  | `112` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+| 💀 | `113` | `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` |
+|  | `114` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `115` | `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` |
+|  | `116` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `117` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `118` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `119` | `0x27e19650a380c5c769C9fb4E1AC765d29adEAE0d` |
+|  | `120` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `121` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `122` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `123` | `0xD7598D6E1817A622fACF06CF53951163c065a7DA` |
+|  | `124` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `125` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `126` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `127` | `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x02581CBb5C51E2455574c467031478bE719Da81F` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x31e65d001ce16a5bb108671bb4f7ad6da0b850bbbde4686eab737a9ea8316dcb) |
+| `0x05bf19079f1CB0CFf34683876003F23AF9fC65b8` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xba97af7651df389501acc2ea9c5ff458b301e7e43eae7e2ffa6e567335dcafb3) |
+| `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x58194b0a3699762a17991a9409f4532768bb61f70a71202e244798ff8ba7303f) |
+| `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x92255db08852d04b6b65e355fdd477101b86872744003dad0290af88ba56695b) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcd442e9fa845ccbbf128bb25d4b72791e43681baf7989b576eda845af8a1f593) |
+| `0x27e19650a380c5c769C9fb4E1AC765d29adEAE0d` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0ca5055c90d086e6ff93616c15f6e743993d189e407c36a13c4645e252dcc61d) |
+| `0x2c17865cA470D6EBDB17cb9ca2B52fcB86e9b853` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2ae0ee121f5fb0b3cbac804ae5b42bef5ba169b63b2ad755d4a23f3b84652641) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x646e9e4c0a9ad0489cb2f08168967fb3fb3f4dca1cdacb6d312cbf09f763c611) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf915bb255df36a179200bab305c1105f4e76017ef0ce25240752db319575f767) |
+| `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xda6c9c02e7b0111b0206608a7dbc6d578a33d72a58a339831be390391c47a2b0) |
+| `0x3DA4F311FAc2305b88FaeD9d639991AfC89E478b` | S. Mario Bros. '85 WATA 8 | 6 | [Polygonscan](https://polygonscan.com/tx/0x0cb7bb537510e512a9784de030b9cce904fe53e0bbc311f88f88b55cf9d5f9dd) |
+| `0x4B54d438e84AB6A291637869cE1a769f6ED18070` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb1378b84fe7c7dddfca137e9afcca3c6542be170f52752024f21d2830d81e2f3) |
+| `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf6141de71f8eed979cdefb8e9161c7a855028a3384a7f527c6144e557af8baa7) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7b03b0764c79feedc03ec91fdcf5f22028672c2d3220e67cc9159eaa717b350) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | S. Mario Bros. '85 WATA 8 | 3 | [Polygonscan](https://polygonscan.com/tx/0x7cc8401486e6bbee052a2fcd44e5d1a754f531a7df9b5d4f85ee2da4192743bd) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11ba7ef9b2669c8ec914787582de89cc8dd24b6ec1872583b7bdb2f337a229bd) |
+| `0x605decA13a61788dDE7B4aCfd32e9101DA6Fc6Fd` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfa805ed54adb09f76ba989b12fcd43f662c1a59640f200ef1cb828a76d348435) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | S. Mario Bros. '85 WATA 8 | 14 | [Polygonscan](https://polygonscan.com/tx/0xf5eb70564be47d9db9a570d523c801c18ad7dff03c5a935c48b6545a3e86a220) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x14f764f99ba0bfe086e70dbb47fe7c8cc86e6687fc2822adf6d7a8607b17496a) |
+| `0x682Cad157D79d73Eb1D93d036B438d6F05084736` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x89b7b07890ae21fde7d3ef88456e488f80cfdc47970a7e3f9324da4333795fbd) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8b0e58481fb9b219070c219d21c15fbc38548914b86b442da0664bfbb87dcc8e) |
+| `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf7d87fcfdbaf8e293598b1b3036b043f0fabe2945d9c51e4e9934928fc5d595d) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa5ad4c6411d9fd1e2d87534df2f7415b268de585631227d85c2b692167f55d1f) |
+| `0x782086FEF17b8D732e3bDb2896FFbBABb23E8f10` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33206858ad34cbb49a8db19f0b0d94244215ce001da593efe528007bb047dd71) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x26d3127476e495f2a0cca4358a2ab5b6c53105900fceeaad9b57ea76892aabbc) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fc94156db0321d185ae8f98b6d971602c981546e3f4f13a9ae3a11e2176f7f7) |
+| `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x576a9dfff6231d492e61b2373a85b5d79d8338083b5222b1674f92fbd714faac) |
+| `0x90EbC1E7E926cDa21347A4CF4Fe6e5E194dbf121` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6c068d4c6a32388710fd96f3394af6cf20de34303d339f35fd17214fb754f906) |
+| `0x91A4D2b141E588021b0bC9F87Bd82F1F895C8E8D` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0d2eb6a65df1b0ba20493f99c7b6b251bccdcc18dfb3369b0f0be638b8005111) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc1639b1ff7f77515b852f21370b30637492a6e0e5122e88020933daaf52916e8) |
+| `0xA99F458a0465Af30f09C42f22d22b6269D93046b` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x686900a962286cdd782b35311a0019444794bf1871bbb73c51e880be7bd24eb3) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x51c9b717074cddf3e2d455d3cdab8ae9646d4aaf46ec8925e7bef4f736120be2) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x81de229c6a8b0d4a32256d4ce9271a3e58d5642ae329dd85833eef844f3bdf0e) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9ec2044c97d88ecfe726730c66dc14694624f7da63524a3f1f99d5d773b2ea4b) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | S. Mario Bros. '85 WATA 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xfc5c1610bcebad29ac26f51ba209b5a3df62386ac86a89f41b9fe8a1ef2226d2) |
+| `0xD5600FB9aa9b80DEB070709611d5abECb6C10139` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe3e6b18be4fd78c6c5b7a87e855483d07be7e758ad5c1e1f92573b3bea0fd20c) |
+| `0xD7598D6E1817A622fACF06CF53951163c065a7DA` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xaa2bd39a14eedbe00325e57e326f1aecc77796a0c01b82433419f2df7df2730c) |
+| `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` | S. Mario Bros. '85 WATA 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x310af518d147dc1d04d103222d9601368feec91ca87983acd8718a0716f05fbb) |

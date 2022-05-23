@@ -1,0 +1,194 @@
+# [Elimination Proof](./readme.md) / R. Nadal &#039;03 PSA 10
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 5 |
+| **Started** | May 21, 2022 9:00 PM EDT |
+| **Completed** | May 21, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 4,608 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | R. Nadal &#039;03 PSA 10 |
+| **Internal ID** | 1780 |
+| **On-chain ID** | 375 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-1890-4ec4-8fe2-60fcd5bd5775/387df75fd80437766e9e8d1c0949c05e0e77cd013f63e188b245623a9effddd4.png" height="200" alt="R. Nadal &#039;03 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+|  | `0` | `0x42435ea627BB2E6bCbc7d9AebE283A6e4Be71Dd1` |
+| 💀 | `1` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `2` | `0x86fe89cEBDfD1FeCe31F424eB5C0c437c6a1470c` |
+| 💀 | `3` | `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` |
+|  | `4` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `5` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `6` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `7` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+|  | `8` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `9` | `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` |
+|  | `10` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `11` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `12` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+| 💀 | `13` | `0x756d70422569192C2f480e4f6df1bAE71A1dA328` |
+|  | `14` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `15` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+|  | `16` | `0x3a045Ae018fF695251E7563735A493bD5256dcfa` |
+| 💀 | `17` | `0xE6aD4de2d4F575b22c49A8f816215DeD2c4Ed527` |
+|  | `18` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `19` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `20` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `21` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `22` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `23` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `24` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+| 💀 | `25` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `26` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `27` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+|  | `28` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `29` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `30` | `0x3a045Ae018fF695251E7563735A493bD5256dcfa` |
+| 💀 | `31` | `0x35051A83DAF7BA5df66Ca333DC3aE8F961474004` |
+|  | `32` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+| 💀 | `33` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+|  | `34` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `35` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `36` | `0x4B54d438e84AB6A291637869cE1a769f6ED18070` |
+| 💀 | `37` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `38` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `39` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `40` | `0x471e830A5bE283C9BB9B57615315595452184103` |
+| 💀 | `41` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `42` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `43` | `0xC19f526A27DDa0B357F8A748B8691FbFBCad561B` |
+|  | `44` | `0x6299D64973E3Ac4debf197C7B935EA4e07b2428c` |
+| 💀 | `45` | `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` |
+|  | `46` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `47` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `48` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `49` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `50` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `51` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `52` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `53` | `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` |
+|  | `54` | `0x27cd6aB110B280e416481c7C265eB46EE8e0D773` |
+| 💀 | `55` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+|  | `56` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+| 💀 | `57` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `58` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `59` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `60` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `61` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `62` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+| 💀 | `63` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+|  | `64` | `0x4F5985520a11B8Ab79A1Dbc6f34b8D40dD6eF69f` |
+| 💀 | `65` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `66` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `67` | `0x360f03E50c6AAF04B947A692a16145DE9f0fBD74` |
+|  | `68` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `69` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `70` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `71` | `0x0b24774Fb085fd7c787Eb1F332305310d365aB39` |
+|  | `72` | `0xDb07B2a0eFFa11C8d2f522764442382735717323` |
+| 💀 | `73` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `74` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+| 💀 | `75` | `0x3a045Ae018fF695251E7563735A493bD5256dcfa` |
+|  | `76` | `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` |
+| 💀 | `77` | `0x42435ea627BB2E6bCbc7d9AebE283A6e4Be71Dd1` |
+|  | `78` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `79` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `80` | `0x3a045Ae018fF695251E7563735A493bD5256dcfa` |
+| 💀 | `81` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `82` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `83` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `84` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `85` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `86` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+| 💀 | `87` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `88` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `89` | `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` |
+|  | `90` | `0x6128b96B630706f309f03f98A05d7687B701e546` |
+| 💀 | `91` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `92` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+| 💀 | `93` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `94` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `95` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `96` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `97` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `98` | `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` |
+| 💀 | `99` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `100` | `0xb6e142a4d92d20d512E74dA9385729041b5ba0aD` |
+| 💀 | `101` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `102` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `103` | `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` |
+|  | `104` | `0xF6e90deAB23632B7f3b379eF7412c77cB0bdfe9d` |
+| 💀 | `105` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `106` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+| 💀 | `107` | `0x72e753d38609256F6f2308834D038Ad1a309c1b2` |
+|  | `108` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+| 💀 | `109` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `110` | `0x5bfc9cE707D3D66e94cEe48A4460CfeE1dB70D7d` |
+| 💀 | `111` | `0x77cCbc0B3918e5575d970878cDd293e4aeB8b9DE` |
+|  | `112` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `113` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+|  | `114` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `115` | `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` |
+|  | `116` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `117` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+|  | `118` | `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` |
+| 💀 | `119` | `0xcA113A600Aaec64fe3f893447c02e6324b5A9B79` |
+|  | `120` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `121` | `0x77e42638748bd0C9C638b53B8313DdA124517dE6` |
+|  | `122` | `0xF559A3DCfA31F79291df1Fa23765000ddc281EA8` |
+| 💀 | `123` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `124` | `0x54c6351226bE0aAda9f4842aDaF58E4Ce9f1A08C` |
+| 💀 | `125` | `0xc570dcfC19e11CB1db8Ebb441D9Ef06C2070f0e7` |
+|  | `126` | `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` |
+| 💀 | `127` | `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x001f1228d3160A5C8e4b1ea493145C7B275Bea5D` | R. Nadal '03 PSA 10 | 7 | [Polygonscan](https://polygonscan.com/tx/0xeb9762ba3a718eedf76c643387a7844dc529bbf8beb722b4cf6a5552082993b0) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x173fafe1d9f24da47e552c9da3dc87fcdde7dc6a25690da3f29010bb2215efa5) |
+| `0x0b24774Fb085fd7c787Eb1F332305310d365aB39` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6be4be7f152fbf20c3bc641c864e7df30ad12cf7273e26c9a78dfb63b265d5ed) |
+| `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` | R. Nadal '03 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x9a3dade39eafc9e43f6762b8d15abd29e8a62bf80060a43bf954fb68590c1b5f) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1fa2f04a5fb6ff12956312bdc766ad4bcdc3c16b12f743a3925078b72a6229b2) |
+| `0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa3895b5428b6e6c4e3dcde2e86cd905a06843562b6af0af8b9f1b6cbd8c3c184) |
+| `0x28c807746B324c859392D42fa298f61d8F793ABb` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x28b756db066e1a001e26c14fcc45850b14d782d850bcf5ab653488a66f63603e) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | R. Nadal '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x3cfeace7d32ac4b15b04c3ec5827922e73f934dec660baa50b9640e91bc4e92f) |
+| `0x35051A83DAF7BA5df66Ca333DC3aE8F961474004` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4ad2176734c6d5506e6da26260bb0ad0d318496e0a83e7fbed91653b9869fe65) |
+| `0x360f03E50c6AAF04B947A692a16145DE9f0fBD74` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74a1c6ddbad91f9a2a91852cc42342a95fb60e2f52fda7cdb5e67001ca15313a) |
+| `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2d1ae83a9be083dc491be3c7eaf87f2fcebb5fcb4fff9e768a420f885a721929) |
+| `0x3a045Ae018fF695251E7563735A493bD5256dcfa` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x785263679339a5f1c8af81bfdc6115cc7a2382e272205d26e82c2c7e7e501a4f) |
+| `0x42435ea627BB2E6bCbc7d9AebE283A6e4Be71Dd1` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0664c319fb547a8dd80dfed5b83c0a2584ca1fd39117177f6e59ad4cfc59f375) |
+| `0x4eeA864a90dD70dCFFB5889e9877e513587187c7` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe751825fd46cd58dd818f54a2d328411f80482081ddf17a425c16ba712db4809) |
+| `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` | R. Nadal '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf38a0412a78f89a1d7371b47d6ba2ec711fcf85a759e501ff9b2ce5ee19c2fe7) |
+| `0x5c1D7BA69E4F73250DECC014Ad838051636c2c23` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xad34cd332f972237d980fbb084c8405dcbd93f53a154981ab91adf81c0542989) |
+| `0x5C5beCeb14d5e233DD185E1ea5403500388eb398` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe7ff0024c0533a5af12c43051962cb26133ec64bd7688e121b0c9b7af2405fe7) |
+| `0x62eC7b6661B259fc7527003F9cD5F4bBa5F7336b` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8e2b8f4383c58e00f0aefb6be40086de2b57146031d1b44ffda422baddf9aad5) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | R. Nadal '03 PSA 10 | 14 | [Polygonscan](https://polygonscan.com/tx/0x116e51266e2bb56ee172e43f78c22f012fcee3f11eaa1747e8c30cc6acedbea8) |
+| `0x72e753d38609256F6f2308834D038Ad1a309c1b2` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe63d838d69e932ceb621c4652a0138674941db7c55b26c91adb146481f5f9330) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | R. Nadal '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0x9c5f3f5f864163d773a1e13469ebe991b9da7e0506e823973beaecf5a67fdc6a) |
+| `0x756d70422569192C2f480e4f6df1bAE71A1dA328` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdd327ae4df98c3242718c511349217b48e248fe9c5e9f762f314c25acc82fc21) |
+| `0x77cCbc0B3918e5575d970878cDd293e4aeB8b9DE` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x1ac94c4e229c38816092b5d2a5e7608fbb5374c1ce65e113c8a722d781bab3c9) |
+| `0x77e42638748bd0C9C638b53B8313DdA124517dE6` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdb0a5f2581955ad43e8551b1b7e917b948f7f1ce29e5ca3bf648aa975392f023) |
+| `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc74b0c7b8d3f7bda9faad15018e4b7d80ea65be1d519de972cf155ce96102b97) |
+| `0x7d10219A8489836A9b7C962C2cb9051E3CDa0ff2` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d379620469cd32a7f730ce10f008d5ce238c077c79d775e6e49d4aac9766eb0) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x307a742cad27feaeb18ca4af8fc5f224e0fa4ea4ec5b1026239d7b90882d5761) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4d9d703b8e1fb265efe7b136b481bdc9e103ca2006d25b0806ae7a1c1b7611fa) |
+| `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x55978df416dc523154aab2c92b379fbcf1fb4713631aba2f50520395216700a1) |
+| `0x9cDB4b37D6A0c0B4EC54b6ec5a7e2Cdb5A0F212f` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf0dfabd8069d4693b56bbde28a8a67048404d65f2c9eaca97f2feb886bad120c) |
+| `0xb06331635E99618e235C5140DB50D0CdBf5E9f9F` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x91ca00589b84729ad207b74ca4a901d0430271bed2cdeb0a590d05e94fb6c463) |
+| `0xC19f526A27DDa0B357F8A748B8691FbFBCad561B` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x66113876bbd710092db203d8a93a54970e1e6e1ffdd6caefa03e7039e77976fb) |
+| `0xc4cce9E88c8524Faf533785ff0151Fa4fF69FcDa` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x79be6c14e5b1d49a5d2160f49dbba222fb24700a0102960d16b8336110e0f20e) |
+| `0xc570dcfC19e11CB1db8Ebb441D9Ef06C2070f0e7` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x85fb266c3bafabfe579bc4200fdeedbb33d44ea6308fc93dc87cc28b3bf42ab1) |
+| `0xcA113A600Aaec64fe3f893447c02e6324b5A9B79` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4b4524126948db01c2459336730d598b99ade4c1f90544db593e2ba823a27a67) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | R. Nadal '03 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xc6094f8701e44e33a493d6245e525ac07a8f5c8b2687611ab36841d362cae3ee) |
+| `0xE6aD4de2d4F575b22c49A8f816215DeD2c4Ed527` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4e2fd66da623551b6c7af2381a4539123ce1b95e100bb65e8d67eaffa6407a61) |
+| `0xE91b360bd0962Ab35318f3DAee30a6760b2C353b` | R. Nadal '03 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9359d0440b2e4c80ebf9a9abd828564f4eebad2764687b163ca929dd07254129) |

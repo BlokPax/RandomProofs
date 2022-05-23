@@ -1,0 +1,103 @@
+# [Elimination Proof](./readme.md) / H. Aaron &#039;54 SGC 8
+
+|||
+|---|---|
+| **Drop** | Elite Drop #3 |
+| **Round** | 6 |
+| **Started** | May 22, 2022 9:00 PM EDT |
+| **Completed** | May 22, 2022 9:02 PM EDT |
+| **Tokens remaining before round** | 2,304 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| **Tokens remaining after round** | 1,152 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 32 |
+| | |
+| **Asset** | H. Aaron &#039;54 SGC 8 |
+| **Internal ID** | 1762 |
+| **On-chain ID** | 357 |
+| **Image** | <img src="https://tcdn.blokpax.com/9648a5d9-141a-4f3c-99fb-f6cff1d3364f/ab2aeb5eafa81a6c8269ce22cddeea476ca381c38d46bb1dd8c648bd081be4a4.png" height="200" alt="H. Aaron &#039;54 SGC 8" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `1` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `2` | `0x27e19650a380c5c769C9fb4E1AC765d29adEAE0d` |
+|  | `3` | `0x181E63F9c0ab25001949E3c8F7FD4783CC03B9FA` |
+| 💀 | `4` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `5` | `0x690dA15CDe440E7fCAFdd310d462f4B41116527D` |
+| 💀 | `6` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `7` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `8` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `9` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `10` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `11` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `12` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `13` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+| 💀 | `14` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `15` | `0x29C823D1c2fB1c140c19F4d9949c577e139D7418` |
+| 💀 | `16` | `0xb33461f6416B6E14e280B419fDce51fF9fF024e3` |
+|  | `17` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `18` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `19` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `20` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `21` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `22` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `23` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+| 💀 | `24` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `25` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `26` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+|  | `27` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `28` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `29` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `30` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `31` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `32` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `33` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `34` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `35` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `36` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `37` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `38` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `39` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `40` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `41` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `42` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `43` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `44` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `45` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `46` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `47` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `48` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `49` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `50` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `51` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `52` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `53` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+| 💀 | `54` | `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` |
+|  | `55` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `56` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `57` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `58` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+|  | `59` | `0x51A3b2B1c3B6fC4Fa07E2E22753a046fB9F686fc` |
+| 💀 | `60` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `61` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `62` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `63` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | H. Aaron '54 SGC 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x68bcef1249fef35bda2faab38b146982839663948010a445f682597c90878ca8) |
+| `0x27e19650a380c5c769C9fb4E1AC765d29adEAE0d` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87c5931b5965c7ad65f69eabdc6d5587ace0ab7697f1ad153a8f313eac90c3a8) |
+| `0x36C6f7Cb19ACFA782eCeC609FC7faB7A9be3895B` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x93d36f415ab6a940addb06a446a7c095cc442217fc7f0e3607e71ae46dd588a6) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x76263bdf08211f641a4966f6d2f3f4dee3b653e5693048588efad43427fd358b) |
+| `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` | H. Aaron '54 SGC 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x91788d76936c295e386f38a032abf784b922529f58a957ccf1542f592339744c) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | H. Aaron '54 SGC 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0x11c8debf4a95cd93cf1f0ff97547b06e2f62e3845f376f60373bf0ae9b844546) |
+| `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb8313a999735c3b9526e6db0c99c1cf695d0e6cd783f2eb85ef8db3efb3b9ef9) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | H. Aaron '54 SGC 8 | 18 | [Polygonscan](https://polygonscan.com/tx/0x19fab2a8d1d5adfb06c9a49952372693b9a82f3a1652e7401e81a032cd85687e) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | H. Aaron '54 SGC 8 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbb10c96152eb0284a13ef8163973fc94298ebc83d0e59beb31729bd8b56df8da) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x29d9326b7379ed3143f665d433f164aa103f83e59c41a8603681c06f16f26ac8) |
+| `0xb33461f6416B6E14e280B419fDce51fF9fF024e3` | H. Aaron '54 SGC 8 | 1 | [Polygonscan](https://polygonscan.com/tx/0x291b967db767f52b55bdf9603e737030fa03889aadb9073fe42f7e52fd34cb96) |
