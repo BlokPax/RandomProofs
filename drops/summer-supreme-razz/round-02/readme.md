@@ -3,13 +3,13 @@
 |||
 |---|---|
 | **Drop** | Summer Supreme Razz |
-| **Round** | 1 |
-| **Started** | June 26, 2022 9:00 PM EDT |
-| **Completed** | June 26, 2022 9:13 PM EDT |
-| **Tokens remaining before round** | 27,648 |
-| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 1,024 |
-| **Tokens remaining after round** | 13,824 |
+| **Round** | 2 |
+| **Started** | June 27, 2022 10:00 AM EDT |
+| **Completed** | June 27, 2022 10:04 AM EDT |
+| **Tokens remaining before round** | 13,824 |
 | **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 512 |
+| **Tokens remaining after round** | 6,912 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 256 |
 
 ## Assets
 
@@ -54,14 +54,14 @@
   ```jsonc
   {
     // The salt is just some random data to make sure this hash is unique.
-    "salt": "WbqiCYrIr5NIN1Wc7kQ3NlhQvD7RsDVCvWQ6vMN1I6XGEcpZzvJHEOEsHorM02rt",
+    "salt": "IIWVYZ0r9AHGyHpXOE8UkknxYoRp3ZDNs5CGz6A2FJLnyaTrvyreun1YIb0Nd0ul",
 
     // The collection_id is our internal ID for the drop. It will not change for
     // other eliminations in this drop.
     "collection_id": 30,
 
     // The round is what round of eliminations this is.
-    "round": 1,
+    "round": 2,
 
     "ledger": {
       "<asset_id1>": ["<entry1>", "<entry2>", ...],
@@ -73,21 +73,21 @@
   - We minify the object (which is reproduced [here][ledger_full]), `sha256` the result and encode the result to hex.
     - Thus, our calculated hash is:
       ```plain
-      893a4883e3bb902dd8123438739938a7cc84bb00c0f906093e82839be30b9ff6
+      ce78547249e15243a93072e315c1077b5a9b8673b1d027a5943235534098bd97
       ```
 
 ### 3. We send our hash up to the on-chain random oracle to get our random number.
-  - The transaction hash to retrieve this random number was: `0xd456ef86c87051669d94d1ac838f1f15a9de0e79ba76c4a2694591b157ff26ba` ([polygonscan][random_txn])
-  - The number we retrieved was: `80940169359000372163172595088675598073336204317391963492270040427844857870967`
+  - The transaction hash to retrieve this random number was: `0x9644cd1aecc95ebf7872ceda5ed906ea9d6c9eb46db7ee264e19fa27f2f5010f` ([polygonscan][random_txn])
+  - The number we retrieved was: `107875859025686744915223356222147789985570809961381561447228636386351720458020`
 
 ### 4. Determine whether we eliminate evens or odds.
   
-  - Our random number was **ODD**, so we eliminate tokens starting at index 1 (the second row of the ledger), then 3, then 5, and so on.
+  - Our random number was **EVEN**, so we eliminate tokens starting at index 0 (the first row of the ledger), then 2, then 4, and so on.
   
 ## 5. Mark tokens for elimination.
   - For each asset, step in order through each row of its ledger.
     - If the row is `UNOWNED`, mark it for elimination.
-    - If the row index is **ODD**, _and we haven't yet eliminated 512 tokens_, mark it for elimination.
+    - If the row index is **EVEN**, _and we haven't yet eliminated 256 tokens_, mark it for elimination.
     - Otherwise, this token makes it through!
 
 6. Eliminate tokens, burn them on-chain, and we're done!
@@ -100,7 +100,7 @@ You can find the exact ledger we hashed [here][ledger_full].
 
 **Expected Hash (hex-encoded):**
 ```
-893a4883e3bb902dd8123438739938a7cc84bb00c0f906093e82839be30b9ff6
+ce78547249e15243a93072e315c1077b5a9b8673b1d027a5943235534098bd97
 ```
 
 To verify the hash, [download `ledger-full.json`][ledger_full] and then run the following in a Unix-y shell:
@@ -117,5 +117,5 @@ The hash you get should match exactly the one above.
 
 - Random number transaction: [Polygonscan][random_txn]
 
-[random_txn]: https://polygonscan.com/tx/0xd456ef86c87051669d94d1ac838f1f15a9de0e79ba76c4a2694591b157ff26ba
+[random_txn]: https://polygonscan.com/tx/0x9644cd1aecc95ebf7872ceda5ed906ea9d6c9eb46db7ee264e19fa27f2f5010f
 [ledger_full]: ledger-full.json
