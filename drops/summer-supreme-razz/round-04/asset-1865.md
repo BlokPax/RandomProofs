@@ -1,0 +1,201 @@
+# [Elimination Proof](./readme.md) / R. Barrett &#039;19 BGS 9.5
+
+|||
+|---|---|
+| **Drop** | Summer Supreme Razz |
+| **Round** | 4 |
+| **Started** | June 28, 2022 10:00 AM EDT |
+| **Completed** | June 28, 2022 10:03 AM EDT |
+| **Tokens remaining before round** | 3,456 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,728 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | R. Barrett &#039;19 BGS 9.5 |
+| **Internal ID** | 1865 |
+| **On-chain ID** | 416 |
+| **Image** | <img src="https://tcdn.blokpax.com/968e680c-0514-4402-82cf-be158d248caa/0083c70290e794bbf309dd6197f1a89c0ec8c5e0d262f909f8efd3cc11ebfd28.jpg" height="200" alt="R. Barrett &#039;19 BGS 9.5" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+|  | `1` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `2` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+|  | `3` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `4` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `5` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `6` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+|  | `7` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `8` | `0xc913d8220CA26CA4e220dA85401C7808Cd0d50A7` |
+|  | `9` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `10` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `11` | `0x3FD986EA4767cDb9f48C14e469c1cdB9f1e56e56` |
+| 💀 | `12` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `13` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+| 💀 | `14` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `15` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `16` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `17` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `18` | `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` |
+|  | `19` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `20` | `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` |
+|  | `21` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `22` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+|  | `23` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+| 💀 | `24` | `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` |
+|  | `25` | `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` |
+| 💀 | `26` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `27` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `28` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+|  | `29` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `30` | `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` |
+|  | `31` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `32` | `0xAF8A36FE886871d052C890b0fd4C6bD63be6fC26` |
+|  | `33` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `34` | `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` |
+|  | `35` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `36` | `0x7d0cbbF6f53aEE1Bd2CeB5CE410336A0265CAF71` |
+|  | `37` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+| 💀 | `38` | `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` |
+|  | `39` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `40` | `0x316A35eBc7bFb945aB84E8BF6167585602306192` |
+|  | `41` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `42` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `43` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `44` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+|  | `45` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `46` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `47` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+| 💀 | `48` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `49` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+| 💀 | `50` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+|  | `51` | `0xc553c126DfcAd890c47c645ad43183603650438a` |
+| 💀 | `52` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `53` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `54` | `0x43CAa2a428175097f1B10E91e10d52C943C6859C` |
+|  | `55` | `0xc025444ed7BDD8AE04FD6a7505Fc97008D718887` |
+| 💀 | `56` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `57` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `58` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `59` | `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` |
+| 💀 | `60` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+|  | `61` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `62` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+|  | `63` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `64` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+|  | `65` | `0x1B2416353a6B71cD6B0c8291d863b376776bbd01` |
+| 💀 | `66` | `0xDd98051c107F8d3E92d2f588D2Cb748EFb27Fa3A` |
+|  | `67` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `68` | `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` |
+|  | `69` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `70` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `71` | `0xC23998603fA0E2488864F6dc44b5B1FC41465bF8` |
+| 💀 | `72` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+|  | `73` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `74` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `75` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `76` | `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` |
+|  | `77` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `78` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `79` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `80` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+|  | `81` | `0xE2c0DBcafE854c130E96562D761E4d5d10A22F97` |
+| 💀 | `82` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `83` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+| 💀 | `84` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `85` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `86` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `87` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `88` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `89` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `90` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+|  | `91` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `92` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+|  | `93` | `0x2fa6F3bb58Efad488E2ed93c51A0910C736a4Ac7` |
+| 💀 | `94` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+|  | `95` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `96` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+|  | `97` | `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` |
+| 💀 | `98` | `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` |
+|  | `99` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+| 💀 | `100` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+|  | `101` | `0x0074123Ca501B513EFF06B06A7b26Bb5ae1D25a4` |
+| 💀 | `102` | `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` |
+|  | `103` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `104` | `0x243dc5d02592a989FE1B809d263F432e6632b999` |
+|  | `105` | `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` |
+| 💀 | `106` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `107` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+| 💀 | `108` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `109` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `110` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `111` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+| 💀 | `112` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `113` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+| 💀 | `114` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `115` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+| 💀 | `116` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `117` | `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` |
+| 💀 | `118` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `119` | `0xacd9F7c21D869AC8F3c770Ebf09a01dB42023Cb5` |
+| 💀 | `120` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `121` | `0x440a17f90b51eABee109dE3eb60441209eC3A627` |
+| 💀 | `122` | `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` |
+|  | `123` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `124` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `125` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+| 💀 | `126` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+|  | `127` | `0x28c807746B324c859392D42fa298f61d8F793ABb` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x4250f3c87eb0abf026e8f4dc237f7bea5f5abccf335cdc199d748b8800f58c8e) |
+| `0x0454C1bE4F5254c96cB124A75A6247a553BB58e1` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa6b60e3eb15fddacb125c40254df078fb31c2086a143b6c03c418e7fa8a7959d) |
+| `0x04d4CA6B9D02a08a48C5b279143EF1D18fe649A5` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe00c4d93bce315901db40e21bef9c0b0da0d517b9db6d0451db00ae18db823fc) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf949f90aa2ac548d493529bc2d803ab51dedcadde28061e1411dec7f927ac098) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | R. Barrett '19 BGS 9.5 | 3 | [Polygonscan](https://polygonscan.com/tx/0xb43cc338076cafb6e76dc9c91ea3884f62260f95a5bb33f7590e07f58181a9bb) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9d40e663b49830f4d5c3829f50709a3a74c42c6ef5512463d9c2a15e1cd45ff2) |
+| `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb034782f91fc1d7fa948a5f818f8d17c76c6bbb4b9b6e269a98b93d548555adc) |
+| `0x14D7dCdA5Ef603db690522f87334478fd20327e1` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x11f7e186e4ec9bb2de0d937e0fbf501dae3faba24e414edbd1141fd8c984e996) |
+| `0x1bd22BB269b89E491153375C99203CB39BB7830c` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6141c9d0e27f472d8b1ca31793f9c0beaf977feebd7504f7702751140d99a5e1) |
+| `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2fc2333dda4388ffd5dde0662ba93f7d4774d0c1b87123b4a21d8f078b74e19b) |
+| `0x205B9c652c418ae2979DE938B6689Da7C1b97db1` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x907abcd73adeb86998bec94fd81323919f118281e582ff3f2be0cd5d051b2183) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x20c8372bcf2de340162278e9dc62a51e6b7aab853dfb0e86641383b1fac613d2) |
+| `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfd28e7f8cc59541602e9769d8f6e694b6f48f175b17b5948be1a564094dd4ae4) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8252757de8dc44ee16da0f552a28b3563a64831126e12ac4729c703a8f37098e) |
+| `0x316A35eBc7bFb945aB84E8BF6167585602306192` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x95eddd678b8ce3a52ae7fd14b0ba5d6a8d446e82eed6ceba786b234d96759533) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8aca40defeef42e076ca10557f5b8504e564d5943ac334ed09b6d509b9bb4e5d) |
+| `0x3a78cCF48F0d1dD42937D338891ABA638f28f03f` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3d23dcf1c2ee0b0d2a6634542815f23d0d973f8cce1d07e425da47fb7ae89436) |
+| `0x43CAa2a428175097f1B10E91e10d52C943C6859C` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x919241900866c8bf9e6024615b8871ada7a97be88a6a40e96b60b4796e33cb74) |
+| `0x440a17f90b51eABee109dE3eb60441209eC3A627` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa7fa6c183a5feed691f5444347e6ea9006874e2c2161ea8164d66f9318912fd8) |
+| `0x51BE862c06B45B440a6987df81f7973099b7EEBE` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xb5ab7a81bdc29b2edf2782c37a0a44178ca10d2b0dacbf6ea97b2738e14d2f96) |
+| `0x66791b6dDc1FB01782e27E2614Ae5Dd47C7773bA` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbd99f6e6054c444d791ece457271b6a12e96a8f344ee5451c79a993ce8239f22) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7b8d8b1d3382b5cd2d0345d194e00b401226369c9a599d1c8599efcfc19a26e) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d66cb1273a288452fec83e1c3e0bbcda185b11fbbb14e743bf98e94b91d3105) |
+| `0x767d00C762d12E37C5430B25Fc68175BDCFb6D33` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa1e788545e37fc58288d02b5b80c6858fdc5787fdd02e97c1d401b8f4b7d6579) |
+| `0x7d0cbbF6f53aEE1Bd2CeB5CE410336A0265CAF71` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa601a1e7e65a7c90f247ed81ed26516e494d13bba46adad7077d303b82def220) |
+| `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xbfa9a5bb266ba33304ad8f316612f2750306ca422d7e54539ebb5d356b3e1be9) |
+| `0x94A44C8F521B9a78e42FA22cb8B258c5793fe745` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x6212e8049c3383d6066e27944cfd2fa7ed3d7fa9491df435db5ee5ae717a0e83) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe6b71cd71fed9bc3dde7db5f36b792d3312279e4321e8e3f12fdc5b1c8a19c43) |
+| `0xAF8A36FE886871d052C890b0fd4C6bD63be6fC26` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf458d3739a5b41728d0c11dd9561e754dcc66a80a84d8736512f852be8d13e1b) |
+| `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x6efb4278b359e4bfbc2a39c53edeb8e63318cc967f25029589bf93c05dbc3033) |
+| `0xB3c64a8318131802c2D77cCEb9AF7e5412196397` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd7d3bc3edece5af68479db9030e8f646429724d03a7b6d081c2e860bfda9f105) |
+| `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x74c43b968e9efbcbaca70ef427cbbb1efa3e1265e1613943449d1d43365da204) |
+| `0xC1ED31DF5c6a5437Ea3830b97AeD5549d8953d13` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7476e52fa928f52a1534755549d3a69fc3ed4b76953ec72540e0de8ee86693d5) |
+| `0xc553c126DfcAd890c47c645ad43183603650438a` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa51fa476a6f947b579dd7d49ec373230096e697bf35e0c09b7f23272330a6219) |
+| `0xc913d8220CA26CA4e220dA85401C7808Cd0d50A7` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xf19b44346814a7cc5210e8a24c5df153355ac996404c0b53859c0ad9b714b75c) |
+| `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d5a5f4d8d7c6dbc08aa3b87de63978966a285ae25b0d65ac39bc6051159b304) |
+| `0xccFD31d297AFb11c0c04874cCfDfe272D3a8B56f` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb14b772b33b04cb6c46d04ef0e2d3d10baf7497617369fb6c8a357c2d402608e) |
+| `0xcfe1E6f382e6b9a9458c68484b2F130E90cdbDd6` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd9b8cd324665a350090e66f3ba7ceb2c8a8c9739f67eefd4e5545e107029efc6) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe47e52a0acfb57d2ddd5465b84f6830099f3e7e5659b6bcb0b0bd9cbee15b68d) |
+| `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x593b7732bb1a47428bbef60de7c66c37cd365cbbcf2b31c5de7da29501368137) |
+| `0xDd98051c107F8d3E92d2f588D2Cb748EFb27Fa3A` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfc0646a385ca9f9508c87500ec0305312bd4588d9ed42132a348f4409de211fa) |
+| `0xDfcEBD4d1078F2d67DC3873749FEDBC93FAf36de` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0xab9a6e0bbadc0d0088fefe4522c0a9e1584f427e711e154317ee6fa72af13c2d) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | R. Barrett '19 BGS 9.5 | 12 | [Polygonscan](https://polygonscan.com/tx/0x675a6263807f04e5510e4e0b62cf71deea5a168f91fb3d953c54311abdcadc68) |
+| `0xE76f76beE5F159721Ac9d41338D3638cDe0069D1` | R. Barrett '19 BGS 9.5 | 1 | [Polygonscan](https://polygonscan.com/tx/0x8894af372bc27db8c36a7dd7a141875ec0af3c2e8b14250d72b714c3e9dd0128) |
+| `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` | R. Barrett '19 BGS 9.5 | 2 | [Polygonscan](https://polygonscan.com/tx/0x8d95b2d95b33d6099b18ec967a3ebc31c0b9e43bfc237851f5454d4a29a23c1b) |

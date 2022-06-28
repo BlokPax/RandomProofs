@@ -1,0 +1,198 @@
+# [Elimination Proof](./readme.md) / W. Franco &#039;19 PSA 10
+
+|||
+|---|---|
+| **Drop** | Summer Supreme Razz |
+| **Round** | 4 |
+| **Started** | June 28, 2022 10:00 AM EDT |
+| **Completed** | June 28, 2022 10:03 AM EDT |
+| **Tokens remaining before round** | 3,456 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 128 |
+| **Tokens remaining after round** | 1,728 |
+| **&nbsp;&nbsp;&nbsp;&nbsp;Per Asset** | 64 |
+| | |
+| **Asset** | W. Franco &#039;19 PSA 10 |
+| **Internal ID** | 1871 |
+| **On-chain ID** | 422 |
+| **Image** | <img src="https://tcdn.blokpax.com/968e680c-0500-49e8-bd83-5b06e5fd12f4/18d63329f3a116fe42ba38e66dbb67247d2bd6fa941698b5ac8a0a0a8b73d9e9.jpg" height="200" alt="W. Franco &#039;19 PSA 10" /> |
+
+## Ledger
+
+| 💀 | # | Owner |
+| --- | --- | --- |
+| 💀 | `0` | `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` |
+|  | `1` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `2` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `3` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+| 💀 | `4` | `0x14D7dCdA5Ef603db690522f87334478fd20327e1` |
+|  | `5` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+| 💀 | `6` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `7` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+| 💀 | `8` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `9` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+| 💀 | `10` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `11` | `0xe1C94375695b78D064205ce0A896E5bbAA373fC0` |
+| 💀 | `12` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `13` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `14` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+|  | `15` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `16` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+|  | `17` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `18` | `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` |
+|  | `19` | `0xcbD14770cE571580e9e82b7188bF8B1E78Bacd05` |
+| 💀 | `20` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `21` | `0xf314797845F5fC2df17556b69b7D7E17c79A6f53` |
+| 💀 | `22` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `23` | `0x2cD7B91C4AeCDE994D41D956D315e647554d7112` |
+| 💀 | `24` | `0xd4840045A3c9B267522f58E8067F240B022F22fB` |
+|  | `25` | `0xb80612088d06e4b7B7e630302ebaD0Bd9820C37D` |
+| 💀 | `26` | `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` |
+|  | `27` | `0x3ebB65018739609b28D8BFaA61fa4eBd5902aB87` |
+| 💀 | `28` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `29` | `0x6Bb1dA15B40868475708b70daD9002Baaf23878D` |
+| 💀 | `30` | `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` |
+|  | `31` | `0xB0b101f61AE47B4058a6360Aa642BB80d578B107` |
+| 💀 | `32` | `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` |
+|  | `33` | `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` |
+| 💀 | `34` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `35` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `36` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+|  | `37` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `38` | `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` |
+|  | `39` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+| 💀 | `40` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+|  | `41` | `0xBA9f86eF24824A3B436F5c65Eb3f2e6Ba3bE71Ca` |
+| 💀 | `42` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `43` | `0x310f454cE7079C7B20af9A6d446eF1e3AC1EDebd` |
+| 💀 | `44` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `45` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `46` | `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` |
+|  | `47` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `48` | `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` |
+|  | `49` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `50` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `51` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+| 💀 | `52` | `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` |
+|  | `53` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `54` | `0x05239033dE4E298546e43091a53FADB8DbE252A3` |
+|  | `55` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `56` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+|  | `57` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+| 💀 | `58` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `59` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `60` | `0xAA93c5e06b649baad66C162A947Bf928770a47B8` |
+|  | `61` | `0xC1A6d9dA4b18a95A925c8d29C729460EA5A2735A` |
+| 💀 | `62` | `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` |
+|  | `63` | `0x84A3Ab084abEC3B0f03B599C5B0f006F6509AA20` |
+| 💀 | `64` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+|  | `65` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `66` | `0x9e422D0E8F6EEb509795E3855540703DA14c669b` |
+|  | `67` | `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` |
+| 💀 | `68` | `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` |
+|  | `69` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+| 💀 | `70` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `71` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+| 💀 | `72` | `0x64f595f69080d760F09CA144744d1af6B9e7125c` |
+|  | `73` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+| 💀 | `74` | `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` |
+|  | `75` | `0x4A30fF4bB1FD247A9E2eE9faA89dB076D5037b82` |
+| 💀 | `76` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `77` | `0x0073d46dB23FA08221b76Ba7f497c04B72bD3529` |
+| 💀 | `78` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `79` | `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` |
+| 💀 | `80` | `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` |
+|  | `81` | `0x7ad94910D0b5aD58b2808eb273dfc9631671D010` |
+| 💀 | `82` | `0x0E554c605B1f89A8c2D5B6099332d7E602200100` |
+|  | `83` | `0x691Ca9A57191d3F3f0abC3774828d9D7792a9602` |
+| 💀 | `84` | `0x7d0cbbF6f53aEE1Bd2CeB5CE410336A0265CAF71` |
+|  | `85` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `86` | `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` |
+|  | `87` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+| 💀 | `88` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `89` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `90` | `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` |
+|  | `91` | `0x979cd16C8A263d82A265f6de80e5c1F03CcaF1D3` |
+| 💀 | `92` | `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` |
+|  | `93` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `94` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+|  | `95` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+| 💀 | `96` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+|  | `97` | `0xa18e7F8b41E0bC7C593cB4DeE49C4e444f75A2a1` |
+| 💀 | `98` | `0xBF792bB6aC2900222ecF6D919dbfDEcFBCFF079a` |
+|  | `99` | `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` |
+| 💀 | `100` | `0x7589c864516Db39454bF4518802dD2A75b5a290a` |
+|  | `101` | `0x7fEbA736B397Fdb8173E089333BFc5Cca1d50004` |
+| 💀 | `102` | `0xB172488b1927E748bd6d832507FD2002fd85CA94` |
+|  | `103` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `104` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `105` | `0x1bd22BB269b89E491153375C99203CB39BB7830c` |
+| 💀 | `106` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `107` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `108` | `0x669E57C8eFa3aD8902ffD704ca275F3177187837` |
+|  | `109` | `0x1F40C2d032e188EB5B88dF6a2709940f0296D9a2` |
+| 💀 | `110` | `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` |
+|  | `111` | `0x51BE862c06B45B440a6987df81f7973099b7EEBE` |
+| 💀 | `112` | `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` |
+|  | `113` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `114` | `0x95d7242abc063214bd0a733a5929239EF788A4fe` |
+|  | `115` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `116` | `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` |
+|  | `117` | `0x1C60dA2fbfe29B2e871C4b530F77630713718e6F` |
+| 💀 | `118` | `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` |
+|  | `119` | `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` |
+| 💀 | `120` | `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` |
+|  | `121` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+| 💀 | `122` | `0x243dc5d02592a989FE1B809d263F432e6632b999` |
+|  | `123` | `0xD4E26683635bf3dc9EAD5F31B935c33cC1Ce1838` |
+| 💀 | `124` | `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` |
+|  | `125` | `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` |
+| 💀 | `126` | `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` |
+|  | `127` | `0xE7f1097c1616584c61C6b4450cF5b1306058E83c` |
+
+
+## Eliminations
+
+| Owner | Asset | Qty. | Transaction |
+| --- | --- | --- | --- |
+| `0x00F70c460CE2A760c7Fa8fBf19B91CB20CD94A69` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x23d1b07f6483423026829781e6f77eaa3b6921abbeaf80ed8b45472285dad81e) |
+| `0x05239033dE4E298546e43091a53FADB8DbE252A3` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xddd6f1d8b340d90ad67170326d4ee7e13ad778acb80f5a5d6223b04ad821a8ec) |
+| `0x07Ae3f321Ab9422e978a9f953f34C88907Ecc27b` | W. Franco '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x309072f07f1297abdb02739724dad6a8e3890162903cd74b133b1ece26dbc97f) |
+| `0x0C12738Da85168D0DB16F736F66C05cB4D4310f3` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x7d914e4ef9e7f9801645b996e5956721a6b14950f3add14cd7a8f86c8e250c0f) |
+| `0x0d5F9bC4425eab375f5020F51DD4742205E6BBeF` | W. Franco '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0xd109ff12ea199454685eadc2c812b64ce576197964a2fa8f5f37c756744f1a8d) |
+| `0x0d8dECcc10ecE0c006311aAA8B57BEc8d6Dd1879` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5d96afc4edd09cfeeeee71c90657a4c8a8b58cae72e5b6bc773237c798fe75c5) |
+| `0x0e3c22d4f018A2408d7895D3C80FeE47c480C1B8` | W. Franco '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf31b844a1d8aa54c4183169dca6cd5a3d828e98b554058d119f9584dd4451b8c) |
+| `0x0E554c605B1f89A8c2D5B6099332d7E602200100` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xb5343e50035babed34515e0e2dd5110cf1910d922e698364ae55f3f1583fbe6c) |
+| `0x10C5aD0436C2406e1739D0504d61A8BaEdc5F48d` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x19d4ecabf5b069eaa086967900f215a15dfc41a33ec17d22ba7cb830ab67614c) |
+| `0x14D7dCdA5Ef603db690522f87334478fd20327e1` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0720d580e245def6cd4f5f4ac8fe006bc9f6167820c2dba40f1eb7df08cf18a0) |
+| `0x243dc5d02592a989FE1B809d263F432e6632b999` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xdc7c5aa5aa22aff5988f70e74d28240bcf584b276d7ea0d2bef25d7a73c3f094) |
+| `0x2E7bf9b07A16448d956e6457cD17f9384EB10F4b` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x239547300e96577d022b782f2ffc51c2276069c90c69e41852ef9ff6eec7296c) |
+| `0x31b611Edf7974a1E85f049D17d26B912aBFA3059` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x3013c01806efc3808023c94d271fba5cf157071a90b58f783083cbd3e17e9e12) |
+| `0x50a77Ec4b8aeB8A86e8c8Fc73f276a40875B3368` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x2e3cbfc7a071384f9c713d54e01741b7ecbaaff4648b37d841580774b9dc05bd) |
+| `0x5Fec3B40af6EE593e2A4a77d78374C1c8e787019` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x21a7dd5aa7e0269ba6c87a688aa7b118ea2228f2b23a00b39e52a8c90c979f5e) |
+| `0x6413082247F9C444f6ABe0aADe895Be2FB416Db7` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x87c053fba54a43c8f70f2a6a7dec2ad4b44f1afbe873b7059fa92a56dbd589ed) |
+| `0x64f595f69080d760F09CA144744d1af6B9e7125c` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x58dd25073eeb266e49005aa4fd04a666171f95dc9e8eff4781046f99e6d3f854) |
+| `0x669E57C8eFa3aD8902ffD704ca275F3177187837` | W. Franco '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xf7eafab78781e837f895e58bc9c4bd11092c62f9444252a7f25a40bffef4d472) |
+| `0x68c4436aE48ede9Ff48f76aEad95C5d18B0B3Ab9` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0e490f4df3c7d36e0d7f6f4df21a4d17ed4f6a210395df477745ba60b9c97415) |
+| `0x7436aDb2b5166BeBC100B98d293A3cCeaf28Cd90` | W. Franco '19 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0x1269b198929fea711c8d48dadddb859589d28e9029007b8cf364a80836d7934a) |
+| `0x7589c864516Db39454bF4518802dD2A75b5a290a` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x9007899d2ef022a65d04a1f64444580acc94aca30404377e2bd8855096cd0fd4) |
+| `0x7d0cbbF6f53aEE1Bd2CeB5CE410336A0265CAF71` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x72ec0067161e6bf8e311992fe7ca1da4e70bb716292feaaf58776618ec3f7b0c) |
+| `0x7e2957a3378686f4F096d529fb6A2A6bC6B1EdE5` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xa8c24fee2175351df3af7ad81c8f8f6b870c060f8fb8a9d54abf9ff9a468cf60) |
+| `0x7F78689a853C1fd84E322d47590Ed8232c0e6328` | W. Franco '19 PSA 10 | 8 | [Polygonscan](https://polygonscan.com/tx/0x598f687bcc3c34eca102bc5f9bf294961cdaa72ba70e51681f9d5827df411b2c) |
+| `0x83e7083d05EC6346877B4e4b90bDFAC2ebC5eD05` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xeb24b02d99478376c41f49ecd94dbca9d7eb7a33d97a60ceab6bfe451010160c) |
+| `0x91dC40E84EE71CeA830633dEF178cAeDd77a7d40` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xe60237c3d716b75911132e72c22f7e6fafebd8123afba66a294f01b44ea0b393) |
+| `0x91ED7c73FC0fD2f46F4719D554c351eD66CcaA5e` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x866fe6cfb694f964be4602be9c93c76c0f8a39c6962f7762ce2529b0a9443d62) |
+| `0x95d7242abc063214bd0a733a5929239EF788A4fe` | W. Franco '19 PSA 10 | 3 | [Polygonscan](https://polygonscan.com/tx/0x8e48b7cebd629dcdc99e1c9d666caf13a08aca1a421d391c9a773df1d9bdca52) |
+| `0x97711BC3ca504F07aA0f8e7cD4b8bFfDB19569c7` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x066f17fd56336306f689fe889817a1437674a0a6e154f6d2768e43bcdccf691b) |
+| `0x9B7e47E4207Aeb1C7BE844d5d2d6c1781456094A` | W. Franco '19 PSA 10 | 2 | [Polygonscan](https://polygonscan.com/tx/0xbba87fad250dbfda6fb04a854f94ea8ea487c8808e00f43b90fda1ef2d4733d2) |
+| `0x9e422D0E8F6EEb509795E3855540703DA14c669b` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xd4de7e680abf512644b82448cb512220479ab863f13148a4defaf29fe2747b8d) |
+| `0xAA93c5e06b649baad66C162A947Bf928770a47B8` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0be068d3fb0ae993e408fa33175061ce6a202e7f9e4fbd853bc1899fbcbef2f6) |
+| `0xB172488b1927E748bd6d832507FD2002fd85CA94` | W. Franco '19 PSA 10 | 4 | [Polygonscan](https://polygonscan.com/tx/0xae99b637dcc083dee55c98827dd4942e830bd825afa7868d8397907577958e6c) |
+| `0xbe9d30Df4a065a5B26FFF633130Ffb1F85e0be5d` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xfb0d0f362ef86cd09c99d75f75aa6e52bfba60910a0f283130a0a07937f96563) |
+| `0xBF792bB6aC2900222ecF6D919dbfDEcFBCFF079a` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x0b011b93e4a1b5ccde0c0287a8f07ba3c3bec3ab401c9671e5a4692968072b8b) |
+| `0xc91A7D0A725B8D3F078DFf6fD99770ad102DB6ae` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcffc55e6a809b148d23bd8e158407d96a6efb43d1d9e02b8bd92da849fe3c65b) |
+| `0xd4840045A3c9B267522f58E8067F240B022F22fB` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x33d4b3b0d36bcf489155e18b27bc1fdcc551582a2dcf8292fe18df5ff5ff843f) |
+| `0xd512ee04A1fD6f8226c2ea3543601177b96a8738` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xcf240e70996dbf5d33b3633d1e89a3a6a425fc98296362a554002373add8866b) |
+| `0xe645bb168A0F7588CAA331E89d88AcD22E1885C0` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x08f4b9a813341fc018d1043c7155c808ef0512647e2431f51dcdabd265d524e7) |
+| `0xe9059E525b5C144479eC6A27A23c5Bbd094Dff20` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x5fe255fb6e31339e64fadabb6aeb0cbe973020eac2ed8c9c89870a02c3f43744) |
+| `0xeFA7444BF99B6d5dBF85Db876f5c8d6B6e3c2425` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0x61c604e76b004ddce08e6258ce60753ddcfd5ef265a864dcd76ee73dc69874ba) |
+| `0xF00D61E4a0484ad87ff5cFBD33aFF1B4ea232814` | W. Franco '19 PSA 10 | 1 | [Polygonscan](https://polygonscan.com/tx/0xc66e953d2e0f5fea87cbbe682f3f4012cc30e9e7b3c68a8b4aa78c5b05c15d3c) |
