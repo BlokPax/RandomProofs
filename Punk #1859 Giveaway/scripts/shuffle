@@ -1,0 +1,21 @@
+#!/opt/homebrew/bin/php
+<?php
+
+$seed = gmp_intval(
+	  gmp_mod(
+	    gmp_init(
+	      $_SERVER['argv'][1],
+	      10
+	    ),
+	    PHP_INT_MAX
+	  )
+	);
+
+srand($seed);
+
+$ids = file($_SERVER['argv'][2]);
+shuffle($ids);
+
+for ($i = 0; $i < count($ids); $i++) {
+	echo trim($ids[$i]) . "\n";
+}
