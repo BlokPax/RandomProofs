@@ -20,8 +20,8 @@ This repository exists as a way to prove, and let anyone in the community audit,
 | Round | Tier | Tokens to Reveal | Date/Time ||
 |---|---|---|---|---|
 | One | Common | 1600 | August 22, 2022 @ 12:00pm EDT | [Round 1 - Commons](./Round%201%20-%20Commons) |
-| Two | Aqua | 500 | TBD ||
-| Three | Blue | 250 | TBD ||
+| Two | Aqua | 500 | August 24, 2022 @ 12:00pm EDT | [Round 2 - Aquas](./Round%202%20-%20Aquas) |
+| Three | Blue | 250 | August 26, 2022 @ 12:00pm EDT | [Round 3 - Blues](./Round%202%20-%20Blues) |
 | Four | Red | 99 | TBD ||
 | Five | Gold | 50 | TBD ||
 | Five | Black Hologram | 1 | TBD ||
