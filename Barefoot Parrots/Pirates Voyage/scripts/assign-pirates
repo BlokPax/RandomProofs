@@ -1,0 +1,45 @@
+#!/opt/homebrew/bin/php
+<?php
+
+// pirates
+$fn = $_SERVER['argv'][1];
+$pirates = file($fn);
+
+//ships
+$fn2 = $_SERVER['argv'][2];
+$ships = file($fn2);
+
+$shipAssignment = [];
+foreach ($ships as $ship) {
+	$shipAssignment []= [
+		'ship' => trim($ship),
+		'pirates' => [],
+	];
+}
+
+for ($i = 0; $i < count($pirates); $i++) {
+	$ship = $i % count($ships);
+	$shipAssignment[ $ship ]['pirates'] []= trim($pirates[ $i ]);
+}
+
+$csv = [[]];
+foreach ($ships as $ship) {
+ 	$csv[0] []= trim($ship);
+}
+
+for ($x = 0; $x < count($shipAssignment[0]['pirates']); $x++) {
+	for ($y = 0; $y < count($shipAssignment); $y++) {
+		$csv[ $x + 1 ][ $y ] = $shipAssignment[ $y ]['pirates'][ $x ];
+	}
+}
+
+if (in_array('--csv', $_SERVER['argv'])) {
+	foreach ($csv as $line) {
+		fputcsv(STDOUT, $line);
+	}
+} else {
+	echo json_encode($shipAssignment);
+}
+
+	
+	
