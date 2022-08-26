@@ -1,4 +1,4 @@
-### [Punk 1859 Giveaway](../readme.md) / Round 2 - Common Tier Reveal Proof
+### [Punk 1859 Giveaway](../readme.md) / Round 2 - Aqua Tier Reveal Proof
 
 
 |||
