@@ -1,4 +1,4 @@
-### [Punk 1859 Giveaway](../readme.md) / Round 3 - Blue Tier Reveal Proof
+### [Punk 1859 Giveaway](../README.md) / Round 3 - Blue Tier Reveal Proof
 
 |||
 |---|---|

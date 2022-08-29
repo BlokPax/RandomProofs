@@ -1,4 +1,4 @@
-### [Punk 1859 Giveaway](../readme.md) / Round 1 - Common Tier Reveal Proof
+### [Punk 1859 Giveaway](../README.md) / Round 1 - Common Tier Reveal Proof
 
 
 |||
