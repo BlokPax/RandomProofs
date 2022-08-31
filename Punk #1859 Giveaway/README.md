@@ -30,6 +30,6 @@ This repository exists as a way to prove, and let anyone in the community audit,
 
 |||
 |---|---|
-| **Token ID** | TBD |
-| **Holder Address** | TBD |
-| **Delivery Transaction** | TBD |
+| **Token ID** | 1965 |
+| **Holder Address** | `0x2dbbadDaC5d5F99Caa892e2FA8a0990Bb9663A0D` |
+| **Delivery Transaction** | [`0x332a207ed273d63b6d1903c73663cee877a723d0b7ea4836fb40c2d253516a8d`](https://etherscan.io/tx/0x332a207ed273d63b6d1903c73663cee877a723d0b7ea4836fb40c2d253516a8d) |
