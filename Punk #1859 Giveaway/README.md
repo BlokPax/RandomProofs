@@ -23,5 +23,13 @@ This repository exists as a way to prove, and let anyone in the community audit,
 | Two | Aqua | 500 | August 24, 2022 @ 12:00pm EDT | [Round 2 - Aquas](./Round%202%20-%20Aquas) |
 | Three | Blue | 250 | August 26, 2022 @ 12:00pm EDT | [Round 3 - Blues](./Round%203%20-%20Blues) |
 | Four | Red | 99 | August 29, 2022 @ 12:00pm EDT | [Round 4 - Reds](./Round%204%20-%20Reds) |
-| Five | Gold | 50 | TBD ||
-| Five | Black Hologram | 1 | TBD ||
+| Five | Gold | 50 | August 31, 2022 @ 2:00pm EDT | [Round 5 - Golds](./Round%205%20-%20Golds) |
+| Five | Black Hologram | 1 | August 31, 2022 @ 2:00pm EDT l| [Grand Prize Winner](#grand-prize-winner) |
+
+### Grand Prize Winner
+
+|||
+|---|---|
+| **Token ID** | TBD |
+| **Holder Address** | TBD |
+| **Delivery Transaction** | TBD |
