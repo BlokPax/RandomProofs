@@ -40,10 +40,13 @@
 | Ship Position | Ship | Result |
 |---|---|---|
 | Ship 1 | Reef Crusher | **SUNK** |
-| | Randomness: [`29401357001243232101409340116266268484223155764119003170838324770726389200946`](https://etherscan.io/tx/0x26caed7782c874ba39f4132b1bae47ec8e894b37fd84a35d8b525b433252b77d)
-| | Hash Source: [Hash Sources/Round 1.txt](./Hash%20Sources/Round%201.txt)
-| | Hash: `b26c17ee660cea492109541895c5a451c387db52384911cf8a80471ece475af1`
-| Ship 2 | Salty Bottom | | |
+| | Randomness: [`29401357001243232101409340116266268484223155764119003170838324770726389200946`](https://etherscan.io/tx/0x26caed7782c874ba39f4132b1bae47ec8e894b37fd84a35d8b525b433252b77d) |
+| | Hash Source: [Hash Sources/Round 1.txt](./Hash%20Sources/Round%201.txt) |
+| | Hash: `b26c17ee660cea492109541895c5a451c387db52384911cf8a80471ece475af1` |
+| Ship 2 | Salty Bottom | **SUNK** |
+| | Randomness: [`93489813983995755603503254181681196939822248248818314025822544981779801577905`](https://etherscan.io/tx/0x6db2a47162c41da8d4a8089dc6b2f4ba3a3a661cc36c165c2ae5a47ed363cbd3) |
+| | Hash Source: [Hash Sources/Round 2.txt](./Hash%20Sources/Round%202.txt) |
+| | Hash: `09da68cc63b11f38ddb406d30098b7f853dc03ad57d715a333705c3569429931` |
 | Ship 3 | Scorcher | | |
 | Ship 4 | Coconut Commander | | |
 | Ship 5 | Skull Crusher | | |
