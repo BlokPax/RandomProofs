@@ -47,7 +47,10 @@
 | | Randomness: [`93489813983995755603503254181681196939822248248818314025822544981779801577905`](https://etherscan.io/tx/0x6db2a47162c41da8d4a8089dc6b2f4ba3a3a661cc36c165c2ae5a47ed363cbd3) |
 | | Hash Source: [Hash Sources/Round 2.txt](./Hash%20Sources/Round%202.txt) |
 | | Hash: `09da68cc63b11f38ddb406d30098b7f853dc03ad57d715a333705c3569429931` |
-| Ship 3 | Scorcher | | |
+| Ship 3 | Scorcher | **SUNK** |
+| | Randomness: [`39917980828121727761911060749442396083804809394478101440406467716447895530513`](https://etherscan.io/tx/0x650520fe233a63bcedca3ebc6a3d58d5c46b3c03b5dd0a1c90d03fc8bc3eec26) |
+| | Hash Source: [Hash Sources/Round 3.txt](./Hash%20Sources/Round%203.txt) |
+| | Hash: `901db66d2f77317351a472787233faa46fce817f01cb99198643a346012ab1d1` |
 | Ship 4 | Coconut Commander | | |
 | Ship 5 | Skull Crusher | | |
 | Ship 6 | White Pearl | | |
