@@ -51,7 +51,10 @@
 | | Randomness: [`39917980828121727761911060749442396083804809394478101440406467716447895530513`](https://etherscan.io/tx/0x650520fe233a63bcedca3ebc6a3d58d5c46b3c03b5dd0a1c90d03fc8bc3eec26) |
 | | Hash Source: [Hash Sources/Round 3.txt](./Hash%20Sources/Round%203.txt) |
 | | Hash: `901db66d2f77317351a472787233faa46fce817f01cb99198643a346012ab1d1` |
-| Ship 4 | Coconut Commander | | |
+| Ship 4 | Coconut Commander | **SUNK** |
+| | Randomness: [`15389461003815869532516672427927789011665238293393477938936410757844262247144`](https://etherscan.io/tx/0x2ec0db5d30fe25a8c4dff300ab5e3ab75681bb6802d3067205e86b4b4ecb6d47) |
+| | Hash Source: [Hash Sources/Round 4.txt](./Hash%20Sources/Round%204.txt) |
+| | Hash: `437bcd131e45c4cd6d6e218c58444c633cb610698bd1f91752666a3ecc271b21` |
 | Ship 5 | Skull Crusher | | |
 | Ship 6 | White Pearl | | |
 | Ship 7 | Gliding Ghost | | |
