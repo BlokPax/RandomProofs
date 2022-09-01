@@ -1,0 +1,29 @@
+#!/opt/homebrew/bin/php
+<?php
+
+$randomness = $_SERVER['argv'][1];
+
+$numerator = $_SERVER['argv'][2];
+$denom = $_SERVER['argv'][3];
+
+$roll = gmp_intval(
+  gmp_mod(
+    gmp_init(
+      $randomness,
+      10
+    ),
+    $denom
+  )
+);
+
+$result = $roll < $numerator;
+
+echo "{$randomness} % {$denom} < {$numerator} = {$roll}\n";
+
+if ($result) {
+	echo "Success!\n";
+} else {
+	echo "Fail!\n";
+}
+
+

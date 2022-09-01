@@ -23,3 +23,32 @@
 |---|---|
 | **csv** | [pirate-assignments.csv](./pirate-assignments.csv) |
 | **json** | [pirate-assignments.json](./pirate-assignments.json)
+
+### Ship Results
+
+**Reproduction Steps**
+
+1. Hash the file specified as the hash source. This is your random value identifier.
+2. Request randomness from the VRF
+3. Execute the [`roll`](../scripts/roll) command: `roll <RANDOMNESS> <ODDS NUMERATOR> <ODDS DENOMINATOR>`
+	```
+	// example:
+	roll 29401357001243232101409340116266268484223155764119003170838324770726389200946 1 10
+	```
+4. Done
+
+| Ship Position | Ship | Result |
+|---|---|---|
+| Ship 1 | Reef Crusher | **SUNK** |
+| | Randomness: [`29401357001243232101409340116266268484223155764119003170838324770726389200946`](https://etherscan.io/tx/0x26caed7782c874ba39f4132b1bae47ec8e894b37fd84a35d8b525b433252b77d)
+| | Hash Source: [Hash Sources/Round 1.txt](./Hash%20Sources/Round%201.txt)
+| | Hash: `b26c17ee660cea492109541895c5a451c387db52384911cf8a80471ece475af1`
+| Ship 2 | Salty Bottom | | |
+| Ship 3 | Scorcher | | |
+| Ship 4 | Coconut Commander | | |
+| Ship 5 | Skull Crusher | | |
+| Ship 6 | White Pearl | | |
+| Ship 7 | Gliding Ghost | | |
+| Ship 8 | Treasure Raider | | |
+| Ship 9 | Defiant | | |
+| Ship 10 | Golden Barnacle | | |
