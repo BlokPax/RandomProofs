@@ -67,6 +67,9 @@
 | | Randomness: [`14017048478927392338992969977732053420128684287025719443876130390302378881426`](https://etherscan.io/tx/0xfb87ff33fa881ae74f126d59f13fd497de28964abf25838538c90ad1e7b0fd99) |
 | | Hash Source: [Hash Sources/Round 7.txt](./Hash%20Sources/Round%207.txt) |
 | | Hash: `b5d6d453f9f854d3f65493fce2b2e7a973bb62362a05c186e70d068ac4a9b031` |
-| Ship 8 | Treasure Raider | | |
+| Ship 8 | Treasure Raider | **SUNK** |
+| | Randomness: [`113046479939977125283096325716752124348376815035794501443781976102383414940211`](https://etherscan.io/tx/0x1443f73e32efbb6427fa68009293191c68d1d5b488c50e1eb69f542c253e7b42) |
+| | Hash Source: [Hash Sources/Round 8.txt](./Hash%20Sources/Round%208.txt) |
+| | Hash: `9897e8bc93754d8d62c02a9c14ffce99a415f9a1a7a23970a4e471ba4126f3f5` |
 | Ship 9 | Defiant | | |
 | Ship 10 | Golden Barnacle | | |
