@@ -59,7 +59,10 @@
 | | Randomness: [`105566928581040549170120376357327015963808090290186774611704897982415943520361`](https://etherscan.io/tx/0x3f7fd2b679e689e677ba402a17ff9fbd7ce218f1ab153bb045a20150673876d3) |
 | | Hash Source: [Hash Sources/Round 5.txt](./Hash%20Sources/Round%205.txt) |
 | | Hash: `2af559d51d1b8ffb8a3aad43e55c417251e375179ec049d3dd2d11359986033e` |
-| Ship 6 | White Pearl | | |
+| Ship 6 | White Pearl | **SUNK** |
+| | Randomness: [`59061894766995623207156938327320357168244114006788400456757254206114538101194`](https://etherscan.io/tx/0xb45f583ce690946353a20802c7f0fbc97a9f0326273481199463acd206a3492b) |
+| | Hash Source: [Hash Sources/Round 6.txt](./Hash%20Sources/Round%206.txt) |
+| | Hash: `bfc5d4359acb0c115aa58850657737f4dc925014b75bd78f92f5eebb674b780f` |
 | Ship 7 | Gliding Ghost | | |
 | Ship 8 | Treasure Raider | | |
 | Ship 9 | Defiant | | |
