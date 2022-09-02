@@ -63,7 +63,10 @@
 | | Randomness: [`59061894766995623207156938327320357168244114006788400456757254206114538101194`](https://etherscan.io/tx/0xb45f583ce690946353a20802c7f0fbc97a9f0326273481199463acd206a3492b) |
 | | Hash Source: [Hash Sources/Round 6.txt](./Hash%20Sources/Round%206.txt) |
 | | Hash: `bfc5d4359acb0c115aa58850657737f4dc925014b75bd78f92f5eebb674b780f` |
-| Ship 7 | Gliding Ghost | | |
+| Ship 7 | Gliding Ghost | **SUNK** |
+| | Randomness: [`14017048478927392338992969977732053420128684287025719443876130390302378881426`](https://etherscan.io/tx/0xfb87ff33fa881ae74f126d59f13fd497de28964abf25838538c90ad1e7b0fd99) |
+| | Hash Source: [Hash Sources/Round 7.txt](./Hash%20Sources/Round%207.txt) |
+| | Hash: `b5d6d453f9f854d3f65493fce2b2e7a973bb62362a05c186e70d068ac4a9b031` |
 | Ship 8 | Treasure Raider | | |
 | Ship 9 | Defiant | | |
 | Ship 10 | Golden Barnacle | | |
