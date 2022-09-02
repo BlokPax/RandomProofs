@@ -71,5 +71,8 @@
 | | Randomness: [`113046479939977125283096325716752124348376815035794501443781976102383414940211`](https://etherscan.io/tx/0x1443f73e32efbb6427fa68009293191c68d1d5b488c50e1eb69f542c253e7b42) |
 | | Hash Source: [Hash Sources/Round 8.txt](./Hash%20Sources/Round%208.txt) |
 | | Hash: `9897e8bc93754d8d62c02a9c14ffce99a415f9a1a7a23970a4e471ba4126f3f5` |
-| Ship 9 | Defiant | | |
-| Ship 10 | Golden Barnacle | | |
+| Ship 9 | Defiant | **SUNK** |
+| | Randomness: [`12263501614570569396597011518961067224845681537458528921900664255066262936307`](https://etherscan.io/tx/0x645e580d3c6b3e798b443b001ccf563786e0913c82c4675190ee9cda43c325cb) |
+| | Hash Source: [Hash Sources/Round 9.txt](./Hash%20Sources/Round%209.txt) |
+| | Hash: `bc1e7eed244fc893b33da0e97f6b29d6adbf5b079afa75c0de7e9de71676d253` |
+| Ship 10 | Golden Barnacle | **VICTOR** |
