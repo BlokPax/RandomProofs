@@ -55,7 +55,10 @@
 | | Randomness: [`15389461003815869532516672427927789011665238293393477938936410757844262247144`](https://etherscan.io/tx/0x2ec0db5d30fe25a8c4dff300ab5e3ab75681bb6802d3067205e86b4b4ecb6d47) |
 | | Hash Source: [Hash Sources/Round 4.txt](./Hash%20Sources/Round%204.txt) |
 | | Hash: `437bcd131e45c4cd6d6e218c58444c633cb610698bd1f91752666a3ecc271b21` |
-| Ship 5 | Skull Crusher | | |
+| Ship 5 | Skull Crusher | **SUNK** |
+| | Randomness: [`105566928581040549170120376357327015963808090290186774611704897982415943520361`](https://etherscan.io/tx/0x3f7fd2b679e689e677ba402a17ff9fbd7ce218f1ab153bb045a20150673876d3) |
+| | Hash Source: [Hash Sources/Round 5.txt](./Hash%20Sources/Round%205.txt) |
+| | Hash: `2af559d51d1b8ffb8a3aad43e55c417251e375179ec049d3dd2d11359986033e` |
 | Ship 6 | White Pearl | | |
 | Ship 7 | Gliding Ghost | | |
 | Ship 8 | Treasure Raider | | |
