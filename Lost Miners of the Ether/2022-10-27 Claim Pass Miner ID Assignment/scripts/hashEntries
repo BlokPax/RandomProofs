@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sum=$(shasum -a 256 $1 | cut -d ' ' -f 1)
+echo 0x$sum
