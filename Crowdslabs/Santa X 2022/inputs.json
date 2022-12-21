@@ -1,0 +1,537 @@
+{
+    "entries": [
+        {
+            "Wallet": "0x0073d46db23fa08221b76ba7f497c04b72bd3529",
+            "Entries": 31720
+        },
+        {
+            "Wallet": "0x0074123ca501b513eff06b06a7b26bb5ae1d25a4",
+            "Entries": 61770
+        },
+        {
+            "Wallet": "0x01071dba8095c7b29148af1bc1dadd0dbd50c634",
+            "Entries": 25200
+        },
+        {
+            "Wallet": "0x02581cbb5c51e2455574c467031478be719da81f",
+            "Entries": 52160
+        },
+        {
+            "Wallet": "0x05bf19079f1cb0cff34683876003f23af9fc65b8",
+            "Entries": 45460
+        },
+        {
+            "Wallet": "0x078d2d9442c5236a3eec9267f7b5d9849a33db5f",
+            "Entries": 48370
+        },
+        {
+            "Wallet": "0x07ae3f321ab9422e978a9f953f34c88907ecc27b",
+            "Entries": 975140
+        },
+        {
+            "Wallet": "0x081a02bce1aa7af2bbd09128ec5e7e6877d53a3e",
+            "Entries": 51780
+        },
+        {
+            "Wallet": "0x10c5ad0436c2406e1739d0504d61a8baedc5f48d",
+            "Entries": 25270
+        },
+        {
+            "Wallet": "0x117742c41c9d5b11a20f5fadc5027b06b0945bff",
+            "Entries": 21950
+        },
+        {
+            "Wallet": "0x12682f8662c03d739c1ff2c9074c58d80d5bc84e",
+            "Entries": 28120
+        },
+        {
+            "Wallet": "0x16e9cfe34541d8601da1fab1707fe2b1b867887f",
+            "Entries": 16160
+        },
+        {
+            "Wallet": "0x18b60edeeda1ef8aa0477cafd645bb8bf9bd8cab",
+            "Entries": 30040
+        },
+        {
+            "Wallet": "0x1b2416353a6b71cd6b0c8291d863b376776bbd01",
+            "Entries": 42650
+        },
+        {
+            "Wallet": "0x1c60da2fbfe29b2e871c4b530f77630713718e6f",
+            "Entries": 342480
+        },
+        {
+            "Wallet": "0x1d3b08aa342ccb9462e7527262d0ca701d5d8618",
+            "Entries": 10000
+        },
+        {
+            "Wallet": "0x1fc4bc3b9cca5a9b86c8d5f6fa592af999561f28",
+            "Entries": 218380
+        },
+        {
+            "Wallet": "0x205b9c652c418ae2979de938b6689da7c1b97db1",
+            "Entries": 17060
+        },
+        {
+            "Wallet": "0x243dc5d02592a989fe1b809d263f432e6632b999",
+            "Entries": 74890
+        },
+        {
+            "Wallet": "0x272b462f42d64eebd008e53d59a442e1f7a4b587",
+            "Entries": 10650
+        },
+        {
+            "Wallet": "0x28c807746b324c859392d42fa298f61d8f793abb",
+            "Entries": 21020
+        },
+        {
+            "Wallet": "0x2b604baee38fd5d9ef2b236e4d8462c27a66ad5d",
+            "Entries": 211580
+        },
+        {
+            "Wallet": "0x2cd1f020bb107a254eee3eb50b8ce0f4d63b3c6b",
+            "Entries": 6270
+        },
+        {
+            "Wallet": "0x2dbbaddac5d5f99caa892e2fa8a0990bb9663a0d",
+            "Entries": 14540
+        },
+        {
+            "Wallet": "0x2e7bf9b07a16448d956e6457cd17f9384eb10f4b",
+            "Entries": 188810
+        },
+        {
+            "Wallet": "0x316a35ebc7bfb945ab84e8bf6167585602306192",
+            "Entries": 114570
+        },
+        {
+            "Wallet": "0x3173d4220349345dc40c9f96472614c07869d69a",
+            "Entries": 24500
+        },
+        {
+            "Wallet": "0x35051a83daf7ba5df66ca333dc3ae8f961474004",
+            "Entries": 49990
+        },
+        {
+            "Wallet": "0x3da4f311fac2305b88faed9d639991afc89e478b",
+            "Entries": 118590
+        },
+        {
+            "Wallet": "0x3ebb65018739609b28d8bfaa61fa4ebd5902ab87",
+            "Entries": 96240
+        },
+        {
+            "Wallet": "0x3fd986ea4767cdb9f48c14e469c1cdb9f1e56e56",
+            "Entries": 296560
+        },
+        {
+            "Wallet": "0x40ef6da2a216ae3fdfb660f14ae8f98b1e557bf5",
+            "Entries": 64720
+        },
+        {
+            "Wallet": "0x416d279b22c69607a06cac53c6e063229749b1ea",
+            "Entries": 6460
+        },
+        {
+            "Wallet": "0x41b09b1a32b6b219f13538180fdb65775ec7f538",
+            "Entries": 59400
+        },
+        {
+            "Wallet": "0x43caa2a428175097f1b10e91e10d52c943c6859c",
+            "Entries": 7680
+        },
+        {
+            "Wallet": "0x440a17f90b51eabee109de3eb60441209ec3a627",
+            "Entries": 91990
+        },
+        {
+            "Wallet": "0x4414340712cd1fd72bd6a4b57d390ab1f0aaeae6",
+            "Entries": 18760
+        },
+        {
+            "Wallet": "0x46b6459f9d7576c146ad8eb5a1813f90352d885e",
+            "Entries": 52860
+        },
+        {
+            "Wallet": "0x4f04d0a11c98e8bba5a7353bdcadfc2f3a4751bc",
+            "Entries": 78610
+        },
+        {
+            "Wallet": "0x4f56f5f478b590efe67dbe18b57e6ceb48603d6b",
+            "Entries": 1260
+        },
+        {
+            "Wallet": "0x5183bb89e37ebbb4fd53a8d760dd3a0aa4d8873a",
+            "Entries": 43200
+        },
+        {
+            "Wallet": "0x51be862c06b45b440a6987df81f7973099b7eebe",
+            "Entries": 17080
+        },
+        {
+            "Wallet": "0x524bfc5c609291d3f34cd207a306be3f39feba58",
+            "Entries": 64240
+        },
+        {
+            "Wallet": "0x536236352627a0cd16a2fa98660f7ad99aa7fcdb",
+            "Entries": 467030
+        },
+        {
+            "Wallet": "0x5404aab53a7b79e8716eaeae815dbb8439d5bdda",
+            "Entries": 47280
+        },
+        {
+            "Wallet": "0x54c6351226be0aada9f4842adaf58e4ce9f1a08c",
+            "Entries": 205020
+        },
+        {
+            "Wallet": "0x55720123d8ed2079d99b183ef093b9d297be6048",
+            "Entries": 13360
+        },
+        {
+            "Wallet": "0x579cc717bbcc333acf4a6fc22ac3748f532852b3",
+            "Entries": 32220
+        },
+        {
+            "Wallet": "0x5c1d7ba69e4f73250decc014ad838051636c2c23",
+            "Entries": 692770
+        },
+        {
+            "Wallet": "0x5d77138242534a08c07d34eff158b8ee3393d075",
+            "Entries": 6340
+        },
+        {
+            "Wallet": "0x5effd9aeb9add84fbd97150a35ef9826ea7f4cb2",
+            "Entries": 26660
+        },
+        {
+            "Wallet": "0x5fec3b40af6ee593e2a4a77d78374c1c8e787019",
+            "Entries": 11800
+        },
+        {
+            "Wallet": "0x5fec43e349d65adcdb0f08db8945f0b53e7d8897",
+            "Entries": 71450
+        },
+        {
+            "Wallet": "0x606faa5c30416a54552b73c16065a9ae35d49b51",
+            "Entries": 9640
+        },
+        {
+            "Wallet": "0x6413082247f9c444f6abe0aade895be2fb416db7",
+            "Entries": 154760
+        },
+        {
+            "Wallet": "0x64e86cd117eb8cf5eded3acb75f813c04087e6f8",
+            "Entries": 58250
+        },
+        {
+            "Wallet": "0x65716c431242f309e5f4cf63b4c513d508af7662",
+            "Entries": 5980
+        },
+        {
+            "Wallet": "0x690da15cde440e7fcafdd310d462f4b41116527d",
+            "Entries": 42090
+        },
+        {
+            "Wallet": "0x6a2ab626efd997a1e61ba27f8977f5356fbc756f",
+            "Entries": 15430
+        },
+        {
+            "Wallet": "0x6b5c3546f16ff95196035b54489c33b6523cd9f3",
+            "Entries": 8060
+        },
+        {
+            "Wallet": "0x6bb1da15b40868475708b70dad9002baaf23878d",
+            "Entries": 42500
+        },
+        {
+            "Wallet": "0x6d77255fcc5c3871bbf2b008e88e1ac8aec831d8",
+            "Entries": 15260
+        },
+        {
+            "Wallet": "0x72e0436aa17f8b42387754645e340ed356db8c33",
+            "Entries": 39250
+        },
+        {
+            "Wallet": "0x7436adb2b5166bebc100b98d293a3cceaf28cd90",
+            "Entries": 155680
+        },
+        {
+            "Wallet": "0x752e5223d96b5c08b441e02f74c498064c32f056",
+            "Entries": 5310
+        },
+        {
+            "Wallet": "0x7589c864516db39454bf4518802dd2a75b5a290a",
+            "Entries": 15860
+        },
+        {
+            "Wallet": "0x777b43699b854e3688e9b3a8cd3cdc1f419977e6",
+            "Entries": 168130
+        },
+        {
+            "Wallet": "0x77b48682cd70f69b649136bc9f3b2d4bfb331f26",
+            "Entries": 31830
+        },
+        {
+            "Wallet": "0x7d10219a8489836a9b7c962c2cb9051e3cda0ff2",
+            "Entries": 113960
+        },
+        {
+            "Wallet": "0x7e2957a3378686f4f096d529fb6a2a6bc6b1ede5",
+            "Entries": 11980
+        },
+        {
+            "Wallet": "0x84a3ab084abec3b0f03b599c5b0f006f6509aa20",
+            "Entries": 24040
+        },
+        {
+            "Wallet": "0x856e4119e8a49fe269b43270f91ae81f374ca492",
+            "Entries": 65200
+        },
+        {
+            "Wallet": "0x86372a126f6769f6e0b988d8f372c56fea4d4fea",
+            "Entries": 11180
+        },
+        {
+            "Wallet": "0x874164d037093a7c8f2ea7918a77e1a562a70e71",
+            "Entries": 16980
+        },
+        {
+            "Wallet": "0x87527d59a9453b12aceba4623320ea9bc27c0b65",
+            "Entries": 42560
+        },
+        {
+            "Wallet": "0x89440a917c89f97f7f326f09d2cf4a68ed3171fc",
+            "Entries": 6220
+        },
+        {
+            "Wallet": "0x89e0e440026828864082bc7dc88d412612da1b62",
+            "Entries": 7960
+        },
+        {
+            "Wallet": "0x8be60fe9f7c8d940d8da9d5ddd0d8e0c15a4288b",
+            "Entries": 17500
+        },
+        {
+            "Wallet": "0x8d0523b77b20304ba26cdf872c13397524cecb0c",
+            "Entries": 45440
+        },
+        {
+            "Wallet": "0x91a4d2b141e588021b0bc9f87bd82f1f895c8e8d",
+            "Entries": 54330
+        },
+        {
+            "Wallet": "0x91dc40e84ee71cea830633def178caedd77a7d40",
+            "Entries": 36460
+        },
+        {
+            "Wallet": "0x93579278f379d2ccf20e3ff02132c5adf0696665",
+            "Entries": 31760
+        },
+        {
+            "Wallet": "0x940f4cde80b1c2d33bc651b469dcc7653296344d",
+            "Entries": 454670
+        },
+        {
+            "Wallet": "0x94a44c8f521b9a78e42fa22cb8b258c5793fe745",
+            "Entries": 41610
+        },
+        {
+            "Wallet": "0x97711bc3ca504f07aa0f8e7cd4b8bffdb19569c7",
+            "Entries": 69000
+        },
+        {
+            "Wallet": "0x9cdb4b37d6a0c0b4ec54b6ec5a7e2cdb5a0f212f",
+            "Entries": 102440
+        },
+        {
+            "Wallet": "0x9e422d0e8f6eeb509795e3855540703da14c669b",
+            "Entries": 28950
+        },
+        {
+            "Wallet": "0xa18e7f8b41e0bc7c593cb4dee49c4e444f75a2a1",
+            "Entries": 43400
+        },
+        {
+            "Wallet": "0xa248f747a6017e3394af31b5ba9e2b150fe8386b",
+            "Entries": 39150
+        },
+        {
+            "Wallet": "0xa5f146cbd3ee13f482315dd0f873c2bfbbc5f2c4",
+            "Entries": 970
+        },
+        {
+            "Wallet": "0xab6378bfa90bcd6eae7bdff89b5e863b2f669a25",
+            "Entries": 36130
+        },
+        {
+            "Wallet": "0xac539766c30b33164dde03c715041ea3e8e8dd01",
+            "Entries": 19940
+        },
+        {
+            "Wallet": "0xacd9f7c21d869ac8f3c770ebf09a01db42023cb5",
+            "Entries": 46150
+        },
+        {
+            "Wallet": "0xadfb00a7757d5d60e80314aad23368b5324aa9ec",
+            "Entries": 92110
+        },
+        {
+            "Wallet": "0xb06331635e99618e235c5140db50d0cdbf5e9f9f",
+            "Entries": 244610
+        },
+        {
+            "Wallet": "0xb0b101f61ae47b4058a6360aa642bb80d578b107",
+            "Entries": 18200
+        },
+        {
+            "Wallet": "0xb1bc107841af25e2ddc7939218b7cf0f7bc2a7b6",
+            "Entries": 377550
+        },
+        {
+            "Wallet": "0xb3c64a8318131802c2d77cceb9af7e5412196397",
+            "Entries": 161240
+        },
+        {
+            "Wallet": "0xb529e5f0598343d00508909c04af86babb0b981a",
+            "Entries": 40380
+        },
+        {
+            "Wallet": "0xb9927d48a5ef942f6728be07b964fcbea8f92ff7",
+            "Entries": 235050
+        },
+        {
+            "Wallet": "0xbd4048c803138bd4c37e54d2d5a7e7a06490dfdd",
+            "Entries": 46840
+        },
+        {
+            "Wallet": "0xc03c278662c0026aae447488048c4796df771927",
+            "Entries": 170100
+        },
+        {
+            "Wallet": "0xc098ae96ed49e90c54de14d209d9b5bf4bfcc2fc",
+            "Entries": 680
+        },
+        {
+            "Wallet": "0xc153c1d6d65a97463032bc918695f34aaba270e2",
+            "Entries": 44650
+        },
+        {
+            "Wallet": "0xc19f526a27dda0b357f8a748b8691fbfbcad561b",
+            "Entries": 26480
+        },
+        {
+            "Wallet": "0xc1a6d9da4b18a95a925c8d29c729460ea5a2735a",
+            "Entries": 5580
+        },
+        {
+            "Wallet": "0xc23998603fa0e2488864f6dc44b5b1fc41465bf8",
+            "Entries": 46590
+        },
+        {
+            "Wallet": "0xc4cce9e88c8524faf533785ff0151fa4ff69fcda",
+            "Entries": 49880
+        },
+        {
+            "Wallet": "0xc553c126dfcad890c47c645ad43183603650438a",
+            "Entries": 60260
+        },
+        {
+            "Wallet": "0xc569564a08810ca3455add5a5f1bc84e21f6b414",
+            "Entries": 6540
+        },
+        {
+            "Wallet": "0xc62a7a84cb0a6578d9ec820c9ebb294f704b0a98",
+            "Entries": 2760
+        },
+        {
+            "Wallet": "0xc6743aa22da2fcc0f12bb38b8d310f72885c981c",
+            "Entries": 71010
+        },
+        {
+            "Wallet": "0xc91a7d0a725b8d3f078dff6fd99770ad102db6ae",
+            "Entries": 1920
+        },
+        {
+            "Wallet": "0xca99583513d2621e32d17e59489c970000e204b6",
+            "Entries": 23240
+        },
+        {
+            "Wallet": "0xcbd14770ce571580e9e82b7188bf8b1e78bacd05",
+            "Entries": 121350
+        },
+        {
+            "Wallet": "0xd140407bfe76ab48081b3dc063ab2e1ac2f05b5d",
+            "Entries": 695860
+        },
+        {
+            "Wallet": "0xd285d2719bca1183d834cc27c9284b16529009ab",
+            "Entries": 74640
+        },
+        {
+            "Wallet": "0xd2c73fa1e5ba87363fc603b68a35f4bc77af846a",
+            "Entries": 100450
+        },
+        {
+            "Wallet": "0xd4657e77fdc23238cb1570a093bd83f79d0ead2f",
+            "Entries": 277960
+        },
+        {
+            "Wallet": "0xd7598d6e1817a622facf06cf53951163c065a7da",
+            "Entries": 4100
+        },
+        {
+            "Wallet": "0xdc1ee4924fe15141636e5ca40d089010446a2a18",
+            "Entries": 81380
+        },
+        {
+            "Wallet": "0xe2c0dbcafe854c130e96562d761e4d5d10a22f97",
+            "Entries": 84350
+        },
+        {
+            "Wallet": "0xe2fafd33158eb2af88dcc2f0fbb792b49c30ea33",
+            "Entries": 34270
+        },
+        {
+            "Wallet": "0xe5c599a184c37af31494cf2881ac2d4b0dca2c11",
+            "Entries": 8360
+        },
+        {
+            "Wallet": "0xe74c9142b98bb85bde035a98373c69177680e9a6",
+            "Entries": 21230
+        },
+        {
+            "Wallet": "0xe76f76bee5f159721ac9d41338d3638cde0069d1",
+            "Entries": 21180
+        },
+        {
+            "Wallet": "0xe9059e525b5c144479ec6a27a23c5bbd094dff20",
+            "Entries": 31840
+        },
+        {
+            "Wallet": "0xefacfff457a83a5759bbb7eaada8c4bf513fda0c",
+            "Entries": 11560
+        },
+        {
+            "Wallet": "0xf00d61e4a0484ad87ff5cfbd33aff1b4ea232814",
+            "Entries": 15780
+        },
+        {
+            "Wallet": "0xf1a5da6a31641d0069c1b3df76abf00e0d559eaa",
+            "Entries": 15490
+        },
+        {
+            "Wallet": "0xf5bbd115674fcab07be8f8b7fc2d2e12b33bbea5",
+            "Entries": 136080
+        },
+        {
+            "Wallet": "0xfa36a77eb30d2ea5303655b5b5b0f438fd4aff20",
+            "Entries": 29380
+        },
+        {
+            "Wallet": "0xfdce46b4fc4471720d5160a0f7c4d21d1e2d7286",
+            "Entries": 191100
+        }
+    ],
+    "hash": "2c7d75787693278a6d301d8b4058490883b31ee95f448861e2ff78515eeccf81"
+}
