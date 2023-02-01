@@ -649,8 +649,8 @@ There are 74,712 total tokens spread across 300 assets.
    |     |     |
    | --- | --- |
    | Hash          | `81d677d81c81476cfe01c44602c6311d90456d63e3cef717f895865b933524cc`                                                                             |
-   | Transaction   | [``](https://polygonscan.com/tx/) |
-   | Random Number | ``                                                                            |
+   | Transaction   | [`0x0cceee854efa7de31f81917d370eaabc1618123686c2ecc6dc2e831237f57f15`](https://polygonscan.com/tx/0x0cceee854efa7de31f81917d370eaabc1618123686c2ecc6dc2e831237f57f15) |
+   | Random Number | `14247965411372253373942812586950365793292765234974795282263647497851723089903`                                                                            |
 
 ## Appendix B: Getting a random number for a collection of entry tickets
 
