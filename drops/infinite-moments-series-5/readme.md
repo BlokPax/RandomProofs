@@ -714,7 +714,7 @@ Here's the list of cards we distributed to users based on the randomized sort or
 |     |     |
 | --- | --- |
 | **Fulfillment ID** | `10` |
-| **Content** | [fulfillment-10.json](/fulfillment-10.json) |
+| **Content** | [fulfillment-10.json](./fulfillment-10.json) |
 | **Hash**           | `8ac8f8ca11bfad924131ccfef6c128174d4c412e8d8e57ae5242ea409437559c` |
 | **Transaction**    | [`0xb81ae501475b2c50f2f195ea9efbcf02b866c4f7a2483d558ed294fa64e53f23`](https://polygonscan.com/tx/0xb81ae501475b2c50f2f195ea9efbcf02b866c4f7a2483d558ed294fa64e53f23) |
 | **Random Number**  | `51483801540890072723492293487020899961777556869477366068412132052271304147812` |
