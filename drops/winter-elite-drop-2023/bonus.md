@@ -6,7 +6,7 @@ The following is the process which was used to determine a winner for the Babe R
 
 ## Process
 
-1. Build a list of wallet addresses that are eligible, repeated for multiple entries and one wallet address per line. Sort by wallet address. Include a header of `wallet_address`.
+1. Build a list of wallet addresses that are eligible, repeated for multiple entries and one wallet address per line. Sort by wallet address. Include a header of `wallet_address`. (The attached CSVs do not have the `wallet_address` header to simplify presentation.)
 2. Hash that file using the `sha256` algorithm.
 3. Provide that hash to our random contract, ensuring that we can only produce one random number for each set of entrants (see transaction below).
 4. Retrieve the random number, and take its modulus of the number of participants.
