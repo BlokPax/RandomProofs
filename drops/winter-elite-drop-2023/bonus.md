@@ -21,7 +21,7 @@ The following is the process which was used to determine a winner for the Babe R
 | Random Transaction | [`0x72cd78afb77d8e3847e41a3ddc86d52587ab9f2d066b5b434d4f3992e6e48dd2`](https://polygonscan.com/tx/0x72cd78afb77d8e3847e41a3ddc86d52587ab9f2d066b5b434d4f3992e6e48dd2) |
 | Random Number      | `92234195620242952604112191381395690192122061086764384540736736654760319472823`                                                                                       |
 | Modulus            | `73259`                                                                                                                                                               |
-| Winner             | `6453`                                                                                                                                                                |
+| Winner             | `6453`: `0x1b2416353a6b71cd6b0c8291d863b376776bbd01`                                                                                                                  |
 
 ## Tom Brady Compensation Card
 
@@ -32,4 +32,4 @@ The following is the process which was used to determine a winner for the Babe R
 | Random Transaction | [`0x5d0efb7a33e0977d998fe7dc02525e652e76d5b8b921b1e55ff4b79846b00a02`](https://polygonscan.com/tx/0x5d0efb7a33e0977d998fe7dc02525e652e76d5b8b921b1e55ff4b79846b00a02) |
 | Random Number      | `86652787187153267725704776735793233996081739154902014496923235895098548344538`                                                                                       |
 | Modulus            | `40`                                                                                                                                                                  |
-| Winner             | `18`                                                                                                                                                                  |
+| Winner             | `18`: `0x8338c39b1314B110E1c09534efc0AE0BCB9bFA4E`                                                                                                                    |
