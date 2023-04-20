@@ -1,0 +1,13 @@
+{
+    "name": "blokpax/random-proofs",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Blokpax\\RandomProofs\\": "src/"
+        }
+    },
+    "require": {
+        "ext-gmp": "*",
+        "monolog/monolog": "^3.3"
+    }
+}

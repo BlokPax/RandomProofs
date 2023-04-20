@@ -1,0 +1,25 @@
+#!/usr/bin/env php
+
+<?php
+
+require 'vendor/autoload.php';
+
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+
+$log = new Logger('cli');
+$log->pushHandler(new StreamHandler(STDERR, Logger::INFO));
+
+$in = array_map("trim", file($argv[1]));
+$random = gmp_init($argv[2]);
+
+$seed = gmp_intval(gmp_mod($random, PHP_INT_MAX));
+
+$log->info("Random number: " . gmp_strval($random, 10));
+$log->info("Seed: {$seed}");
+
+mt_srand($seed);
+
+shuffle($in);
+
+echo implode("\n", $in);
