@@ -5,9 +5,9 @@
 
 |||
 |---|---|
-| **Sorted Holder List** | [holder-list.csv](./holder-list.csv) |
+| **Sorted Holder List** | [holder-list.sorted.csv](./holder-list.sorted.csv) |
 | **VRF Consumer Contract** | [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3) |
-| **Identity Hash** | `` |
+| **Identity Hash** | `045cb3a9388f779511f983625040a231fbd29d1503ec335b86dcf9ae7a808a75` |
 | **Random Request** | [``](https://etherscan.io/tx/) |
 | **Requested on** | |
 | **Response TX** | [``](https://etherscan.io/tx/) |
@@ -18,7 +18,7 @@
 
 |||
 |---|---|
-| **Sorted Prize List** | [prize-list.csv](./prize-list.csv) |
+| **Sorted Prize List** | [prize-list.csv](./prize-list.sorted.csv) |
 | **VRF Consumer Contract** | [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3) |
 | **Identity Hash** | `` |
 | **Random Request** | [``](https://etherscan.io/tx/) |
@@ -33,7 +33,8 @@
 
 Shuffle the holder list
 
-1. Create a sha256 hash of the [holder-list](./holder-list.csv).
+1. Prefix the transaction hash of the last transaction that interacted directly with the VRF Consumer Contract to the holder-list.sorted.csv file.
+1. Create a sha256 hash of the [holder-list](./holder-list.sorted.csv).
 2. Request a random number from chainlink VRF (using contract [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3))
 3. Retrieve random number from above contract
 4. Shuffle the holder list from step 1, by feeding the random number retrieved in step #3 to the [shuffle](./scripts/shuffle) script
@@ -42,7 +43,8 @@ Shuffle the holder list
 
 Shuffle the prize list
 
-1. Create a sha256 hash of the [prize-list](./prize-list.csv).
+1. Prefix the transaction hash of the transaction that requested the random number for the holder list (Step 1.1 above) to the prize-list.sorted.csv.
+1. Create a sha256 hash of the [prize-list](./prize-list.sorted.csv).
 2. Request a random number from chainlink VRF (using contract [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3))
 3. Retrieve random number from above contract
 4. Shuffle the prize list from step 1, by feeding the random number retrieved in step #3 to the [shuffle](./scripts/shuffle) script
