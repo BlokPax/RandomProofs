@@ -27,6 +27,19 @@
 | **Random Number** | `20152433981675918074379307541549520476011063677699754463039780886931010692510` |
 | **Shuffled Prize List** | [prize-list.shuffled.csv](./prize-list.shuffled.csv) |
 
+### Round 2 Holder Randomization
+
+|||
+|---|---|
+| **Sorted Prize List** | [holder-list.round2.expanded.csv](./holder-list.round2.expanded.csv) |
+| **VRF Consumer Contract** | [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3) |
+| **Identity Hash** | `` |
+| **Random Request** | [``](https://etherscan.io/tx/) |
+| **Requested on** | |
+| **Response TX** | [``](https://etherscan.io/tx/) |
+| **Random Number** | `` |
+| **Shuffled Prize List** | [holder-list.round2.shuffled.csv](./prize-list.shuffled.csv) |
+
 #### The Process
 
 **Step 1**
@@ -45,13 +58,25 @@ Shuffle the prize list
 
 1. Prefix the transaction hash of the transaction that requested the random number for the holder list (Step 1.1 above) to the prize-list.sorted.csv.
 1. Create a sha256 hash of the [prize-list](./prize-list.sorted.csv).
-2. Request a random number from chainlink VRF (using contract [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3))
-3. Retrieve random number from above contract
-4. Shuffle the prize list from step 1, by feeding the random number retrieved in step #3 to the [shuffle](./scripts/shuffle) script
+2. Request a random number from chainlink VRF (using contract [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3)).
+3. Retrieve random number from above contract.
+4. Shuffle the prize list from step 1, by feeding the random number retrieved in step #3 to the [shuffle](./scripts/shuffle) script.
 
 **Step 3**
 
 Combine the shuffled holder list with the shuffle prize list. This combined file defines the winner of each prize (winner specified on line #1 wins prize specified on line #1, etc).
+
+**Step 4**
+
+Prepare a second randomized selection of winners that were accidentally omitted from the first set of entries.
+
+1. After identifying the missing entries, publish the list for community audit. [holder-list.round2.csv](./holder-list.round2.csv).
+2. Expand entries after audit, to give the missing entries equal odds as the original.
+3. Hash the expanded entries to create an identity hash.
+4. Request a random number from chainlink VRF.
+5. Shuffle holder list from step 2, by feeding the random number retrieved in step #4 into the [shuffle](./scripts/shuffle) script.
+6. Combine the shuffled list into the originally shuffled prize list (from step 2.4)
+
 
 ### Results
 
