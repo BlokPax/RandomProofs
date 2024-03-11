@@ -36,7 +36,7 @@ Assign shuffled artwork to minted token ids
 | **Random Number** | `46964055994014063093248958618727612053465873917835862298926652237053894228925` |
 | **Shuffled Holder List** | [token-list.shuffled.csv](./token-list.shuffled.csv) |
 
-1. Prefix the transaction hash of the transaction that requested the random number for the art list (Step 1.1 above) to the token-list.sorted.csv.
+1. Prefix the transaction hash of the transaction that delivered the random number for the art list (Step 1.1 above) to the token-list.sorted.csv.
 1. Create a sha256 hash of the [token-list](./token-list.sorted.csv).
 2. Request a random number from chainlink VRF (using contract [`0x18b9b62749Fcb227C493015244E6939d8F01d0f3`](https://etherscan.io/address/0x18b9b62749Fcb227C493015244E6939d8F01d0f3)).
 3. Retrieve random number from above contract.
