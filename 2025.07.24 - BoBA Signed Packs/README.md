@@ -29,6 +29,8 @@ To fairly and transparently select winners from our Mystery Giveaway, we used a 
 
    Each entry was then SHA-256 hashed, resulting in anonymized strings that retained no personally identifiable information. These hash values were saved to [`entries.hashed.sorted.csv`](./entries.hashed.sorted.csv).
 
+   > You can generate a hash for your entry using our [SHA256 Hash Generator](https://blokpax.github.io/RandomProofs/) at [https://blokpax.github.io/RandomProofs/](https://blokpax.github.io/RandomProofs/).
+
 2. **Sorting & Identity Hash**  
    The list of hashed entries was sorted alphabetically to ensure consistent order and reproducibility. We then generated a single SHA-256 hash of the sorted list, known as the **identity hash**:
 
